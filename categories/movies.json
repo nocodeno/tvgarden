@@ -750,19 +750,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gNZqBrN60JADEb",
-    "name": "Indywood TV",
-    "stream_urls": [
-      "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FJT1T5Bg3eMVVa",
     "name": "Itage TV",
     "stream_urls": [
@@ -826,19 +813,6 @@
       "rus"
     ],
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GwTrM0kpZSwLus",
-    "name": "Kinoteatr",
-    "stream_urls": [
-      "https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "uzb"
-    ],
-    "country": "uz",
     "isGeoBlocked": false
   },
   {
@@ -1011,19 +985,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hNQTzHtY43GPXe",
-    "name": "MyTime Movie Network",
-    "stream_urls": [
-      "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -1497,6 +1458,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "d85uJsQx5ZxBLM",
+    "name": "Rakuten TV Top Movies Germany",
+    "stream_urls": [
+      "https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iJhK4ZfrskifqI",
     "name": "Rakuten TV Top Movies Italy",
     "stream_urls": [
@@ -1617,7 +1591,8 @@
     "nanoid": "bcMCtiQR1EZ7L7",
     "name": "Sony One Hits Action",
     "stream_urls": [
-      "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8"
+      "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8",
+      "https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1941,45 +1916,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OtO4WFOzaNdFUD",
-    "name": "Сити Эдем КиноАзия",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/34393/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UGkFnAuONipW2e",
-    "name": "Сити Эдем КиноАрт",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/38398/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ujlkE2Qc3sujr0",
-    "name": "Сити Эдем КиноДетектив",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/41327/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LN1hGmRGEKcWz7",
     "name": "Сити Эдем КиноКомедия",
     "stream_urls": [
@@ -1990,6 +1926,32 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ID6NJjfwQAnwkN",
+    "name": "Сити Эдем КиноЭкшен",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/41333/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wnXEnrj6C2tzO6",
+    "name": "أفلام تركية مدبلجة للعربية - Turkish Movies",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/juptpzleUCM"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "country": "sa",
     "isGeoBlocked": false
   }
 ]
