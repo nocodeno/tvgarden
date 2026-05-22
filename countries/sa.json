@@ -13,20 +13,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "O8knzVaQwPKnWC",
-    "name": "Al Arabiya Al Hadath",
-    "stream_urls": [
-      "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
-      "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara"
-    ],
-    "country": "sa",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IFQghqsvUOnfz9",
     "name": "Al Arabiya English",
     "stream_urls": [
@@ -48,6 +34,20 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/yYJjtr3fbZE"
     ],
+    "languages": [
+      "ara"
+    ],
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "O5Ua3BgtrfnWGn",
+    "name": "Al Hadath",
+    "stream_urls": [
+      "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+      "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "ara"
     ],
@@ -191,7 +191,7 @@
     "name": "Hala Bel3eyal: Shabab Al-Bomb",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0KYwRJ1mKM8"
+      "https://www.youtube-nocookie.com/embed/qNX8n-A-8dM"
     ],
     "languages": [
       "ara"
@@ -207,6 +207,8 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "ara",
+      "eng",
       "fra"
     ],
     "country": "sa",
@@ -233,7 +235,9 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "ara"
+      "ara",
+      "eng",
+      "fra"
     ],
     "country": "sa",
     "isGeoBlocked": false
@@ -243,19 +247,6 @@
     "name": "Jeddah Radio",
     "stream_urls": [
       "https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara"
-    ],
-    "country": "sa",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hKsePjubKoTvYH",
-    "name": "Majid Al Mohandis",
-    "stream_urls": [
-      "https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -275,7 +266,7 @@
       "ara"
     ],
     "country": "sa",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "AQGmKDckGE5Qe6",
@@ -386,7 +377,7 @@
     "name": "العربية إف إم Alarabiya FM",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DZtDBH3D81o"
+      "https://www.youtube-nocookie.com/embed/GNGkUJulCn0"
     ],
     "languages": [
       "ara"

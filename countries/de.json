@@ -13,8 +13,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BLdX0ZRRE4xZ0i",
-    "name": "Allgäu TV",
+    "nanoid": "KgfZTMdFAXl97l",
+    "name": "Allgau TV",
     "stream_urls": [
       "https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8"
     ],
@@ -52,6 +52,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IJpns8FI8lNpRr",
+    "name": "ARD-alpha",
+    "stream_urls": [
+      "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FvDnlZIql02wuL",
     "name": "Aristo TV",
     "stream_urls": [
@@ -65,8 +78,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "d0ku7KHnDzsbz0",
-    "name": "arte HD",
+    "nanoid": "o8Dfvg1m7ashdC",
+    "name": "arte",
     "stream_urls": [
       "https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8"
     ],
@@ -75,7 +88,7 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "LGLjherg6GkxIA",
@@ -92,38 +105,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ea8jv31mCEce8j",
-    "name": "Autentic History",
-    "stream_urls": [
-      "https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lpAxin7y1jw0Fm",
-    "name": "Autentic Travel",
-    "stream_urls": [
-      "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HISiOL7NmfoR6g",
     "name": "Baden TV",
     "stream_urls": [
-      "https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8",
       "https://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8",
-      "https://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8"
+      "https://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8",
+      "https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -133,8 +120,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "T9dI0W8iuj2OFY",
-    "name": "Baden TV Süd",
+    "nanoid": "z9Ufj8FAdnJn7C",
+    "name": "Baden TV Sud",
     "stream_urls": [
       "https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8"
     ],
@@ -196,27 +183,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QHfB2HaDRgtHoK",
-    "name": "Chemnitz Fernsehen",
+    "nanoid": "5Sr9qxxUmLUHZa",
+    "name": "BLK Regional TV",
     "stream_urls": [
-      "https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8"
+      "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8",
+      "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8",
+      "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?ref=medienportal-sachsen-"
     ],
     "youtube_urls": [],
     "languages": [
       "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BFZswU8rLJZ6jx",
-    "name": "Da Vinci Asia Vietnam",
-    "stream_urls": [
-      "https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "vie"
     ],
     "country": "de",
     "isGeoBlocked": false
@@ -238,20 +214,8 @@
     "nanoid": "95qUyvmztON27u",
     "name": "Das Erste",
     "stream_urls": [
+      "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8",
       "https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iQk3QJ5gPWMEsC",
-    "name": "Das Erste HD",
-    "stream_urls": [
-      "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -307,6 +271,7 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "deu",
       "eng"
     ],
     "country": "de",
@@ -330,19 +295,6 @@
     "name": "Dokusat",
     "stream_urls": [
       "https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "x7TYWFiwMldskB",
-    "name": "Dresden Fernsehen",
-    "stream_urls": [
-      "https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -381,7 +333,7 @@
       "eng"
     ],
     "country": "de",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "H4HR8svz54XngH",
@@ -389,19 +341,8 @@
     "stream_urls": [
       "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8"
     ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "T1qgpA3LWRh4Lf",
-    "name": "DW Español",
-    "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jRnqxURJ120"
+      "https://www.youtube-nocookie.com/embed/yZh3xsFqCt8"
     ],
     "languages": [
       "spa"
@@ -464,10 +405,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "W9Bp7ViyOHjoax",
-    "name": "EWTN Germany",
+    "nanoid": "uDLeBfdzdIX1Oi",
+    "name": "EWTN",
     "stream_urls": [
-      "https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8"
+      "https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8",
+      "https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -508,7 +450,8 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "deu"
+      "deu",
+      "tur"
     ],
     "country": "de",
     "isGeoBlocked": false
@@ -525,8 +468,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WRVOp3UlwzyfTu",
-    "name": "Franken Fernsehen (Nürnberg)",
+    "nanoid": "cmt0eNnG0G5SGu",
+    "name": "Franken Fernsehen",
     "stream_urls": [
       "https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8"
     ],
@@ -553,7 +496,7 @@
     "name": "Glück Auf TV - Mittel Erzgebirgs Fernsehen",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LQ_068HZsP8"
+      "https://www.youtube-nocookie.com/embed/DQUlm-K8xek"
     ],
     "languages": [
       "deu"
@@ -569,19 +512,6 @@
     ],
     "youtube_urls": [],
     "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "X2raGg2UtFqpWh",
-    "name": "Grjngo",
-    "stream_urls": [
-      "https://pb-rtme7tnh9wa6k.akamaized.net/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -639,19 +569,7 @@
     "nanoid": "C38uFQgyi8ggWU",
     "name": "hr-fernsehen",
     "stream_urls": [
-      "https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pDSKJ3l28SDFtq",
-    "name": "hr-fernsehen HD",
-    "stream_urls": [
+      "https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8",
       "https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -675,8 +593,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Jz8ammTirg5lLj",
-    "name": "HSE24 Extra",
+    "nanoid": "soxgLbqzLAaHgC",
+    "name": "HSE Extra",
     "stream_urls": [
       "https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8"
     ],
@@ -688,8 +606,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sB1TZleyJLtWVx",
-    "name": "HSE24 Trend",
+    "nanoid": "fglFXMh5Qykdut",
+    "name": "HSE Trend",
     "stream_urls": [
       "https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8"
     ],
@@ -746,7 +664,7 @@
     "name": "Kanal 9 Erzgebirge",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Xjsdgar6xks"
+      "https://www.youtube-nocookie.com/embed/on9dwYzMOcY"
     ],
     "languages": [
       "deu"
@@ -771,8 +689,8 @@
     "nanoid": "hkGnYbKbnHGzDM",
     "name": "KaufBei TV",
     "stream_urls": [
-      "https://api.alpaca.t62a.com/hls/9103/index.m3u8",
-      "https://elephant.t62a.com/hls/8103/index.m3u8"
+      "https://elephant.t62a.com/hls/8103/index.m3u8",
+      "https://api.alpaca.t62a.com/hls/9103/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -782,9 +700,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OH65zONOdo7fss",
-    "name": "KiKA HD",
+    "nanoid": "0yjVBN9zD5VvoM",
+    "name": "KiKA",
     "stream_urls": [
+      "https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8",
       "https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -792,7 +711,7 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "veVA32nZqDrhse",
@@ -808,23 +727,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wK7EPJgrVG5gir",
-    "name": "L-TV",
+    "nanoid": "CqTFTkcYouQywi",
+    "name": "L TV",
     "stream_urls": [
       "https://live2.telvi.de/hls/l-tv_s1.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Qm2znUA46MmZwc",
-    "name": "labor14",
-    "stream_urls": [
-      "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -838,19 +744,6 @@
     "name": "Lausitzwelle",
     "stream_urls": [
       "https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref="
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8KvyJPEhDtGSzk",
-    "name": "Leipzig Fernsehen",
-    "stream_urls": [
-      "https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -884,7 +777,7 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D9DLpbpBMDweEB",
+    "nanoid": "mUa6AudaIQeV3S",
     "name": "MDR Fernsehen Thuringen",
     "stream_urls": [
       "https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8"
@@ -894,37 +787,25 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
-    "nanoid": "VV5nh58QSIjuA6",
-    "name": "More Than Sports TV",
-    "stream_urls": [
-      "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "E00cpYmcTm5FiQ",
+    "nanoid": "ojY3PgU9rwk9x4",
     "name": "Motorvision",
     "stream_urls": [
-      "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8"
+      "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8",
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
     "country": "de",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
-    "nanoid": "4A8SDIwNHIzU1U",
-    "name": "Motorvision.tv (French)",
+    "nanoid": "5zsvZbp5i40Gds",
+    "name": "Motorvision+",
     "stream_urls": [
       "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047"
     ],
@@ -936,8 +817,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "paDrWcFyUNsNMX",
-    "name": "München TV",
+    "nanoid": "YY7dAU666LVx7L",
+    "name": "Munchen TV",
     "stream_urls": [
       "https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8"
     ],
@@ -949,26 +830,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nSKKagLIpNXooQ",
+    "nanoid": "4YOpv1CYox1W50",
     "name": "Naruto Germany",
     "stream_urls": [
       "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Z6guN3S2lbqSQy",
-    "name": "NDR Fernsehen International",
-    "stream_urls": [
-      "https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1002,8 +870,8 @@
     "nanoid": "dqYeIYeXXFZBkI",
     "name": "Niederbayern TV Landshut",
     "stream_urls": [
-      "https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8",
-      "https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8"
+      "https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8",
+      "https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1026,8 +894,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JMBqVoy25nEXh6",
-    "name": "Noa 4 Hamburg",
+    "nanoid": "1lj5zvclavtoue",
+    "name": "noa4 Hamburg",
     "stream_urls": [
       "https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8"
     ],
@@ -1039,8 +907,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YxHL1LhWQRdskl",
-    "name": "Noa 4 Norderstedt",
+    "nanoid": "tP3635LuUuZ9t3",
+    "name": "noa4 Norderstedt",
     "stream_urls": [
       "https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8"
     ],
@@ -1214,7 +1082,7 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "HiMqxCwB3tPMLP",
@@ -1256,6 +1124,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OLmlejUUhCqlk2",
+    "name": "QVC",
+    "stream_urls": [
+      "https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vej8gxvXo5m19M",
     "name": "QVC Deutschland: QVC 1",
     "stream_urls": [],
@@ -1275,19 +1156,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/UcbiF9UXX8Q"
     ],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KEXRYwevZaJ6df",
-    "name": "QVC Germany",
-    "stream_urls": [
-      "https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "deu"
     ],
@@ -1320,35 +1188,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SMFkP3zTr5LosF",
-    "name": "Rakuten TV German Cinema",
+    "nanoid": "i6jMhimWGlGgKg",
+    "name": "Rakuten TV Top Movies Germany",
     "stream_urls": [
-      "https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8"
+      "https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gaIbE0ft11ifJV",
-    "name": "Rakuten TV Romance Movies Germany",
-    "stream_urls": [
-      "https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8"
+    "languages": [
+      "deu"
     ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SE1h1zk5kvUylr",
-    "name": "Rakuten TV Thrillers Germany",
-    "stream_urls": [
-      "https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1367,7 +1215,7 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wzGJSCy2AvoKPw",
+    "nanoid": "D4fjmuUPITRfet",
     "name": "rbb Fernsehen",
     "stream_urls": [
       "https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8"
@@ -1383,8 +1231,8 @@
     "nanoid": "eDxTJNmoxWEurz",
     "name": "RBW",
     "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:rbw_high/playlist.m3u8",
       "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8",
+      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:rbw_high/playlist.m3u8",
       "https://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1437,8 +1285,8 @@
     "nanoid": "6I4CQI5DQQYidR",
     "name": "RFH",
     "stream_urls": [
-      "https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8"
+      "https://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8",
+      "https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1527,6 +1375,45 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2vJDADluU5tnYG",
+    "name": "Sachsen Fernsehen Chemnitz",
+    "stream_urls": [
+      "https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AtD4MGqRmLyT2k",
+    "name": "Sachsen Fernsehen Dresden",
+    "stream_urls": [
+      "https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HcBGbHAxvXnicl",
+    "name": "Sachsen Fernsehen Leipzig",
+    "stream_urls": [
+      "https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UFym6UV0MF6AZF",
     "name": "SAT.1 Gold",
     "stream_urls": [
@@ -1605,8 +1492,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ulPFxJfssVYhRL",
-    "name": "Sophia TV Español",
+    "nanoid": "JaVEBZI59FJaVc",
+    "name": "Sophia TV Espanol",
     "stream_urls": [
       "https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8"
     ],
@@ -1618,8 +1505,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vjjVNvSTr7Q0Aw",
-    "name": "Sophia TV Français",
+    "nanoid": "1gbXonkFceJ3sY",
+    "name": "Sophia TV Francais",
     "stream_urls": [
       "https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8"
     ],
@@ -1657,17 +1544,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qyY0UwrdD794tp",
-    "name": "Starke Frauen",
-    "stream_urls": [
-      "https://mainstreamstarkefrauen-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nUHCgjRUR5TBtm",
     "name": "Studio 47",
     "stream_urls": [
@@ -1694,8 +1570,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "x3yWtwub5YZGg2",
-    "name": "Tagesschau 24",
+    "nanoid": "dViXNUvwXWn2sW",
+    "name": "tagesschau24",
     "stream_urls": [
       "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8"
     ],
@@ -1731,24 +1607,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eUaZRmaLUXGRGm",
-    "name": "Terra Mater WILD English",
-    "stream_urls": [
-      "https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "26XgnwsMGpjD8v",
     "name": "Tide TV",
     "stream_urls": [
-      "https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8",
-      "https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8"
+      "https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8",
+      "https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1806,8 +1669,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dXWsfau5FP9NYo",
-    "name": "TV Oberfranken (TVO)",
+    "nanoid": "zapTNBihBIwpoV",
+    "name": "TV Oberfranken",
     "stream_urls": [
       "https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8"
     ],
@@ -1819,8 +1682,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NJf6re2BP1KzzE",
-    "name": "TV38 Südost-Niedersachen",
+    "nanoid": "NDLIjfW5RlERZP",
+    "name": "TV38 Sudost-Niedersachen",
     "stream_urls": [
       "https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref="
     ],
@@ -1894,19 +1757,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xafAIlECB4fMek",
-    "name": "WDR Fernsehen",
-    "stream_urls": [
-      "https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VX0nmnBQ8D5Pdv",
     "name": "WDR Fernsehen Aachen",
     "stream_urls": [
@@ -1917,7 +1767,7 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "kpnjh9YYciFo9a",
@@ -1930,7 +1780,7 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "9bq9EK8pK09oGU",
@@ -1943,7 +1793,7 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "syMY9oojgpG8KI",
@@ -1956,7 +1806,7 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "mhLwW0aVVzdJ90",
@@ -1969,7 +1819,7 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "Gt6McIqzqsAgE1",
@@ -1982,7 +1832,7 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "6Lz1ceHetsyoUa",
@@ -1995,7 +1845,22 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "HOEGJfbN2vEljn",
+    "name": "WDR Fernsehen Köln",
+    "stream_urls": [
+      "https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8",
+      "https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8",
+      "https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "wxs1H0scf0XK4q",
@@ -2008,7 +1873,7 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "dEZtPa59baOyrW",
@@ -2021,7 +1886,7 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "dC86JbiDgYV1qp",
@@ -2034,7 +1899,7 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "K22wa9GZBp59RQ",
@@ -2061,15 +1926,39 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Rbcaed64dSHjvH",
+    "nanoid": "79fVSOpRIHlsyq",
     "name": "World of Freesports",
     "stream_urls": [
-      "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8",
       "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sdSeYOOTM2qvju",
+    "name": "World of Freesports",
+    "stream_urls": [
+      "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MTSj2olhZiM1t9",
+    "name": "XITE Hits Germany",
+    "stream_urls": [
+      "https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu",
+      "eng"
     ],
     "country": "de",
     "isGeoBlocked": false
