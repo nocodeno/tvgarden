@@ -1651,7 +1651,8 @@
     "name": "AWE Encore",
     "stream_urls": [
       "https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8",
-      "https://a-cdn.klowdtv.com/live1/awee/playlist.m3u8"
+      "https://a-cdn.klowdtv.com/live1/awee/playlist.m3u8",
+      "https://aweencore-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1872,7 +1873,6 @@
     "nanoid": "AttXnZE4Qxz0fX",
     "name": "BBC Top Gear",
     "stream_urls": [
-      "https://amg00793-amg00793c5-firetv-us-4068.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -2172,8 +2172,8 @@
     "nanoid": "JLfNH2O2h1Ue2z",
     "name": "Biz TV",
     "stream_urls": [
-      "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
-      "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
+      "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
+      "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -3075,7 +3075,7 @@
       "https://pemirateshls.persiana.live/hls/stream.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EFPqs3Nkbrs"
+      "https://www.youtube-nocookie.com/embed/rK_rfhXLiAo"
     ],
     "languages": [
       "fas"
@@ -4475,6 +4475,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "W96nD2jfO547gK",
+    "name": "Disney Channel East",
+    "stream_urls": [
+      "https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disney/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VJ5gw1qkZks4rp",
     "name": "Disney Channel: Big City Greens",
     "stream_urls": [],
@@ -4535,6 +4549,20 @@
     ],
     "languages": [
       "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "U8REylkpG4igqA",
+    "name": "Disney Junior East",
+    "stream_urls": [
+      "https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disneyjr/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "spa"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -5104,19 +5132,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zXnZtysd9jWieA",
-    "name": "Escambia County TV",
-    "stream_urls": [
-      "https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "G7PrVny1yyiQQU",
     "name": "ESPN8 The Ocho",
     "stream_urls": [
@@ -5408,19 +5423,6 @@
       "https://aegis-cloudfront-1.tubi.video/2a9fb8e7-51c2-40d0-9cc0-6eb963199568/playlist.m3u8",
       "https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8",
       "https://d2y1l0qikd751h.cloudfront.net/Fear_Factor.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xnU10BQX3X7Kmm",
-    "name": "Fernandina Beach Channel",
-    "stream_urls": [
-      "https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -6250,6 +6252,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6VQYdbZUevKDXF",
+    "name": "Heartland Eastern",
+    "stream_urls": [
+      "https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cs9SqLOPukRtNK",
     "name": "Her Sphere",
     "stream_urls": [
@@ -6349,9 +6364,9 @@
     "nanoid": "HZEhjsWnhssch2",
     "name": "History Hit",
     "stream_urls": [
+      "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
       "https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8",
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8",
-      "https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8"
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -6685,6 +6700,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "As1a59LBPcbNCx",
+    "name": "In Touch+",
+    "stream_urls": [
+      "https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CRZbysFo83yVVC",
     "name": "INFAST",
     "stream_urls": [
@@ -6790,6 +6816,19 @@
     "name": "It's Supernatural! Network",
     "stream_urls": [
       "https://content.uplynk.com/channel/fbc0f835332e476397b12216f9042f78.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DTrA30XU0Iez6A",
+    "name": "JBS",
+    "stream_urls": [
+      "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -8069,6 +8108,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hlIFAGdwVFglWh",
+    "name": "Latin Zone",
+    "stream_urls": [
+      "https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qofy3kRsNMvDOl",
     "name": "Latino Channel TV",
     "stream_urls": [
@@ -8826,6 +8878,45 @@
     "name": "MBTV",
     "stream_urls": [
       "https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xx7eina1wOQhnp",
+    "name": "MCN6 Arts Channel",
+    "stream_urls": [
+      "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cWDsecyMzIbsq3",
+    "name": "MCN6 Main Channel",
+    "stream_urls": [
+      "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DdiVuOolojZUS0",
+    "name": "MCN6 Music Channel",
+    "stream_urls": [
+      "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -9868,8 +9959,8 @@
     "name": "Newsmax 2",
     "stream_urls": [
       "https://amg00217-newsmax-newsmax-rokuus-dur76.amagi.tv/playlist.m3u8",
-      "https://newsmax-klowdtv.amagi.tv/playlist.m3u8",
-      "https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8"
+      "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+      "https://newsmax-klowdtv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -11434,8 +11525,7 @@
     "name": "Real Wild",
     "stream_urls": [
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8",
-      "https://lds-realwild-rakuten.amagi.tv/playlist.m3u8",
-      "https://lds-realwild-samsungau.amagi.tv/playlist.m3u8"
+      "https://lds-realwild-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -13814,6 +13904,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gHsgAPKQa5gckh",
+    "name": "Tom And Jerry",
+    "stream_urls": [
+      "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OXrwVGkXxY6Ww9",
     "name": "Tony Robbins",
     "stream_urls": [
@@ -13963,6 +14066,8 @@
     "nanoid": "lyTD6lwswLARHw",
     "name": "True Crime Now",
     "stream_urls": [
+      "https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowaunzin-samsungau/playlist.m3u8",
+      "https://amg00376-magellan-amg00376c12-samsung-nz-1727.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowaunzin-samsungnz/playlist.m3u8",
       "https://amg00376-magellan-amg00376c11-rakuten-us-1700.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowww-rakutenus/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -14021,6 +14126,20 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "8gDhBhIUOnWA6L",
+    "name": "Turismo HD",
+    "stream_urls": [
+      "https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "t0egfkOjbwVtc1",
@@ -16540,7 +16659,7 @@
     "name": "World Poker Tour 1",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/t1GodAvci_g"
+      "https://www.youtube-nocookie.com/embed/9OfkBpn2e2A"
     ],
     "languages": [
       "eng"
@@ -16616,7 +16735,7 @@
     "name": "WPLG Local 10",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Qxs9fDOeeBI"
+      "https://www.youtube-nocookie.com/embed/B1FsWgr9TeA"
     ],
     "languages": [
       "eng"
@@ -16945,7 +17064,7 @@
     "name": "WWE",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2A_OLvCo_q8"
+      "https://www.youtube-nocookie.com/embed/qKO_a85i0zg"
     ],
     "languages": [
       "eng"
