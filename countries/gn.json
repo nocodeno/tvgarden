@@ -1,11 +1,40 @@
 [
   {
+    "nanoid": "tMJpti7J0clr4g",
+    "name": "Afrik Info TV",
+    "sources": {
+      "streams": [
+        "https://kali.vdopanel.com:3119/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "gn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UIl4NRuaZav1ye",
     "name": "Espace TV",
-    "stream_urls": [
-      "https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8"
+    "sources": {
+      "streams": [
+        "https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
     ],
-    "youtube_urls": [],
+    "country": "gn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8ozp4vC2PGoTZk",
+    "name": "Evasion TV",
+    "sources": {
+      "streams": [
+        "https://kali.vdopanel.com:3090/hybrid/play.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -15,10 +44,11 @@
   {
     "nanoid": "zmHrYq9TiBhJDc",
     "name": "Kalac TV",
-    "stream_urls": [
-      "https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],

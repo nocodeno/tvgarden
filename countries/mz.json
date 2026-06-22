@@ -2,10 +2,11 @@
   {
     "nanoid": "m6EnoHPyxPHtyb",
     "name": "TV Mana Mocambique",
-    "stream_urls": [
-      "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "HY7rVLsoZbudni",
     "name": "TV Vitoria",
-    "stream_urls": [
-      "https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],

@@ -2,10 +2,11 @@
   {
     "nanoid": "JUpX0mln7J2NIB",
     "name": "7.TV",
-    "stream_urls": [
-      "https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "pgiVm4B2WU0ANk",
     "name": "16tv Budapest",
-    "stream_urls": [
-      "https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -28,10 +30,11 @@
   {
     "nanoid": "IAuzwfi3ffN5aQ",
     "name": "Alfold TV",
-    "stream_urls": [
-      "https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -41,10 +44,11 @@
   {
     "nanoid": "ZTvTYkAMkRF41z",
     "name": "Bajai TV",
-    "stream_urls": [
-      "https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -54,10 +58,11 @@
   {
     "nanoid": "bjtUkZwN7hFmXK",
     "name": "Balaton TV",
-    "stream_urls": [
-      "https://stream.iptvservice.eu/hls/balatontv.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.iptvservice.eu/hls/balatontv.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -67,10 +72,11 @@
   {
     "nanoid": "oh8HdDJ2MJ0IrA",
     "name": "Budapest Europa Televizio",
-    "stream_urls": [
-      "https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -80,10 +86,11 @@
   {
     "nanoid": "X4xe5RrfPw7ILD",
     "name": "Cartoonito Magyarország",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lwiWqNgWgbE"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/lwiWqNgWgbE"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -93,10 +100,11 @@
   {
     "nanoid": "Iq86nUR80ay3qv",
     "name": "Euronews Hungarian",
-    "stream_urls": [
-      "https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -106,10 +114,11 @@
   {
     "nanoid": "iRMHvMNoQ8D1Pg",
     "name": "Hevizi TV",
-    "stream_urls": [
-      "https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -119,10 +128,11 @@
   {
     "nanoid": "XhwcqTVLHCEw2f",
     "name": "Hir TV",
-    "stream_urls": [
-      "https://video11.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://video11.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -132,10 +142,11 @@
   {
     "nanoid": "NQB6tBEbXbMz8O",
     "name": "Kanizsa TV",
-    "stream_urls": [
-      "https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -145,10 +156,11 @@
   {
     "nanoid": "eeDvgxwcpXFEcL",
     "name": "Kapos TV",
-    "stream_urls": [
-      "https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -158,10 +170,11 @@
   {
     "nanoid": "18AN91eApyBqTs",
     "name": "Karcag TV",
-    "stream_urls": [
-      "https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -171,10 +184,11 @@
   {
     "nanoid": "U5Rk6wZ9i45ZXv",
     "name": "Kecskemeti TV",
-    "stream_urls": [
-      "https://eurobioinvest.hu:444/live/ktv.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://eurobioinvest.hu:444/live/ktv.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -184,10 +198,11 @@
   {
     "nanoid": "1Dqq1nFJv7bDfM",
     "name": "Komaromi Televizio",
-    "stream_urls": [
-      "https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -197,10 +212,11 @@
   {
     "nanoid": "ufaYLBxnznSR4O",
     "name": "Mora-Net TV",
-    "stream_urls": [
-      "https://stream.moranettv.hu/live/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.moranettv.hu/live/index.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -210,10 +226,11 @@
   {
     "nanoid": "keerWZjLOhWdmx",
     "name": "Oroszlanyi Varosi Televizio",
-    "stream_urls": [
-      "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -221,12 +238,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vyv7aN2DLRtAEV",
+    "name": "Oxygen Music",
+    "sources": {
+      "streams": [
+        "https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yLfdBafHhlhrgj",
     "name": "SIXO TV",
-    "stream_urls": [
-      "https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -236,23 +266,11 @@
   {
     "nanoid": "TXVHSWHgllbutZ",
     "name": "Szolnok TV",
-    "stream_urls": [
-      "https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UxOgU5kfFfuxCm",
-    "name": "Tatai TV",
-    "stream_urls": [
-      "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -262,10 +280,11 @@
   {
     "nanoid": "uOI7Fr7hGWDmjp",
     "name": "TelePaks",
-    "stream_urls": [
-      "https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -275,10 +294,11 @@
   {
     "nanoid": "V9OoiU0u2pwSNH",
     "name": "TV Keszthely",
-    "stream_urls": [
-      "https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -288,10 +308,11 @@
   {
     "nanoid": "zm1DJdY6bU4270",
     "name": "Vasarhelyi Televizio",
-    "stream_urls": [
-      "https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -301,10 +322,11 @@
   {
     "nanoid": "2SBZd0F52NzMui",
     "name": "XV TV",
-    "stream_urls": [
-      "https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -314,10 +336,11 @@
   {
     "nanoid": "CV0Wnf3LNtBbuS",
     "name": "Zalaegerszegi TV",
-    "stream_urls": [
-      "https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hun"
     ],

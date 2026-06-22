@@ -2,10 +2,11 @@
   {
     "nanoid": "OxqDpNnYgAPFde",
     "name": "Channel 13",
-    "stream_urls": [
-      "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8"
+      ]
+    },
     "languages": [
       "heb"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "VA3cqCrSqxmpeS",
     "name": "Hala TV",
-    "stream_urls": [
-      "https://stream.panet.com/edge/halaTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.panet.com/edge/halaTV/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -28,10 +30,11 @@
   {
     "nanoid": "pQUGWp5bwsAJ2Q",
     "name": "Hidabroot",
-    "stream_urls": [
-      "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8"
+      ]
+    },
     "languages": [
       "heb"
     ],
@@ -41,10 +44,11 @@
   {
     "nanoid": "C4dIuiVOqNKLrn",
     "name": "Kabbalah for the People Israel",
-    "stream_urls": [
-      "https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8"
+      ]
+    },
     "languages": [
       "heb"
     ],
@@ -52,12 +56,41 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LhZndlIRjXe2MN",
+    "name": "Kan 11",
+    "sources": {
+      "streams": [
+        "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "heb"
+    ],
+    "country": "il",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hbcJB1RCRT6pmz",
+    "name": "Makan 33",
+    "sources": {
+      "streams": [
+        "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "il",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BE24TaDtAzeVFU",
     "name": "Musayof (Israel)",
-    "stream_urls": [
-      "https://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [],
     "country": "il",
     "isGeoBlocked": false
@@ -65,12 +98,14 @@
   {
     "nanoid": "9JfMUyW3Js7KeX",
     "name": "Now 14",
-    "stream_urls": [
-      "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BKpGbK3gUyA"
-    ],
+    "sources": {
+      "streams": [
+        "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/BKpGbK3gUyA"
+      ]
+    },
     "languages": [
       "heb"
     ],
@@ -80,10 +115,11 @@
   {
     "nanoid": "tHJWXIh983bKTp",
     "name": "Shelanu.TV",
-    "stream_urls": [
-      "https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8"
+      ]
+    },
     "languages": [
       "heb"
     ],

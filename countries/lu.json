@@ -2,10 +2,11 @@
   {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
-    "stream_urls": [
-      "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ltz"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "udSOaNy3d31JFB",
     "name": "Chamber TV",
-    "stream_urls": [
-      "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "fra",
       "ltz"
@@ -29,10 +31,11 @@
   {
     "nanoid": "MBd7UC3OR31Tht",
     "name": "Dudelange TV",
-    "stream_urls": [
-      "https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ltz"
     ],
@@ -42,23 +45,11 @@
   {
     "nanoid": "9H4bSz1MtWbjCt",
     "name": "eldo.TV",
-    "stream_urls": [
-      "https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ltz"
-    ],
-    "country": "lu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ye8TvkvdzwW6pe",
-    "name": "Hesper TV",
-    "stream_urls": [
-      "https://streamer20.multimedia.blue/Eltrona/HesperangeTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8"
+      ]
+    },
     "languages": [
       "ltz"
     ],
@@ -68,10 +59,11 @@
   {
     "nanoid": "32L8oauWbYm9hm",
     "name": "Mamer TV",
-    "stream_urls": [
-      "https://streamer20.multimedia.blue/Eltrona/MamerTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamer20.multimedia.blue/Eltrona/MamerTV/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ltz"
     ],
@@ -81,10 +73,11 @@
   {
     "nanoid": "45ac4CoF7bAaFa",
     "name": "MierschTV",
-    "stream_urls": [
-      "https://streamer20.multimedia.blue/Eltrona/merschTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamer20.multimedia.blue/Eltrona/merschTV/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ltz"
     ],
@@ -94,10 +87,11 @@
   {
     "nanoid": "SAUZGArKPwnCQR",
     "name": "Petange Info TV",
-    "stream_urls": [
-      "https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ltz"
     ],
@@ -107,10 +101,11 @@
   {
     "nanoid": "uOiBx0AcUgb3bN",
     "name": "RTL Gold",
-    "stream_urls": [
-      "https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ltz"
     ],
@@ -120,10 +115,11 @@
   {
     "nanoid": "4HFk1EIyyY3Rms",
     "name": "Today Radio",
-    "stream_urls": [
-      "https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],

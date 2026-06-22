@@ -2,10 +2,11 @@
   {
     "nanoid": "zv2UQ2zMvKk0XR",
     "name": "Adinkra TV",
-    "stream_urls": [
-      "https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "BA9iVpakjBBwDS",
     "name": "Adom TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nF5l3iDjxkM"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/nF5l3iDjxkM"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -28,10 +30,11 @@
   {
     "nanoid": "XbqCbMWvgTX2F0",
     "name": "G-eye TV",
-    "stream_urls": [
-      "https://online.geyetv.com/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://online.geyetv.com/hls/stream.m3u8"
+      ]
+    },
     "languages": [],
     "country": "gh",
     "isGeoBlocked": false
@@ -39,10 +42,11 @@
   {
     "nanoid": "2D5WXDkOrvxrFu",
     "name": "Joy Prime TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6dY9GpZUQ6c"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/6dY9GpZUQ6c"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -52,10 +56,11 @@
   {
     "nanoid": "5uGhvob0v0qr3L",
     "name": "JoyNews",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ADE5ySGKpYE"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ADE5ySGKpYE"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -65,10 +70,11 @@
   {
     "nanoid": "qrd5qBWYEVUZjj",
     "name": "OTV",
-    "stream_urls": [
-      "https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -78,10 +84,11 @@
   {
     "nanoid": "BxmKon0ZujiiDI",
     "name": "Resurrection TV",
-    "stream_urls": [
-      "https://1681360479.rsc.cdn77.org/1681360479/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://1681360479.rsc.cdn77.org/1681360479/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],

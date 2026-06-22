@@ -2,12 +2,13 @@
   {
     "nanoid": "50BgEa7NMm2duG",
     "name": "America's Test Kitchen",
-    "stream_urls": [
-      "https://amg01420-americastestkitchen-amg01420c1-xumo-us-878.playouts.now.amagi.tv/playlist.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/0094c1fc-7c41-45d0-af7a-6bbb62d6cd6e/playlist.m3u8",
-      "https://pb-zwcfuzg8t5abc.akamaized.net/Americas_Test_Kitchen.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg01420-americastestkitchen-amg01420c1-xumo-us-878.playouts.now.amagi.tv/playlist.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/0094c1fc-7c41-45d0-af7a-6bbb62d6cd6e/playlist.m3u8",
+        "https://pb-zwcfuzg8t5abc.akamaized.net/Americas_Test_Kitchen.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -17,10 +18,11 @@
   {
     "nanoid": "UScHhHKQkcsuIt",
     "name": "BBC Food",
-    "stream_urls": [
-      "https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -30,10 +32,11 @@
   {
     "nanoid": "cfDYrj4f7xSqqH",
     "name": "bon appetit",
-    "stream_urls": [
-      "https://bonappetit-samsung.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://bonappetit-samsung.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -43,10 +46,11 @@
   {
     "nanoid": "qZ2q0f5qkl9NEZ",
     "name": "Chef Champion",
-    "stream_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -56,10 +60,11 @@
   {
     "nanoid": "Knc0z9OmSpjhaI",
     "name": "Chef Roc Show",
-    "stream_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -67,12 +72,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rt3pDKAk1yMoRc",
+    "name": "City Eden Recepty Gurmana",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/47516/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "h07WOJZbzIu3Iu",
     "name": "Cooking Panda",
-    "stream_urls": [
-      "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -82,10 +102,11 @@
   {
     "nanoid": "wKjb76m31kcro9",
     "name": "Food Food",
-    "stream_urls": [
-      "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8"
+      ]
+    },
     "languages": [
       "hin"
     ],
@@ -95,10 +116,11 @@
   {
     "nanoid": "ZlkeMII1Cl5GKN",
     "name": "Food Network",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6s-6NXw7Bzs"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/6s-6NXw7Bzs"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -108,10 +130,11 @@
   {
     "nanoid": "LmsSgThYErX3rA",
     "name": "Gordon Ramsay's Hell's Kitchen",
-    "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -121,12 +144,13 @@
   {
     "nanoid": "D9wYQdvH3cwnxL",
     "name": "Gusto TV",
-    "stream_urls": [
-      "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
-      "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-      "https://gusto-xumo.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
+        "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
+        "https://gusto-xumo.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -136,10 +160,11 @@
   {
     "nanoid": "mHg6rpXR6VaVXj",
     "name": "Hello Taste",
-    "stream_urls": [
-      "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ron"
     ],
@@ -149,10 +174,11 @@
   {
     "nanoid": "ERhS0NAqvOPlMN",
     "name": "Hungry",
-    "stream_urls": [
-      "https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -162,10 +188,11 @@
   {
     "nanoid": "FduEDCfi40g7V8",
     "name": "In the Kitchen",
-    "stream_urls": [
-      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -175,10 +202,11 @@
   {
     "nanoid": "CPUFPutREQebmN",
     "name": "Jordan Kitchen",
-    "stream_urls": [
-      "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -188,10 +216,11 @@
   {
     "nanoid": "zSi1ovpu9pEJVa",
     "name": "Mad Dog and Merrill",
-    "stream_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -201,10 +230,11 @@
   {
     "nanoid": "6AoHYDpnv89YBf",
     "name": "Roya Kitchen",
-    "stream_urls": [
-      "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -214,10 +244,11 @@
   {
     "nanoid": "AU79Q982Hd3lD2",
     "name": "Tastemade en Espanol",
-    "stream_urls": [
-      "https://tastemadees16us-xumo.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tastemadees16us-xumo.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -227,12 +258,13 @@
   {
     "nanoid": "hAcFI08ZNbAHCM",
     "name": "Tastemade International",
-    "stream_urls": [
-      "https://pb-rlo4if9lnjthw.akamaized.net/Tastemade.m3u8",
-      "https://amg00047-tastemade-amg00047c4-cineverse-us-1361.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadefreetv16-cineverseus/playlist.m3u8",
-      "https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://pb-rlo4if9lnjthw.akamaized.net/Tastemade.m3u8",
+        "https://amg00047-tastemade-amg00047c4-cineverse-us-1361.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadefreetv16-cineverseus/playlist.m3u8",
+        "https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -242,12 +274,13 @@
   {
     "nanoid": "YllG7rP25m7zOt",
     "name": "Tastemade Travel",
-    "stream_urls": [
-      "https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8",
-      "https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8",
-      "https://tm-tmtar-xumo.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8",
+        "https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8",
+        "https://tm-tmtar-xumo.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -257,10 +290,11 @@
   {
     "nanoid": "n24WKhfbAy2vvs",
     "name": "Telecafe",
-    "stream_urls": [
-      "https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -270,10 +304,11 @@
   {
     "nanoid": "2gvbHx7OrU70G2",
     "name": "TV5MONDE Chefs",
-    "stream_urls": [
-      "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -283,10 +318,11 @@
   {
     "nanoid": "ALMRp6hUXQ2Vmy",
     "name": "tvN D ENT",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WpvCQaOxA7s"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/WpvCQaOxA7s"
+      ]
+    },
     "languages": [
       "eng"
     ],

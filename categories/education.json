@@ -2,10 +2,11 @@
   {
     "nanoid": "rWtKJSewbglBpX",
     "name": "Agro TV",
-    "stream_urls": [
-      "https://stream-hls.castr.net/6731d96a1f5e55c4190da53f/live_9e594110a26911ef9f033f53e767ab9f/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream-hls.castr.net/6731d96a1f5e55c4190da53f/live_9e594110a26911ef9f033f53e767ab9f/index.m3u8"
+      ]
+    },
     "languages": [],
     "country": "tr",
     "isGeoBlocked": false
@@ -13,10 +14,11 @@
   {
     "nanoid": "2iEMu7y7Pfmad9",
     "name": "Al Hiwar TV",
-    "stream_urls": [
-      "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -26,11 +28,12 @@
   {
     "nanoid": "IJpns8FI8lNpRr",
     "name": "ARD-alpha",
-    "stream_urls": [
-      "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8",
-      "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8",
+        "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -40,10 +43,11 @@
   {
     "nanoid": "5ZGnLxWOqASmvp",
     "name": "Asharq Discovery",
-    "stream_urls": [
-      "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -53,11 +57,11 @@
   {
     "nanoid": "L3YkR6AcwrR8JI",
     "name": "Bem Mais TV",
-    "stream_urls": [
-      "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8",
-      "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -67,10 +71,11 @@
   {
     "nanoid": "7vuNKG15VuJZNX",
     "name": "Campus TV",
-    "stream_urls": [
-      "https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -80,10 +85,11 @@
   {
     "nanoid": "7nyUSJn5aAWm7k",
     "name": "Canal Educacao",
-    "stream_urls": [
-      "https://canaleducacao-stream.ebc.com.br/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://canaleducacao-stream.ebc.com.br/index.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -93,10 +99,11 @@
   {
     "nanoid": "hrsVs9qqIiOboO",
     "name": "Canal FDR",
-    "stream_urls": [
-      "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -106,10 +113,11 @@
   {
     "nanoid": "SB7baTrTU4uzJM",
     "name": "Canal Saude",
-    "stream_urls": [
-      "https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -119,10 +127,11 @@
   {
     "nanoid": "TAS6xjp5V4DYwH",
     "name": "Canal Universidad",
-    "stream_urls": [
-      "https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -132,10 +141,11 @@
   {
     "nanoid": "p0zKKJn9B3MYSH",
     "name": "CFTU-DT",
-    "stream_urls": [
-      "https://hls.savoir.media/live/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hls.savoir.media/live/stream.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -145,10 +155,11 @@
   {
     "nanoid": "Sb9t7HbJFX4dw4",
     "name": "Ciftci TV",
-    "stream_urls": [
-      "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "tur"
     ],
@@ -158,10 +169,11 @@
   {
     "nanoid": "pXvSXoe4kL9IM4",
     "name": "Classic Arts Showcase",
-    "stream_urls": [
-      "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -171,10 +183,11 @@
   {
     "nanoid": "fT1CQ25imNXXMk",
     "name": "Cloudflare TV",
-    "stream_urls": [
-      "https://cloudflare.tv/hls/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cloudflare.tv/hls/live.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -184,10 +197,11 @@
   {
     "nanoid": "j4D1370IbcmDeK",
     "name": "CMAC 2",
-    "stream_urls": [
-      "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -197,10 +211,11 @@
   {
     "nanoid": "EHP7r0Fg5OJVXF",
     "name": "Create",
-    "stream_urls": [
-      "https://create.lls.pbs.org/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://create.lls.pbs.org/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -210,10 +225,11 @@
   {
     "nanoid": "sDj67ih6xvn8ol",
     "name": "CreaTV Channel 28",
-    "stream_urls": [
-      "https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -223,10 +239,11 @@
   {
     "nanoid": "bzf3dBvi0fNXti",
     "name": "CVC Education",
-    "stream_urls": [
-      "https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -236,10 +253,11 @@
   {
     "nanoid": "9L2pscQHcBOxS5",
     "name": "Da Vinci",
-    "stream_urls": [
-      "https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -249,10 +267,11 @@
   {
     "nanoid": "VOHSPgP61uCg6D",
     "name": "Dabanga TV",
-    "stream_urls": [
-      "https://hls.dabangasudan.org/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hls.dabangasudan.org/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -262,11 +281,12 @@
   {
     "nanoid": "jDP6MUrSN5cKSo",
     "name": "DD Kisan",
-    "stream_urls": [
-      "https://cdn-6.pishow.tv/live/9/master.m3u8",
-      "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-6.pishow.tv/live/9/master.m3u8",
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
+      ]
+    },
     "languages": [
       "hin"
     ],
@@ -276,10 +296,11 @@
   {
     "nanoid": "WHJAjSAsw3amvu",
     "name": "DerryTV 23",
-    "stream_urls": [
-      "https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -289,10 +310,11 @@
   {
     "nanoid": "eLA4bv6WnWPRvW",
     "name": "DKN",
-    "stream_urls": [
-      "https://video.oct.dc.gov/out/u/DKN.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://video.oct.dc.gov/out/u/DKN.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -302,10 +324,11 @@
   {
     "nanoid": "ZPk578ujZjTXPa",
     "name": "DLTV 1",
-    "stream_urls": [
-      "https://cdn-live.dltv.ac.th/dltv01.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv01.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "tha"
@@ -316,10 +339,11 @@
   {
     "nanoid": "FH7NvrC8IdGbek",
     "name": "DLTV 2",
-    "stream_urls": [
-      "https://cdn-live.dltv.ac.th/dltv02.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv02.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "tha"
@@ -330,10 +354,11 @@
   {
     "nanoid": "Z2nBboETrkSzIa",
     "name": "DLTV 3",
-    "stream_urls": [
-      "https://cdn-live.dltv.ac.th/dltv03.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv03.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "tha"
@@ -344,10 +369,11 @@
   {
     "nanoid": "28rjnzXjPjea82",
     "name": "DLTV 4",
-    "stream_urls": [
-      "https://cdn-live.dltv.ac.th/dltv04.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv04.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "tha"
@@ -358,10 +384,11 @@
   {
     "nanoid": "RfFYZpw2B1Tu6O",
     "name": "DLTV 5",
-    "stream_urls": [
-      "https://cdn-live.dltv.ac.th/dltv05.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv05.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "tha"
@@ -372,10 +399,11 @@
   {
     "nanoid": "SBNkYWrTHUHlU6",
     "name": "DLTV 6",
-    "stream_urls": [
-      "https://cdn-live.dltv.ac.th/dltv06.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv06.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "tha"
@@ -386,10 +414,11 @@
   {
     "nanoid": "5n7uTj1v7KJgAK",
     "name": "DLTV 7",
-    "stream_urls": [
-      "https://cdn-live.dltv.ac.th/dltv07.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv07.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "tha"
@@ -400,10 +429,11 @@
   {
     "nanoid": "AtqNekEK9bqlpP",
     "name": "DLTV 8",
-    "stream_urls": [
-      "https://cdn-live.dltv.ac.th/dltv08.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv08.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "tha"
@@ -414,10 +444,11 @@
   {
     "nanoid": "ReBKejReML00hL",
     "name": "DLTV 9",
-    "stream_urls": [
-      "https://cdn-live.dltv.ac.th/dltv09.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv09.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "tha"
@@ -428,10 +459,11 @@
   {
     "nanoid": "J2tWh2yACsVBKq",
     "name": "DLTV 10",
-    "stream_urls": [
-      "https://cdn-live.dltv.ac.th/dltv10.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv10.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "tha"
@@ -442,10 +474,11 @@
   {
     "nanoid": "1UZOek5lIzCih6",
     "name": "DLTV 11",
-    "stream_urls": [
-      "https://cdn-live.dltv.ac.th/dltv11.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv11.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "tha"
@@ -456,10 +489,11 @@
   {
     "nanoid": "9tRf46L4LZNOGa",
     "name": "DLTV 12",
-    "stream_urls": [
-      "https://cdn-live.dltv.ac.th/dltv12.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv12.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "tha"
@@ -470,10 +504,11 @@
   {
     "nanoid": "ZPUnfb9kCWJfnO",
     "name": "DLTV 13",
-    "stream_urls": [
-      "https://cdn-live.dltv.ac.th/dltv13.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv13.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "tha"
@@ -484,10 +519,11 @@
   {
     "nanoid": "i5UXCyXzVkJ6Kf",
     "name": "DLTV 14",
-    "stream_urls": [
-      "https://cdn-live.dltv.ac.th/dltv14.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv14.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "tha"
@@ -498,10 +534,11 @@
   {
     "nanoid": "sfr4boA9nNaI9M",
     "name": "DLTV 15",
-    "stream_urls": [
-      "https://cdn-live.dltv.ac.th/dltv15.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv15.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "tha"
@@ -512,10 +549,11 @@
   {
     "nanoid": "lMbPpHBoCjzoLt",
     "name": "Doctor",
-    "stream_urls": [
-      "https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -525,10 +563,11 @@
   {
     "nanoid": "AY9El1RUmBJaPD",
     "name": "Earthquake Alert Channel",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UJYyY_mrUmo"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/UJYyY_mrUmo"
+      ]
+    },
     "languages": [
       "jpn"
     ],
@@ -538,11 +577,12 @@
   {
     "nanoid": "IvsuFrM7fgKeFe",
     "name": "EBS 1TV",
-    "stream_urls": [
-      "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
-      "https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
+        "https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8"
+      ]
+    },
     "languages": [
       "kor"
     ],
@@ -552,10 +592,11 @@
   {
     "nanoid": "mMfQkG8CWfVeNj",
     "name": "EBS 2TV",
-    "stream_urls": [
-      "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8"
+      ]
+    },
     "languages": [
       "kor"
     ],
@@ -565,10 +606,11 @@
   {
     "nanoid": "TH2UspcIuapB4I",
     "name": "EBS English",
-    "stream_urls": [
-      "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "kor"
@@ -579,10 +621,11 @@
   {
     "nanoid": "kn5TVoJjDEx7yb",
     "name": "EBS Plus 1",
-    "stream_urls": [
-      "https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8"
+      ]
+    },
     "languages": [
       "kor"
     ],
@@ -592,10 +635,11 @@
   {
     "nanoid": "ODIhPYL5EPIjtl",
     "name": "EBS Plus 2",
-    "stream_urls": [
-      "https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "kor"
@@ -606,10 +650,11 @@
   {
     "nanoid": "sJtHUQ2FEosClO",
     "name": "Educa TV",
-    "stream_urls": [
-      "https://avm.ecuamedia.net/educatv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://avm.ecuamedia.net/educatv/live/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -619,10 +664,11 @@
   {
     "nanoid": "DuJd4u0fDHyZVy",
     "name": "Eduvision",
-    "stream_urls": [
-      "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -630,27 +676,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Qo704xbyXZJTCe",
-    "name": "En Lengua de Senas TV",
-    "stream_urls": [
-      "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa",
-      "ssp"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "b9z8Esreszehk1",
     "name": "English Club TV",
-    "stream_urls": [
-      "https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8",
-      "https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8",
+        "https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -660,10 +693,11 @@
   {
     "nanoid": "M1xHzWMuYZ3C7M",
     "name": "FGN Channel",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FGU1XJSzvx4"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/FGU1XJSzvx4"
+      ]
+    },
     "languages": [
       "urd"
     ],
@@ -673,10 +707,11 @@
   {
     "nanoid": "xZPdiS2AIsXbXV",
     "name": "GVision",
-    "stream_urls": [
-      "https://videostream.chileservidores.com:8081/tome/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://videostream.chileservidores.com:8081/tome/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -686,10 +721,11 @@
   {
     "nanoid": "hdMP1gFBmOJ5tJ",
     "name": "Gyandarshan",
-    "stream_urls": [
-      "https://cdn-6.pishow.tv/live/14/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-6.pishow.tv/live/14/master.m3u8"
+      ]
+    },
     "languages": [
       "hin"
     ],
@@ -699,10 +735,11 @@
   {
     "nanoid": "9NYf5msdVIxgC1",
     "name": "ILCE Canal 15 Summa Saberes",
-    "stream_urls": [
-      "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -712,10 +749,11 @@
   {
     "nanoid": "wBMPZbYU5rhwEy",
     "name": "iSTUFF",
-    "stream_urls": [
-      "https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -725,10 +763,11 @@
   {
     "nanoid": "Pz1CuDeSJYHivR",
     "name": "Jalisco TV",
-    "stream_urls": [
-      "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -738,10 +777,11 @@
   {
     "nanoid": "Su2JotqrpBqWFz",
     "name": "KCAT",
-    "stream_urls": [
-      "https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -751,10 +791,11 @@
   {
     "nanoid": "gd2Fi6EkFmVQHE",
     "name": "Kite Victers",
-    "stream_urls": [
-      "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "mal"
     ],
@@ -764,10 +805,11 @@
   {
     "nanoid": "FbWSenBaWBJHNe",
     "name": "KMOS-TV 6.1",
-    "stream_urls": [
-      "https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -777,10 +819,11 @@
   {
     "nanoid": "mh8ffIuQVJBAom",
     "name": "Knowledge Network",
-    "stream_urls": [
-      "https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -790,10 +833,11 @@
   {
     "nanoid": "ttd3hwX2ADeiyl",
     "name": "LA36",
-    "stream_urls": [
-      "https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -803,10 +847,11 @@
   {
     "nanoid": "HPKbjRLkFZzXAw",
     "name": "Leominster TV Educational",
-    "stream_urls": [
-      "https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -816,10 +861,11 @@
   {
     "nanoid": "xsRHw7w1yWnmCm",
     "name": "Made In History",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0_kH3TvuCz4"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/0_kH3TvuCz4"
+      ]
+    },
     "languages": [
       "en"
     ],
@@ -829,10 +875,11 @@
   {
     "nanoid": "xx7eina1wOQhnp",
     "name": "MCN6 Arts Channel",
-    "stream_urls": [
-      "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -842,10 +889,11 @@
   {
     "nanoid": "uvGkHvj4kYuGpc",
     "name": "MCPSS TV",
-    "stream_urls": [
-      "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -855,10 +903,11 @@
   {
     "nanoid": "vGCm6ufhO0hHv0",
     "name": "MediBizTV",
-    "stream_urls": [
-      "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -868,10 +917,11 @@
   {
     "nanoid": "tqCNZa0HLCee0u",
     "name": "Midpen Media Center Channel 28",
-    "stream_urls": [
-      "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -881,10 +931,11 @@
   {
     "nanoid": "ZPgJUziKYvsqXI",
     "name": "Monroe Community Media Education Channel",
-    "stream_urls": [
-      "https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -894,10 +945,11 @@
   {
     "nanoid": "RnFrGKKVa14zlp",
     "name": "Nashua ETV",
-    "stream_urls": [
-      "https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -907,10 +959,11 @@
   {
     "nanoid": "RMLPZAxtBEVqnA",
     "name": "Nat Geo Kids",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/q5xC6wv9Ut0"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/q5xC6wv9Ut0"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -920,10 +973,11 @@
   {
     "nanoid": "1juHBAKtJpASKF",
     "name": "Natick Education Channel",
-    "stream_urls": [
-      "https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -933,10 +987,11 @@
   {
     "nanoid": "miOqdRnG0LrRce",
     "name": "NBS",
-    "stream_urls": [
-      "https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8"
+      ]
+    },
     "languages": [
       "kor"
     ],
@@ -946,10 +1001,11 @@
   {
     "nanoid": "dYt045ogXamqS6",
     "name": "NRWision",
-    "stream_urls": [
-      "https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -959,10 +1015,11 @@
   {
     "nanoid": "n4MkAIlXwdSE8X",
     "name": "OUN",
-    "stream_urls": [
-      "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "kor"
     ],
@@ -972,10 +1029,11 @@
   {
     "nanoid": "qHPud6QAjClK6g",
     "name": "Palestine Edu",
-    "stream_urls": [
-      "https://pbc.furrera.ps/PalestineEDU/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://pbc.furrera.ps/PalestineEDU/index.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -985,10 +1043,11 @@
   {
     "nanoid": "VFD90UpkQ7f9Ss",
     "name": "Payam Javan TV",
-    "stream_urls": [
-      "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "fas"
     ],
@@ -998,10 +1057,11 @@
   {
     "nanoid": "veSkgi6hizxqlB",
     "name": "PBS Kids",
-    "stream_urls": [
-      "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1011,10 +1071,11 @@
   {
     "nanoid": "lZcSMdwkQIJx74",
     "name": "PBS Kids Alaska",
-    "stream_urls": [
-      "https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1024,10 +1085,11 @@
   {
     "nanoid": "hpqn2IN4H4i4YN",
     "name": "PBS Kids Eastern/Central",
-    "stream_urls": [
-      "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1037,10 +1099,11 @@
   {
     "nanoid": "jdgPZWgMCGIzNv",
     "name": "PBS Kids Hawaii",
-    "stream_urls": [
-      "https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1050,10 +1113,11 @@
   {
     "nanoid": "Zq8ejlsB34g72F",
     "name": "PBS Kids Mountain",
-    "stream_urls": [
-      "https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1063,10 +1127,11 @@
   {
     "nanoid": "mwrBMj9pE1Egws",
     "name": "PBS Kids Pacific",
-    "stream_urls": [
-      "https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1076,10 +1141,11 @@
   {
     "nanoid": "mxmVUfGY5Zh8hq",
     "name": "PBS Kids: Phoebe & Jay",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/z2EWnolxa90"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/z2EWnolxa90"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1089,11 +1155,12 @@
   {
     "nanoid": "mIqvcrNhrJUtN4",
     "name": "PBS National East",
-    "stream_urls": [
-      "https://pbs.lls.cdn.pbs.org/est/index.m3u8",
-      "https://pbs.lls.cdn.pbs.org/pst/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://pbs.lls.cdn.pbs.org/est/index.m3u8",
+        "https://pbs.lls.cdn.pbs.org/pst/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1103,11 +1170,12 @@
   {
     "nanoid": "plcbFbhZX5D3nx",
     "name": "Persiana Medical",
-    "stream_urls": [
-      "https://phd2hls.persiana.live/hls/stream.m3u8",
-      "https://tfnhls.wns.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://phd2hls.persiana.live/hls/stream.m3u8",
+        "https://tfnhls.wns.live/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "fas"
     ],
@@ -1117,10 +1185,11 @@
   {
     "nanoid": "I0DVGAmN7OWX0l",
     "name": "Platzi TV",
-    "stream_urls": [
-      "https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -1130,10 +1199,11 @@
   {
     "nanoid": "uOeqeeP7q9Tix0",
     "name": "Red Apple 21",
-    "stream_urls": [
-      "https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1143,10 +1213,11 @@
   {
     "nanoid": "GyYMyUUtPptNeI",
     "name": "Rinjani TV",
-    "stream_urls": [
-      "https://rinjanitv.cloud/hls/tvkabel.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rinjanitv.cloud/hls/tvkabel.m3u8"
+      ]
+    },
     "languages": [
       "ind"
     ],
@@ -1156,10 +1227,11 @@
   {
     "nanoid": "xT4SS5ryo4F6PC",
     "name": "SMCTV Channel 24",
-    "stream_urls": [
-      "https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1167,25 +1239,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PNF9zodERQr3Zm",
-    "name": "SQOOL TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WNkOsgyaL0k"
-    ],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IYaHECLKltBJ5V",
     "name": "STVE Telebasica",
-    "stream_urls": [
-      "https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -1195,10 +1255,11 @@
   {
     "nanoid": "wG03qaF80rSneK",
     "name": "Telepace 3",
-    "stream_urls": [
-      "https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ita"
     ],
@@ -1208,10 +1269,11 @@
   {
     "nanoid": "x4lyf4pNwLJhfT",
     "name": "The Indonesia Channel",
-    "stream_urls": [
-      "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1221,10 +1283,11 @@
   {
     "nanoid": "3JgrZVIyLGdoxu",
     "name": "TRT EBA",
-    "stream_urls": [
-      "https://tv-e-okul01.medya.trt.com.tr/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tv-e-okul01.medya.trt.com.tr/master.m3u8"
+      ]
+    },
     "languages": [
       "tur"
     ],
@@ -1234,10 +1297,11 @@
   {
     "nanoid": "t0egfkOjbwVtc1",
     "name": "TUTV",
-    "stream_urls": [
-      "https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1247,10 +1311,11 @@
   {
     "nanoid": "ufquGR4ncw7ZpB",
     "name": "TV BUAP",
-    "stream_urls": [
-      "https://tvenvivo.buap.mx/livestream/stream/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tvenvivo.buap.mx/livestream/stream/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -1260,10 +1325,11 @@
   {
     "nanoid": "LSV8LWxmVrWxS3",
     "name": "TV Cuatro 4.4",
-    "stream_urls": [
-      "https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -1273,10 +1339,11 @@
   {
     "nanoid": "r1oGqxJA7bXTXS",
     "name": "TV Maya",
-    "stream_urls": [
-      "https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8"
+      ]
+    },
     "languages": [
       "yua"
     ],
@@ -1286,10 +1353,11 @@
   {
     "nanoid": "HhUtzRJjCR6lUu",
     "name": "TV UFOP",
-    "stream_urls": [
-      "https://app.tvufop.com.br/hls/tvufop.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://app.tvufop.com.br/hls/tvufop.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -1299,10 +1367,11 @@
   {
     "nanoid": "g7YtvRUN199O67",
     "name": "TV UG",
-    "stream_urls": [
-      "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -1312,10 +1381,11 @@
   {
     "nanoid": "wbA0Ma6O1OQNwg",
     "name": "TV UJAT",
-    "stream_urls": [
-      "https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -1325,10 +1395,11 @@
   {
     "nanoid": "VxXPHwWoMl0QhJ",
     "name": "TV Universidad",
-    "stream_urls": [
-      "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -1338,10 +1409,11 @@
   {
     "nanoid": "eTCuy4QKHtum76",
     "name": "TVE RS",
-    "stream_urls": [
-      "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -1351,10 +1423,11 @@
   {
     "nanoid": "m3PpQXO8kJ3GQC",
     "name": "TVK 2",
-    "stream_urls": [
-      "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "khm"
     ],
@@ -1364,10 +1437,11 @@
   {
     "nanoid": "jzeCGcHiZBHblX",
     "name": "UCTV",
-    "stream_urls": [
-      "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1377,11 +1451,12 @@
   {
     "nanoid": "JLRlLiosJOhAzH",
     "name": "UMSA TVU Internacional",
-    "stream_urls": [
-      "https://edge.enhdtv.com/8026/index.m3u8",
-      "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://edge.enhdtv.com/8026/index.m3u8",
+        "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -1391,11 +1466,12 @@
   {
     "nanoid": "fcllzx7ENtLcnw",
     "name": "UMSA TVU LP",
-    "stream_urls": [
-      "https://edge.enhdtv.com/8190/index.m3u8",
-      "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://edge.enhdtv.com/8190/index.m3u8",
+        "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -1405,10 +1481,11 @@
   {
     "nanoid": "uhXaKy0zwMPJAb",
     "name": "UNIANDES TV",
-    "stream_urls": [
-      "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -1418,10 +1495,11 @@
   {
     "nanoid": "JvGEcuMecAcih8",
     "name": "Unison TV",
-    "stream_urls": [
-      "https://stream.unison.mx/hls/unisontvatem.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.unison.mx/hls/unisontvatem.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -1431,10 +1509,11 @@
   {
     "nanoid": "7UeLUueVRqvHR1",
     "name": "Unisul TV",
-    "stream_urls": [
-      "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -1444,10 +1523,11 @@
   {
     "nanoid": "moehtnlcI4ChMQ",
     "name": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/IUASbrfk-lM"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/IUASbrfk-lM"
+      ]
+    },
     "languages": [
       "pol"
     ],
@@ -1457,10 +1537,11 @@
   {
     "nanoid": "vvLSrEdftAhFqe",
     "name": "Vyas Channel",
-    "stream_urls": [
-      "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1470,10 +1551,11 @@
   {
     "nanoid": "JliijnACP4jH0u",
     "name": "Wiki TV",
-    "stream_urls": [
-      "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8"
+      ]
+    },
     "languages": [
       "khm"
     ],
@@ -1483,12 +1565,13 @@
   {
     "nanoid": "NpJ5K3Avxx4otV",
     "name": "WildEarth",
-    "stream_urls": [
-      "https://wildearth-xumo.amagi.tv/master.m3u8",
-      "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://wildearth-xumo.amagi.tv/master.m3u8",
+        "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8",
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1498,10 +1581,11 @@
   {
     "nanoid": "yH37xpeaIkAvpZ",
     "name": "WKMJ-TV 68.1",
-    "stream_urls": [
-      "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1511,10 +1595,11 @@
   {
     "nanoid": "UPWLXwfzXbRgpH",
     "name": "World Channel",
-    "stream_urls": [
-      "https://world.lls.pbs.org/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://world.lls.pbs.org/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1524,10 +1609,11 @@
   {
     "nanoid": "pvxpjJZ1DkpUbg",
     "name": "WPS-TV",
-    "stream_urls": [
-      "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1537,10 +1623,11 @@
   {
     "nanoid": "5X15DRPWWS1LoX",
     "name": "XHMNL-TDT",
-    "stream_urls": [
-      "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -1550,10 +1637,11 @@
   {
     "nanoid": "MvxVdnZ8G06Wbd",
     "name": "XHPBZC-TDT2",
-    "stream_urls": [
-      "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -1563,10 +1651,11 @@
   {
     "nanoid": "47o1HNzoeOQk95",
     "name": "XHUNES-TDT",
-    "stream_urls": [
-      "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -1576,10 +1665,11 @@
   {
     "nanoid": "SON1YGmdsYW0TM",
     "name": "사피엔스 스튜디오",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/b5UeAVqz4cI"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/b5UeAVqz4cI"
+      ]
+    },
     "languages": [
       "kor"
     ],

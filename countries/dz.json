@@ -2,10 +2,11 @@
   {
     "nanoid": "tmU8g7gIv8cUFI",
     "name": "AL24 News",
-    "stream_urls": [
-      "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8"
+      ]
+    },
     "languages": [
       "ara",
       "eng",
@@ -17,10 +18,11 @@
   {
     "nanoid": "2hs4FzDgKk1l2e",
     "name": "Almagharibia TV: المغاربية",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Qtw0ktz04kM"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Qtw0ktz04kM"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -30,11 +32,12 @@
   {
     "nanoid": "djepsfPOUGk1gy",
     "name": "CNA",
-    "stream_urls": [
-      "https://live.creacast.com/cna/stream/playlist.m3u8",
-      "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.creacast.com/cna/stream/playlist.m3u8",
+        "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara",
       "fra"
@@ -45,10 +48,11 @@
   {
     "nanoid": "ofHo5b95IBOhZz",
     "name": "Elwatania TV",
-    "stream_urls": [
-      "https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],

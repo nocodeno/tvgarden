@@ -2,10 +2,11 @@
   {
     "nanoid": "iTbSyptSI7ovhK",
     "name": "1KZN TV",
-    "stream_urls": [
-      "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "iuNSMpuWO5aIm5",
     "name": "947 Joburg",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/n-MpySr4UN4"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/n-MpySr4UN4"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -28,10 +30,11 @@
   {
     "nanoid": "lu3N4bfr0HEunv",
     "name": "Afriwood Blockbuster",
-    "stream_urls": [
-      "https://streamdot.broadpeak.io/cff02a74da64d145c102a2d012758398/afxpstr/AfriwoodBlockbuster/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamdot.broadpeak.io/cff02a74da64d145c102a2d012758398/afxpstr/AfriwoodBlockbuster/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -41,10 +44,11 @@
   {
     "nanoid": "EME4N9khfw88cn",
     "name": "AnewZ",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cZCCW4BBIg4"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/cZCCW4BBIg4"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -54,10 +58,11 @@
   {
     "nanoid": "im3F3X4RVVERe9",
     "name": "BOKTV",
-    "stream_urls": [
-      "https://livestream2.bokradio.co.za/hls/Bok5c.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream2.bokradio.co.za/hls/Bok5c.m3u8"
+      ]
+    },
     "languages": [
       "afr",
       "eng"
@@ -68,10 +73,11 @@
   {
     "nanoid": "3qqNu9ZcAbmKFU",
     "name": "Cape Town TV",
-    "stream_urls": [
-      "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -81,10 +87,11 @@
   {
     "nanoid": "IsHsuTjDtTUjjX",
     "name": "Cartoon Network Africa",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5lCDK0nZjt8"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/5lCDK0nZjt8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -94,10 +101,11 @@
   {
     "nanoid": "RqAm3F34417sca",
     "name": "Cinema Hausa",
-    "stream_urls": [
-      "https://streamdot.broadpeak.io/cff02a74da64d1459eeb779df71f0511/afxpstr/CinemaHausa/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamdot.broadpeak.io/cff02a74da64d1459eeb779df71f0511/afxpstr/CinemaHausa/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -107,10 +115,11 @@
   {
     "nanoid": "PE9tkcIaMZtMuU",
     "name": "CNBC Africa",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6MSjCxGc8vo"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/6MSjCxGc8vo"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -120,10 +129,11 @@
   {
     "nanoid": "yzW6NOlMnAd0SK",
     "name": "Faith TV",
-    "stream_urls": [
-      "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -133,10 +143,11 @@
   {
     "nanoid": "9eVfcO2wEVPW89",
     "name": "Family Feud Africa",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iAdKBEwfWQU"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/iAdKBEwfWQU"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -146,10 +157,11 @@
   {
     "nanoid": "RnZgNdJPQ7SoXK",
     "name": "Homebase TV",
-    "stream_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "afr",
       "eng"
@@ -160,10 +172,11 @@
   {
     "nanoid": "7jEArNkQzaNNSe",
     "name": "Kfm 94.5",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xx7JmfRO3R4"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/xx7JmfRO3R4"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -173,10 +186,11 @@
   {
     "nanoid": "6qFA0oMBj6Zup7",
     "name": "LN24SA",
-    "stream_urls": [
-      "https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -186,10 +200,11 @@
   {
     "nanoid": "GmQOYYruFg1K27",
     "name": "NuView TV",
-    "stream_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -199,10 +214,11 @@
   {
     "nanoid": "YQ48DJSkmj6ZBT",
     "name": "ROV TV",
-    "stream_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -212,10 +228,11 @@
   {
     "nanoid": "C4rmcF4iC9PInk",
     "name": "SABC Lehae",
-    "stream_urls": [
-      "https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "nbl",
@@ -232,10 +249,11 @@
   {
     "nanoid": "MbDAAgrzqTFxUc",
     "name": "SABC News",
-    "stream_urls": [
-      "https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -245,10 +263,11 @@
   {
     "nanoid": "oLnLTQ4nnHeCAZ",
     "name": "Soweto TV",
-    "stream_urls": [
-      "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -258,10 +277,11 @@
   {
     "nanoid": "5ajptuhyjIdeFx",
     "name": "Sports Connect",
-    "stream_urls": [
-      "https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -271,10 +291,11 @@
   {
     "nanoid": "7LzkeThbFKLAsm",
     "name": "True African",
-    "stream_urls": [
-      "https://streamdot.broadpeak.io/cff02a74da64d1457be50b4b7f746bff/afxpstr/TrueAfrican/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamdot.broadpeak.io/cff02a74da64d1457be50b4b7f746bff/afxpstr/TrueAfrican/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -284,10 +305,11 @@
   {
     "nanoid": "OFNCxJwQlhXnh3",
     "name": "Tshwane TV",
-    "stream_urls": [
-      "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -297,10 +319,11 @@
   {
     "nanoid": "Es7qApbSf615KN",
     "name": "TV BRICS Africa",
-    "stream_urls": [
-      "https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -310,12 +333,13 @@
   {
     "nanoid": "NpJ5K3Avxx4otV",
     "name": "WildEarth",
-    "stream_urls": [
-      "https://wildearth-xumo.amagi.tv/master.m3u8",
-      "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://wildearth-xumo.amagi.tv/master.m3u8",
+        "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8",
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],

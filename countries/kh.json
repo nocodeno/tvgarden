@@ -2,10 +2,11 @@
   {
     "nanoid": "9v7vzS3xsxjDYS",
     "name": "Apsara TV11",
-    "stream_urls": [
-      "https://live.ams.com.kh/app/stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.ams.com.kh/app/stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "khm"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "22GUfDaUhwRUJ1",
     "name": "Netlink TV",
-    "stream_urls": [
-      "https://netlink.netlinkbroadcaster.com/hls/test.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://netlink.netlinkbroadcaster.com/hls/test.m3u8"
+      ]
+    },
     "languages": [],
     "country": "kh",
     "isGeoBlocked": false
@@ -26,23 +28,11 @@
   {
     "nanoid": "a7p8px0xew1TNk",
     "name": "Sangkem TV",
-    "stream_urls": [
-      "https://live.sangkemtv.com/memfs/sangkem.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "khm"
-    ],
-    "country": "kh",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aAMBVg0GZZXh3E",
-    "name": "SEA TV",
-    "stream_urls": [
-      "https://seatv.netlinkbroadcaster.com/hls/test.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.sangkemtv.com/memfs/sangkem.m3u8"
+      ]
+    },
     "languages": [
       "khm"
     ],
@@ -52,10 +42,11 @@
   {
     "nanoid": "5YmRoWRCWgVS14",
     "name": "TVK",
-    "stream_urls": [
-      "https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "khm"
     ],
@@ -65,10 +56,11 @@
   {
     "nanoid": "m3PpQXO8kJ3GQC",
     "name": "TVK 2",
-    "stream_urls": [
-      "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "khm"
     ],
@@ -78,10 +70,11 @@
   {
     "nanoid": "JliijnACP4jH0u",
     "name": "Wiki TV",
-    "stream_urls": [
-      "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8"
+      ]
+    },
     "languages": [
       "khm"
     ],

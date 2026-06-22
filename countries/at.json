@@ -2,10 +2,11 @@
   {
     "nanoid": "hWjMAZLy3MK2aA",
     "name": "Antenne Kaernten",
-    "stream_urls": [
-      "https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "TQZrrVdCDAg8if",
     "name": "Antenne Steiermark",
-    "stream_urls": [
-      "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -28,10 +30,11 @@
   {
     "nanoid": "0XGe5MeCqdcWxG",
     "name": "Dorf TV",
-    "stream_urls": [
-      "https://edge.cdn.dorftv.at/dorftv/live/llhls.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://edge.cdn.dorftv.at/dorftv/live/llhls.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -41,10 +44,11 @@
   {
     "nanoid": "SZKqh8My275jx3",
     "name": "FairON",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/T0QWSlvVsxA"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/T0QWSlvVsxA"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -54,10 +58,11 @@
   {
     "nanoid": "TIO4oK5UynDpK7",
     "name": "FS1 Salzburg",
-    "stream_urls": [
-      "https://stream.fs1.tv/hls/webstream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.fs1.tv/hls/webstream.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -67,10 +72,11 @@
   {
     "nanoid": "KfXvvS2DuTflFJ",
     "name": "Gemeinde TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Ua9BVSklZpU"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Ua9BVSklZpU"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -80,11 +86,12 @@
   {
     "nanoid": "ZcBdMXdtJIRBX4",
     "name": "Hitradio O3",
-    "stream_urls": [
-      "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8",
-      "https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8",
+        "https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -94,10 +101,25 @@
   {
     "nanoid": "d2Um5HC82pjJ2o",
     "name": "K-TV",
-    "stream_urls": [
-      "https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8"
+    "sources": {
+      "streams": [
+        "https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
     ],
-    "youtube_urls": [],
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "m2x8vdlVVOzPv2",
+    "name": "kanal3",
+    "sources": {
+      "streams": [
+        "https://ms02.w24.at/R9Partner/kanal3.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -107,10 +129,11 @@
   {
     "nanoid": "5tTy78tgvm7wa1",
     "name": "KIT-TV",
-    "stream_urls": [
-      "https://everest.pa-hosting.de:3591/live/joseflive.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://everest.pa-hosting.de:3591/live/joseflive.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -120,10 +143,11 @@
   {
     "nanoid": "0U8AHRskM6eU3e",
     "name": "Kronehit",
-    "stream_urls": [
-      "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -133,23 +157,11 @@
   {
     "nanoid": "CKfg0b9vG2JaE5",
     "name": "Kronen Zeitung",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JS67CK1OVMU"
-    ],
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uezYMaUqM1TDux",
-    "name": "KT1",
-    "stream_urls": [
-      "https://ms02.w24.at/R9Partner/kt1.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/JS67CK1OVMU"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -159,11 +171,12 @@
   {
     "nanoid": "1dXe5ax8yeuJDo",
     "name": "Kurier TV",
-    "stream_urls": [
-      "https://schautv.mdn.ors.at/live/eds/kuriertv_hd/hls_nodrm/kuriertv_hd-nodrm.m3u8",
-      "https://simplitv-live.mdn.ors.at/live/eds/kuriertv_hd/hls_nodrm/kuriertv_hd-nodrm.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://schautv.mdn.ors.at/live/eds/kuriertv_hd/hls_nodrm/kuriertv_hd-nodrm.m3u8",
+        "https://simplitv-live.mdn.ors.at/live/eds/kuriertv_hd/hls_nodrm/kuriertv_hd-nodrm.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -173,10 +186,11 @@
   {
     "nanoid": "Jt2AJ1clq01S32",
     "name": "Landle TV",
-    "stream_urls": [
-      "https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -186,10 +200,11 @@
   {
     "nanoid": "xwu9RwQkvtgOhW",
     "name": "Love The Planet DE",
-    "stream_urls": [
-      "https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -199,10 +214,11 @@
   {
     "nanoid": "9llJxc5Zi2OtF9",
     "name": "LT1",
-    "stream_urls": [
-      "https://ms02.w24.at/R9Partner/lt1.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ms02.w24.at/R9Partner/lt1.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -212,10 +228,11 @@
   {
     "nanoid": "ov59yRWEbR7wGn",
     "name": "Melodie TV",
-    "stream_urls": [
-      "https://183.bozztv.com/ssh101/ssh101/melodietvlive/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://183.bozztv.com/ssh101/ssh101/melodietvlive/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -225,11 +242,11 @@
   {
     "nanoid": "hUh8zOVsiGJwtZ",
     "name": "N1 TV",
-    "stream_urls": [
-      "https://z4atvie10snsr101.rtccdn.com/r9_live/r9_n1media_abr/playlist.m3u8",
-      "https://ms02.w24.at/R9Partner/noentv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://z4atvie10snsr101.rtccdn.com/r9_live/r9_n1media_abr/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -239,10 +256,11 @@
   {
     "nanoid": "1VnHK2mZ0MLj12",
     "name": "oe24 TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/m-3axpNN8z4"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/m-3axpNN8z4"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -252,10 +270,11 @@
   {
     "nanoid": "MdeoF65PEO9tKW",
     "name": "Okto",
-    "stream_urls": [
-      "https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -265,10 +284,11 @@
   {
     "nanoid": "2YKn96rbCyY3de",
     "name": "ORF III",
-    "stream_urls": [
-      "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -278,10 +298,11 @@
   {
     "nanoid": "5xY9cw7ypbOud1",
     "name": "R9",
-    "stream_urls": [
-      "https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -291,11 +312,12 @@
   {
     "nanoid": "znLSEaZWfm2KZE",
     "name": "Red Bull TV",
-    "stream_urls": [
-      "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
-      "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+        "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
+      ]
+    },
     "languages": [
       "deu",
       "eng"
@@ -306,10 +328,11 @@
   {
     "nanoid": "jHe1OEHTcksowX",
     "name": "Red Bull TV AU",
-    "stream_urls": [
-      "https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -317,12 +340,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "L5wf5IamZyqkNz",
+    "name": "Regional TV Salzburg",
+    "sources": {
+      "streams": [
+        "https://ms02.w24.at/R9Partner/rts.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LmXiHP1vY6XyzS",
     "name": "RTV",
-    "stream_urls": [
-      "https://streamtest.rtv-ooe.at/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamtest.rtv-ooe.at/stream.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -332,10 +370,11 @@
   {
     "nanoid": "xO850u0sWlzEEk",
     "name": "Salzburg AG",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LNySQz-I630"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/LNySQz-I630"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -345,10 +384,11 @@
   {
     "nanoid": "K8THRi8hdcH82I",
     "name": "Schladming-Dachstein TV",
-    "stream_urls": [
-      "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -358,10 +398,11 @@
   {
     "nanoid": "ArpzONQunFnW4f",
     "name": "ServusTV",
-    "stream_urls": [
-      "https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -371,10 +412,11 @@
   {
     "nanoid": "FprwnAkCKvi17W",
     "name": "Steiermark TV",
-    "stream_urls": [
-      "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref="
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref="
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -384,10 +426,11 @@
   {
     "nanoid": "dHIKj0PT3rIpW8",
     "name": "Stimmungsgarten TV",
-    "stream_urls": [
-      "https://stimmungsgartentv.iptv-playoutcenter.de/stimmungsgartentv/stimmungsgartentv-all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stimmungsgartentv.iptv-playoutcenter.de/stimmungsgartentv/stimmungsgartentv-all/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -397,10 +440,11 @@
   {
     "nanoid": "0mEe54Ekw1mj61",
     "name": "Swamiji TV American",
-    "stream_urls": [
-      "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -410,10 +454,11 @@
   {
     "nanoid": "5ZPKeEUbFRktME",
     "name": "Swamiji TV Australian",
-    "stream_urls": [
-      "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -423,10 +468,11 @@
   {
     "nanoid": "FJL8QhoyygdV5z",
     "name": "Swamiji TV European",
-    "stream_urls": [
-      "https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -436,10 +482,25 @@
   {
     "nanoid": "YQPekJKCEusA1c",
     "name": "Tirol TV",
-    "stream_urls": [
-      "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8"
+    "sources": {
+      "streams": [
+        "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
     ],
-    "youtube_urls": [],
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rKCjw7q21G4IO1",
+    "name": "TV 1 Oberosterreich",
+    "sources": {
+      "streams": [
+        "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -449,10 +510,11 @@
   {
     "nanoid": "poBLTECPZ1p4X6",
     "name": "W24",
-    "stream_urls": [
-      "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -462,10 +524,11 @@
   {
     "nanoid": "EHhc90wawtgTuv",
     "name": "Wetter-Panorama",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NIuO6hrFTrg"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/NIuO6hrFTrg"
+      ]
+    },
     "languages": [
       "deu"
     ],

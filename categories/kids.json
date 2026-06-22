@@ -2,12 +2,14 @@
   {
     "nanoid": "EeCJey6cUBdlrr",
     "name": "3ABN Kids",
-    "stream_urls": [
-      "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ulKEgOktCeU"
-    ],
+    "sources": {
+      "streams": [
+        "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ulKEgOktCeU"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -17,10 +19,11 @@
   {
     "nanoid": "mGLwdOQP8VDOyv",
     "name": "3RS Cartoon Movies",
-    "stream_urls": [
-      "https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8"
+      ]
+    },
     "languages": [
       "tgl"
     ],
@@ -30,10 +33,11 @@
   {
     "nanoid": "fooBWNn7lAf85s",
     "name": "4 Fun Kids",
-    "stream_urls": [
-      "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8"
+      ]
+    },
     "languages": [
       "pol"
     ],
@@ -43,10 +47,11 @@
   {
     "nanoid": "EgspbzPRaIJYXi",
     "name": "ADO TV",
-    "stream_urls": [
-      "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -56,10 +61,11 @@
   {
     "nanoid": "ddrr8smWgDPaNo",
     "name": "Afarin Baxcha",
-    "stream_urls": [
-      "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "kur"
     ],
@@ -69,10 +75,11 @@
   {
     "nanoid": "AeG4E88wj1aN3z",
     "name": "Afarin TV",
-    "stream_urls": [
-      "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "kur"
     ],
@@ -82,10 +89,11 @@
   {
     "nanoid": "mtvxflwldN4QsH",
     "name": "Aghapy Kids",
-    "stream_urls": [
-      "https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara",
       "eng"
@@ -96,10 +104,11 @@
   {
     "nanoid": "qrF5SmJtak0Ry4",
     "name": "Akili Kids!",
-    "stream_urls": [
-      "https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -109,10 +118,11 @@
   {
     "nanoid": "XxbPKm432a9aGb",
     "name": "Ananda",
-    "stream_urls": [
-      "https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8"
+      ]
+    },
     "languages": [
       "ind"
     ],
@@ -122,10 +132,11 @@
   {
     "nanoid": "MrDAdB1Ld8qhDL",
     "name": "Aqlvoy",
-    "stream_urls": [
-      "https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "rus",
@@ -137,10 +148,11 @@
   {
     "nanoid": "oPGSl5HOSc04b2",
     "name": "ARB Gunes",
-    "stream_urls": [
-      "https://yayin2.canlitv.fun/live/arbgunes.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://yayin2.canlitv.fun/live/arbgunes.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f"
+      ]
+    },
     "languages": [
       "aze"
     ],
@@ -150,11 +162,12 @@
   {
     "nanoid": "QHuUkTJnPtT3bd",
     "name": "Atfal & Mawaheb TV",
-    "stream_urls": [
-      "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
-      "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+        "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -164,10 +177,11 @@
   {
     "nanoid": "BA4cWPIdrFeLrG",
     "name": "Baby Shark TV",
-    "stream_urls": [
-      "https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8"
+      ]
+    },
     "languages": [],
     "country": "us",
     "isGeoBlocked": false
@@ -175,10 +189,11 @@
   {
     "nanoid": "kJYDf0pliJrAhX",
     "name": "BabyTV France HD",
-    "stream_urls": [
-      "https://41.223.30.230/BABYTV/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://41.223.30.230/BABYTV/index.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -188,10 +203,11 @@
   {
     "nanoid": "NZvHXProBuiKC4",
     "name": "BabyTV Spain",
-    "stream_urls": [
-      "https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -201,10 +217,11 @@
   {
     "nanoid": "NsRP1rTNLBH991",
     "name": "Balapan",
-    "stream_urls": [
-      "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "kaz"
     ],
@@ -214,10 +231,11 @@
   {
     "nanoid": "cGjSaev20uBBta",
     "name": "Banijay Mr Bean Animé",
-    "stream_urls": [
-      "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -227,10 +245,11 @@
   {
     "nanoid": "aDSSb0MXYf6HZV",
     "name": "BeJoy.kids",
-    "stream_urls": [
-      "https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ita"
     ],
@@ -240,11 +259,11 @@
   {
     "nanoid": "L3YkR6AcwrR8JI",
     "name": "Bem Mais TV",
-    "stream_urls": [
-      "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8",
-      "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -254,10 +273,11 @@
   {
     "nanoid": "zoPSzEEh7Sh5vx",
     "name": "Bluey - Español Canal Oficial",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4bbPfVFaSx8"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/4bbPfVFaSx8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -267,10 +287,11 @@
   {
     "nanoid": "0LllhlpEzMQvfO",
     "name": "Bluey - Official Channel",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RHUauMcYlX0"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/RHUauMcYlX0"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -280,10 +301,11 @@
   {
     "nanoid": "ok2dBHadmprdM8",
     "name": "Bluey Brasil",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OBe-ehVPKKk"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/OBe-ehVPKKk"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -293,10 +315,11 @@
   {
     "nanoid": "L2FPG37MOC7Wok",
     "name": "Bolajon",
-    "stream_urls": [
-      "https://stream8.cinerama.uz/1007/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1007/playlist.m3u8"
+      ]
+    },
     "languages": [
       "uzb"
     ],
@@ -306,10 +329,11 @@
   {
     "nanoid": "h6dCdvtYVDA2eA",
     "name": "Boomerang UK",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/90kaC8Kbw0k"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/90kaC8Kbw0k"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -319,10 +343,11 @@
   {
     "nanoid": "yT2qXVsXTTrUep",
     "name": "Boomerang: Best Cartoons Ever",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rEKifG2XUZg"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/rEKifG2XUZg"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -332,10 +357,11 @@
   {
     "nanoid": "Hk3PCZlSdlk7No",
     "name": "Boomerang: The Tom and Jerry Show",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_XeGYNTiuSM"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/_XeGYNTiuSM"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -345,10 +371,11 @@
   {
     "nanoid": "cjPVIZBmspUxQT",
     "name": "Boomerang: Tom & Jerry",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/j4rEV2OCRS4"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/j4rEV2OCRS4"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -358,10 +385,11 @@
   {
     "nanoid": "Ejzd7w3qnd3CEH",
     "name": "Camp Spoopy",
-    "stream_urls": [
-      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=269"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.ads.ottera.tv/playlist.m3u8?network_id=269"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -371,12 +399,13 @@
   {
     "nanoid": "eXRHxuSjLuhKid",
     "name": "Carousel",
-    "stream_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
-      "https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8",
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
+        "https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8",
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -386,10 +415,11 @@
   {
     "nanoid": "lSTW1dzY0A0GTW",
     "name": "Cartoon Classics FAST",
-    "stream_urls": [
-      "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -399,10 +429,11 @@
   {
     "nanoid": "QFKHFoExvGyTwt",
     "name": "Cartoon Network",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/21hAlnDFTLw"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/21hAlnDFTLw"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -412,10 +443,11 @@
   {
     "nanoid": "IsHsuTjDtTUjjX",
     "name": "Cartoon Network Africa",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5lCDK0nZjt8"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/5lCDK0nZjt8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -425,10 +457,11 @@
   {
     "nanoid": "cjno9NJJ87yGNT",
     "name": "Cartoon Network Asia",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/v5UO0XAocEI"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/v5UO0XAocEI"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -438,10 +471,11 @@
   {
     "nanoid": "xSyDen73bxIFUM",
     "name": "Cartoon Network Italia",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WU9D6UtkMLU"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/WU9D6UtkMLU"
+      ]
+    },
     "languages": [
       "ita"
     ],
@@ -451,10 +485,11 @@
   {
     "nanoid": "ujhH0nIPBP5W03",
     "name": "Cartoon Network Türkiye",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JyMeD9wfMZQ"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/JyMeD9wfMZQ"
+      ]
+    },
     "languages": [
       "tur"
     ],
@@ -464,10 +499,11 @@
   {
     "nanoid": "6EhlkDLmeZJVkW",
     "name": "Cartoon Network Türkiye: Kral Şakir",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5Whk9MVTpI4"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/5Whk9MVTpI4"
+      ]
+    },
     "languages": [
       "tur"
     ],
@@ -477,10 +513,11 @@
   {
     "nanoid": "lcSkp0zE9RxEzT",
     "name": "Cartoon Network: Regular Show",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aPGvK6tJMXk"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/aPGvK6tJMXk"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -490,10 +527,11 @@
   {
     "nanoid": "QwwxlmtolUf72i",
     "name": "Cartoon Network: Steven Universe",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XpNPG187jVs"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/XpNPG187jVs"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -503,10 +541,11 @@
   {
     "nanoid": "mPbuqsHG1z2Sb6",
     "name": "Cartoonito France: Tom Et Jerry",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/C6hI2WB3wH8"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/C6hI2WB3wH8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -516,10 +555,11 @@
   {
     "nanoid": "X4xe5RrfPw7ILD",
     "name": "Cartoonito Magyarország",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lwiWqNgWgbE"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/lwiWqNgWgbE"
+      ]
+    },
     "languages": [
       "hun"
     ],
@@ -529,10 +569,11 @@
   {
     "nanoid": "rVlkWuhkPTSNkw",
     "name": "Cartoonito MENA",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4l5jmSgWW-Q"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/4l5jmSgWW-Q"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -542,10 +583,11 @@
   {
     "nanoid": "VCGUnN5pXVoDhF",
     "name": "Cartoonito România",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/C94O_gwXiDY"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/C94O_gwXiDY"
+      ]
+    },
     "languages": [
       "ron"
     ],
@@ -555,10 +597,11 @@
   {
     "nanoid": "QtXFuWUD4uuvh6",
     "name": "Cartoonito Türkiye",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XDSd6m4SauI"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/XDSd6m4SauI"
+      ]
+    },
     "languages": [
       "tur"
     ],
@@ -568,10 +611,11 @@
   {
     "nanoid": "fSTT3APiu5GT6P",
     "name": "Cartoonito: Baby Looney Tunes",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XfZetbS9084"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/XfZetbS9084"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -581,10 +625,11 @@
   {
     "nanoid": "OrgQw5NnGfhd8H",
     "name": "Chinola TV",
-    "stream_urls": [
-      "https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -594,10 +639,11 @@
   {
     "nanoid": "ioAW5Hy7e9f7fU",
     "name": "Chithiram",
-    "stream_urls": [
-      "https://cdn-6.pishow.tv/live/1243/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-6.pishow.tv/live/1243/master.m3u8"
+      ]
+    },
     "languages": [
       "tam"
     ],
@@ -607,10 +653,11 @@
   {
     "nanoid": "hboH9AkWIrBLT1",
     "name": "Clifford the Big Red Dog: Classic",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HTjWRjaMAT0"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/HTjWRjaMAT0"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -620,10 +667,11 @@
   {
     "nanoid": "DWHNlPkSNnnnSG",
     "name": "Clifford the Big Red Dog: Clifford's Puppy Days",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HTGZ9bR9B2k"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/HTGZ9bR9B2k"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -633,10 +681,11 @@
   {
     "nanoid": "DIYFiR27hwM7Fq",
     "name": "Dios Te Ve Kids",
-    "stream_urls": [
-      "https://s.emisoras.tv:8081/diostevekids/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://s.emisoras.tv:8081/diostevekids/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -644,26 +693,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "W96nD2jfO547gK",
-    "name": "Disney Channel East",
-    "stream_urls": [
-      "https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disney/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VJ5gw1qkZks4rp",
     "name": "Disney Channel: Big City Greens",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/B_5RPAixkG4"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/B_5RPAixkG4"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -673,10 +709,11 @@
   {
     "nanoid": "xhpSHNk65C34T5",
     "name": "Disney Channel: Gravity Falls",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eE1L08hNdW8"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/eE1L08hNdW8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -686,10 +723,11 @@
   {
     "nanoid": "5DpoUpKEzcecSL",
     "name": "Disney Channel: Phineas and Ferb",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_HviSyC7zSU"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/_HviSyC7zSU"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -699,10 +737,11 @@
   {
     "nanoid": "LbfmhqUBJd1O9n",
     "name": "Disney Channel: Stuck in the Middle",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dt6dEz1rDzo"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/dt6dEz1rDzo"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -712,10 +751,11 @@
   {
     "nanoid": "nu7l4PSugK8FRQ",
     "name": "Disney Channel: Wizards of Waverly",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/s1Ylmj87gXY"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/s1Ylmj87gXY"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -725,10 +765,11 @@
   {
     "nanoid": "aDVjvDueowqzIg",
     "name": "Disney Jr. Latin America South",
-    "stream_urls": [
-      "https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -738,10 +779,11 @@
   {
     "nanoid": "U8REylkpG4igqA",
     "name": "Disney Junior East",
-    "stream_urls": [
-      "https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disneyjr/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disneyjr/index.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "spa"
@@ -752,10 +794,11 @@
   {
     "nanoid": "VKKpehR0qNSoUY",
     "name": "Disney Junior: Bluey",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/w2sB87jLE1I"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/w2sB87jLE1I"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -765,10 +808,11 @@
   {
     "nanoid": "hcZQkUNUfpPzBL",
     "name": "Disney Junior: Marvel's Spidey and his Amazing Friends",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qbBBhZeYUqY"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/qbBBhZeYUqY"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -778,10 +822,11 @@
   {
     "nanoid": "1g6GipgSl9sQBc",
     "name": "Disney Junior: Mickey Mouse Clubhouse",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yHmPWzkhcZ8"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/yHmPWzkhcZ8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -791,10 +836,11 @@
   {
     "nanoid": "Tvf9sxQ2H2EEqR",
     "name": "Disney Junior: Minnie's Bow-Toons",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/T9J5DqP2DKw"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/T9J5DqP2DKw"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -804,10 +850,11 @@
   {
     "nanoid": "OvZr1jvQiMwMvG",
     "name": "Disney Junior: Pixar Cars Shorts",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yzKTO-6KWHU"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/yzKTO-6KWHU"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -817,10 +864,11 @@
   {
     "nanoid": "Gfc8UrDuc4Wfha",
     "name": "Disney Junior: SuperKitties",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NnqqoM6NaFw"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/NnqqoM6NaFw"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -830,10 +878,11 @@
   {
     "nanoid": "e4yw9FazswIr1j",
     "name": "Disney Junior: Winnie the Pooh",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-WIhWB9pEqo"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/-WIhWB9pEqo"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -843,10 +892,11 @@
   {
     "nanoid": "qXqvYBBMJRVAJM",
     "name": "Disney Kids: Chip 'n Dale's Rescue Rangers",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7YPXF9azaA4"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/7YPXF9azaA4"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -856,10 +906,11 @@
   {
     "nanoid": "lHigiueHBT0bTw",
     "name": "Disney Kids: Lilo & Stitch",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/F4Tnje7wi-o"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/F4Tnje7wi-o"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -869,10 +920,11 @@
   {
     "nanoid": "UKFKknT6Mn80n5",
     "name": "Disney Kids: Winnie the Pooh",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/URXBh2PRp0o"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/URXBh2PRp0o"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -882,10 +934,11 @@
   {
     "nanoid": "Al1oV2CUIaUTJV",
     "name": "Dr. Seuss",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0eJnWun3HzQ"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/0eJnWun3HzQ"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -895,12 +948,13 @@
   {
     "nanoid": "Hgr2Yg9Zm1Cgi3",
     "name": "ducktv",
-    "stream_urls": [
-      "https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8",
-      "https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8",
-      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8",
+        "https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8",
+        "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -910,10 +964,11 @@
   {
     "nanoid": "mkS2euN6WoaBGB",
     "name": "EBS Kids",
-    "stream_urls": [
-      "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8"
+      ]
+    },
     "languages": [
       "kor"
     ],
@@ -921,25 +976,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nLjmNpKEQoalYU",
-    "name": "El Chavo TV",
-    "stream_urls": [
-      "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "w1TyAWzZva88k1",
     "name": "ETV 2",
-    "stream_urls": [
-      "https://sb.err.ee/live/etv2.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://sb.err.ee/live/etv2.m3u8"
+      ]
+    },
     "languages": [
       "est"
     ],
@@ -949,10 +992,11 @@
   {
     "nanoid": "ejJZfMgOR7K5m8",
     "name": "Extrema Kids TV",
-    "stream_urls": [
-      "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -960,12 +1004,69 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IGkGdoXwnCTsO2",
+    "name": "God Stands Kids Club TV Arabic",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "X2mzfNA1EyPeME",
+    "name": "God Stands Kids Club TV Chinese",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "97TDYmlPdbsepe",
+    "name": "God Stands Kids Club TV English",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oXC3NCXK3UzLO5",
+    "name": "God Stands Kids Club TV Urdu",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KFnZBS7uvG9E90",
     "name": "Gulli Girl",
-    "stream_urls": [
-      "https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -975,10 +1076,11 @@
   {
     "nanoid": "xx5fSvkMwtXOAg",
     "name": "HodHod Farsi TV",
-    "stream_urls": [
-      "https://northtelecom.b-cdn.net/hodhodtv.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://northtelecom.b-cdn.net/hodhodtv.m3u8"
+      ]
+    },
     "languages": [
       "fas"
     ],
@@ -988,10 +1090,11 @@
   {
     "nanoid": "gfaamDst89W7kn",
     "name": "Horrid Henry",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/X3DkRnx3y8Q"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/X3DkRnx3y8Q"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1001,11 +1104,12 @@
   {
     "nanoid": "qGCa4GceuRopDr",
     "name": "Iunior TV",
-    "stream_urls": [
-      "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8",
-      "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8",
+        "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "ita"
@@ -1016,10 +1120,11 @@
   {
     "nanoid": "0KHOlcS3CSZQO6",
     "name": "JapanimTV",
-    "stream_urls": [
-      "https://foxkidstv.be:3369/stream/play.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://foxkidstv.be:3369/stream/play.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -1029,10 +1134,11 @@
   {
     "nanoid": "EDJsRoJArkwgcL",
     "name": "Jetix",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SjD45J3RdXI"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/SjD45J3RdXI"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -1042,10 +1148,11 @@
   {
     "nanoid": "v5IfXYen2Q01eP",
     "name": "JimJam Europe",
-    "stream_urls": [
-      "https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/jimjam/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/jimjam/index.m3u8"
+      ]
+    },
     "languages": [
       "ces",
       "eng",
@@ -1057,14 +1164,29 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9OJ4nAoCPnomhe",
+    "name": "Karapuz TV",
+    "sources": {
+      "streams": [
+        "https://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ajXKejHqelybWn",
     "name": "Kartoon Channel!",
-    "stream_urls": [
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8",
-      "https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8",
+        "https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1074,10 +1196,11 @@
   {
     "nanoid": "VosvDDwN0t5G4V",
     "name": "Ketchup TV",
-    "stream_urls": [
-      "https://d24p9tv2w5yorn.cloudfront.net/vod.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d24p9tv2w5yorn.cloudfront.net/vod.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1085,12 +1208,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
+    "sources": {
+      "streams": [
+        "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "X98dZJpeNVSZmP",
     "name": "KidsFlix",
-    "stream_urls": [
-      "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1100,12 +1238,13 @@
   {
     "nanoid": "0yjVBN9zD5VvoM",
     "name": "KiKA",
-    "stream_urls": [
-      "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8",
-      "https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8",
-      "https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8",
+        "https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8",
+        "https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1115,10 +1254,11 @@
   {
     "nanoid": "mh8ffIuQVJBAom",
     "name": "Knowledge Network",
-    "stream_urls": [
-      "https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1128,10 +1268,11 @@
   {
     "nanoid": "7QNwjfAH3tZtOn",
     "name": "Koogi TV",
-    "stream_urls": [
-      "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -1141,10 +1282,11 @@
   {
     "nanoid": "Mi17BkbSFMtULi",
     "name": "Kuriakos Kids",
-    "stream_urls": [
-      "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -1154,10 +1296,11 @@
   {
     "nanoid": "KUkwyVOcL5Mkvr",
     "name": "L.O.L. Surprise!",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/oJr-cdlojos"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/oJr-cdlojos"
+      ]
+    },
     "languages": [
       "deu",
       "eng"
@@ -1168,10 +1311,11 @@
   {
     "nanoid": "ecJrdAdmunHpWi",
     "name": "Lale",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch77/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch77/index.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -1181,10 +1325,11 @@
   {
     "nanoid": "F30meDmVTnFNRo",
     "name": "Lego Channel",
-    "stream_urls": [
-      "https://dh18i7whff86v.cloudfront.net/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dh18i7whff86v.cloudfront.net/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1194,10 +1339,11 @@
   {
     "nanoid": "aWUdvngHDj9fCb",
     "name": "Logos TV Kids",
-    "stream_urls": [
-      "https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -1207,10 +1353,11 @@
   {
     "nanoid": "fZyKRU2kHKETIx",
     "name": "Lou!",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cMYWm856DQM"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/cMYWm856DQM"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -1220,10 +1367,11 @@
   {
     "nanoid": "DdiVuOolojZUS0",
     "name": "MCN6 Music Channel",
-    "stream_urls": [
-      "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1233,10 +1381,11 @@
   {
     "nanoid": "UuFMTGs8Wi2JhV",
     "name": "Minika Cocuk",
-    "stream_urls": [
-      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8"
+      ]
+    },
     "languages": [
       "tur"
     ],
@@ -1246,10 +1395,11 @@
   {
     "nanoid": "2bms8LIelvHhKd",
     "name": "Minika Go",
-    "stream_urls": [
-      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "tur"
@@ -1260,10 +1410,11 @@
   {
     "nanoid": "zYIClJMSMxWG01",
     "name": "Minimax",
-    "stream_urls": [
-      "https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "urd"
     ],
@@ -1273,10 +1424,11 @@
   {
     "nanoid": "QCmvdu32Qo7gos",
     "name": "momokids親子台",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lp1EwSBU0JU"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/lp1EwSBU0JU"
+      ]
+    },
     "languages": [
       "zho"
     ],
@@ -1286,10 +1438,11 @@
   {
     "nanoid": "lfrIvAovke3yk8",
     "name": "Moomin Official",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/wRRhnGTnaU0"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/wRRhnGTnaU0"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1299,10 +1452,11 @@
   {
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
-    "stream_urls": [
-      "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1312,10 +1466,11 @@
   {
     "nanoid": "EJkm2Jgew5xz6M",
     "name": "Mr Bean Live Action",
-    "stream_urls": [
-      "https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1325,10 +1480,11 @@
   {
     "nanoid": "v8VxyASjwxc8RX",
     "name": "Mr Bean Live Action",
-    "stream_urls": [
-      "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8"
+      ]
+    },
     "languages": [],
     "country": "uk",
     "isGeoBlocked": false
@@ -1336,12 +1492,13 @@
   {
     "nanoid": "R6VpE6L98QcSep",
     "name": "Mr. Bean Animated",
-    "stream_urls": [
-      "https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8",
-      "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00627-amg00627c23-samsung-gb-3927.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8",
+        "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00627-amg00627c23-samsung-gb-3927.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1351,10 +1508,11 @@
   {
     "nanoid": "TJTh9T3GBOw5hs",
     "name": "Mr. Bean Anime Italy",
-    "stream_urls": [
-      "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ita"
     ],
@@ -1364,10 +1522,11 @@
   {
     "nanoid": "lRMrIEjwRowfq6",
     "name": "Mr. Bean Anime Spain",
-    "stream_urls": [
-      "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -1377,10 +1536,11 @@
   {
     "nanoid": "Pl9PpHSjGV5iKN",
     "name": "Multilandia",
-    "stream_urls": [
-      "https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -1390,11 +1550,12 @@
   {
     "nanoid": "gcKdwQBnRSpRrD",
     "name": "Multimania",
-    "stream_urls": [
-      "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8",
-      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8",
+        "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -1402,12 +1563,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7DSi96Xgx28uw1",
+    "name": "Nickelodeon",
+    "sources": {
+      "streams": [
+        "https://193.239.186.231/NICK/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1JYYpqQgnjcE3u",
     "name": "NickOnline",
-    "stream_urls": [
-      "https://x1co.com.br/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://x1co.com.br/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -1417,10 +1594,11 @@
   {
     "nanoid": "eyL4xvR1sE1phq",
     "name": "Nicktoons",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cOVdQCNh8-o"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/cOVdQCNh8-o"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1430,10 +1608,11 @@
   {
     "nanoid": "VvHhOWwHL2G6fH",
     "name": "NickToons Brasil",
-    "stream_urls": [
-      "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -1443,10 +1622,11 @@
   {
     "nanoid": "ugTdbReAV02ssT",
     "name": "Niki Junior",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch72/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch72/index.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -1456,10 +1636,11 @@
   {
     "nanoid": "BbdnOI6pbCxXBQ",
     "name": "Niki Kids",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch71/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch71/index.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -1469,10 +1650,11 @@
   {
     "nanoid": "jZAckV2XCo9tKn",
     "name": "Oddbods",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3-MrB_IboQw"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/3-MrB_IboQw"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1482,10 +1664,11 @@
   {
     "nanoid": "DwXz9p5aswScVu",
     "name": "PAW Patrol (English)",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SICKt_uLs4g"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/SICKt_uLs4g"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1495,10 +1678,11 @@
   {
     "nanoid": "7zFLo9wZEOWLN9",
     "name": "PAW Patrol (Español)",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4Go7z9Nmn8g"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/4Go7z9Nmn8g"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -1508,10 +1692,11 @@
   {
     "nanoid": "veSkgi6hizxqlB",
     "name": "PBS Kids",
-    "stream_urls": [
-      "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1521,10 +1706,11 @@
   {
     "nanoid": "lZcSMdwkQIJx74",
     "name": "PBS Kids Alaska",
-    "stream_urls": [
-      "https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1534,10 +1720,11 @@
   {
     "nanoid": "hpqn2IN4H4i4YN",
     "name": "PBS Kids Eastern/Central",
-    "stream_urls": [
-      "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1547,10 +1734,11 @@
   {
     "nanoid": "jdgPZWgMCGIzNv",
     "name": "PBS Kids Hawaii",
-    "stream_urls": [
-      "https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1560,10 +1748,11 @@
   {
     "nanoid": "Zq8ejlsB34g72F",
     "name": "PBS Kids Mountain",
-    "stream_urls": [
-      "https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1573,10 +1762,11 @@
   {
     "nanoid": "mwrBMj9pE1Egws",
     "name": "PBS Kids Pacific",
-    "stream_urls": [
-      "https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1586,10 +1776,11 @@
   {
     "nanoid": "9q3m5MrdjQd0TM",
     "name": "PBS Kids: Daniel Tiger",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VrEKkzmBaXc"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/VrEKkzmBaXc"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1599,10 +1790,11 @@
   {
     "nanoid": "OFaC3xiaMJRsBM",
     "name": "PBS KIDS: Sid the Science Kid",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vRCSX42k0og"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/vRCSX42k0og"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1612,10 +1804,11 @@
   {
     "nanoid": "yzwKpvNdMAZglL",
     "name": "PBS KIDS: Weather Hunters",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/gzJT_XvaOi0"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/gzJT_XvaOi0"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1625,10 +1818,11 @@
   {
     "nanoid": "2SkwDt1DzEdQq9",
     "name": "Peppa Pig Brasil",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jcjJetwZqLU"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/k5fsda_VMjE"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -1638,10 +1832,11 @@
   {
     "nanoid": "58RSnZgHiw5v1T",
     "name": "Persiana Junior",
-    "stream_urls": [
-      "https://junhls.persiana.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://junhls.persiana.live/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "fas"
     ],
@@ -1651,10 +1846,11 @@
   {
     "nanoid": "EXvskphL1UFUHC",
     "name": "Persiana Junior",
-    "stream_urls": [
-      "https://junhls.persiana.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://junhls.persiana.live/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "fas"
     ],
@@ -1664,10 +1860,11 @@
   {
     "nanoid": "1awQzLMKT020rN",
     "name": "Persiana Teen",
-    "stream_urls": [
-      "https://kphls.persiana.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://kphls.persiana.live/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "fas"
     ],
@@ -1677,10 +1874,11 @@
   {
     "nanoid": "PyldYXsoAXUikk",
     "name": "Pingviins",
-    "stream_urls": [
-      "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
+      ]
+    },
     "languages": [
       "lav"
     ],
@@ -1690,10 +1888,11 @@
   {
     "nanoid": "f3r1wPE0Kg64bZ",
     "name": "pocket.watch",
-    "stream_urls": [
-      "https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1703,10 +1902,11 @@
   {
     "nanoid": "scDZ3wRq1kFeHG",
     "name": "Pokémon",
-    "stream_urls": [
-      "https://docpe51mdltl5.cloudfront.net/Pokemon_GB.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://docpe51mdltl5.cloudfront.net/Pokemon_GB.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1716,10 +1916,11 @@
   {
     "nanoid": "vffrjcRyojS9JW",
     "name": "Pokémon",
-    "stream_urls": [
-      "https://pb-xs4ais85724vy.akamaized.net/Pokeman.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://pb-xs4ais85724vy.akamaized.net/Pokeman.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1729,10 +1930,11 @@
   {
     "nanoid": "en6lXive6kcLPT",
     "name": "Pokémon Kids TV English",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MF_i2ZV4S9M"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/MF_i2ZV4S9M"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1742,10 +1944,11 @@
   {
     "nanoid": "RBU2hbbWKTIbuY",
     "name": "Pokémon Kids TV Japanese",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Ue29oHvd-HM"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Ue29oHvd-HM"
+      ]
+    },
     "languages": [
       "jpn"
     ],
@@ -1755,10 +1958,11 @@
   {
     "nanoid": "6mEQRrMBqTxNoW",
     "name": "Pop Up",
-    "stream_urls": [
-      "https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1768,10 +1972,11 @@
   {
     "nanoid": "LaJUiyDd3qErb2",
     "name": "Pororo 뽀로로",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HfZvs0kFtyw"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/HfZvs0kFtyw"
+      ]
+    },
     "languages": [
       "kor"
     ],
@@ -1781,10 +1986,11 @@
   {
     "nanoid": "uuPEZrmKbOVuZJ",
     "name": "Radost Moya",
-    "stream_urls": [
-      "https://radm.mediacdn.ru/cdn/radost/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://radm.mediacdn.ru/cdn/radost/playlist.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -1794,10 +2000,11 @@
   {
     "nanoid": "uG8pl3LEpu9YZr",
     "name": "Rainbow Junior: 44 Cats",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/boZX-njiGNI"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/boZX-njiGNI"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1807,10 +2014,11 @@
   {
     "nanoid": "50AOLuz78mWfKm",
     "name": "RiC",
-    "stream_urls": [
-      "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1820,10 +2028,11 @@
   {
     "nanoid": "IaPzNcOFguJ1fR",
     "name": "Roya Kids",
-    "stream_urls": [
-      "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -1833,10 +2042,11 @@
   {
     "nanoid": "AnJeMRVilOxANP",
     "name": "Roya Kids Originals",
-    "stream_urls": [
-      "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -1846,11 +2056,12 @@
   {
     "nanoid": "tONaVtyzG81qYw",
     "name": "Ryan and Friends",
-    "stream_urls": [
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8",
-      "https://d3a0tomzw8z726.cloudfront.net/Ryan_and_Friends.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8",
+        "https://d3a0tomzw8z726.cloudfront.net/Ryan_and_Friends.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1860,10 +2071,11 @@
   {
     "nanoid": "b3MNVX3z2oxA71",
     "name": "Ryzhiy",
-    "stream_urls": [
-      "https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -1873,10 +2085,11 @@
   {
     "nanoid": "jeM871QPFywzzg",
     "name": "Sat 7 Kids",
-    "stream_urls": [
-      "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -1886,10 +2099,11 @@
   {
     "nanoid": "rdOkwBEFcArbvv",
     "name": "Skwad Play",
-    "stream_urls": [
-      "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1899,11 +2113,12 @@
   {
     "nanoid": "JIPUpjryYJZoMO",
     "name": "Smile TV",
-    "stream_urls": [
-      "https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8",
-      "https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8",
+        "https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -1913,11 +2128,12 @@
   {
     "nanoid": "jVAavKgp3OBX31",
     "name": "Solnce",
-    "stream_urls": [
-      "https://tv.mediacdn.ru/live/solntse/playlist.m3u8",
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tv.mediacdn.ru/live/solntse/playlist.m3u8",
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -1927,10 +2143,11 @@
   {
     "nanoid": "9O197zg8eEKLG6",
     "name": "Spacetoon Arabic",
-    "stream_urls": [
-      "https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -1940,10 +2157,11 @@
   {
     "nanoid": "W12MJtCI2qv2s8",
     "name": "SpongeBob SquarePants Official",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uAwzNhSTuVs"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/uAwzNhSTuVs"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1953,10 +2171,11 @@
   {
     "nanoid": "3C5tAme4Sy2gIV",
     "name": "Super Simple: Bedtime Songs",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/54dR8G8a3bU"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/54dR8G8a3bU"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1966,10 +2185,11 @@
   {
     "nanoid": "GdyuPfPjDfUi5s",
     "name": "Super Simple: Noodle and Pals",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xme5syo23CE"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/xme5syo23CE"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1979,10 +2199,11 @@
   {
     "nanoid": "5X99oRpChEcKAS",
     "name": "Super Simple: Simple Songs",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/F14r6PQRrs4"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/F14r6PQRrs4"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1992,11 +2213,12 @@
   {
     "nanoid": "pIMH6WPwb6VNHf",
     "name": "SX3",
-    "stream_urls": [
-      "https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8",
-      "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8",
+        "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8"
+      ]
+    },
     "languages": [
       "cat"
     ],
@@ -2004,26 +2226,14 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "99DtWOF0uOZLNA",
-    "name": "Tamyr",
-    "stream_urls": [
-      "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "bak"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IOF8Iz2JmaTIcg",
     "name": "Teletubbies",
-    "stream_urls": [
-      "https://dv8lsrd8fecw9.cloudfront.net/master.m3u8",
-      "https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dv8lsrd8fecw9.cloudfront.net/master.m3u8",
+        "https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -2033,10 +2243,11 @@
   {
     "nanoid": "m5MgU7qKVzOReb",
     "name": "The Smurfs",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SgFhzFF2tYA"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/SgFhzFF2tYA"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -2046,10 +2257,11 @@
   {
     "nanoid": "7ou9OY1nQUGsSq",
     "name": "Tiguerito TV",
-    "stream_urls": [
-      "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -2059,10 +2271,11 @@
   {
     "nanoid": "uNWpwawKxaERb1",
     "name": "TiJi",
-    "stream_urls": [
-      "https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -2072,12 +2285,13 @@
   {
     "nanoid": "Z7ZN5vbpyU6mdl",
     "name": "Tiny Pop",
-    "stream_urls": [
-      "https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8",
-      "https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8",
-      "https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8",
+        "https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8",
+        "https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -2087,10 +2301,11 @@
   {
     "nanoid": "gHsgAPKQa5gckh",
     "name": "Tom And Jerry",
-    "stream_urls": [
-      "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -2100,12 +2315,13 @@
   {
     "nanoid": "IZCLwsQd7Wmaiq",
     "name": "ToonGoggles",
-    "stream_urls": [
-      "https://tg-tg-xumo.otteravision.com/tg/tg/tg.m3u8",
-      "https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8",
-      "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tg-tg-xumo.otteravision.com/tg/tg/tg.m3u8",
+        "https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8",
+        "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -2115,10 +2331,11 @@
   {
     "nanoid": "lyqsis1AvWCgnl",
     "name": "Totally Spies!",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/oQY_Aa78nCY"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/oQY_Aa78nCY"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -2128,10 +2345,11 @@
   {
     "nanoid": "bqJWjkuxMfJzes",
     "name": "Totally Spies!: Season 1",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DoqAhtpiYrc"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/DoqAhtpiYrc"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -2141,10 +2359,11 @@
   {
     "nanoid": "lvFwkInvbE9sJ0",
     "name": "Totally Spies!: Season 2",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nGCg2O3J85o"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/nGCg2O3J85o"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -2154,10 +2373,11 @@
   {
     "nanoid": "YCPZsdEDhEaJOB",
     "name": "TRT Cocuk",
-    "stream_urls": [
-      "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
+      ]
+    },
     "languages": [
       "tur"
     ],
@@ -2167,10 +2387,11 @@
   {
     "nanoid": "aIKbRpQHmkkXLq",
     "name": "TRT Diyanet Cocuk",
-    "stream_urls": [
-      "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8"
+      ]
+    },
     "languages": [
       "tur"
     ],
@@ -2178,25 +2399,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eJ6LajESBOIbZe",
-    "name": "TV Bahoriston",
-    "stream_urls": [
-      "https://live.teleradiocom.tj/3/3m.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tgk"
-    ],
-    "country": "tj",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "G5MvNhKDTwrAEa",
     "name": "TVCARiB Kids & Teens",
-    "stream_urls": [
-      "https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "nld"
@@ -2207,10 +2416,11 @@
   {
     "nanoid": "AhKM0xkZXbEXn7",
     "name": "TVS Hi Tops",
-    "stream_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -2220,10 +2430,11 @@
   {
     "nanoid": "fg8Ci5rWERRdEL",
     "name": "Unicorn Academy",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tQhBy3urMUc"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/tQhBy3urMUc"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -2233,10 +2444,11 @@
   {
     "nanoid": "KGfXY9EKgCoeEb",
     "name": "Universal Jr: Curious George",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_Xpg2EJunRI"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/_Xpg2EJunRI"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -2246,10 +2458,11 @@
   {
     "nanoid": "S031zk98bWY7Ix",
     "name": "WildBrain Kids",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/caRdBSA31ig"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/caRdBSA31ig"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -2259,10 +2472,11 @@
   {
     "nanoid": "pZXtU4U56thuRO",
     "name": "WildBrain: Johnny Test",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SiflAbFG_HI"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/SiflAbFG_HI"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -2272,10 +2486,11 @@
   {
     "nanoid": "hzA9M1g8Uiyjea",
     "name": "Xtrema Cartoons",
-    "stream_urls": [
-      "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -2285,10 +2500,11 @@
   {
     "nanoid": "25EJA2ZeSSXbwm",
     "name": "YAAAS!",
-    "stream_urls": [
-      "https://d3knqoaufvjug3.cloudfront.net/yas.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d3knqoaufvjug3.cloudfront.net/yas.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -2296,12 +2512,27 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "5tnyJyKLhuRZfm",
+    "name": "ZB Cartoon",
+    "sources": {
+      "streams": [
+        "https://server.zillarbarta.com/zbcatun/video.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kz1QrxbntvR2ns",
     "name": "Zig & Sharko",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-w62_1H18_Y"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/-w62_1H18_Y"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -2311,12 +2542,12 @@
   {
     "nanoid": "y1OGn4C9pf6ycf",
     "name": "ZooMoo",
-    "stream_urls": [
-      "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
-      "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -2326,10 +2557,11 @@
   {
     "nanoid": "jf4gPtHjnGADqF",
     "name": "Союзмультфильм: Ну, погоди!",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_XDRutngaaU"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/_XDRutngaaU"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -2339,10 +2571,11 @@
   {
     "nanoid": "0REjP55mYk4y0F",
     "name": "小猪佩奇 中文官方 - Peppa Pig",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/n_HzoKOdZ98"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/tsRBMKkT6cU"
+      ]
+    },
     "languages": [
       "zho"
     ],

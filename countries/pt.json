@@ -2,10 +2,11 @@
   {
     "nanoid": "UMtS6zsgi9sFxf",
     "name": "ADB TV",
-    "stream_urls": [
-      "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "k9YVnaB9vAhdV8",
     "name": "Angel TV Portuguese",
-    "stream_urls": [
-      "https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -28,10 +30,11 @@
   {
     "nanoid": "aMfHfOa13YZ4ZC",
     "name": "ARTV",
-    "stream_urls": [
-      "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -41,11 +44,12 @@
   {
     "nanoid": "Iuaewjg35O2O7W",
     "name": "FUEL TV APAC",
-    "stream_urls": [
-      "https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8",
-      "https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8",
+        "https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -55,10 +59,11 @@
   {
     "nanoid": "q2KimDhflePyDK",
     "name": "FUEL TV Europe",
-    "stream_urls": [
-      "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -68,10 +73,11 @@
   {
     "nanoid": "b7x9FsdKa3CXRR",
     "name": "Kuriakos Cine",
-    "stream_urls": [
-      "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -81,10 +87,11 @@
   {
     "nanoid": "Mi17BkbSFMtULi",
     "name": "Kuriakos Kids",
-    "stream_urls": [
-      "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -94,10 +101,11 @@
   {
     "nanoid": "FvVFbOQRNLjmw4",
     "name": "Kuriakos TV",
-    "stream_urls": [
-      "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -107,10 +115,11 @@
   {
     "nanoid": "0J7I6WaxhPR14s",
     "name": "Mana Church Online",
-    "stream_urls": [
-      "https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -120,10 +129,11 @@
   {
     "nanoid": "Juc1gztvVlHTFZ",
     "name": "Mana Cirkev Online",
-    "stream_urls": [
-      "https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "slk"
     ],
@@ -133,10 +143,11 @@
   {
     "nanoid": "zLkjrrJO2d7fZT",
     "name": "Mana Eglise Online",
-    "stream_urls": [
-      "https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -146,10 +157,11 @@
   {
     "nanoid": "uxVkA6yj2qeiYj",
     "name": "Mana Iglesia Online",
-    "stream_urls": [
-      "https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -159,10 +171,11 @@
   {
     "nanoid": "vzYrcxLiw69sbE",
     "name": "Mana Igreja Online",
-    "stream_urls": [
-      "https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -172,10 +185,11 @@
   {
     "nanoid": "2pdGna4gJSqznu",
     "name": "Mana Tserkov' Onlayn",
-    "stream_urls": [
-      "https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -185,10 +199,11 @@
   {
     "nanoid": "IowNjd0p51Ov4o",
     "name": "NPC Radio e TV",
-    "stream_urls": [
-      "https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -198,10 +213,11 @@
   {
     "nanoid": "oGBDTLuvXcCKsV",
     "name": "ON FM",
-    "stream_urls": [
-      "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -211,10 +227,11 @@
   {
     "nanoid": "xjxSZKwVluReVC",
     "name": "Porto Canal",
-    "stream_urls": [
-      "https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -224,10 +241,11 @@
   {
     "nanoid": "zyLVOcYTONpkxG",
     "name": "Radio Sines",
-    "stream_urls": [
-      "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -237,10 +255,11 @@
   {
     "nanoid": "PUdpiv6E36htAt",
     "name": "RFPtv",
-    "stream_urls": [
-      "https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -250,10 +269,11 @@
   {
     "nanoid": "MegvelUFPkbBIn",
     "name": "SIC Alta Definicao",
-    "stream_urls": [
-      "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -263,10 +283,11 @@
   {
     "nanoid": "YRjUd2eOFQrHrU",
     "name": "SIC Replay",
-    "stream_urls": [
-      "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -276,10 +297,11 @@
   {
     "nanoid": "f1Qql9BKGeNMZz",
     "name": "TV Mana 1",
-    "stream_urls": [
-      "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -289,10 +311,11 @@
   {
     "nanoid": "3uF7WRN0kFbgMG",
     "name": "TV Mana 2",
-    "stream_urls": [
-      "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -302,10 +325,11 @@
   {
     "nanoid": "jkn0Y9QQQ5juVa",
     "name": "TV Mana Brasil",
-    "stream_urls": [
-      "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -315,10 +339,11 @@
   {
     "nanoid": "dwddHqZf8SNFMu",
     "name": "TV Mana English",
-    "stream_urls": [
-      "https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -328,10 +353,11 @@
   {
     "nanoid": "uCIQpHv1Z9YPGJ",
     "name": "TV Mana Espanhol",
-    "stream_urls": [
-      "https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -341,10 +367,11 @@
   {
     "nanoid": "tSl4b1yvIcpNm0",
     "name": "TV Mana Russkiy",
-    "stream_urls": [
-      "https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -354,10 +381,11 @@
   {
     "nanoid": "8Zval48r5m3T99",
     "name": "TVI",
-    "stream_urls": [
-      "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],

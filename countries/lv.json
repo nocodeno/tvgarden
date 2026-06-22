@@ -2,10 +2,11 @@
   {
     "nanoid": "cLBZr5kZIjozKP",
     "name": "LTV1",
-    "stream_urls": [
-      "https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv06_ltv1_g_x44_43186_default_1326_hls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv06_ltv1_g_x44_43186_default_1326_hls.smil/chunklist.m3u8"
+      ]
+    },
     "languages": [],
     "country": "lv",
     "isGeoBlocked": false
@@ -13,10 +14,11 @@
   {
     "nanoid": "HV3OZitNTeeK5Y",
     "name": "LTV7",
-    "stream_urls": [
-      "https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv07_ltv7_g_eb0_43187_default_1327_hls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv07_ltv7_g_eb0_43187_default_1327_hls.smil/chunklist.m3u8"
+      ]
+    },
     "languages": [],
     "country": "lv",
     "isGeoBlocked": false
@@ -24,10 +26,11 @@
   {
     "nanoid": "Gjmjoa2VOJKV6E",
     "name": "Movify Kino",
-    "stream_urls": [
-      "https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8"
+      ]
+    },
     "languages": [
       "lav",
       "rus"
@@ -38,10 +41,11 @@
   {
     "nanoid": "PyldYXsoAXUikk",
     "name": "Pingviins",
-    "stream_urls": [
-      "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
+      ]
+    },
     "languages": [
       "lav"
     ],
@@ -51,10 +55,11 @@
   {
     "nanoid": "LHzrqD9sr7EPlw",
     "name": "Radio SWH TV",
-    "stream_urls": [
-      "https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "lav"
     ],
@@ -64,10 +69,11 @@
   {
     "nanoid": "YigI7cZVQDDBuz",
     "name": "Re TV",
-    "stream_urls": [
-      "https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "lav"
     ],
@@ -77,10 +83,25 @@
   {
     "nanoid": "FQZfmghEliCIsO",
     "name": "Sea TV",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch238/index.m3u8"
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch238/index.m3u8"
+      ]
+    },
+    "languages": [
+      "lav"
     ],
-    "youtube_urls": [],
+    "country": "lv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Qqez1BnSpzzwRq",
+    "name": "TV Jurmala",
+    "sources": {
+      "streams": [
+        "https://air.star.lv/TV_Jurmala_multistream/index.m3u8"
+      ]
+    },
     "languages": [
       "lav"
     ],
@@ -90,10 +111,11 @@
   {
     "nanoid": "sgMHs1obQ8lL7A",
     "name": "TVNET",
-    "stream_urls": [
-      "https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8"
+      ]
+    },
     "languages": [
       "lav"
     ],
@@ -103,10 +125,11 @@
   {
     "nanoid": "D4XzxfQIBxlNgz",
     "name": "Vidusdaugavas Televizija",
-    "stream_urls": [
-      "https://straume.vdtv.lv/vdtv2/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://straume.vdtv.lv/vdtv2/index.m3u8"
+      ]
+    },
     "languages": [
       "lav"
     ],

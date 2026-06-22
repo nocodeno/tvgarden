@@ -2,10 +2,11 @@
   {
     "nanoid": "o7f2wdALXEzHZs",
     "name": "Ajman TV",
-    "stream_urls": [
-      "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara",
       "eng"
@@ -16,12 +17,14 @@
   {
     "nanoid": "2TkyVV55zzBzz3",
     "name": "Al Arabiya Business",
-    "stream_urls": [
-      "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rXnG4eiVVdM"
-    ],
+    "sources": {
+      "streams": [
+        "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/rXnG4eiVVdM"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -31,10 +34,11 @@
   {
     "nanoid": "tn94bXCcZQXp4I",
     "name": "Al Arabiya Programs",
-    "stream_urls": [
-      "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -44,10 +48,11 @@
   {
     "nanoid": "axtrtUohLCP3GM",
     "name": "Al Mashhad",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/d2y24sjLESc"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/d2y24sjLESc"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -57,10 +62,11 @@
   {
     "nanoid": "Y4O8X4bPqh2Vx5",
     "name": "Al Qamar TV",
-    "stream_urls": [
-      "https://streamer3.premio.link/alqamar/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamer3.premio.link/alqamar/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -70,10 +76,11 @@
   {
     "nanoid": "21EXltGyaMhzfR",
     "name": "Al Shallal TV",
-    "stream_urls": [
-      "https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -83,10 +90,11 @@
   {
     "nanoid": "yR85LzOCV21lPt",
     "name": "Al Sharqiya Min Kabla",
-    "stream_urls": [
-      "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -96,10 +104,11 @@
   {
     "nanoid": "U4Ytf8HCWlTZ0o",
     "name": "Al Wousta TV",
-    "stream_urls": [
-      "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -109,10 +118,11 @@
   {
     "nanoid": "Sv9OTAq0k25EOS",
     "name": "Al Yaum TV",
-    "stream_urls": [
-      "https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -122,13 +132,15 @@
   {
     "nanoid": "L928jkxbfp0TYR",
     "name": "Alarabiya",
-    "stream_urls": [
-      "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
-      "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/n7eQejkXbnM"
-    ],
+    "sources": {
+      "streams": [
+        "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+        "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/n7eQejkXbnM"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -138,10 +150,11 @@
   {
     "nanoid": "ymEZZ9kXLlqF9g",
     "name": "Asharq Business اقتصاد الشرق",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hXKYpuTEwqk"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/hXKYpuTEwqk"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -151,10 +164,11 @@
   {
     "nanoid": "UOQdhq6UsdYdn7",
     "name": "Asharq News",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/f6VpkfV7m4Y"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/f6VpkfV7m4Y"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -164,10 +178,11 @@
   {
     "nanoid": "TjCGvjeo3v58MN",
     "name": "Bee Movies: بث مباشر افلام عربي",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Va6QU9n3q18"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Va6QU9n3q18"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -177,10 +192,11 @@
   {
     "nanoid": "QFKHFoExvGyTwt",
     "name": "Cartoon Network",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/21hAlnDFTLw"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/21hAlnDFTLw"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -190,10 +206,11 @@
   {
     "nanoid": "rVlkWuhkPTSNkw",
     "name": "Cartoonito MENA",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4l5jmSgWW-Q"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/4l5jmSgWW-Q"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -203,10 +220,11 @@
   {
     "nanoid": "URU3r9PZvWBdLZ",
     "name": "CNBC Arabia",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0kEpqSU0MRY"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/0kEpqSU0MRY"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -216,10 +234,25 @@
   {
     "nanoid": "acbY5wCKKgtMnI",
     "name": "CNBC Arabiya",
-    "stream_urls": [
-      "https://cnbc-live.akamaized.net/cnbc/master.m3u8"
+    "sources": {
+      "streams": [
+        "https://cnbc-live.akamaized.net/cnbc/master.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
     ],
-    "youtube_urls": [],
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NCWWidJrVWnWto",
+    "name": "Fujairah TV",
+    "sources": {
+      "streams": [
+        "https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -229,10 +262,11 @@
   {
     "nanoid": "T411svN9rFZRYL",
     "name": "MBC FM",
-    "stream_urls": [
-      "https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -242,10 +276,11 @@
   {
     "nanoid": "UjnCLfmZ5c3yRj",
     "name": "MBC Persia",
-    "stream_urls": [
-      "https://hls.mbcpersia.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hls.mbcpersia.live/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "fas"
     ],
@@ -255,10 +290,11 @@
   {
     "nanoid": "tjO1W5XivBV60a",
     "name": "Nour TV",
-    "stream_urls": [
-      "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8"
+      ]
+    },
     "languages": [
       "fas"
     ],
@@ -268,10 +304,11 @@
   {
     "nanoid": "3Icuxq5qeDrJdW",
     "name": "Peace TV Chinese",
-    "stream_urls": [
-      "https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8"
+      ]
+    },
     "languages": [
       "zho"
     ],
@@ -281,10 +318,11 @@
   {
     "nanoid": "NuZWaHtBzZXXC8",
     "name": "Peace TV English",
-    "stream_urls": [
-      "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -294,10 +332,11 @@
   {
     "nanoid": "9BNETtZqVeBnGA",
     "name": "PMC",
-    "stream_urls": [
-      "https://pmchls.wns.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://pmchls.wns.live/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "fas"
     ],
@@ -307,10 +346,11 @@
   {
     "nanoid": "dwZ9cyjkWtVGIa",
     "name": "PMC Royale",
-    "stream_urls": [
-      "https://pmcrohls.wns.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://pmcrohls.wns.live/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "fas"
     ],
@@ -320,10 +360,11 @@
   {
     "nanoid": "fmocYbtQ1fFZhn",
     "name": "Pulse95 Radio",
-    "stream_urls": [
-      "https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara",
       "eng"
@@ -334,10 +375,11 @@
   {
     "nanoid": "OijQbjwV7a9kgP",
     "name": "Sharjah 2",
-    "stream_urls": [
-      "https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -347,10 +389,11 @@
   {
     "nanoid": "IhAqN9CcULw7M0",
     "name": "Sharjah Radio",
-    "stream_urls": [
-      "https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -360,10 +403,11 @@
   {
     "nanoid": "8RMhUftFipxVz5",
     "name": "Sharjah Radio Quran",
-    "stream_urls": [
-      "https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -373,12 +417,13 @@
   {
     "nanoid": "RC2hZ1z0vrHMtE",
     "name": "Sharjah TV",
-    "stream_urls": [
-      "https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8",
-      "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8",
-      "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8",
+        "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8",
+        "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -388,14 +433,16 @@
   {
     "nanoid": "lHA8lYSDtLC5LR",
     "name": "Sky News Arabia",
-    "stream_urls": [
-      "https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8",
-      "https://stream.skynewsarabia.com/hls/sna.m3u8",
-      "https://stream.skynewsarabia.com/ott/ott.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ymYr5ze2XeA"
-    ],
+    "sources": {
+      "streams": [
+        "https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8",
+        "https://stream.skynewsarabia.com/hls/sna.m3u8",
+        "https://stream.skynewsarabia.com/ott/ott.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ymYr5ze2XeA"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -405,11 +452,12 @@
   {
     "nanoid": "za3qiXgehwFjJ6",
     "name": "Sky News Arabia Vertical",
-    "stream_urls": [
-      "https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8",
-      "https://stream.skynewsarabia.com/vertical/vertical.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8",
+        "https://stream.skynewsarabia.com/vertical/vertical.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -419,10 +467,11 @@
   {
     "nanoid": "9O197zg8eEKLG6",
     "name": "Spacetoon Arabic",
-    "stream_urls": [
-      "https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -432,10 +481,11 @@
   {
     "nanoid": "rbtvbfV1OrLd1T",
     "name": "Watar Radio",
-    "stream_urls": [
-      "https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],

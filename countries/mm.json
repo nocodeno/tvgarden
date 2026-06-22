@@ -2,10 +2,11 @@
   {
     "nanoid": "i6vxWElbJaIPBX",
     "name": "DVB TV",
-    "stream_urls": [
-      "https://live-stream.dvb.no/hls/stream_src/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live-stream.dvb.no/hls/stream_src/index.m3u8"
+      ]
+    },
     "languages": [
       "mya"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "cdsVyojNjKqygk",
     "name": "Mahar TV",
-    "stream_urls": [
-      "https://tv.mahar.live/mahar/website.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tv.mahar.live/mahar/website.stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "mya"
     ],

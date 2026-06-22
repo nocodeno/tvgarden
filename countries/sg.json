@@ -2,10 +2,11 @@
   {
     "nanoid": "cjno9NJJ87yGNT",
     "name": "Cartoon Network Asia",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/v5UO0XAocEI"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/v5UO0XAocEI"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "okFgL1Lb78hUrK",
     "name": "Cartoon Network: We Bear Bears",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1gWobPUbW1o"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/1gWobPUbW1o"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -28,10 +30,11 @@
   {
     "nanoid": "gS3BIgZPeKUpbg",
     "name": "CNA",
-    "stream_urls": [
-      "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -41,10 +44,11 @@
   {
     "nanoid": "b3SY5CGeJGKaQq",
     "name": "CNA Insider",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fSUMKrxPEd8"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/fSUMKrxPEd8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -54,10 +58,11 @@
   {
     "nanoid": "WGiKSjCar1BvSz",
     "name": "CNA International",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XWq5kBlakcQ"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/XWq5kBlakcQ"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -67,11 +72,12 @@
   {
     "nanoid": "HJhyKYuHh72Bmv",
     "name": "CNA Originals",
-    "stream_urls": [
-      "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -81,12 +87,12 @@
   {
     "nanoid": "y1OGn4C9pf6ycf",
     "name": "ZooMoo",
-    "stream_urls": [
-      "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
-      "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],

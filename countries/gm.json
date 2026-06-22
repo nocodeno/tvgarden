@@ -2,10 +2,11 @@
   {
     "nanoid": "HQd1a5NUxyiDpk",
     "name": "QTV Gambia",
-    "stream_urls": [
-      "https://player.qtv.gm/hls/live.stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://player.qtv.gm/hls/live.stream.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "fuc",

@@ -2,10 +2,11 @@
   {
     "nanoid": "iTbSyptSI7ovhK",
     "name": "1KZN TV",
-    "stream_urls": [
-      "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "LyB1P5SiU3vOaG",
     "name": "6 Wise Tv",
-    "stream_urls": [
-      "https://live.enhdtv.com:8081/8150/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.enhdtv.com:8081/8150/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -28,10 +30,11 @@
   {
     "nanoid": "miNrjenD6E2QJg",
     "name": "alpha Cinema",
-    "stream_urls": [
-      "https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -41,10 +44,11 @@
   {
     "nanoid": "et5iR1Oc0qBZ3J",
     "name": "AMG TV",
-    "stream_urls": [
-      "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -54,10 +58,11 @@
   {
     "nanoid": "62oTY1cpZiXnL5",
     "name": "AVA Family",
-    "stream_urls": [
-      "https://familyhls.avatv.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://familyhls.avatv.live/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "fas"
     ],
@@ -67,10 +72,11 @@
   {
     "nanoid": "PCHpCRc0yRAZbi",
     "name": "Canal IPe",
-    "stream_urls": [
-      "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -80,12 +86,13 @@
   {
     "nanoid": "KXpoKCIRUIeAgz",
     "name": "Dove Channel",
-    "stream_urls": [
-      "https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8",
-      "https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8",
-      "https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8",
+        "https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8",
+        "https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -95,10 +102,11 @@
   {
     "nanoid": "umvB9tV3Rb1OXe",
     "name": "EmanTv",
-    "stream_urls": [
-      "https://avr.host247.net/live/emantv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://avr.host247.net/live/emantv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "kur"
     ],
@@ -108,12 +116,13 @@
   {
     "nanoid": "WfWOCQye5PaNeZ",
     "name": "Estrella Games",
-    "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8",
-      "https://amg00567-amg00567c1-firetv-us-4124.playouts.now.amagi.tv/playlist.m3u8",
-      "https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8",
+        "https://amg00567-amg00567c1-firetv-us-4124.playouts.now.amagi.tv/playlist.m3u8",
+        "https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -121,12 +130,27 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "92clp3Gx6q8TVk",
+    "name": "Hallmark Channel East",
+    "sources": {
+      "streams": [
+        "https://41.223.30.230/HALLMARK/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Lzh8NoZwGUGsG2",
     "name": "MCI Television",
-    "stream_urls": [
-      "https://video.ejeserver.com/live/mcitelevision.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://video.ejeserver.com/live/mcitelevision.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "spa"
@@ -137,10 +161,11 @@
   {
     "nanoid": "O7kNo7GEugTsdZ",
     "name": "Mixkurdy",
-    "stream_urls": [
-      "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8"
+      ]
+    },
     "languages": [
       "kur"
     ],
@@ -150,11 +175,12 @@
   {
     "nanoid": "3SXsiS0bu9wuAn",
     "name": "Positiv TV",
-    "stream_urls": [
-      "https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8",
-      "https://trn03.bozztv.com/gin-positiv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8",
+        "https://trn03.bozztv.com/gin-positiv/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -164,10 +190,11 @@
   {
     "nanoid": "oubeKLPS2AIZdf",
     "name": "Pro100TV",
-    "stream_urls": [
-      "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -175,25 +202,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jrhvPj9Sfa0uyr",
-    "name": "Rakuten TV Family Movies Germany",
-    "stream_urls": [
-      "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "50AOLuz78mWfKm",
     "name": "RiC",
-    "stream_urls": [
-      "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -203,10 +218,11 @@
   {
     "nanoid": "cEFRovhmEVfGx8",
     "name": "Sevimli TV",
-    "stream_urls": [
-      "https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "rus",
       "uzb"
@@ -217,10 +233,11 @@
   {
     "nanoid": "oLnLTQ4nnHeCAZ",
     "name": "Soweto TV",
-    "stream_urls": [
-      "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -230,11 +247,12 @@
   {
     "nanoid": "Q2BhpM1IToL6dc",
     "name": "STS",
-    "stream_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/296.m3u8",
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streaming.televizor-24-tochka.ru/live/296.m3u8",
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -244,10 +262,11 @@
   {
     "nanoid": "d8wK3YuIEkuIYv",
     "name": "STS Love",
-    "stream_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -257,10 +276,11 @@
   {
     "nanoid": "Am4Jb6RFmtHHBI",
     "name": "Superscreen TV",
-    "stream_urls": [
-      "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -270,10 +290,11 @@
   {
     "nanoid": "OFNCxJwQlhXnh3",
     "name": "Tshwane TV",
-    "stream_urls": [
-      "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -283,10 +304,11 @@
   {
     "nanoid": "usETpjVP1bzVNN",
     "name": "TV Famille",
-    "stream_urls": [
-      "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -294,25 +316,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HZWd4go9om2ldn",
-    "name": "TV Paraense",
-    "stream_urls": [
-      "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "u8aySGKNHSMnn1",
     "name": "TVS Family Channel",
-    "stream_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],

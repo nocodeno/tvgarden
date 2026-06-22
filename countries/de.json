@@ -2,11 +2,12 @@
   {
     "nanoid": "lEFAH9ZvqddODv",
     "name": "3sat",
-    "stream_urls": [
-      "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
-      "https://41.223.30.230/3SAT/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
+        "https://41.223.30.230/3SAT/index.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -16,10 +17,11 @@
   {
     "nanoid": "LAPj7zIAvtxGKM",
     "name": "Alex Berlin",
-    "stream_urls": [
-      "https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -29,10 +31,11 @@
   {
     "nanoid": "KgfZTMdFAXl97l",
     "name": "Allgau TV",
-    "stream_urls": [
-      "https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -42,11 +45,12 @@
   {
     "nanoid": "IJpns8FI8lNpRr",
     "name": "ARD-alpha",
-    "stream_urls": [
-      "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8",
-      "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8",
+        "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -56,11 +60,12 @@
   {
     "nanoid": "o8Dfvg1m7ashdC",
     "name": "arte",
-    "stream_urls": [
-      "https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8",
-      "https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8",
+        "https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -70,11 +75,12 @@
   {
     "nanoid": "LGLjherg6GkxIA",
     "name": "Augsburg TV",
-    "stream_urls": [
-      "https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8",
-      "https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8",
+        "https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -84,12 +90,13 @@
   {
     "nanoid": "HISiOL7NmfoR6g",
     "name": "Baden TV",
-    "stream_urls": [
-      "https://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8",
-      "https://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8",
-      "https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8",
+        "https://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8",
+        "https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -99,10 +106,11 @@
   {
     "nanoid": "z9Ufj8FAdnJn7C",
     "name": "Baden TV Sud",
-    "stream_urls": [
-      "https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -112,10 +120,11 @@
   {
     "nanoid": "uVgni6lRnPbvo9",
     "name": "BBC Top Gear Germany",
-    "stream_urls": [
-      "https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [],
     "country": "de",
     "isGeoBlocked": false
@@ -123,10 +132,11 @@
   {
     "nanoid": "oqgc5Cjf5Bpv9j",
     "name": "Bibel TV",
-    "stream_urls": [
-      "https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -136,10 +146,11 @@
   {
     "nanoid": "TidiMBUKgHqdwZ",
     "name": "Bibel TV Impuls",
-    "stream_urls": [
-      "https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -149,10 +160,11 @@
   {
     "nanoid": "yHOMIT6YTjFRD3",
     "name": "Bibel TV Musik",
-    "stream_urls": [
-      "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -162,12 +174,13 @@
   {
     "nanoid": "5Sr9qxxUmLUHZa",
     "name": "BLK Regional TV",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?ref=medienportal-sachsen-"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8",
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8",
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?ref=medienportal-sachsen-"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -177,10 +190,11 @@
   {
     "nanoid": "LW180mFtaK1hEs",
     "name": "BR Fernsehen Nord",
-    "stream_urls": [
-      "https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -188,12 +202,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dSBUaKYtXm09an",
+    "name": "Cira TV",
+    "sources": {
+      "streams": [
+        "https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8"
+      ]
+    },
+    "languages": [
+      "kur"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6A5ze3h8nnCjde",
     "name": "Dark Monkey Music: Dark Minimal Techno Trip",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/i3sD9iUSiaU"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/i3sD9iUSiaU"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -203,11 +232,12 @@
   {
     "nanoid": "95qUyvmztON27u",
     "name": "Das Erste",
-    "stream_urls": [
-      "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8",
-      "https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8",
+        "https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -217,10 +247,11 @@
   {
     "nanoid": "FM7JnUFlNQHUFD",
     "name": "DASDING 90.8",
-    "stream_urls": [
-      "https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -230,10 +261,11 @@
   {
     "nanoid": "E3Fuo7LqwAfWE9",
     "name": "Deluxe Dance",
-    "stream_urls": [
-      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -243,10 +275,11 @@
   {
     "nanoid": "hoEK50b8RIgSOh",
     "name": "Deluxe Music",
-    "stream_urls": [
-      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -256,10 +289,11 @@
   {
     "nanoid": "kxfwLfpFpzHMm2",
     "name": "Deluxe Rap",
-    "stream_urls": [
-      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8"
+      ]
+    },
     "languages": [
       "deu",
       "eng"
@@ -270,10 +304,11 @@
   {
     "nanoid": "04DHM2NaCjakkb",
     "name": "DMF",
-    "stream_urls": [
-      "https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -283,10 +318,11 @@
   {
     "nanoid": "FQVKNsI92Y63Vf",
     "name": "Dokusat",
-    "stream_urls": [
-      "https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -296,12 +332,14 @@
   {
     "nanoid": "yDe8P2yjEx9yM2",
     "name": "DW Arabic",
-    "stream_urls": [
-      "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AGkp2AL8e7o"
-    ],
+    "sources": {
+      "streams": [
+        "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/AGkp2AL8e7o"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -311,14 +349,16 @@
   {
     "nanoid": "lpYmUDR5HpXALT",
     "name": "DW English",
-    "stream_urls": [
-      "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
-      "https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8",
-      "https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
-    ],
+    "sources": {
+      "streams": [
+        "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
+        "https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8",
+        "https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -328,12 +368,14 @@
   {
     "nanoid": "H4HR8svz54XngH",
     "name": "DW Espanol",
-    "stream_urls": [
-      "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yZh3xsFqCt8"
-    ],
+    "sources": {
+      "streams": [
+        "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/yZh3xsFqCt8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -343,12 +385,14 @@
   {
     "nanoid": "ptE116wUMswJaQ",
     "name": "DW Russian",
-    "stream_urls": [
-      "https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/gP7872YRFDk"
-    ],
+    "sources": {
+      "streams": [
+        "https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/gP7872YRFDk"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -358,10 +402,11 @@
   {
     "nanoid": "VVcQY1hOdMpI1U",
     "name": "EchtJetzt TV",
-    "stream_urls": [
-      "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -371,10 +416,11 @@
   {
     "nanoid": "FkwHKfpMGiYx0r",
     "name": "ems TV Lingen",
-    "stream_urls": [
-      "https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -384,10 +430,11 @@
   {
     "nanoid": "dikaN7zl5U7F3z",
     "name": "Erz-TV Stollberg",
-    "stream_urls": [
-      "https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -397,11 +444,12 @@
   {
     "nanoid": "uDLeBfdzdIX1Oi",
     "name": "EWTN",
-    "stream_urls": [
-      "https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8",
-      "https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8",
+        "https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -411,10 +459,11 @@
   {
     "nanoid": "CiGC7hiaz7dMhM",
     "name": "Filstalwelle",
-    "stream_urls": [
-      "https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -424,10 +473,11 @@
   {
     "nanoid": "JUHY7ZFUwE8O9n",
     "name": "Finest TV",
-    "stream_urls": [
-      "https://media.finest.tv/hls/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://media.finest.tv/hls/live.m3u8"
+      ]
+    },
     "languages": [
       "deu",
       "tur"
@@ -436,23 +486,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6ftPsR4C1PTDrI",
-    "name": "Fluss Monster",
-    "stream_urls": [
-      "https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cmt0eNnG0G5SGu",
     "name": "Franken Fernsehen",
-    "stream_urls": [
-      "https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -462,10 +502,11 @@
   {
     "nanoid": "XvhMxajfmHe1iL",
     "name": "FrankenPlus",
-    "stream_urls": [
-      "https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8"
+      ]
+    },
     "languages": [],
     "country": "de",
     "isGeoBlocked": false
@@ -473,10 +514,11 @@
   {
     "nanoid": "xceNg3zrNinnuh",
     "name": "Glück Auf TV - Mittel Erzgebirgs Fernsehen",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HqOsb5L4c8M"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/HqOsb5L4c8M"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -486,10 +528,11 @@
   {
     "nanoid": "NYCRxxM21wcIxY",
     "name": "Graham Norton Germany",
-    "stream_urls": [
-      "https://amg00654-itv-amg00654c37-rakuten-de-7600.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00654-itv-amg00654c37-rakuten-de-7600.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [],
     "country": "de",
     "isGeoBlocked": false
@@ -497,10 +540,11 @@
   {
     "nanoid": "KWubgLKIN9lBtR",
     "name": "Handystar",
-    "stream_urls": [
-      "https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -510,10 +554,11 @@
   {
     "nanoid": "9akXuoxRiw2xMb",
     "name": "Hell's Kitchen Germany",
-    "stream_urls": [
-      "https://hellskitchengermany-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hellskitchengermany-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [],
     "country": "de",
     "isGeoBlocked": false
@@ -521,10 +566,11 @@
   {
     "nanoid": "vZnmKdUgwDsViH",
     "name": "Hits Radio 1",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3MOrgUjiigE"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/3MOrgUjiigE"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -534,10 +580,11 @@
   {
     "nanoid": "vtCVzwBA0j25n6",
     "name": "Hits Radio 1: Pop",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UWc_vMRGxDs"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/UWc_vMRGxDs"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -547,11 +594,12 @@
   {
     "nanoid": "C38uFQgyi8ggWU",
     "name": "hr-fernsehen",
-    "stream_urls": [
-      "https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8",
-      "https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8",
+        "https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -561,10 +609,11 @@
   {
     "nanoid": "00SFFti9BYGccf",
     "name": "HSE",
-    "stream_urls": [
-      "https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -574,10 +623,11 @@
   {
     "nanoid": "soxgLbqzLAaHgC",
     "name": "HSE Extra",
-    "stream_urls": [
-      "https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -587,10 +637,11 @@
   {
     "nanoid": "fglFXMh5Qykdut",
     "name": "HSE Trend",
-    "stream_urls": [
-      "https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -600,10 +651,11 @@
   {
     "nanoid": "wBMPZbYU5rhwEy",
     "name": "iSTUFF",
-    "stream_urls": [
-      "https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -613,12 +665,14 @@
   {
     "nanoid": "fpJtwlTBFuWrLw",
     "name": "Juwelo",
-    "stream_urls": [
-      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vbKz0nMFKGY"
-    ],
+    "sources": {
+      "streams": [
+        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/vbKz0nMFKGY"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -628,10 +682,11 @@
   {
     "nanoid": "NVz2ZnKyBDLvrQ",
     "name": "kabel eins",
-    "stream_urls": [
-      "https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -641,10 +696,11 @@
   {
     "nanoid": "BwAEx0LmqBTmqp",
     "name": "Kanal 9 Erzgebirge",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9FZxDNFXnzo"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/9FZxDNFXnzo"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -654,11 +710,12 @@
   {
     "nanoid": "hkGnYbKbnHGzDM",
     "name": "KaufBei TV",
-    "stream_urls": [
-      "https://elephant.t62a.com/hls/8103/index.m3u8",
-      "https://api.alpaca.t62a.com/hls/9103/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://elephant.t62a.com/hls/8103/index.m3u8",
+        "https://api.alpaca.t62a.com/hls/9103/index.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -668,12 +725,13 @@
   {
     "nanoid": "0yjVBN9zD5VvoM",
     "name": "KiKA",
-    "stream_urls": [
-      "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8",
-      "https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8",
-      "https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8",
+        "https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8",
+        "https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -683,23 +741,11 @@
   {
     "nanoid": "veVA32nZqDrhse",
     "name": "KulturMD",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CqTFTkcYouQywi",
-    "name": "L TV",
-    "stream_urls": [
-      "https://live2.telvi.de/hls/l-tv_s1.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -709,10 +755,11 @@
   {
     "nanoid": "Ztcv27i6GrEiFD",
     "name": "Lausitzwelle",
-    "stream_urls": [
-      "https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref="
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref="
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -722,10 +769,11 @@
   {
     "nanoid": "HWTSet3C8bbwKJ",
     "name": "LooLoo Kids TV",
-    "stream_urls": [
-      "https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8"
+      ]
+    },
     "languages": [],
     "country": "de",
     "isGeoBlocked": false
@@ -733,10 +781,11 @@
   {
     "nanoid": "AfL5oyVqCpLDJk",
     "name": "MDF.1",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -746,10 +795,11 @@
   {
     "nanoid": "D9DLpbpBMDweEB",
     "name": "MDR Fernsehen Sachsen",
-    "stream_urls": [
-      "https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -759,10 +809,11 @@
   {
     "nanoid": "dbXdJRoj2kmSYn",
     "name": "MDR Fernsehen Sachsen-Anhalt",
-    "stream_urls": [
-      "https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -772,11 +823,12 @@
   {
     "nanoid": "mUa6AudaIQeV3S",
     "name": "MDR Fernsehen Thüringen",
-    "stream_urls": [
-      "https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8",
-      "https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8",
+        "https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -786,11 +838,12 @@
   {
     "nanoid": "ojY3PgU9rwk9x4",
     "name": "Motorvision",
-    "stream_urls": [
-      "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8",
-      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8",
+        "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -800,10 +853,11 @@
   {
     "nanoid": "5zsvZbp5i40Gds",
     "name": "Motorvision+",
-    "stream_urls": [
-      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -813,10 +867,11 @@
   {
     "nanoid": "YY7dAU666LVx7L",
     "name": "Munchen TV",
-    "stream_urls": [
-      "https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -826,10 +881,11 @@
   {
     "nanoid": "w5lhgktYgsc1eM",
     "name": "Nachrichten 360",
-    "stream_urls": [
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -837,23 +893,13 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "4YOpv1CYox1W50",
-    "name": "Naruto Germany",
-    "stream_urls": [
-      "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9oFKf7u6XNNE0e",
     "name": "NDR Hamburg",
-    "stream_urls": [
-      "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -863,10 +909,11 @@
   {
     "nanoid": "u7771iaNTRU3FW",
     "name": "NDR Mecklenburg-Vorpommern",
-    "stream_urls": [
-      "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -876,10 +923,11 @@
   {
     "nanoid": "xYvqRG0CoSA3Kr",
     "name": "NDR Niedersachsen",
-    "stream_urls": [
-      "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -889,10 +937,11 @@
   {
     "nanoid": "pAkeooQ64YDbIU",
     "name": "NDR Schleswig-Holstein",
-    "stream_urls": [
-      "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -902,10 +951,11 @@
   {
     "nanoid": "d8YHTAnPVAiw8c",
     "name": "Niederbayern TV",
-    "stream_urls": [
-      "https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -915,10 +965,11 @@
   {
     "nanoid": "5HPuRsaIZ7wi9S",
     "name": "Niederbayern TV Deggendorf & Straubing",
-    "stream_urls": [
-      "https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -928,11 +979,12 @@
   {
     "nanoid": "dqYeIYeXXFZBkI",
     "name": "Niederbayern TV Landshut",
-    "stream_urls": [
-      "https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8",
-      "https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8",
+        "https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -942,10 +994,11 @@
   {
     "nanoid": "0xxDuqMMk42taZ",
     "name": "Niederbayern TV Passau",
-    "stream_urls": [
-      "https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -955,10 +1008,11 @@
   {
     "nanoid": "1lj5zvclavtoue",
     "name": "noa4 Hamburg",
-    "stream_urls": [
-      "https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -968,10 +1022,11 @@
   {
     "nanoid": "tP3635LuUuZ9t3",
     "name": "noa4 Norderstedt",
-    "stream_urls": [
-      "https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -981,10 +1036,11 @@
   {
     "nanoid": "dYt045ogXamqS6",
     "name": "NRWision",
-    "stream_urls": [
-      "https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -994,10 +1050,11 @@
   {
     "nanoid": "uulIpGX9jYzIDT",
     "name": "Oberpfalz TV",
-    "stream_urls": [
-      "https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1007,11 +1064,12 @@
   {
     "nanoid": "t25XYUZkAL9Kgw",
     "name": "OF-TV Offenbach",
-    "stream_urls": [
-      "https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8",
-      "https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8",
+        "https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1021,12 +1079,13 @@
   {
     "nanoid": "MUm8U37A4OvXc2",
     "name": "OK Dessau",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-dessau_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8",
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-dessau_high/playlist.m3u8",
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1036,10 +1095,11 @@
   {
     "nanoid": "ixhyYhnKxhDZBe",
     "name": "OK Flensburg",
-    "stream_urls": [
-      "https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1049,10 +1109,11 @@
   {
     "nanoid": "D4nMjd2d15gJap",
     "name": "OK Kaiserslautern",
-    "stream_urls": [
-      "https://s.ok54.de/abr_okkl/webstream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/abr_okkl/webstream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1062,10 +1123,11 @@
   {
     "nanoid": "0ATgctzwJhYRU7",
     "name": "OK Kassel",
-    "stream_urls": [
-      "https://s.ok54.de/mok-ks/kassel/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/mok-ks/kassel/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1075,10 +1137,11 @@
   {
     "nanoid": "TAd1Ubg7TEmAUU",
     "name": "OK Kiel",
-    "stream_urls": [
-      "https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1088,11 +1151,12 @@
   {
     "nanoid": "3sRXXJs8hqTfO5",
     "name": "OK Magdeburg",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-magdeburg_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-magdeburg_high/playlist.m3u8",
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1102,11 +1166,12 @@
   {
     "nanoid": "FYuXPwk6jlP8bJ",
     "name": "OK Merseburg-Querfurt",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-merseburg_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-merseburg_high/playlist.m3u8",
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1116,10 +1181,11 @@
   {
     "nanoid": "WXS0fra9wbJjZY",
     "name": "OK Rhein-Main",
-    "stream_urls": [
-      "https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1129,12 +1195,13 @@
   {
     "nanoid": "rBGrW8kNGesFFe",
     "name": "OK Salzwedel",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-salzwedel_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8",
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-salzwedel_high/playlist.m3u8",
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1144,11 +1211,12 @@
   {
     "nanoid": "WyGGx8bh7zihHI",
     "name": "OK Stendal",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8",
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1158,10 +1226,11 @@
   {
     "nanoid": "F23o0isfrVABPH",
     "name": "OK Trier",
-    "stream_urls": [
-      "https://s.ok54.de/ott/webstream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/ott/webstream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1171,11 +1240,12 @@
   {
     "nanoid": "iD1O3DGfgUMF59",
     "name": "OK Wernigerode",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8",
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1185,10 +1255,11 @@
   {
     "nanoid": "8i2J4ObjaTLwEP",
     "name": "OK4",
-    "stream_urls": [
-      "https://s.ok54.de/abr_ok4/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/abr_ok4/live/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1198,10 +1269,11 @@
   {
     "nanoid": "yxO2PJ4t5WokqS",
     "name": "OK54",
-    "stream_urls": [
-      "https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1211,10 +1283,11 @@
   {
     "nanoid": "PGFyEoRa4S4ygM",
     "name": "Ost West 24",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch237/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch237/index.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -1224,10 +1297,11 @@
   {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
-    "stream_urls": [
-      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1237,10 +1311,11 @@
   {
     "nanoid": "HiMqxCwB3tPMLP",
     "name": "Pearl TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7edPeO-8Rs0"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/7edPeO-8Rs0"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1250,10 +1325,11 @@
   {
     "nanoid": "2mtONGj8VqZ5YV",
     "name": "phoenix",
-    "stream_urls": [
-      "https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1263,10 +1339,11 @@
   {
     "nanoid": "Ubrmy3xb62Fg9U",
     "name": "ProSieben",
-    "stream_urls": [
-      "https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1276,10 +1353,11 @@
   {
     "nanoid": "dQC6hnK8bEtRAv",
     "name": "PUNKTum Fernsehen",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1289,10 +1367,11 @@
   {
     "nanoid": "OLmlejUUhCqlk2",
     "name": "QVC",
-    "stream_urls": [
-      "https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1302,10 +1381,11 @@
   {
     "nanoid": "vej8gxvXo5m19M",
     "name": "QVC Deutschland: QVC 1",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zyArwYJdK9c"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/zyArwYJdK9c"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1315,10 +1395,11 @@
   {
     "nanoid": "EnBVymvEEEZceD",
     "name": "QVC Deutschland: QVC 2",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UcbiF9UXX8Q"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/UcbiF9UXX8Q"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1328,10 +1409,11 @@
   {
     "nanoid": "KH90AFKJdwGqWU",
     "name": "Radio Bremen Fernsehen",
-    "stream_urls": [
-      "https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1341,11 +1423,12 @@
   {
     "nanoid": "FfKKaHEk2MpmA6",
     "name": "Radio Weser TV Bremen",
-    "stream_urls": [
-      "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8",
-      "https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8",
+        "https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1353,12 +1436,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jrhvPj9Sfa0uyr",
-    "name": "Rakuten TV Family Movies Germany",
-    "stream_urls": [
-      "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "nanoid": "i6jMhimWGlGgKg",
+    "name": "Rakuten TV Top Movies Germany",
+    "sources": {
+      "streams": [
+        "https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1368,11 +1452,12 @@
   {
     "nanoid": "ILjNpPssxRQReN",
     "name": "RAN1",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ran1_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ran1_high/playlist.m3u8",
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1382,10 +1467,11 @@
   {
     "nanoid": "o4WP2rghGfCA5R",
     "name": "RBB Berlin",
-    "stream_urls": [
-      "https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1395,10 +1481,11 @@
   {
     "nanoid": "BaknNityjlaYBa",
     "name": "RBB Brandenburg",
-    "stream_urls": [
-      "https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1408,10 +1495,11 @@
   {
     "nanoid": "D4fjmuUPITRfet",
     "name": "rbb Fernsehen",
-    "stream_urls": [
-      "https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1421,12 +1509,13 @@
   {
     "nanoid": "eDxTJNmoxWEurz",
     "name": "RBW",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:rbw_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8",
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:rbw_high/playlist.m3u8",
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1436,10 +1525,11 @@
   {
     "nanoid": "i2oVTNlM3TCzLz",
     "name": "Regio TV Bodensee",
-    "stream_urls": [
-      "https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1449,10 +1539,11 @@
   {
     "nanoid": "1BfHLDA67bx4O6",
     "name": "Regio TV Stuttgart",
-    "stream_urls": [
-      "https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1462,11 +1553,12 @@
   {
     "nanoid": "6I4CQI5DQQYidR",
     "name": "RFH",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8",
-      "https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8",
+        "https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1476,10 +1568,11 @@
   {
     "nanoid": "Wm5wGl36SAC05e",
     "name": "RFO",
-    "stream_urls": [
-      "https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1489,10 +1582,11 @@
   {
     "nanoid": "50AOLuz78mWfKm",
     "name": "RiC",
-    "stream_urls": [
-      "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1502,11 +1596,12 @@
   {
     "nanoid": "4uVJ6q6wliLG97",
     "name": "RT DE",
-    "stream_urls": [
-      "https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8",
-      "https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8",
+        "https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1516,10 +1611,11 @@
   {
     "nanoid": "5GZMPi9AV9upaO",
     "name": "Saarland Fernsehen 1",
-    "stream_urls": [
-      "https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1529,10 +1625,11 @@
   {
     "nanoid": "fUPLgxn46ADnP7",
     "name": "Saarland Fernsehen 2",
-    "stream_urls": [
-      "https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1542,10 +1639,11 @@
   {
     "nanoid": "7piv9vbkWJv13J",
     "name": "Sachsen Eins",
-    "stream_urls": [
-      "https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1555,10 +1653,11 @@
   {
     "nanoid": "2vJDADluU5tnYG",
     "name": "Sachsen Fernsehen Chemnitz",
-    "stream_urls": [
-      "https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1568,10 +1667,11 @@
   {
     "nanoid": "AtD4MGqRmLyT2k",
     "name": "Sachsen Fernsehen Dresden",
-    "stream_urls": [
-      "https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1581,10 +1681,11 @@
   {
     "nanoid": "HcBGbHAxvXnicl",
     "name": "Sachsen Fernsehen Leipzig",
-    "stream_urls": [
-      "https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1594,10 +1695,11 @@
   {
     "nanoid": "UFym6UV0MF6AZF",
     "name": "SAT.1 Gold",
-    "stream_urls": [
-      "https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1607,10 +1709,11 @@
   {
     "nanoid": "5J132TbInkq065",
     "name": "Seenluft24",
-    "stream_urls": [
-      "https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref="
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref="
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1620,10 +1723,11 @@
   {
     "nanoid": "RYdZg82PmuShbI",
     "name": "Sender Neu Jerusalem",
-    "stream_urls": [
-      "https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1633,10 +1737,11 @@
   {
     "nanoid": "Shv7333JOv8tjv",
     "name": "Shop LC",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/l0m4pntTtMc"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/l0m4pntTtMc"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1646,10 +1751,11 @@
   {
     "nanoid": "fWZxKZWO7ZnqqI",
     "name": "sixx",
-    "stream_urls": [
-      "https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1659,10 +1765,11 @@
   {
     "nanoid": "e8rG5QU8htEE7k",
     "name": "Sophia TV",
-    "stream_urls": [
-      "https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1672,10 +1779,11 @@
   {
     "nanoid": "JaVEBZI59FJaVc",
     "name": "Sophia TV Espanol",
-    "stream_urls": [
-      "https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -1685,10 +1793,11 @@
   {
     "nanoid": "1gbXonkFceJ3sY",
     "name": "Sophia TV Francais",
-    "stream_urls": [
-      "https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -1698,10 +1807,11 @@
   {
     "nanoid": "7GzTauEieAnCzl",
     "name": "SR Fernsehen",
-    "stream_urls": [
-      "https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1711,10 +1821,11 @@
   {
     "nanoid": "nUHCgjRUR5TBtm",
     "name": "Studio 47",
-    "stream_urls": [
-      "https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1724,10 +1835,11 @@
   {
     "nanoid": "fPZSt9vCYtA22m",
     "name": "SWR 3 Visual Radio",
-    "stream_urls": [
-      "https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1737,10 +1849,11 @@
   {
     "nanoid": "z0n7LNqsLBdlPj",
     "name": "SWR Fernsehen Baden-Wurttemberg",
-    "stream_urls": [
-      "https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1750,10 +1863,11 @@
   {
     "nanoid": "UVie6AQ1A0Ge9j",
     "name": "SWR Fernsehen Rheinland-Pfalz",
-    "stream_urls": [
-      "https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1763,10 +1877,11 @@
   {
     "nanoid": "dViXNUvwXWn2sW",
     "name": "tagesschau24",
-    "stream_urls": [
-      "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1776,10 +1891,11 @@
   {
     "nanoid": "APsiDTtaBUvYQA",
     "name": "teltOwkanal",
-    "stream_urls": [
-      "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1787,13 +1903,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Dh2uUg08yXJN7u",
+    "name": "Tennis Channel Germany",
+    "sources": {
+      "streams": [
+        "https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "26XgnwsMGpjD8v",
     "name": "Tide TV",
-    "stream_urls": [
-      "https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8",
-      "https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8",
+        "https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1803,10 +1932,11 @@
   {
     "nanoid": "zSAQDtp3HsePwB",
     "name": "Top Sci-Fi",
-    "stream_urls": [
-      "https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8"
+      ]
+    },
     "languages": [],
     "country": "de",
     "isGeoBlocked": false
@@ -1814,10 +1944,11 @@
   {
     "nanoid": "PWJyz4VQQm82vO",
     "name": "Top Serien",
-    "stream_urls": [
-      "https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8"
+      ]
+    },
     "languages": [],
     "country": "de",
     "isGeoBlocked": false
@@ -1825,10 +1956,11 @@
   {
     "nanoid": "1FPfpylopFQcAU",
     "name": "TV Ingolstadt",
-    "stream_urls": [
-      "https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1838,10 +1970,11 @@
   {
     "nanoid": "ufMx2DHRyBEUuN",
     "name": "TV Mainfranken",
-    "stream_urls": [
-      "https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1851,10 +1984,11 @@
   {
     "nanoid": "zapTNBihBIwpoV",
     "name": "TV Oberfranken",
-    "stream_urls": [
-      "https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1864,10 +1998,11 @@
   {
     "nanoid": "NDLIjfW5RlERZP",
     "name": "TV38 Sudost-Niedersachen",
-    "stream_urls": [
-      "https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref="
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref="
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1877,10 +2012,11 @@
   {
     "nanoid": "vdlrNTq7TC5hbk",
     "name": "TVA",
-    "stream_urls": [
-      "https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1890,10 +2026,11 @@
   {
     "nanoid": "aaowsSWPgbYhP0",
     "name": "Vevo Pop Germany",
-    "stream_urls": [
-      "https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [],
     "country": "de",
     "isGeoBlocked": false
@@ -1901,10 +2038,11 @@
   {
     "nanoid": "5V7Di07ISqyIML",
     "name": "Vevo Schlager Pop",
-    "stream_urls": [
-      "https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [],
     "country": "de",
     "isGeoBlocked": false
@@ -1912,10 +2050,11 @@
   {
     "nanoid": "WAshLHkYNk3KeX",
     "name": "Volksmusik TV",
-    "stream_urls": [
-      "https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1925,11 +2064,12 @@
   {
     "nanoid": "4YJWj04hCfbsQM",
     "name": "WDR 1 Live",
-    "stream_urls": [
-      "https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8",
-      "https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8",
+        "https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1939,10 +2079,11 @@
   {
     "nanoid": "VX0nmnBQ8D5Pdv",
     "name": "WDR Fernsehen Aachen",
-    "stream_urls": [
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1952,10 +2093,11 @@
   {
     "nanoid": "kpnjh9YYciFo9a",
     "name": "WDR Fernsehen Bielefeld",
-    "stream_urls": [
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1965,10 +2107,11 @@
   {
     "nanoid": "9bq9EK8pK09oGU",
     "name": "WDR Fernsehen Bonn",
-    "stream_urls": [
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1978,10 +2121,11 @@
   {
     "nanoid": "syMY9oojgpG8KI",
     "name": "WDR Fernsehen Dortmund",
-    "stream_urls": [
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1991,10 +2135,11 @@
   {
     "nanoid": "mhLwW0aVVzdJ90",
     "name": "WDR Fernsehen Duisburg",
-    "stream_urls": [
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -2004,10 +2149,11 @@
   {
     "nanoid": "Gt6McIqzqsAgE1",
     "name": "WDR Fernsehen Düsseldorf",
-    "stream_urls": [
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -2017,10 +2163,11 @@
   {
     "nanoid": "6Lz1ceHetsyoUa",
     "name": "WDR Fernsehen Essen",
-    "stream_urls": [
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -2030,12 +2177,13 @@
   {
     "nanoid": "HOEGJfbN2vEljn",
     "name": "WDR Fernsehen Köln",
-    "stream_urls": [
-      "https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8",
-      "https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8",
-      "https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8",
+        "https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8",
+        "https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -2045,10 +2193,11 @@
   {
     "nanoid": "wxs1H0scf0XK4q",
     "name": "WDR Fernsehen Münster",
-    "stream_urls": [
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -2058,10 +2207,11 @@
   {
     "nanoid": "dEZtPa59baOyrW",
     "name": "WDR Fernsehen Siegen",
-    "stream_urls": [
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -2071,10 +2221,11 @@
   {
     "nanoid": "dC86JbiDgYV1qp",
     "name": "WDR Fernsehen Wuppertal",
-    "stream_urls": [
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -2084,10 +2235,11 @@
   {
     "nanoid": "K22wa9GZBp59RQ",
     "name": "Welt der Wunder TV",
-    "stream_urls": [
-      "https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -2097,10 +2249,11 @@
   {
     "nanoid": "QB9QqJ3GnR2vau",
     "name": "Wicked Tuna Germany",
-    "stream_urls": [
-      "https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [],
     "country": "de",
     "isGeoBlocked": false
@@ -2108,10 +2261,11 @@
   {
     "nanoid": "79fVSOpRIHlsyq",
     "name": "World of Freesports",
-    "stream_urls": [
-      "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8"
+      ]
+    },
     "languages": [],
     "country": "de",
     "isGeoBlocked": false
@@ -2119,10 +2273,11 @@
   {
     "nanoid": "sdSeYOOTM2qvju",
     "name": "World of Freesports",
-    "stream_urls": [
-      "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -2132,10 +2287,11 @@
   {
     "nanoid": "MTSj2olhZiM1t9",
     "name": "XITE Hits Germany",
-    "stream_urls": [
-      "https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8"
+      ]
+    },
     "languages": [
       "deu",
       "eng"
@@ -2146,10 +2302,11 @@
   {
     "nanoid": "LnfMQF17CGNqsf",
     "name": "ZDF",
-    "stream_urls": [
-      "https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -2159,10 +2316,11 @@
   {
     "nanoid": "lFpgITSyqJzgp8",
     "name": "ZDFinfo",
-    "stream_urls": [
-      "https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -2172,10 +2330,11 @@
   {
     "nanoid": "F6DTin16jti372",
     "name": "ZDFneo",
-    "stream_urls": [
-      "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],

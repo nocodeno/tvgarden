@@ -2,10 +2,11 @@
   {
     "nanoid": "goNrMuzefDwskd",
     "name": "Maldives TV",
-    "stream_urls": [
-      "https://lana.psm.mv/live/mtv.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://lana.psm.mv/live/mtv.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "A9wsFdDEQAIayf",
     "name": "MMTV",
-    "stream_urls": [
-      "https://sendlive.online/hls/mmtv.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://sendlive.online/hls/mmtv.m3u8"
+      ]
+    },
     "languages": [
       "div",
       "eng"

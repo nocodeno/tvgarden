@@ -2,10 +2,11 @@
   {
     "nanoid": "pNzTqn1VuRMufb",
     "name": "Al Masirah",
-    "stream_urls": [
-      "https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "j1LVoh3tQmO0Bh",
     "name": "Al Masirah Mubacher",
-    "stream_urls": [
-      "https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -28,10 +30,11 @@
   {
     "nanoid": "lsCpzWr0KhAo1G",
     "name": "Al-Sahat TV",
-    "stream_urls": [
-      "https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -41,11 +44,12 @@
   {
     "nanoid": "2ifKvPMj4YMcX3",
     "name": "Yemen TV",
-    "stream_urls": [
-      "https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0.m3u8",
-      "https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0.m3u8?session=a3Ukc9eUVXdFTN58aiYFdR"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0.m3u8",
+        "https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0.m3u8?session=a3Ukc9eUVXdFTN58aiYFdR"
+      ]
+    },
     "languages": [
       "ara"
     ],

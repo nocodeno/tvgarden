@@ -2,10 +2,11 @@
   {
     "nanoid": "a6UlcJ86l0A6vJ",
     "name": "AlbKanale Music TV",
-    "stream_urls": [
-      "https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8"
+      ]
+    },
     "languages": [
       "sqi"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "brSlrCyaemDvos",
     "name": "Alpo TV",
-    "stream_urls": [
-      "https://vs.sednastream.com:1936/alportv/alportv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://vs.sednastream.com:1936/alportv/alportv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "sqi"
     ],
@@ -28,10 +30,11 @@
   {
     "nanoid": "pGI92O7SX6ZwCX",
     "name": "CNA",
-    "stream_urls": [
-      "https://live1.mediadesk.al/cnatvlive.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live1.mediadesk.al/cnatvlive.m3u8"
+      ]
+    },
     "languages": [
       "sqi"
     ],
@@ -41,12 +44,14 @@
   {
     "nanoid": "XvDQJs5tCok3Tz",
     "name": "Euronews Albania",
-    "stream_urls": [
-      "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aOejBxplo_o"
-    ],
+    "sources": {
+      "streams": [
+        "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/s8J1dTvLxY0"
+      ]
+    },
     "languages": [
       "sqi"
     ],
@@ -56,10 +61,11 @@
   {
     "nanoid": "3HR60WW2TP6Sn5",
     "name": "News 24",
-    "stream_urls": [
-      "https://tv.balkanweb.com/news24/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tv.balkanweb.com/news24/livestream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "sqi"
     ],
@@ -69,10 +75,11 @@
   {
     "nanoid": "MK5j1Y4k8niPNJ",
     "name": "Ora News",
-    "stream_urls": [
-      "https://live1.mediadesk.al/oranews.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live1.mediadesk.al/oranews.m3u8"
+      ]
+    },
     "languages": [
       "sqi"
     ],
@@ -82,10 +89,11 @@
   {
     "nanoid": "bZsCIZfaVnNf22",
     "name": "Panorama TV",
-    "stream_urls": [
-      "https://159.69.221.56/panorama/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://159.69.221.56/panorama/livestream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "sqi"
     ],
@@ -95,10 +103,11 @@
   {
     "nanoid": "nKRKgWmp0ZuIb0",
     "name": "Syri",
-    "stream_urls": [
-      "https://stream.syritv.al/live/syritv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.syritv.al/live/syritv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "sqi"
     ],
@@ -108,10 +117,11 @@
   {
     "nanoid": "16gGAjZZtes1Qk",
     "name": "Zjarr TV",
-    "stream_urls": [
-      "https://zjarr.future.al/hls/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://zjarr.future.al/hls/playlist.m3u8"
+      ]
+    },
     "languages": [
       "sqi"
     ],

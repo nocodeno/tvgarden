@@ -2,10 +2,11 @@
   {
     "nanoid": "5Yzo5xaahNvJA8",
     "name": "SolTV",
-    "stream_urls": [
-      "https://stream.solmediaeg.com/soltv/soltv.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.solmediaeg.com/soltv/soltv.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],

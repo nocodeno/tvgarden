@@ -2,10 +2,25 @@
   {
     "nanoid": "eJjlISOoTDWS4E",
     "name": "Aghani Aghani TV",
-    "stream_urls": [
-      "https://cdn.streamlane.tv/hls/aghanitv/index.m3u8"
+    "sources": {
+      "streams": [
+        "https://cdn.streamlane.tv/hls/aghanitv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
     ],
-    "youtube_urls": [],
+    "country": "lb",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tJW0Zmlfbe64by",
+    "name": "Al Ittihad TV",
+    "sources": {
+      "streams": [
+        "https://live.alittihad.tv:444/ittihad/index.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -15,10 +30,11 @@
   {
     "nanoid": "h1ncAaz3z6G5rC",
     "name": "Al Mayadeen TV",
-    "stream_urls": [
-      "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -28,10 +44,11 @@
   {
     "nanoid": "SJ1fJzR4YH5Qub",
     "name": "Al-Iman TV",
-    "stream_urls": [
-      "https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -41,10 +58,11 @@
   {
     "nanoid": "adH0u7bdwEN6Q4",
     "name": "Al-Manar",
-    "stream_urls": [
-      "https://edge.fastpublish.me/live/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://edge.fastpublish.me/live/index.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -54,10 +72,11 @@
   {
     "nanoid": "oHpWSCiwHvXaJw",
     "name": "Assirat TV",
-    "stream_urls": [
-      "https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -67,10 +86,11 @@
   {
     "nanoid": "o4YWqt8qnKLyde",
     "name": "Charity TV",
-    "stream_urls": [
-      "https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -80,10 +100,11 @@
   {
     "nanoid": "zbc7OvMJjNYiAj",
     "name": "Future TV",
-    "stream_urls": [
-      "https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -93,10 +114,11 @@
   {
     "nanoid": "svC7kYWZwwTnpS",
     "name": "Lana TV",
-    "stream_urls": [
-      "https://cdn.streamlane.tv/hls/ltv/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn.streamlane.tv/hls/ltv/master.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -106,10 +128,11 @@
   {
     "nanoid": "OZojwzo0g4hoz6",
     "name": "mfm",
-    "stream_urls": [
-      "https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -119,10 +142,11 @@
   {
     "nanoid": "chS5L1lWnmt9Lq",
     "name": "Nour Al Koddass",
-    "stream_urls": [
-      "https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -132,10 +156,11 @@
   {
     "nanoid": "jTdu7ZWaX25z1l",
     "name": "Nour Al Sharq",
-    "stream_urls": [
-      "https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -145,10 +170,11 @@
   {
     "nanoid": "EhaJazdic4rGmR",
     "name": "Noursat",
-    "stream_urls": [
-      "https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -158,10 +184,11 @@
   {
     "nanoid": "ZBLEdJObtRX5b1",
     "name": "Noursat English",
-    "stream_urls": [
-      "https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -171,10 +198,11 @@
   {
     "nanoid": "emIP3T2eF8irvD",
     "name": "One TV",
-    "stream_urls": [
-      "https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -184,10 +212,11 @@
   {
     "nanoid": "gnuuMkH7mNSzfZ",
     "name": "OneFM",
-    "stream_urls": [
-      "https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -197,10 +226,11 @@
   {
     "nanoid": "2IP0NHvFLY6hEX",
     "name": "Palestine Al Yawm",
-    "stream_urls": [
-      "https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -210,10 +240,11 @@
   {
     "nanoid": "rcAVPicFrfGwrS",
     "name": "Red TV Lebanon",
-    "stream_urls": [
-      "https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -223,10 +254,11 @@
   {
     "nanoid": "sLzyXxJZk3tdfD",
     "name": "Tele Liban",
-    "stream_urls": [
-      "https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -236,10 +268,11 @@
   {
     "nanoid": "fWdgIuiyR31OcO",
     "name": "Voice of Lebanon",
-    "stream_urls": [
-      "https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],

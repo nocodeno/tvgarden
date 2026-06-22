@@ -2,10 +2,11 @@
   {
     "nanoid": "mGLwdOQP8VDOyv",
     "name": "3RS Cartoon Movies",
-    "stream_urls": [
-      "https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8"
+      ]
+    },
     "languages": [
       "tgl"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "w6lCTe5PGiw86y",
     "name": "3RS Movie Box",
-    "stream_urls": [
-      "https://3rsmoviebox.elektriko4444.workers.dev/moon.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://3rsmoviebox.elektriko4444.workers.dev/moon.m3u8"
+      ]
+    },
     "languages": [
       "tgl"
     ],
@@ -28,10 +30,11 @@
   {
     "nanoid": "ljbDHsn3LrEl5J",
     "name": "3RS Sine Pinoy",
-    "stream_urls": [
-      "https://3rssinepinoy2.elektriko4444.workers.dev/mochi.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://3rssinepinoy2.elektriko4444.workers.dev/mochi.m3u8"
+      ]
+    },
     "languages": [
       "tgl"
     ],
@@ -41,10 +44,11 @@
   {
     "nanoid": "IWXfoGrkM0NaQG",
     "name": "3RS TV",
-    "stream_urls": [
-      "https://3rstv.elektriko4444.workers.dev/peanut.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://3rstv.elektriko4444.workers.dev/peanut.m3u8"
+      ]
+    },
     "languages": [
       "tgl"
     ],
@@ -54,11 +58,12 @@
   {
     "nanoid": "Zpcb6dPZj431wJ",
     "name": "Abante TV",
-    "stream_urls": [
-      "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8",
-      "https://streams.comclark.com/transcodesd/abante/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8",
+        "https://streams.comclark.com/transcodesd/abante/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -66,13 +71,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GyD5jgzfEEiUYG",
+    "name": "Asia Flix TV",
+    "sources": {
+      "streams": [
+        "https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jJ5KY3frn8Mets",
     "name": "Bilyonaryo News Channel",
-    "stream_urls": [
-      "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
-      "https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
+        "https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "fil"
@@ -83,10 +103,11 @@
   {
     "nanoid": "k6kILJ1P88D8yy",
     "name": "CLTV 36",
-    "stream_urls": [
-      "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "pam",
@@ -98,10 +119,11 @@
   {
     "nanoid": "xO426KlalATtSy",
     "name": "Dream TV Philippines",
-    "stream_urls": [
-      "https://dreamtvph.itunerworldwide.workers.dev/master.live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dreamtvph.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
     "languages": [
       "tgl"
     ],
@@ -111,10 +133,11 @@
   {
     "nanoid": "ysfU2beBypKeTE",
     "name": "Dreamstar TV",
-    "stream_urls": [
-      "https://dreamstartvph.itunerworldwide.workers.dev/master.live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dreamstartvph.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
     "languages": [
       "tgl"
     ],
@@ -124,10 +147,11 @@
   {
     "nanoid": "KutUbScYEcqvqz",
     "name": "Durian TV",
-    "stream_urls": [
-      "https://duriantvph.itunerworldwide.workers.dev/master.live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://duriantvph.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
     "languages": [
       "tgl"
     ],
@@ -137,10 +161,11 @@
   {
     "nanoid": "k1le9DNzsDpeDQ",
     "name": "DZRH News TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FxsfVX6B1Mk"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/FxsfVX6B1Mk"
+      ]
+    },
     "languages": [
       "tgl"
     ],
@@ -150,10 +175,11 @@
   {
     "nanoid": "nJxgI7pzCfnLat",
     "name": "Highlights TV",
-    "stream_urls": [
-      "https://highlightstvph.itunerworldwide.workers.dev/master.live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://highlightstvph.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
     "languages": [
       "tgl"
     ],
@@ -163,10 +189,11 @@
   {
     "nanoid": "5ylmup4ChZMQ5g",
     "name": "Hype TV",
-    "stream_urls": [
-      "https://hypetvphbydtmmbs.itunerworldwide.workers.dev/master.live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hypetvphbydtmmbs.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
     "languages": [
       "tgl"
     ],
@@ -176,10 +203,11 @@
   {
     "nanoid": "PO5SqjRTXUmc2R",
     "name": "IBC 13",
-    "stream_urls": [
-      "https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8"
+      ]
+    },
     "languages": [
       "tgl"
     ],
@@ -189,11 +217,12 @@
   {
     "nanoid": "681XV5aGJin4Gd",
     "name": "INTRAVEL Philippines",
-    "stream_urls": [
-      "https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -203,11 +232,12 @@
   {
     "nanoid": "50fISDUbgXCYss",
     "name": "Living Asia Channel",
-    "stream_urls": [
-      "https://streams.comclark.com/pknsd/lac/playlist.m3u8",
-      "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streams.comclark.com/pknsd/lac/playlist.m3u8",
+        "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "tgl"
@@ -218,11 +248,12 @@
   {
     "nanoid": "RhkfgHInexT7iQ",
     "name": "Mindanow Network TV",
-    "stream_urls": [
-      "https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8",
-      "https://streams.comclark.com/overlay/mindanow/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8",
+        "https://streams.comclark.com/overlay/mindanow/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -232,10 +263,11 @@
   {
     "nanoid": "zQHj8k3lfZHYDd",
     "name": "PTV",
-    "stream_urls": [
-      "https://streams.comclark.com/pknsd/ptv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streams.comclark.com/pknsd/ptv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -243,25 +275,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WviTL8qcTRWt2V",
-    "name": "SDTV Network",
-    "stream_urls": [
-      "https://sdtvnetworkph.itunerworldwide.workers.dev/master.live.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tgl"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wTn8t48jb6lXBN",
-    "name": "Star Television",
-    "stream_urls": [
-      "https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8"
-    ],
-    "youtube_urls": [],
+    "nanoid": "iy4DzSWvO3GYHT",
+    "name": "Teleradyo Serbisyo",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/6rUKviwptww"
+      ]
+    },
     "languages": [
       "tgl"
     ],
@@ -271,10 +291,11 @@
   {
     "nanoid": "hMNBoVmzvLJ9tI",
     "name": "UNTV News and Rescue",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eDZR3ggrXBs"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/eDZR3ggrXBs"
+      ]
+    },
     "languages": [
       "tgl"
     ],

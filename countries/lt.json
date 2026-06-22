@@ -2,10 +2,11 @@
   {
     "nanoid": "C7oEv16dfu5JbY",
     "name": "Lietuvos Rytas TV",
-    "stream_urls": [
-      "https://live.lietuvosryto.tv/live/hls/eteris.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.lietuvosryto.tv/live/hls/eteris.m3u8"
+      ]
+    },
     "languages": [
       "lit"
     ],
@@ -15,12 +16,14 @@
   {
     "nanoid": "b9QdwOWvuoD0L1",
     "name": "LRT Klasika",
-    "stream_urls": [
-      "https://stream-live.lrt.lt/klasika/master.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/E0mVtbXPRHg"
-    ],
+    "sources": {
+      "streams": [
+        "https://stream-live.lrt.lt/klasika/master.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/E0mVtbXPRHg"
+      ]
+    },
     "languages": [
       "lit"
     ],
@@ -30,12 +33,14 @@
   {
     "nanoid": "OGTxaWnBlezwNQ",
     "name": "LRT Lituanica",
-    "stream_urls": [
-      "https://stream-live.lrt.lt/lituanica/master.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/m67gYVnA100"
-    ],
+    "sources": {
+      "streams": [
+        "https://stream-live.lrt.lt/lituanica/master.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/m67gYVnA100"
+      ]
+    },
     "languages": [
       "lit"
     ],
@@ -45,12 +50,14 @@
   {
     "nanoid": "n9ltANAvf9McB6",
     "name": "LRT Opus",
-    "stream_urls": [
-      "https://stream-live.lrt.lt/opus/master.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EbHYDvg1siE"
-    ],
+    "sources": {
+      "streams": [
+        "https://stream-live.lrt.lt/opus/master.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/EbHYDvg1siE"
+      ]
+    },
     "languages": [
       "lit"
     ],
@@ -60,12 +67,14 @@
   {
     "nanoid": "KOfOkbRRfb8Nzi",
     "name": "LRT Radijas",
-    "stream_urls": [
-      "https://stream-live.lrt.lt/radijas/master.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/izc0E-37OmY"
-    ],
+    "sources": {
+      "streams": [
+        "https://stream-live.lrt.lt/radijas/master.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/izc0E-37OmY"
+      ]
+    },
     "languages": [
       "lit"
     ],
@@ -75,10 +84,11 @@
   {
     "nanoid": "TD6r7rS9yoQWgK",
     "name": "M-1",
-    "stream_urls": [
-      "https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "lit"
     ],
@@ -88,10 +98,11 @@
   {
     "nanoid": "UytszlnTgHpVar",
     "name": "Power Hit Radio",
-    "stream_urls": [
-      "https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDczNDU2NjEsInBhdGgiOiIvbGl2ZS9lZHMvUFdSX0xUVV9MaXZlL0dPM19MSVZFX0hMUy8iLCJzaXAiOiI3Mi4xMS4xNTcuMTEyIiwiZGV2aWNlX2lkIjoiMCIsInNlc3Npb25faWQiOiIwIiwiY2xpZW50X2lkIjoiMCJ9.oHc5wUgwNPQ-4P7wJy_WvWQh0muFg9Lprhc4STS3cUHi0FI4tAKGdZOOeE-dOhVBHKFUYETmoXSMrrVHOeLC3g"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDczNDU2NjEsInBhdGgiOiIvbGl2ZS9lZHMvUFdSX0xUVV9MaXZlL0dPM19MSVZFX0hMUy8iLCJzaXAiOiI3Mi4xMS4xNTcuMTEyIiwiZGV2aWNlX2lkIjoiMCIsInNlc3Npb25faWQiOiIwIiwiY2xpZW50X2lkIjoiMCJ9.oHc5wUgwNPQ-4P7wJy_WvWQh0muFg9Lprhc4STS3cUHi0FI4tAKGdZOOeE-dOhVBHKFUYETmoXSMrrVHOeLC3g"
+      ]
+    },
     "languages": [
       "lit"
     ],

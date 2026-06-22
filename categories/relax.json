@@ -2,10 +2,11 @@
   {
     "nanoid": "lxtnwZjaAVKkTo",
     "name": "10 Bold Adelaide",
-    "stream_urls": [
-      "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "NI9bA34mB8Hi1j",
     "name": "Better Life Nature Channel",
-    "stream_urls": [
-      "https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -28,10 +30,11 @@
   {
     "nanoid": "yZyrZHNcmMNYOm",
     "name": "FunBox UHD",
-    "stream_urls": [
-      "https://webtvstream.bhtelecom.ba/hls15/funbox.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://webtvstream.bhtelecom.ba/hls15/funbox.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -41,10 +44,11 @@
   {
     "nanoid": "hDKihfnR1gIzAi",
     "name": "MyZen TV",
-    "stream_urls": [
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8"
+      ]
+    },
     "languages": [
       "bul",
       "eng",
@@ -59,11 +63,12 @@
   {
     "nanoid": "cfBOOiTtczD84z",
     "name": "Space Live powered by sen",
-    "stream_urls": [
-      "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8",
-      "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8",
+        "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -73,12 +78,13 @@
   {
     "nanoid": "NpJ5K3Avxx4otV",
     "name": "WildEarth",
-    "stream_urls": [
-      "https://wildearth-xumo.amagi.tv/master.m3u8",
-      "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://wildearth-xumo.amagi.tv/master.m3u8",
+        "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8",
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],

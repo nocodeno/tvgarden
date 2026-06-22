@@ -2,10 +2,11 @@
   {
     "nanoid": "iLcflI1KSBOjbJ",
     "name": "Agenda Minera TV",
-    "stream_urls": [
-      "https://stv2.boliviaplay.com.bo/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stv2.boliviaplay.com.bo/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -15,12 +16,14 @@
   {
     "nanoid": "2TkyVV55zzBzz3",
     "name": "Al Arabiya Business",
-    "stream_urls": [
-      "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rXnG4eiVVdM"
-    ],
+    "sources": {
+      "streams": [
+        "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/rXnG4eiVVdM"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -28,12 +31,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hNpror6ZnqPuws",
+    "name": "Aleph Business",
+    "sources": {
+      "streams": [
+        "https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sPGmyALtlBkjD3",
     "name": "Ameritrade",
-    "stream_urls": [
-      "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -43,10 +61,11 @@
   {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
-    "stream_urls": [
-      "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ltz"
     ],
@@ -56,10 +75,11 @@
   {
     "nanoid": "ymEZZ9kXLlqF9g",
     "name": "Asharq Business اقتصاد الشرق",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hXKYpuTEwqk"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/hXKYpuTEwqk"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -69,11 +89,26 @@
   {
     "nanoid": "3IPx7Vn2DfdZ1y",
     "name": "Asharq News",
-    "stream_urls": [
-      "https://live-news.asharq.com/asharq.m3u8",
-      "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8"
+    "sources": {
+      "streams": [
+        "https://live-news.asharq.com/asharq.m3u8",
+        "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
     ],
-    "youtube_urls": [],
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Tl12ojqlqKkMqp",
+    "name": "Asharq Radio",
+    "sources": {
+      "streams": [
+        "https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -83,10 +118,11 @@
   {
     "nanoid": "OTtgOdMuzH3Ad4",
     "name": "Ausbiz TV",
-    "stream_urls": [
-      "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -96,10 +132,11 @@
   {
     "nanoid": "D2NSPfcewUnhFP",
     "name": "BFM Business",
-    "stream_urls": [
-      "https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -109,11 +146,12 @@
   {
     "nanoid": "jJ5KY3frn8Mets",
     "name": "Bilyonaryo News Channel",
-    "stream_urls": [
-      "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
-      "https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
+        "https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "fil"
@@ -124,10 +162,11 @@
   {
     "nanoid": "FjXyVOsqcRFgVP",
     "name": "Bloomberg Business News",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QB5BNdBFujE"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/QB5BNdBFujE"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -137,14 +176,16 @@
   {
     "nanoid": "WH7adDfFfMrDqi",
     "name": "Bloomberg Originals US",
-    "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8",
-      "https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8",
-      "https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OlUMDZchivQ"
-    ],
+    "sources": {
+      "streams": [
+        "https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8",
+        "https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8",
+        "https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/OlUMDZchivQ"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -154,10 +195,11 @@
   {
     "nanoid": "CgMsuXc9zVoL0K",
     "name": "Bloomberg Podcasts",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/f39oHo6vFLg"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/f39oHo6vFLg"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -167,10 +209,11 @@
   {
     "nanoid": "18AFI0l147pCm5",
     "name": "BT TV",
-    "stream_urls": [
-      "https://feeds.intoday.in/bttv/itgd.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://feeds.intoday.in/bttv/itgd.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -180,10 +223,11 @@
   {
     "nanoid": "b8gunvy17bdMzO",
     "name": "Cafe Trade TV",
-    "stream_urls": [
-      "https://cafetradehls.wns.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cafetradehls.wns.live/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "fas"
     ],
@@ -193,12 +237,14 @@
   {
     "nanoid": "K4DoGz5aRpSeyC",
     "name": "Canal E",
-    "stream_urls": [
-      "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EYsBtcmFz4s"
-    ],
+    "sources": {
+      "streams": [
+        "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/EYsBtcmFz4s"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -208,10 +254,11 @@
   {
     "nanoid": "0w7Ai7GtLMZNLS",
     "name": "Canal Pro",
-    "stream_urls": [
-      "https://www.desde-paraguay.com/pro.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://www.desde-paraguay.com/pro.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -221,10 +268,11 @@
   {
     "nanoid": "v8hzHLNa329Qxl",
     "name": "Canal Z",
-    "stream_urls": [
-      "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -234,10 +282,11 @@
   {
     "nanoid": "vxtY5UyNAjZlYv",
     "name": "CGTN Global Biz",
-    "stream_urls": [
-      "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "zho"
@@ -248,10 +297,11 @@
   {
     "nanoid": "vrlS9LYggqZr3W",
     "name": "Class CNBC",
-    "stream_urls": [
-      "https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ita"
     ],
@@ -261,10 +311,11 @@
   {
     "nanoid": "7XcP1junyS1aZN",
     "name": "CNBC",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9NyxcX3rhQs"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/9NyxcX3rhQs"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -274,10 +325,11 @@
   {
     "nanoid": "acbY5wCKKgtMnI",
     "name": "CNBC Arabiya",
-    "stream_urls": [
-      "https://cnbc-live.akamaized.net/cnbc/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cnbc-live.akamaized.net/cnbc/master.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -287,10 +339,11 @@
   {
     "nanoid": "MGainK9O6Ki8Pq",
     "name": "CNBC Awaaz",
-    "stream_urls": [
-      "https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8"
+      ]
+    },
     "languages": [
       "hin"
     ],
@@ -300,10 +353,11 @@
   {
     "nanoid": "DdROsd1Q2nYJRU",
     "name": "CNBC Bajar",
-    "stream_urls": [
-      "https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8"
+      ]
+    },
     "languages": [
       "guj"
     ],
@@ -313,10 +367,11 @@
   {
     "nanoid": "mEIRNL8QzgtqGN",
     "name": "CNBC TV18",
-    "stream_urls": [
-      "https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -326,10 +381,11 @@
   {
     "nanoid": "9LN6MzHXKTHs5F",
     "name": "CNBC TV18 Prime HD",
-    "stream_urls": [
-      "https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -339,11 +395,12 @@
   {
     "nanoid": "a1RrZc8pJaoRNo",
     "name": "CNBC UK",
-    "stream_urls": [
-      "https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -353,10 +410,11 @@
   {
     "nanoid": "OSKKDWCAHjH9Fa",
     "name": "CNBC-e",
-    "stream_urls": [
-      "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
+      ]
+    },
     "languages": [
       "tur"
     ],
@@ -366,10 +424,11 @@
   {
     "nanoid": "2E1QCHJTYwtjGg",
     "name": "DeFiance Media",
-    "stream_urls": [
-      "https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -379,10 +438,11 @@
   {
     "nanoid": "su2eDwMfYQsEMR",
     "name": "Ekhon TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PRvnQNOaTFg"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/PRvnQNOaTFg"
+      ]
+    },
     "languages": [
       "ben"
     ],
@@ -392,10 +452,11 @@
   {
     "nanoid": "Vlv7oVLxod7s5c",
     "name": "ET Now Swadesh",
-    "stream_urls": [
-      "https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -405,10 +466,11 @@
   {
     "nanoid": "Oknqtc1CKDoMam",
     "name": "GCNTV Korea",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/L9bvCgSJXnc"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/L9bvCgSJXnc"
+      ]
+    },
     "languages": [
       "kor"
     ],
@@ -418,10 +480,11 @@
   {
     "nanoid": "E9smyEh0BaQpif",
     "name": "JOB TV",
-    "stream_urls": [
-      "https://jobtvserver.eu/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://jobtvserver.eu/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "ron"
     ],
@@ -431,10 +494,11 @@
   {
     "nanoid": "eJyaKdO16IOPE0",
     "name": "Kanaal Z",
-    "stream_urls": [
-      "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -444,10 +508,11 @@
   {
     "nanoid": "hNA8RP7NoiPpEi",
     "name": "Le Nouveau Manager TV",
-    "stream_urls": [
-      "https://lnmlive.com/live/lnmtv.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://lnmlive.com/live/lnmtv.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -457,13 +522,15 @@
   {
     "nanoid": "PrbGgJSVKuINgQ",
     "name": "NDTV Profit",
-    "stream_urls": [
-      "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8",
-      "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EN-N1xhtBqU"
-    ],
+    "sources": {
+      "streams": [
+        "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8",
+        "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/EN-N1xhtBqU"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -473,10 +540,11 @@
   {
     "nanoid": "fEhuSbh6UZiVWk",
     "name": "NW Economie",
-    "stream_urls": [
-      "https://hls.newworldtv.com/nw-economie/video/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hls.newworldtv.com/nw-economie/video/live.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -486,11 +554,12 @@
   {
     "nanoid": "CEAdR8bknBDUPA",
     "name": "RBK-TV",
-    "stream_urls": [
-      "https://online-video.rbc.ru/online2/rbctv.m3u8",
-      "https://online-video.rbc.ru/spb/rbctv_spb.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://online-video.rbc.ru/online2/rbctv.m3u8",
+        "https://online-video.rbc.ru/spb/rbctv_spb.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -500,11 +569,12 @@
   {
     "nanoid": "7Hi1mkEHCgVdat",
     "name": "Schwab Network",
-    "stream_urls": [
-      "https://tdameritrade-distro.amagi.tv/playlist.m3u8",
-      "https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tdameritrade-distro.amagi.tv/playlist.m3u8",
+        "https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -514,10 +584,11 @@
   {
     "nanoid": "BlvOv7Ksnyq1tc",
     "name": "Telewizja Biznesowa",
-    "stream_urls": [
-      "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8"
+      ]
+    },
     "languages": [
       "pol"
     ],
@@ -527,10 +598,11 @@
   {
     "nanoid": "Buf371rRZBbDSG",
     "name": "Tevex",
-    "stream_urls": [
-      "https://v4.tustreaming.cl/tevexinter/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://v4.tustreaming.cl/tevexinter/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -540,14 +612,16 @@
   {
     "nanoid": "b4Usnwe7Qsd37O",
     "name": "Yahoo! Finance",
-    "stream_urls": [
-      "https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8",
-      "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
-      "https://yahoo-plex.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KQp-e_XQnDE"
-    ],
+    "sources": {
+      "streams": [
+        "https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8",
+        "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
+        "https://yahoo-plex.amagi.tv/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/KQp-e_XQnDE"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -557,10 +631,11 @@
   {
     "nanoid": "99nnCKryI6XnTb",
     "name": "Zuraca TV",
-    "stream_urls": [
-      "https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -570,10 +645,11 @@
   {
     "nanoid": "hkhk8nvVQebQV1",
     "name": "서울경제TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/i6zpgb2zuvs"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/i6zpgb2zuvs"
+      ]
+    },
     "languages": [
       "kor"
     ],
@@ -583,10 +659,11 @@
   {
     "nanoid": "IajYttlzZAMhfP",
     "name": "토마토증권통",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/w05Ejc0iOVI"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/w05Ejc0iOVI"
+      ]
+    },
     "languages": [
       "kor"
     ],
@@ -596,10 +673,11 @@
   {
     "nanoid": "aV3MmbNPq5Yqa2",
     "name": "한국경제TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VlaCnp1fxI8"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/VlaCnp1fxI8"
+      ]
+    },
     "languages": [
       "kor"
     ],

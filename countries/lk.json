@@ -2,10 +2,11 @@
   {
     "nanoid": "8GtOpx9EPmjKvR",
     "name": "Hiru TV",
-    "stream_urls": [
-      "https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8"
+      ]
+    },
     "languages": [
       "sin"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "WDEjDpDWifIyr0",
     "name": "Imai TV",
-    "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "tam"
     ],
@@ -28,10 +30,11 @@
   {
     "nanoid": "aPS8EfkYXWdlK5",
     "name": "Jaya TV",
-    "stream_urls": [
-      "https://live.jayatv.lk/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.jayatv.lk/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "sin"
     ],
@@ -41,10 +44,11 @@
   {
     "nanoid": "SfoZRyfL73LUNW",
     "name": "Karma",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8xfN8FLGRRU"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/8xfN8FLGRRU"
+      ]
+    },
     "languages": [
       "sin"
     ],
@@ -54,10 +58,11 @@
   {
     "nanoid": "GqCp27T0s0lfCz",
     "name": "Methmaga TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2j4DjBcYzf0"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Y6dQA8zq6fc"
+      ]
+    },
     "languages": [
       "sin"
     ],
@@ -67,10 +72,11 @@
   {
     "nanoid": "Lb91CXq3a9VbL6",
     "name": "NDTV LANKA",
-    "stream_urls": [
-      "https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "tam"
     ],
@@ -80,10 +86,11 @@
   {
     "nanoid": "iGtWdanOFXXJW6",
     "name": "Pragna TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/76QGhfJgmE0"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/76QGhfJgmE0"
+      ]
+    },
     "languages": [
       "sin"
     ],
@@ -93,10 +100,11 @@
   {
     "nanoid": "PV4q0CxdmR4YKH",
     "name": "Sathi TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lKSiNDqprDQ"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/lKSiNDqprDQ"
+      ]
+    },
     "languages": [
       "sin"
     ],
@@ -106,10 +114,11 @@
   {
     "nanoid": "7R0DstCnUpoyxj",
     "name": "Shraddha TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Wy2IiTS0E1w"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Wy2IiTS0E1w"
+      ]
+    },
     "languages": [
       "sin"
     ],
@@ -119,10 +128,11 @@
   {
     "nanoid": "93ImfKCer0mJxB",
     "name": "Siyatha TV",
-    "stream_urls": [
-      "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8"
+      ]
+    },
     "languages": [
       "sin"
     ],
@@ -132,10 +142,11 @@
   {
     "nanoid": "BhmoGwl2ZbKr5D",
     "name": "The Buddhist TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_cU58xfB2co"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/_cU58xfB2co"
+      ]
+    },
     "languages": [
       "sin"
     ],
@@ -145,10 +156,11 @@
   {
     "nanoid": "OxKKq3S3gJT9m8",
     "name": "Verbum TV",
-    "stream_urls": [
-      "https://samson.streamerr.co:8081/verbumtv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://samson.streamerr.co:8081/verbumtv/index.m3u8"
+      ]
+    },
     "languages": [
       "tam"
     ],

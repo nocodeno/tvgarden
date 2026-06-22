@@ -2,10 +2,11 @@
   {
     "nanoid": "ODGy5xci7GyHGP",
     "name": "Television Caribbean",
-    "stream_urls": [
-      "https://live.kingdom-tv.com:3545/stream/play.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.kingdom-tv.com:3545/stream/play.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "uotwBii647jkV2",
     "name": "ZIZ TV",
-    "stream_urls": [
-      "https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],

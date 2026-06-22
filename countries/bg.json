@@ -2,10 +2,11 @@
   {
     "nanoid": "aYAhxfge3884Ci",
     "name": "Agro TV",
-    "stream_urls": [
-      "https://restr2.bgtv.bg/agro/hls/agro.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://restr2.bgtv.bg/agro/hls/agro.m3u8"
+      ]
+    },
     "languages": [
       "bul"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "TkXTB0zs0J2fA7",
     "name": "Cartoonito България",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AKdqQi5H8xE"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/AKdqQi5H8xE"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -28,10 +30,11 @@
   {
     "nanoid": "S1ZYN7hADGka8A",
     "name": "City TV",
-    "stream_urls": [
-      "https://tv.city.bg/play/tshls/citytv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tv.city.bg/play/tshls/citytv/index.m3u8"
+      ]
+    },
     "languages": [
       "bul"
     ],
@@ -41,10 +44,11 @@
   {
     "nanoid": "xb56fwuwQyeFpw",
     "name": "Hope Channel Bulgaria",
-    "stream_urls": [
-      "https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "bul"
     ],
@@ -54,10 +58,11 @@
   {
     "nanoid": "baxC7ZNvKlaeR7",
     "name": "Light Channel",
-    "stream_urls": [
-      "https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8"
+      ]
+    },
     "languages": [
       "bul"
     ],
@@ -67,10 +72,11 @@
   {
     "nanoid": "rq3OJITyKdZXB9",
     "name": "Magic TV",
-    "stream_urls": [
-      "https://bss1.neterra.tv/magictv/magictv.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://bss1.neterra.tv/magictv/magictv.m3u8"
+      ]
+    },
     "languages": [
       "bul"
     ],
@@ -80,10 +86,11 @@
   {
     "nanoid": "rCOmwF4pnlWlvg",
     "name": "The Voice",
-    "stream_urls": [
-      "https://bss1.neterra.tv/thevoice/thevoice.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://bss1.neterra.tv/thevoice/thevoice.m3u8"
+      ]
+    },
     "languages": [
       "bul"
     ],
@@ -93,10 +100,11 @@
   {
     "nanoid": "GEk43COrT9omtb",
     "name": "This is Bulgaria HD",
-    "stream_urls": [
-      "https://streamer103.neterra.tv/thisisbulgaria/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamer103.neterra.tv/thisisbulgaria/live.m3u8"
+      ]
+    },
     "languages": [
       "bul"
     ],
@@ -106,10 +114,11 @@
   {
     "nanoid": "XlXPtDjBoCbxvd",
     "name": "Tiankov Folk",
-    "stream_urls": [
-      "https://streamer103.neterra.tv/tiankov-folk/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamer103.neterra.tv/tiankov-folk/live.m3u8"
+      ]
+    },
     "languages": [
       "bul"
     ],
@@ -119,10 +128,11 @@
   {
     "nanoid": "SByzYuSnvckWM0",
     "name": "Tiankov Orient Folk",
-    "stream_urls": [
-      "https://streamer103.neterra.tv/tiankov-orient/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamer103.neterra.tv/tiankov-orient/live.m3u8"
+      ]
+    },
     "languages": [
       "bul"
     ],
@@ -132,10 +142,11 @@
   {
     "nanoid": "fwm1YJJu2dW30c",
     "name": "Travel TV",
-    "stream_urls": [
-      "https://streamer103.neterra.tv/travel/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamer103.neterra.tv/travel/live.m3u8"
+      ]
+    },
     "languages": [
       "bul"
     ],

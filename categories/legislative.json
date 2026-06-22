@@ -2,10 +2,11 @@
   {
     "nanoid": "UTPQHefSxSVqfS",
     "name": "AccessVision Channel 17",
-    "stream_urls": [
-      "https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "vqFXUAvAcfaAOu",
     "name": "ACTV",
-    "stream_urls": [
-      "https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -28,10 +30,11 @@
   {
     "nanoid": "aMfHfOa13YZ4ZC",
     "name": "ARTV",
-    "stream_urls": [
-      "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -41,10 +44,11 @@
   {
     "nanoid": "I5etK19ZRT3eHn",
     "name": "ATXN1",
-    "stream_urls": [
-      "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -54,10 +58,11 @@
   {
     "nanoid": "l6t1LyMy9mHMzV",
     "name": "ATXN2",
-    "stream_urls": [
-      "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -67,10 +72,11 @@
   {
     "nanoid": "2s87sxYLm0FfDz",
     "name": "BPTV",
-    "stream_urls": [
-      "https://buenapark.cablecast.tv/live/stream-1/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://buenapark.cablecast.tv/live/stream-1/live.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -80,10 +86,11 @@
   {
     "nanoid": "LHPz1aKU2GRHnH",
     "name": "Brevard Government Access TV",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -93,10 +100,11 @@
   {
     "nanoid": "UTKM2yB8tUj85p",
     "name": "Camera dei Deputati",
-    "stream_urls": [
-      "https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ita"
     ],
@@ -106,10 +114,11 @@
   {
     "nanoid": "mCYSTDjXapnUpp",
     "name": "Canal del Congreso 45.1",
-    "stream_urls": [
-      "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -119,12 +128,14 @@
   {
     "nanoid": "nvi12xPQhPg1F5",
     "name": "Canal Gov",
-    "stream_urls": [
-      "https://canalgov-stream.ebc.com.br/index.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rH8iPiAP8YI"
-    ],
+    "sources": {
+      "streams": [
+        "https://canalgov-stream.ebc.com.br/index.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/rH8iPiAP8YI"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -134,10 +145,11 @@
   {
     "nanoid": "rNsPk0ZuXHne3A",
     "name": "Canal Parlamento",
-    "stream_urls": [
-      "https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -147,10 +159,11 @@
   {
     "nanoid": "zjs8fScsFVoj7q",
     "name": "Canal Parlamento del Congreso de Jalisco",
-    "stream_urls": [
-      "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -160,10 +173,11 @@
   {
     "nanoid": "tHu1Wqu4FkVfeh",
     "name": "Capital City Connection Montgomery",
-    "stream_urls": [
-      "https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -173,10 +187,11 @@
   {
     "nanoid": "xIwhqLk3kSoWQX",
     "name": "CFM TV Channel 98",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -186,10 +201,11 @@
   {
     "nanoid": "8h6KOJsz3bPpts",
     "name": "CGTV",
-    "stream_urls": [
-      "https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -199,10 +215,11 @@
   {
     "nanoid": "udSOaNy3d31JFB",
     "name": "Chamber TV",
-    "stream_urls": [
-      "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "fra",
       "ltz"
@@ -213,10 +230,11 @@
   {
     "nanoid": "zzIInP1RoY4ur6",
     "name": "Channel 10",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -226,10 +244,11 @@
   {
     "nanoid": "jBe008vis1MIBq",
     "name": "City of Fort Pierce",
-    "stream_urls": [
-      "https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -239,10 +258,11 @@
   {
     "nanoid": "p9TPCkNNGjcV0i",
     "name": "City of Monroe Government Channel",
-    "stream_urls": [
-      "https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -252,10 +272,11 @@
   {
     "nanoid": "asX42h8yD38q9i",
     "name": "City of Pompano Beach",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/pompano/G0765_005/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/pompano/G0765_005/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -265,10 +286,11 @@
   {
     "nanoid": "wsxEmspfNhwYCf",
     "name": "CityTV 20 Santa Monica",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -278,10 +300,11 @@
   {
     "nanoid": "CI4BtTpHkRl4IU",
     "name": "CityTV San Diego",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -291,10 +314,11 @@
   {
     "nanoid": "LWkzNCIwYTynxm",
     "name": "CityTV Whittier",
-    "stream_urls": [
-      "https://whittier.cablecast.tv/live/stream-1/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://whittier.cablecast.tv/live/stream-1/live.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -304,10 +328,11 @@
   {
     "nanoid": "76XEEWIKvtOIp7",
     "name": "CMAC 3",
-    "stream_urls": [
-      "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -317,10 +342,11 @@
   {
     "nanoid": "cHPhcPLu73X5fb",
     "name": "CMAP Channel 17",
-    "stream_urls": [
-      "https://livestream.telvue.com/cmap1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.telvue.com/cmap1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -330,10 +356,11 @@
   {
     "nanoid": "lok7xMrGEcjtOH",
     "name": "Collier TV",
-    "stream_urls": [
-      "https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -343,10 +370,11 @@
   {
     "nanoid": "6mQSbFMohfxTL1",
     "name": "Community 12TV",
-    "stream_urls": [
-      "https://lin10.isilive.ca/live/gainesville/live/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://lin10.isilive.ca/live/gainesville/live/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -356,10 +384,11 @@
   {
     "nanoid": "5ymwJKVoGafdCH",
     "name": "COStv",
-    "stream_urls": [
-      "https://irctv.cablecast.tv/live/stream-1/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://irctv.cablecast.tv/live/stream-1/live.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -369,10 +398,11 @@
   {
     "nanoid": "UWYpFYNe7zRGbA",
     "name": "Cruz TV",
-    "stream_urls": [
-      "https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "spa"
@@ -383,10 +413,11 @@
   {
     "nanoid": "rIKYP5py1TrF7Q",
     "name": "CT-N Court Feed",
-    "stream_urls": [
-      "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -396,10 +427,11 @@
   {
     "nanoid": "54APtzgfl8rhY2",
     "name": "CT-N Live Stream 2",
-    "stream_urls": [
-      "https://video.ct-n.com/live/web2stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://video.ct-n.com/live/web2stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -409,10 +441,11 @@
   {
     "nanoid": "9Cb1QitN6W4Cqb",
     "name": "CT-N TV Conneticut",
-    "stream_urls": [
-      "https://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -422,10 +455,11 @@
   {
     "nanoid": "s4rmwbOJvp7dJM",
     "name": "Cupertino City Channel",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "spa"
@@ -436,10 +470,11 @@
   {
     "nanoid": "nmv9vKmWVIcUqF",
     "name": "CVC Government",
-    "stream_urls": [
-      "https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -449,10 +484,11 @@
   {
     "nanoid": "EOOHW9e8RixWCJ",
     "name": "Cypress Channel 36",
-    "stream_urls": [
-      "https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -462,10 +498,11 @@
   {
     "nanoid": "uFGOTQx0dq9aok",
     "name": "DC Council Hearing Room 120",
-    "stream_urls": [
-      "https://video.oct.dc.gov/out/u/97_12.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://video.oct.dc.gov/out/u/97_12.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -475,11 +512,12 @@
   {
     "nanoid": "yuAKJus9326voW",
     "name": "DCC",
-    "stream_urls": [
-      "https://video.oct.dc.gov/out/u/DCC.m3u8",
-      "https://video.oct.dc.gov/out/u/15_12.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://video.oct.dc.gov/out/u/DCC.m3u8",
+        "https://video.oct.dc.gov/out/u/15_12.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -489,10 +527,11 @@
   {
     "nanoid": "HwKHXDFyUl7yIW",
     "name": "Denver 8 TV",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -502,10 +541,11 @@
   {
     "nanoid": "ApGDxajKB8Y5cQ",
     "name": "DerryTV 17",
-    "stream_urls": [
-      "https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -515,10 +555,11 @@
   {
     "nanoid": "Ge1ZHaFi4hsusD",
     "name": "District of Columbia Network",
-    "stream_urls": [
-      "https://video.oct.dc.gov/out/u/DCN.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://video.oct.dc.gov/out/u/DCN.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -526,12 +567,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xupLUhlUhMmQst",
+    "name": "Duma TV",
+    "sources": {
+      "streams": [
+        "https://dumatv.iptv2022.com/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zgZETkiLQsKXGO",
     "name": "Glendale 11 AZ",
-    "stream_urls": [
-      "https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -541,10 +597,11 @@
   {
     "nanoid": "PsMqFqnEG1eA7B",
     "name": "Government TV 16",
-    "stream_urls": [
-      "https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -554,10 +611,11 @@
   {
     "nanoid": "1KF4BmA1ZlQTBa",
     "name": "Greensboro TV",
-    "stream_urls": [
-      "https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -567,11 +625,12 @@
   {
     "nanoid": "zfdgzXgQZmoAvu",
     "name": "Hellenic Parliament TV",
-    "stream_urls": [
-      "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
-      "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
+        "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -581,10 +640,11 @@
   {
     "nanoid": "HavmcrAkSvW36Q",
     "name": "Hillsborough TV",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -594,10 +654,11 @@
   {
     "nanoid": "fA9TEJ4ZsGIi2e",
     "name": "HTV 1 Houston Television",
-    "stream_urls": [
-      "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -607,10 +668,11 @@
   {
     "nanoid": "l0iAfvu6mSVdXN",
     "name": "HTV 2 Houston Television",
-    "stream_urls": [
-      "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -620,10 +682,11 @@
   {
     "nanoid": "tsY7Oi70RUlWEA",
     "name": "Icrtv Colima",
-    "stream_urls": [
-      "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -633,10 +696,11 @@
   {
     "nanoid": "MdYnmsFTlP5Wem",
     "name": "Justicia TV",
-    "stream_urls": [
-      "https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -646,10 +710,11 @@
   {
     "nanoid": "bfHsFsgyNC32ys",
     "name": "Kern County TV",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/kern/G0169_003/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/kern/G0169_003/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -659,10 +724,11 @@
   {
     "nanoid": "pEAMt0Cl6awh5C",
     "name": "KTOP",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "spa",
@@ -674,10 +740,11 @@
   {
     "nanoid": "QCanIPPvtrIdKY",
     "name": "Lake Havasu City 4",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -687,10 +754,11 @@
   {
     "nanoid": "Ib0vAPeUOAHuDp",
     "name": "LBTV",
-    "stream_urls": [
-      "https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -700,10 +768,11 @@
   {
     "nanoid": "NLIFoRpmAx5nwO",
     "name": "Legislative Assembly of El Salvador",
-    "stream_urls": [
-      "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -713,11 +782,12 @@
   {
     "nanoid": "I6uCCfd71b4oev",
     "name": "Legislative Assembly of Ontario",
-    "stream_urls": [
-      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
-      "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
+        "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "fra"
@@ -726,12 +796,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ggVaTzuCKy1JEd",
+    "name": "Legislative Assembly TV Nunavut",
+    "sources": {
+      "streams": [
+        "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hXk0VgitqbFza7",
     "name": "Leominster TV Government",
-    "stream_urls": [
-      "https://livestream.telvue.com/leominster3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.telvue.com/leominster3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -741,10 +826,11 @@
   {
     "nanoid": "34CF4rMC60iyyn",
     "name": "Lex TV",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -754,10 +840,11 @@
   {
     "nanoid": "JNyo9F9UzYyge3",
     "name": "LGTV",
-    "stream_urls": [
-      "https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -767,10 +854,11 @@
   {
     "nanoid": "S0SQt4uHWW3pJv",
     "name": "Martin County TV",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -780,10 +868,11 @@
   {
     "nanoid": "c9GCwVR0qdOyVK",
     "name": "MBG TV FHD",
-    "stream_urls": [
-      "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ind"
     ],
@@ -793,10 +882,11 @@
   {
     "nanoid": "kDdnzcMq5qo5B2",
     "name": "MBTV",
-    "stream_urls": [
-      "https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -806,10 +896,11 @@
   {
     "nanoid": "J49I0cja3V1GVG",
     "name": "Midpen Media Center Channel 29",
-    "stream_urls": [
-      "https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -819,10 +910,11 @@
   {
     "nanoid": "htfvD77W7qLUSn",
     "name": "Monroe County TV",
-    "stream_urls": [
-      "https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -832,10 +924,11 @@
   {
     "nanoid": "N5DSemYKHwZBaz",
     "name": "MPTV",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/moorpark/G0086_003/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/moorpark/G0086_003/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -845,10 +938,11 @@
   {
     "nanoid": "G91NOrrqX23WUi",
     "name": "Natick Government Channel",
-    "stream_urls": [
-      "https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -858,10 +952,11 @@
   {
     "nanoid": "XdBBT0nNYrdIFQ",
     "name": "NMBTV",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -871,10 +966,11 @@
   {
     "nanoid": "9N0REUHRJR4gUt",
     "name": "Nova24TV 2",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4Id91mChRbw"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/4Id91mChRbw"
+      ]
+    },
     "languages": [
       "slv"
     ],
@@ -884,10 +980,11 @@
   {
     "nanoid": "vAF449D1XN8HSx",
     "name": "Olelo 49",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -897,10 +994,11 @@
   {
     "nanoid": "PXe05XrFV8aWeE",
     "name": "Olelo 54",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -910,11 +1008,12 @@
   {
     "nanoid": "EU0vQUFqUH2wCU",
     "name": "Ontario Parliamentary Network",
-    "stream_urls": [
-      "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
-      "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
+        "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -924,10 +1023,11 @@
   {
     "nanoid": "VZPY6lzCUebW62",
     "name": "Orange Government Access TV",
-    "stream_urls": [
-      "https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -937,10 +1037,11 @@
   {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
-    "stream_urls": [
-      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -950,10 +1051,11 @@
   {
     "nanoid": "pGZdS7NMq1FAlR",
     "name": "Parliament TV",
-    "stream_urls": [
-      "https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -963,10 +1065,11 @@
   {
     "nanoid": "arkaiC3h3BOt71",
     "name": "PCTV 26",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -976,10 +1079,11 @@
   {
     "nanoid": "StqTBnuulyCkPJ",
     "name": "PHLgovTV",
-    "stream_urls": [
-      "https://livestream.telvue.com/ctyphiladelphia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.telvue.com/ctyphiladelphia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -989,10 +1093,11 @@
   {
     "nanoid": "Kiug778WYBonYE",
     "name": "PHXTV",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "spa"
@@ -1003,10 +1108,11 @@
   {
     "nanoid": "HSwH6uFzgwd6tN",
     "name": "Privesc.Eu TV",
-    "stream_urls": [
-      "https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ron"
     ],
@@ -1016,10 +1122,11 @@
   {
     "nanoid": "4ZoIV04EJZdC50",
     "name": "PSL TV",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1029,10 +1136,11 @@
   {
     "nanoid": "TGxMGkMiPXHlY0",
     "name": "Rio TV Câmara",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lFCwIZEvil4"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/lFCwIZEvil4"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -1042,11 +1150,12 @@
   {
     "nanoid": "02FZNtdjYpb1eU",
     "name": "Sansad TV 1",
-    "stream_urls": [
-      "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
-      "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
+        "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin"
@@ -1057,12 +1166,13 @@
   {
     "nanoid": "7uZQEY7iiyput2",
     "name": "Sansad TV 2",
-    "stream_urls": [
-      "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
-      "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8",
-      "https://cdn-2.pishow.tv/live/39/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
+        "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8",
+        "https://cdn-2.pishow.tv/live/39/master.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin"
@@ -1073,10 +1183,11 @@
   {
     "nanoid": "ZLv6M8x6GdOHFN",
     "name": "Senato TV",
-    "stream_urls": [
-      "https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ita"
     ],
@@ -1086,10 +1197,11 @@
   {
     "nanoid": "QvfZ45T9wvpbFD",
     "name": "SFGovTV",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1099,10 +1211,11 @@
   {
     "nanoid": "RAFoXPaBmLZEF9",
     "name": "SGTV",
-    "stream_urls": [
-      "https://live.seminolecountyfl.gov/live-2/live/stream-1/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.seminolecountyfl.gov/live-2/live/stream-1/live.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1112,10 +1225,11 @@
   {
     "nanoid": "yjgN99uo0EpNFd",
     "name": "SMCTV Channel 23",
-    "stream_urls": [
-      "https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1125,10 +1239,11 @@
   {
     "nanoid": "h50zFJwbL1011G",
     "name": "SPTV",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1138,10 +1253,11 @@
   {
     "nanoid": "OYvTn4IG3sRdlR",
     "name": "Stockton Gov TV",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1151,10 +1267,11 @@
   {
     "nanoid": "ztLXAJFpTRNVhe",
     "name": "Thai Parliament Television",
-    "stream_urls": [
-      "https://tv-live.tpchannel.org/live/tv.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tv-live.tpchannel.org/live/tv.m3u8"
+      ]
+    },
     "languages": [
       "tha"
     ],
@@ -1164,10 +1281,11 @@
   {
     "nanoid": "9UN9Gjy7DEzHxw",
     "name": "The City of Marina",
-    "stream_urls": [
-      "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "spa"
@@ -1178,10 +1296,11 @@
   {
     "nanoid": "ztNrNzCLndWIQ7",
     "name": "The Parliamentary Channel",
-    "stream_urls": [
-      "https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1191,10 +1310,11 @@
   {
     "nanoid": "am21AdPLsYEXMM",
     "name": "The Peninsula Channel",
-    "stream_urls": [
-      "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "spa"
@@ -1203,12 +1323,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zl4dG47LdOz5oN",
-    "name": "TV Camara",
-    "stream_urls": [
-      "https://stream3.camara.gov.br/tv1/manifest.m3u8"
-    ],
-    "youtube_urls": [],
+    "nanoid": "qIar6axvqjptwG",
+    "name": "TV Assembleia Minas Gerais",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/nIWP0mnfies"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -1218,10 +1339,11 @@
   {
     "nanoid": "ljxQJllBAK9Pvk",
     "name": "TV Câmara Porto Alegre",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6W4sIpK4oNA"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/6W4sIpK4oNA"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -1231,10 +1353,11 @@
   {
     "nanoid": "O9KswxaS8gTKY7",
     "name": "TV from the Danish Parliament",
-    "stream_urls": [
-      "https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8"
+      ]
+    },
     "languages": [
       "dan",
       "eng"
@@ -1245,10 +1368,11 @@
   {
     "nanoid": "l4Wb4BRdTvGYCb",
     "name": "TV Justiça",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Loa9DFv2dpA"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Loa9DFv2dpA"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -1258,10 +1382,11 @@
   {
     "nanoid": "KDBDQ4u8C3aqtH",
     "name": "TV NRSR",
-    "stream_urls": [
-      "https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "slk"
     ],
@@ -1271,10 +1396,11 @@
   {
     "nanoid": "hU48Z3zrKcvX0i",
     "name": "TV4",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_002/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_002/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1284,10 +1410,11 @@
   {
     "nanoid": "yaYUxFsan9hbOE",
     "name": "Tweede Kamer: Actualiteitenkanaal",
-    "stream_urls": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1297,10 +1424,11 @@
   {
     "nanoid": "6OQOS7AT6Gma3n",
     "name": "Tweede Kamer: Aletta Jacobszaal",
-    "stream_urls": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1310,10 +1438,11 @@
   {
     "nanoid": "5hB4P9nJujh5eA",
     "name": "Tweede Kamer: Enquetezaal",
-    "stream_urls": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1323,10 +1452,11 @@
   {
     "nanoid": "PL16C9OHm1Jw0b",
     "name": "Tweede Kamer: Groen van Prinstererzaal",
-    "stream_urls": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1336,10 +1466,11 @@
   {
     "nanoid": "BJ3SYF7xMwSu2u",
     "name": "Tweede Kamer: Max van der Stoelzaal",
-    "stream_urls": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1349,10 +1480,11 @@
   {
     "nanoid": "MOoTHhVYsb8MlG",
     "name": "Tweede Kamer: Plenaire zaal",
-    "stream_urls": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1362,10 +1494,11 @@
   {
     "nanoid": "rB1O4Lh7x5fa2y",
     "name": "Tweede Kamer: Suze Groenewegzaal",
-    "stream_urls": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1375,10 +1508,11 @@
   {
     "nanoid": "qHNjpcf1s4YBcD",
     "name": "Tweede Kamer: Thorbeckezaal",
-    "stream_urls": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1388,10 +1522,11 @@
   {
     "nanoid": "9j3l55qDqhq9x4",
     "name": "Tweede Kamer: Troelstrazaal",
-    "stream_urls": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1401,10 +1536,11 @@
   {
     "nanoid": "xk5ybVwggmYe7A",
     "name": "Tweede Kamer: Wttewaall van Stoetwegenzaal",
-    "stream_urls": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1414,10 +1550,11 @@
   {
     "nanoid": "mAWCWxuOurkpj4",
     "name": "YouDotGov",
-    "stream_urls": [
-      "https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "spa"
@@ -1428,10 +1565,11 @@
   {
     "nanoid": "898ph5e04yTbmM",
     "name": "Yuma Channel 72",
-    "stream_urls": [
-      "https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "spa"
@@ -1442,10 +1580,11 @@
   {
     "nanoid": "yyhJA8joubrs7E",
     "name": "Yuma Channel 73",
-    "stream_urls": [
-      "https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "spa"

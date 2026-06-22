@@ -2,10 +2,11 @@
   {
     "nanoid": "YhrXNZ7yMh3K65",
     "name": "Canal de Panamá",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/L7LKbAHMbq4"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/L7LKbAHMbq4"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "p2JDBtjTcLy9kg",
     "name": "Fabulosa Estereo 100.5 FM",
-    "stream_urls": [
-      "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -28,10 +30,11 @@
   {
     "nanoid": "sk0pXWYPhoUI0U",
     "name": "Hosanna Vision",
-    "stream_urls": [
-      "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -41,10 +44,11 @@
   {
     "nanoid": "sHTQLbtJs4ccYF",
     "name": "Mas23 TV",
-    "stream_urls": [
-      "https://movil.ejeserver.com/live/mas23tv.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://movil.ejeserver.com/live/mas23tv.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -54,10 +58,11 @@
   {
     "nanoid": "CSNjNhmd6CkxyY",
     "name": "MINFAV TV",
-    "stream_urls": [
-      "https://mp.panelchs.com:1936/8044/8044/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://mp.panelchs.com:1936/8044/8044/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -67,10 +72,11 @@
   {
     "nanoid": "NhoKBaIrwHYilw",
     "name": "Nex TV Canal 21",
-    "stream_urls": [
-      "https://movil.ejeserver.com/live/nextv.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://movil.ejeserver.com/live/nextv.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -80,10 +86,11 @@
   {
     "nanoid": "EpThPpEKHWt4bo",
     "name": "Pindin TV",
-    "stream_urls": [
-      "https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -93,23 +100,11 @@
   {
     "nanoid": "NrKrfT28f0zHMn",
     "name": "Planet 100.9 FM",
-    "stream_urls": [
-      "https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "pa",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MFtmVHiGqE67Ua",
-    "name": "Radio Ancon",
-    "stream_urls": [
-      "https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -119,10 +114,11 @@
   {
     "nanoid": "mfsWJwtwhG3h3c",
     "name": "Radio Hogar",
-    "stream_urls": [
-      "https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -132,10 +128,11 @@
   {
     "nanoid": "wPlSUCmwkpBR6B",
     "name": "Super Q Panama",
-    "stream_urls": [
-      "https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -145,10 +142,11 @@
   {
     "nanoid": "SUR27YVxiEVQoo",
     "name": "Tropi Q 99.7 FM",
-    "stream_urls": [
-      "https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],

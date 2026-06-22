@@ -2,10 +2,11 @@
   {
     "nanoid": "lxtnwZjaAVKkTo",
     "name": "10 Bold Adelaide",
-    "stream_urls": [
-      "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "9UqseJeoJNwuVC",
     "name": "Antena Monden",
-    "stream_urls": [
-      "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ron"
     ],
@@ -28,12 +30,13 @@
   {
     "nanoid": "F1gJBTGOmz90yb",
     "name": "Antiques Road Trip",
-    "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/b42ac280-5300-4db0-8a63-2ec2e52c5b5c/playlist.m3u8",
-      "https://amg02333-pbs-amg02333c9-firetv-us-4249.playouts.now.amagi.tv/playlist.m3u8",
-      "https://d3v8uchko88gmi.cloudfront.net/PBSART_GB.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://aegis-cloudfront-1.tubi.video/b42ac280-5300-4db0-8a63-2ec2e52c5b5c/playlist.m3u8",
+        "https://amg02333-pbs-amg02333c9-firetv-us-4249.playouts.now.amagi.tv/playlist.m3u8",
+        "https://d3v8uchko88gmi.cloudfront.net/PBSART_GB.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -43,10 +46,11 @@
   {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
-    "stream_urls": [
-      "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ltz"
     ],
@@ -56,11 +60,12 @@
   {
     "nanoid": "BdWu9IrQ3fzNGW",
     "name": "Ayush TV",
-    "stream_urls": [
-      "https://cdn-6.pishow.tv/live/221/master.m3u8",
-      "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-6.pishow.tv/live/221/master.m3u8",
+        "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"
+      ]
+    },
     "languages": [
       "kan"
     ],
@@ -70,10 +75,11 @@
   {
     "nanoid": "yfcLs01Nchi2Jt",
     "name": "BBC Home & Garden",
-    "stream_urls": [
-      "https://d11r33s5i066xh.cloudfront.net/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d11r33s5i066xh.cloudfront.net/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -83,10 +89,11 @@
   {
     "nanoid": "hK4d6FyDr9ofcK",
     "name": "Better Health TV",
-    "stream_urls": [
-      "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -96,11 +103,12 @@
   {
     "nanoid": "JLfNH2O2h1Ue2z",
     "name": "Biz TV",
-    "stream_urls": [
-      "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
-      "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -110,10 +118,11 @@
   {
     "nanoid": "SB7baTrTU4uzJM",
     "name": "Canal Saude",
-    "stream_urls": [
-      "https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -121,12 +130,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rPl77qAXLXht7K",
+    "name": "City Eden MedZdrav",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/47519/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WNVyhRAYooRBZY",
     "name": "CVR Health",
-    "stream_urls": [
-      "https://cdn-6.pishow.tv/live/395/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-6.pishow.tv/live/395/master.m3u8"
+      ]
+    },
     "languages": [
       "tel"
     ],
@@ -136,10 +160,11 @@
   {
     "nanoid": "lMbPpHBoCjzoLt",
     "name": "Doctor",
-    "stream_urls": [
-      "https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -149,10 +174,11 @@
   {
     "nanoid": "H02hn1sGkwKEV1",
     "name": "Domashniy",
-    "stream_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -162,10 +188,11 @@
   {
     "nanoid": "IgIhtSlDnhWcsL",
     "name": "El Futuro En tu Mano",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ZT4VuRfsHhU"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ZT4VuRfsHhU"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -175,10 +202,11 @@
   {
     "nanoid": "sNGgqsLaPmiNb6",
     "name": "Fashion Finds",
-    "stream_urls": [
-      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -188,10 +216,11 @@
   {
     "nanoid": "hWjqV9dGq58pYr",
     "name": "Fashion TV",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch582/tracks-v2a1/mono.m3u8?21yo=1&e=1783350200&id=742347&ip=178.136.40.86&live=1&secret=vu2y5m72&st=RRhh01CY6iYIRs_Kyoc3lw"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch582/tracks-v2a1/mono.m3u8?21yo=1&e=1783350200&id=742347&ip=178.136.40.86&live=1&secret=vu2y5m72&st=RRhh01CY6iYIRs_Kyoc3lw"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -201,11 +230,12 @@
   {
     "nanoid": "cihRbiX7gws0cD",
     "name": "FashionBox",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch369/index.m3u8",
-      "https://webtvstream.bhtelecom.ba/hls6/fashion_box.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch369/index.m3u8",
+        "https://webtvstream.bhtelecom.ba/hls6/fashion_box.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -215,10 +245,11 @@
   {
     "nanoid": "Qc6Yckay6OGUKY",
     "name": "FashionTV Paris L'Original",
-    "stream_urls": [
-      "https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -228,10 +259,11 @@
   {
     "nanoid": "hN2lvdly5DX2ya",
     "name": "FashionTV Secrets",
-    "stream_urls": [
-      "https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -241,10 +273,11 @@
   {
     "nanoid": "wKjb76m31kcro9",
     "name": "Food Food",
-    "stream_urls": [
-      "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8"
+      ]
+    },
     "languages": [
       "hin"
     ],
@@ -254,11 +287,12 @@
   {
     "nanoid": "WDQpCRq4dLb0NU",
     "name": "Fortuna TV",
-    "stream_urls": [
-      "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
-      "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
+        "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "tur"
     ],
@@ -268,10 +302,11 @@
   {
     "nanoid": "WNz7K4EFtMb3cU",
     "name": "Friends of Felines Rescue Center",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NQrmlwqsxP4"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/NQrmlwqsxP4"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -281,10 +316,11 @@
   {
     "nanoid": "oA2uTAVn9Fd59h",
     "name": "Global Fashion Channel",
-    "stream_urls": [
-      "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -294,10 +330,11 @@
   {
     "nanoid": "3VXLFsdtTTonDX",
     "name": "Guide Love TV",
-    "stream_urls": [
-      "https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -307,10 +344,11 @@
   {
     "nanoid": "OgCZtD8wAAsw56",
     "name": "HANDICAP TV",
-    "stream_urls": [
-      "https://srv.webtvmanager.fr:3697/stream/play.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://srv.webtvmanager.fr:3697/stream/play.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -320,10 +358,11 @@
   {
     "nanoid": "At37Dsvj2y6fRV",
     "name": "HGTV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7F6lR1MlJIQ"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/7F6lR1MlJIQ"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -333,10 +372,11 @@
   {
     "nanoid": "f4STSe9tgyRVf3",
     "name": "Hobby Maker",
-    "stream_urls": [
-      "https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -346,12 +386,13 @@
   {
     "nanoid": "CRZbysFo83yVVC",
     "name": "INFAST",
-    "stream_urls": [
-      "https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8",
-      "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8",
+        "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -359,12 +400,27 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "TgLpqjb9zic5hc",
+    "name": "Kaloopy TV",
+    "sources": {
+      "streams": [
+        "https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dKTtrFcAzjZPS1",
     "name": "Kappa TV",
-    "stream_urls": [
-      "https://cdn-3.pishow.tv/live/1123/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-3.pishow.tv/live/1123/master.m3u8"
+      ]
+    },
     "languages": [
       "mal"
     ],
@@ -374,11 +430,12 @@
   {
     "nanoid": "zVgfO28kmeuXlu",
     "name": "Localish",
-    "stream_urls": [
-      "https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/0ecc85a2-5e1b-482a-9c69-3eaaee160f2e/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/0ecc85a2-5e1b-482a-9c69-3eaaee160f2e/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -388,10 +445,11 @@
   {
     "nanoid": "ZH7pMxeZHrM70T",
     "name": "Logos TV Salud",
-    "stream_urls": [
-      "https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -401,10 +459,11 @@
   {
     "nanoid": "LOoaceDLue8eJw",
     "name": "MediCOOL TV",
-    "stream_urls": [
-      "https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8"
+      ]
+    },
     "languages": [
       "ron"
     ],
@@ -414,10 +473,11 @@
   {
     "nanoid": "5oNNwRbeufUj8K",
     "name": "Monte Carlo Digital Television",
-    "stream_urls": [
-      "https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -427,10 +487,11 @@
   {
     "nanoid": "FWaOGPp6Dlex8v",
     "name": "NDTV Good Times",
-    "stream_urls": [
-      "https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin",
@@ -442,10 +503,11 @@
   {
     "nanoid": "ZGvoYb8iZS7uzb",
     "name": "NowMedia Television",
-    "stream_urls": [
-      "https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/tracks-v1/index.fmp4.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -453,12 +515,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "e6vVftJ1IvJN45",
+    "name": "NowMedia Television Spanish",
+    "sources": {
+      "streams": [
+        "https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qr9xvBDjARPSP8",
     "name": "Otkritiy mir. Zdorove",
-    "stream_urls": [
-      "https://v4.proofix.ru/0mir/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://v4.proofix.ru/0mir/index.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -468,10 +545,11 @@
   {
     "nanoid": "i9at9xUaP2xXBL",
     "name": "PBS Travel",
-    "stream_urls": [
-      "https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -481,10 +559,11 @@
   {
     "nanoid": "dJh7EB1lQFwOCd",
     "name": "Plous TV",
-    "stream_urls": [
-      "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "spa"
@@ -495,10 +574,11 @@
   {
     "nanoid": "3FPl5RIfISFiTh",
     "name": "PRIDEtv LATAM",
-    "stream_urls": [
-      "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH"
+      ]
+    },
     "languages": [
       "eng",
       "spa"
@@ -509,10 +589,11 @@
   {
     "nanoid": "dL9dqEvKPfjTXy",
     "name": "QS24.tv",
-    "stream_urls": [
-      "https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -522,10 +603,11 @@
   {
     "nanoid": "ZFUAyI6f5T43PD",
     "name": "Revry",
-    "stream_urls": [
-      "https://d36jpyyja698yd.cloudfront.net/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d36jpyyja698yd.cloudfront.net/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -535,10 +617,11 @@
   {
     "nanoid": "NM4IM0OOuCrdjl",
     "name": "Revry Queer",
-    "stream_urls": [
-      "https://linear-43.frequency.stream/mt/galxy/43/hls/master/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://linear-43.frequency.stream/mt/galxy/43/hls/master/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -548,11 +631,12 @@
   {
     "nanoid": "qWijccdHGumaJp",
     "name": "Salira TV",
-    "stream_urls": [
-      "https://live.salira.tv:3870/stream/play.m3u8",
-      "https://live.salira.tv/p/3870/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.salira.tv:3870/stream/play.m3u8",
+        "https://live.salira.tv/p/3870/hybrid/play.m3u8"
+      ]
+    },
     "languages": [
       "ind"
     ],
@@ -562,10 +646,11 @@
   {
     "nanoid": "p2tG7ngYqE0PiX",
     "name": "Smart LifeStyle TV",
-    "stream_urls": [
-      "https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -575,10 +660,11 @@
   {
     "nanoid": "Cyu7cH1sFWg5HQ",
     "name": "Superyacht TV",
-    "stream_urls": [
-      "https://sy.wns.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://sy.wns.live/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -588,10 +674,11 @@
   {
     "nanoid": "bSTRLuL5KZysi9",
     "name": "The Design Network",
-    "stream_urls": [
-      "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8"
+      ]
+    },
     "languages": [],
     "country": "us",
     "isGeoBlocked": false
@@ -599,12 +686,13 @@
   {
     "nanoid": "TELSVv0LnT9KW9",
     "name": "The Design Network",
-    "stream_urls": [
-      "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8",
-      "https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8",
+        "https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -614,11 +702,12 @@
   {
     "nanoid": "OVcMIdQh1mNNYo",
     "name": "The Jamie Oliver Channel",
-    "stream_urls": [
-      "https://pb-gxzycliwq14lw.akamaized.net/Jamie_Oliver.m3u8",
-      "https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://pb-gxzycliwq14lw.akamaized.net/Jamie_Oliver.m3u8",
+        "https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -628,10 +717,11 @@
   {
     "nanoid": "2gvbHx7OrU70G2",
     "name": "TV5MONDE Chefs",
-    "stream_urls": [
-      "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -641,10 +731,11 @@
   {
     "nanoid": "1PSkwvPNlldAvj",
     "name": "UA Fashion TV",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch216/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch216/index.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -654,10 +745,11 @@
   {
     "nanoid": "LmMmHAVWfMTaiO",
     "name": "Wapp",
-    "stream_urls": [
-      "https://stream.wapptv.cl/video/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.wapptv.cl/video/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
