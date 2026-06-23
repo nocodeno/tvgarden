@@ -90,8 +90,7 @@
     "name": "Canal 3 KMK TV",
     "sources": {
       "streams": [
-        "https://cloudvideo.servers10.com:8081/8120/index.m3u8",
-        "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
+        "https://cloudvideo.servers10.com:8081/8120/index.m3u8"
       ]
     },
     "languages": [
@@ -99,6 +98,34 @@
     ],
     "country": "cr",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CoLNv7PVyg2gxD",
+    "name": "Canal 4",
+    "sources": {
+      "streams": [
+        "https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "LzDCMK6w2Gbji4",
+    "name": "Canal 6",
+    "sources": {
+      "streams": [
+        "https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "lhFBUBQYMx1tnO",
@@ -131,7 +158,7 @@
     "name": "Cartago Medios TV",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
+        "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
       ]
     },
     "languages": [
@@ -366,20 +393,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hWONN4ANlWd0XQ",
-    "name": "La Potente Radio TV",
-    "sources": {
-      "streams": [
-        "https://latamvdo.com:3626/hybrid/play.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YEWQw0DloTzS1o",
     "name": "Limon TV",
     "sources": {
@@ -412,7 +425,7 @@
     "name": "Multimedios Costa Rica",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/UAjiJWJy_rk"
+        "https://www.youtube-nocookie.com/embed/eJYMUTsBPzE"
       ]
     },
     "languages": [
@@ -631,6 +644,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "xLJatClo1nNRli",
+    "name": "TicaVision",
+    "sources": {
+      "streams": [
+        "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oFBYYfrHTKyW0r",
     "name": "TV Nosara",
     "sources": {
@@ -723,6 +750,18 @@
     "languages": [
       "spa"
     ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8qWUmlZKBNU8HB",
+    "name": "Xpresso Joven Radio",
+    "sources": {
+      "streams": [
+        "https://vivo.solumedia.com:19360/xpressojoven/xpressojoven.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "cr",
     "isGeoBlocked": false
   },

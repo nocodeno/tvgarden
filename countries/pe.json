@@ -56,6 +56,48 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0vujAjUQp2jlO3",
+    "name": "ATV",
+    "sources": {
+      "streams": [
+        "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6WuGahJ0fZnc1G",
+    "name": "ATV Sur",
+    "sources": {
+      "streams": [
+        "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3vdt32eJcnfcz9",
+    "name": "ATV+",
+    "sources": {
+      "streams": [
+        "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UK5AJk7OQWI1Jf",
     "name": "Autentica Television",
     "sources": {
@@ -197,11 +239,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PznIKu7D3Y7mgQ",
-    "name": "Doble C Television",
+    "nanoid": "XzRqOxUzNRtPhH",
+    "name": "ECO Television",
     "sources": {
       "streams": [
-        "https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8"
+        "https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/playlist.m3u8",
+        "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -211,12 +254,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XzRqOxUzNRtPhH",
-    "name": "ECO Television",
+    "nanoid": "T65qhUoWMWxGpE",
+    "name": "Evolucion TV",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/playlist.m3u8",
-        "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8"
+        "https://edgectc.com/CTC_SAN_RAFAEL/index.m3u8"
       ]
     },
     "languages": [
@@ -519,11 +561,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FMvg6xgrss4nnA",
-    "name": "Telecolor Yurimaguas",
+    "nanoid": "BsVGc0NetKyHUo",
+    "name": "SolTV",
     "sources": {
       "streams": [
-        "https://live.obslivestream.com/telecolormux/index.m3u8"
+        "https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8"
       ]
     },
     "languages": [
@@ -533,11 +575,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IzsSiDZXZvJ27Q",
-    "name": "Telelima",
+    "nanoid": "FMvg6xgrss4nnA",
+    "name": "Telecolor Yurimaguas",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8"
+        "https://live.obslivestream.com/telecolormux/index.m3u8"
       ]
     },
     "languages": [
@@ -689,11 +731,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dbLCjbraoPInRW",
+    "name": "Uchu TV",
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aYohLShFUh3sGK",
     "name": "Unicentro TV",
     "sources": {
       "streams": [
         "https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EfKZO2yd4jlLmt",
+    "name": "Unitel",
+    "sources": {
+      "streams": [
+        "https://play.agenciastreaming.com:8081/uniteltv/index.m3u8"
       ]
     },
     "languages": [

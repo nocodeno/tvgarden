@@ -128,6 +128,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3VqJp1fO3TYTIw",
+    "name": "Angel TV Russian",
+    "sources": {
+      "streams": [
+        "https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Dp26BhBSy3QLvt",
     "name": "Arkhyz 24",
     "sources": {
@@ -304,7 +318,6 @@
     "name": "Channel One",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8"
       ]
     },
@@ -327,6 +340,20 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "HHYr8wd1E9ioQk",
+    "name": "Cinema",
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Gq4mY3pzS19BJ0",
@@ -488,6 +515,20 @@
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/41331/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hYJqIp24qMnNqd",
+    "name": "City Eden KinoMistika",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/40783/index.m3u8"
       ]
     },
     "languages": [
@@ -696,20 +737,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xupLUhlUhMmQst",
-    "name": "Duma TV",
-    "sources": {
-      "streams": [
-        "https://dumatv.iptv2022.com/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "D64rjLP065KQ1v",
     "name": "Enisey",
     "sources": {
@@ -841,7 +868,8 @@
     "name": "Hope Channel Russia",
     "sources": {
       "streams": [
-        "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+        "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+        "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1335,6 +1363,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nWF8Imk61O9FuP",
+    "name": "Nauka",
+    "sources": {
+      "streams": [
+        "https://vod.tuva.ru/nauka2/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0K6Sg1G2bk6cyj",
     "name": "Nika TV",
     "sources": {
@@ -1790,21 +1832,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "JnxjBtQt6s0RPO",
-    "name": "RT Arabic",
-    "sources": {
-      "streams": [
-        "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
-        "https://rt-arb.rttv.com/live/rtarab/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "ru",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "X0UpythUDXPOp6",
     "name": "RTR-Planeta Asia",
     "sources": {
@@ -1897,7 +1924,7 @@
     "name": "Russia-24",
     "sources": {
       "streams": [
-        "https://41.223.30.230/ROSSIYA24/index.m3u8",
+        "https://streaming.televizor-24-tochka.ru/live/30.m3u8",
         "https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8"
       ]
@@ -2336,20 +2363,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ykkeMlR0XOtHqW",
-    "name": "TKR",
-    "sources": {
-      "streams": [
-        "https://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ifTYV3LUxWMK3L",
     "name": "TNT",
     "sources": {
@@ -2687,6 +2700,21 @@
     },
     "languages": [
       "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ep4eseqBm4UkmF",
+    "name": "Za! TV",
+    "sources": {
+      "streams": [
+        "https://streaming.televizor-24-tochka.ru/live/25.m3u8"
+      ]
+    },
+    "languages": [
+      "rus",
+      "ukr"
     ],
     "country": "ru",
     "isGeoBlocked": false

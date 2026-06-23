@@ -70,11 +70,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6SYW2B8xTfiTLL",
-    "name": "Catatumbo TV",
+    "nanoid": "AS45XKoNM4hcAi",
+    "name": "Canal C del Zulia",
     "sources": {
       "streams": [
-        "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
+        "https://vs20.live.opencaster.com/cristianhilos_314b91b0/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fUuKAKoxR67afP",
+    "name": "Canal Once",
+    "sources": {
+      "streams": [
+        "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8"
       ]
     },
     "languages": [
@@ -89,20 +103,6 @@
     "sources": {
       "streams": [
         "https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EBZkwFw2avmA6X",
-    "name": "Fortuna TV",
-    "sources": {
-      "streams": [
-        "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8"
       ]
     },
     "languages": [
@@ -309,11 +309,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Hf8hQXiCJxWSk6",
-    "name": "Somos TV",
+    "nanoid": "qRZZMGSFXehDnV",
+    "name": "TAM TV",
     "sources": {
       "streams": [
-        "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8"
+        "https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8"
       ]
     },
     "languages": [
@@ -323,11 +323,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qRZZMGSFXehDnV",
-    "name": "TAM TV",
+    "nanoid": "LkfWLnGLDxyqrs",
+    "name": "Telebocono",
     "sources": {
       "streams": [
-        "https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8"
+        "https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8"
       ]
     },
     "languages": [
@@ -376,20 +376,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1M4Le4GYVDf5Ni",
-    "name": "Televisora de Oriente",
-    "sources": {
-      "streams": [
-        "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
     ],
     "country": "ve",
     "isGeoBlocked": false

@@ -548,6 +548,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vFuB4amnCAnzu2",
+    "name": "Crafter's TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/OmkdIM-o1Pk"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SNT2M9ATZsS3tF",
     "name": "Create & Craft TV Extra",
     "sources": {
@@ -1445,6 +1459,7 @@
     "name": "Moonbug Kids",
     "sources": {
       "streams": [
+        "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
         "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
       ]
     },
@@ -2069,25 +2084,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DqKr2u3T1rmLql",
-    "name": "Rakuten Top Movies UK",
+    "nanoid": "F2ftHadqxcG2u5",
+    "name": "Rakuten TV Drama Movies UK",
     "sources": {
       "streams": [
-        "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "c4Swg0nm0Rjn8G",
-    "name": "Rakuten TV Action Movies UK",
-    "sources": {
-      "streams": [
-        "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
+        "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
       ]
     },
     "languages": [
@@ -2167,6 +2168,21 @@
       ]
     },
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "NegCVOJcL5pipg",
+    "name": "S4C",
+    "sources": {
+      "streams": [
+        "https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8"
+      ]
+    },
+    "languages": [
+      "cym",
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": true
   },

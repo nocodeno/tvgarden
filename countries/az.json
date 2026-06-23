@@ -46,7 +46,8 @@
     "name": "Az TV",
     "sources": {
       "streams": [
-        "https://str.yodacdn.net/azertv/index.m3u8"
+        "https://str.yodacdn.net/azertv/index.m3u8",
+        "https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -75,7 +76,7 @@
         "https://rtmp.baku.tv/hls/bakutv.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/3lAEhLspM4w"
+        "https://www.youtube-nocookie.com/embed/iQvn3dpZgbY"
       ]
     },
     "languages": [
@@ -93,20 +94,6 @@
       ]
     },
     "languages": [],
-    "country": "az",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TCXWbbGwwhAA4s",
-    "name": "Dunya TV",
-    "sources": {
-      "streams": [
-        "https://yayin2.canlitv.fun/live/dunyatv.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f"
-      ]
-    },
-    "languages": [
-      "aze"
-    ],
     "country": "az",
     "isGeoBlocked": false
   },
