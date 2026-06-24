@@ -206,7 +206,8 @@
     "name": "Cira TV",
     "sources": {
       "streams": [
-        "https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8"
+        "https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8",
+        "https://cira-tv.akamaized.net/hls/stream_0.m3u8"
       ]
     },
     "languages": [
@@ -453,18 +454,6 @@
     "languages": [
       "deu"
     ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0deWs8tTLyJPRE",
-    "name": "FilmGold Germany",
-    "sources": {
-      "streams": [
-        "https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -879,7 +868,8 @@
     "sources": {
       "streams": [
         "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8",
-        "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535"
+        "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535",
+        "https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8"
       ]
     },
     "languages": [
@@ -915,18 +905,6 @@
     ],
     "country": "de",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "4YOpv1CYox1W50",
-    "name": "Naruto Germany",
-    "sources": {
-      "streams": [
-        "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "9oFKf7u6XNNE0e",
@@ -1472,14 +1450,28 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SE1h1zk5kvUylr",
-    "name": "Rakuten TV Thrillers Germany",
+    "nanoid": "SMFkP3zTr5LosF",
+    "name": "Rakuten TV German Cinema",
     "sources": {
       "streams": [
-        "https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8"
+        "https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8"
       ]
     },
     "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "i6jMhimWGlGgKg",
+    "name": "Rakuten TV Top Movies Germany",
+    "sources": {
+      "streams": [
+        "https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
     "country": "de",
     "isGeoBlocked": false
   },

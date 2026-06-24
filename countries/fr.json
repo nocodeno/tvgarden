@@ -70,9 +70,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3R0EfOPIBQ61UY",
+    "name": "Africanews",
+    "sources": {
+      "streams": [
+        "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Gmuy6SpwOogHJz",
     "name": "Africanews English",
     "sources": {
+      "streams": [
+        "https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/NQjabLGdP5g"
       ]
@@ -89,6 +104,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/b6R9-7KZ8YM"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JYn1ySxy92KPFz",
+    "name": "Africanews French",
+    "sources": {
+      "streams": [
+        "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8"
       ]
     },
     "languages": [
@@ -124,6 +153,20 @@
     ],
     "country": "fr",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VMCmeG0FLaHmw1",
+    "name": "arte",
+    "sources": {
+      "streams": [
+        "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "SFsrKozwjoLj8R",
@@ -720,11 +763,65 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ok1XbdadbIAXgd",
+    "name": "Francophonie24",
+    "sources": {
+      "streams": [
+        "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7MLHT3jxe1OcD2",
+    "name": "Frequence Novelas",
+    "sources": {
+      "streams": [
+        "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cZHuVSqX1X1VrE",
+    "name": "Generation Sitcoms",
+    "sources": {
+      "streams": [
+        "https://production-fastbpk.content.okast.tv/fa2e8c4385712f9aa35c5b79a2b4ac2d/channels/eec463a6-4364-473b-8d89-555acc5b8fb2/e36e4304-73ff-4f9f-8d38-e748576a1f51/media_.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NXr5JJCUZWuMub",
     "name": "Generations TV",
     "sources": {
       "streams": [
         "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BHktLaXb4NGD72",
+    "name": "Gong",
+    "sources": {
+      "streams": [
+        "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8"
       ]
     },
     "languages": [
@@ -1127,7 +1224,8 @@
     "sources": {
       "streams": [
         "https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8",
-        "https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8"
+        "https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8",
+        "https://op-group1-swiftservehd-1.dens.tv/h/h153/index2.m3u8"
       ]
     },
     "languages": [
@@ -1152,23 +1250,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "phice2bsfFKDLs",
-    "name": "Rakuten TV Séries Crime",
+    "nanoid": "kVuXOdBXr2x3dW",
+    "name": "Rakuten TV Alerte Cobra",
     "sources": {
       "streams": [
-        "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dK7Tr0arpe0iTb",
-    "name": "Rakuten TV Top Films France",
-    "sources": {
-      "streams": [
-        "https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8"
+        "https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8"
       ]
     },
     "languages": [],

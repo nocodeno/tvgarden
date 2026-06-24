@@ -43,6 +43,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "baI44A3rZswWd9",
+    "name": "Agrotendencia TV",
+    "sources": {
+      "streams": [
+        "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "H8TtlIKgrW2bwo",
     "name": "Antena Seis TV",
     "sources": {
@@ -238,20 +252,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0Bp1uWDwZ9RGmr",
-    "name": "Cristo Vision Canal 31",
-    "sources": {
-      "streams": [
-        "https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lsjQzbEuXqR8w7",
     "name": "CTV LIMÓN",
     "sources": {
@@ -384,6 +384,20 @@
     "sources": {
       "streams": [
         "https://rtmp.info/iqtv/envivo/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hWONN4ANlWd0XQ",
+    "name": "La Potente Radio TV",
+    "sources": {
+      "streams": [
+        "https://latamvdo.com:3626/hybrid/play.m3u8"
       ]
     },
     "languages": [

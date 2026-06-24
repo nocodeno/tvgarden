@@ -28,6 +28,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "t5EqKCIIOMVoUI",
+    "name": "1+1 Marafon",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ViGouR7ICcVfNp",
     "name": "4ever Cinema",
     "sources": {
@@ -112,6 +126,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rYwjqhp39J7oO0",
+    "name": "36.6 TV",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "H0fTRstAnfWOk3",
     "name": "Avers",
     "sources": {
@@ -168,6 +196,35 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YO7uueGEtYfmAk",
+    "name": "Dacha",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus",
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wbuGgvdolOzdBN",
+    "name": "DIM",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9D74wXaGqUWkp2",
     "name": "Equalympic",
     "sources": {
@@ -200,6 +257,7 @@
     "name": "Espreso TV",
     "sources": {
       "streams": [
+        "https://dash2.antik.sk/live/test_espresso/playlist.m3u8",
         "https://dash4.antik.sk/live/test_espresso/playlist.m3u8"
       ]
     },
@@ -252,6 +310,35 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xbUgKyNJkUd9WG",
+    "name": "FilmUA Live",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0r210a3FA40XwI",
+    "name": "FilmUADrama",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus",
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QgJCPkx1daMycI",
     "name": "FREEDOM",
     "sources": {
@@ -275,6 +362,20 @@
     },
     "languages": [
       "rus"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QoGBfp2S5Hqmo0",
+    "name": "Happy Radio TV",
+    "sources": {
+      "streams": [
+        "https://tv.mediacp.eu:8081/happyradio/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "ua",
     "isGeoBlocked": false
@@ -336,17 +437,28 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8cIV9jAbyhGLVN",
-    "name": "Kvartal TV",
+    "nanoid": "RCrPTSQMxm28NU",
+    "name": "Kus-Kus",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "z32r6fXKyAf2oW",
+    "name": "Kvartal TV International",
     "sources": {
       "streams": [
         "https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8"
       ]
     },
-    "languages": [
-      "rus",
-      "ukr"
-    ],
+    "languages": [],
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -523,7 +635,8 @@
     "name": "Rybalka",
     "sources": {
       "streams": [
-        "https://iptv.prosto.tv/ch88/index.m3u8"
+        "https://iptv.prosto.tv/ch88/index.m3u8",
+        "https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -758,20 +871,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KNtnaXZuhjC6uj",
-    "name": "TIS TV",
-    "sources": {
-      "streams": [
-        "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WcoZqsaKguXix1",
     "name": "TUSO",
     "sources": {
@@ -904,7 +1003,7 @@
     "name": "Телеканал Конкурент TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/9OUW-pGIhrs"
+        "https://www.youtube-nocookie.com/embed/ywe8c0TOD6k"
       ]
     },
     "languages": [

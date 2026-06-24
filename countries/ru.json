@@ -318,6 +318,7 @@
     "name": "Channel One",
     "sources": {
       "streams": [
+        "https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8"
       ]
     },
@@ -594,34 +595,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CZ0c6ZasjBnZ4w",
-    "name": "City Eden TeleNovella",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/46209/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JIOxlnAu1GPh23",
-    "name": "City Eden TV",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34246/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BxZoC6PtEMXYP0",
     "name": "Crimea 24",
     "sources": {
@@ -868,8 +841,7 @@
     "name": "Hope Channel Russia",
     "sources": {
       "streams": [
-        "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
-        "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+        "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1095,20 +1067,6 @@
     "sources": {
       "streams": [
         "https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nTIR26728Xpjfo",
-    "name": "Legendarnyy 24",
-    "sources": {
-      "streams": [
-        "https://sevas.1tvcrimea.ru/legendarniy24.m3u8"
       ]
     },
     "languages": [
@@ -1363,20 +1321,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nWF8Imk61O9FuP",
-    "name": "Nauka",
-    "sources": {
-      "streams": [
-        "https://vod.tuva.ru/nauka2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0K6Sg1G2bk6cyj",
     "name": "Nika TV",
     "sources": {
@@ -1466,20 +1410,6 @@
     "sources": {
       "streams": [
         "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZKYBGybJlsgcz0",
-    "name": "NTS",
-    "sources": {
-      "streams": [
-        "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1624,20 +1554,6 @@
     "sources": {
       "streams": [
         "https://live1.1tvcrimea.ru/1tvcrimea.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xaE820ta9it7vV",
-    "name": "Pervyy Respublikanskiy",
-    "sources": {
-      "streams": [
-        "https://streaming.televizor-24-tochka.ru/live/27.m3u8"
       ]
     },
     "languages": [
@@ -1822,7 +1738,8 @@
     "name": "RT",
     "sources": {
       "streams": [
-        "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8"
+        "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8",
+        "https://op-group1-swiftservehd-1.dens.tv/h/h226/index.m3u8"
       ]
     },
     "languages": [
@@ -1832,11 +1749,25 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "JnxjBtQt6s0RPO",
+    "name": "RT Arabic",
+    "sources": {
+      "streams": [
+        "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
+        "https://rt-arb.rttv.com/live/rtarab/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "ru",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "X0UpythUDXPOp6",
     "name": "RTR-Planeta Asia",
     "sources": {
       "streams": [
-        "https://streaming.televizor-24-tochka.ru/live/211.m3u8",
         "https://stream.smotrim.ru/hls2/planeta_rtr_asia/playlist_4.m3u8"
       ]
     },
@@ -1879,8 +1810,8 @@
     "name": "RTД",
     "sources": {
       "streams": [
-        "https://streaming.thestream.cyou/live/554.m3u8",
-        "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8"
+        "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
+        "https://streaming.thestream.cyou/live/554.m3u8"
       ]
     },
     "languages": [
@@ -2079,6 +2010,90 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rzeNGQqOs9ouwZ",
+    "name": "Smotrim 100% Detskoe",
+    "sources": {
+      "streams": [
+        "https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "orDXxZRC4vUyeM",
+    "name": "Smotrim 100% Fakty",
+    "sources": {
+      "streams": [
+        "https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6UMqfCWAL6fJyw",
+    "name": "Smotrim 100% Klassika",
+    "sources": {
+      "streams": [
+        "https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AEW5rUSukyBObX",
+    "name": "Smotrim 100% Lyubov",
+    "sources": {
+      "streams": [
+        "https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xskSlYuVIwl8pa",
+    "name": "Smotrim 100% Muzhskoe",
+    "sources": {
+      "streams": [
+        "https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xmXphKZ88u1bWW",
+    "name": "Smotrim 100% Prazdnik",
+    "sources": {
+      "streams": [
+        "https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XsDojCA8SLZ0wU",
     "name": "Smotrim Chestnyy Detektiv",
     "sources": {
@@ -2163,6 +2178,34 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "bGtZkBQX1pajI4",
+    "name": "Star Cinema",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HNOf8nkgiaINaY",
+    "name": "Star Family",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "4fSWekqVzO4BQS",
@@ -2279,25 +2322,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OoOqpCfI3BbmiH",
-    "name": "TaronaMusic",
+    "nanoid": "99DtWOF0uOZLNA",
+    "name": "Tamyr",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/6977KHZH-gU"
+      "streams": [
+        "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
       ]
     },
     "languages": [
-      "rus"
+      "bak"
     ],
     "country": "ru",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j6MZdxXHuUAaPH",
-    "name": "Tavriya",
+    "nanoid": "OoOqpCfI3BbmiH",
+    "name": "TaronaMusic",
     "sources": {
-      "streams": [
-        "https://streaming.televizor-24-tochka.ru/live/24.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/6977KHZH-gU"
       ]
     },
     "languages": [
@@ -2363,11 +2406,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ykkeMlR0XOtHqW",
+    "name": "TKR",
+    "sources": {
+      "streams": [
+        "https://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ifTYV3LUxWMK3L",
     "name": "TNT",
     "sources": {
       "streams": [
-        "https://streaming.televizor-24-tochka.ru/live/38.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8"
       ]
     },
@@ -2635,6 +2691,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "K5EAZFvuWObb4f",
+    "name": "VIVA Russia",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pnRdmB03EI7cgW",
     "name": "Vmeste-RF",
     "sources": {
@@ -2725,6 +2795,20 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6o2vLA3Bl51Fj4",
+    "name": "Zhara Kids TV",
+    "sources": {
+      "streams": [
+        "https://trs1.aynaott.com/discoverykids/index.m3u8"
       ]
     },
     "languages": [

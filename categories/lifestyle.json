@@ -14,6 +14,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rYwjqhp39J7oO0",
+    "name": "36.6 TV",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9UqseJeoJNwuVC",
     "name": "Antena Monden",
     "sources": {
@@ -105,14 +119,28 @@
     "name": "Biz TV",
     "sources": {
       "streams": [
-        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
-        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
+        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
+        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SB7baTrTU4uzJM",
+    "name": "Canal Saude",
+    "sources": {
+      "streams": [
+        "https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -142,6 +170,20 @@
     ],
     "country": "in",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Pic4Xl9r2hbCyz",
+    "name": "Dens Play",
+    "sources": {
+      "streams": [
+        "https://op-group1-swiftservehd-1.dens.tv/h/h246/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "lMbPpHBoCjzoLt",
@@ -376,7 +418,7 @@
       "streams": [
         "https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8",
-        "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8"
+        "https://insighttv-samsung-us.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [

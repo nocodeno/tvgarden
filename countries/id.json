@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "DNvXN4cXK8bo20",
-    "name": "AFBTV Kupang",
-    "sources": {
-      "streams": [
-        "https://afbtv.siar.us/live/afbtv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fEk1aZZhOygCxY",
     "name": "Ahsan TV",
     "sources": {
@@ -85,6 +71,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "o2PfBDwt7tySj4",
+    "name": "Angel TV Indonesia",
+    "sources": {
+      "streams": [
+        "https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ind",
+      "tam"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UWAiuQmeRUZ75q",
     "name": "Aquarius Musikindo: Frekuensi",
     "sources": {
@@ -104,20 +106,6 @@
     "sources": {
       "streams": [
         "https://hgmtv.com:19360/asthatv/asthatv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YJjt1kMM9xV6J0",
-    "name": "Astro Blitar TV",
-    "sources": {
-      "streams": [
-        "https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -239,6 +227,48 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iHcfV4gwyUQYof",
+    "name": "Dens Food Channel",
+    "sources": {
+      "streams": [
+        "https://op-group1-swiftservehd-1.dens.tv/h/h248/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Pic4Xl9r2hbCyz",
+    "name": "Dens Play",
+    "sources": {
+      "streams": [
+        "https://op-group1-swiftservehd-1.dens.tv/h/h246/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "AClz8tbMUTl7tD",
+    "name": "Dens ShowBiz",
+    "sources": {
+      "streams": [
+        "https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "ksjOnBMCR8R7y0",
     "name": "Dhamma TV",
     "sources": {
@@ -258,20 +288,6 @@
     "sources": {
       "streams": [
         "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uXrEKCywSeVE7r",
-    "name": "DM TV Malang",
-    "sources": {
-      "streams": [
-        "https://e.siar.us/live/dmtv.m3u8"
       ]
     },
     "languages": [
@@ -323,11 +339,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XgBmwiqwEZak5t",
-    "name": "Elshinta TV",
+    "nanoid": "swg1noloxNDS5D",
+    "name": "Ficom Channel",
     "sources": {
       "streams": [
-        "https://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8"
+        "https://v3.siar.us/ficomchannel/live/playlist.m3u8"
       ]
     },
     "languages": [
@@ -355,7 +371,7 @@
     "name": "Gazwah TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/7XaXgABhZJQ"
+        "https://www.youtube-nocookie.com/embed/KbeSsc0ZKWE"
       ]
     },
     "languages": [
@@ -393,9 +409,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Ootv8lcMdtj5Da",
+    "name": "Kilisuci TV",
+    "sources": {
+      "streams": [
+        "https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "a2io8ewFCFKoVq",
     "name": "Kompas TV",
     "sources": {
+      "streams": [
+        "https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/DOOrIxw5xOw"
       ]
@@ -417,20 +450,6 @@
     "languages": [
       "ind",
       "jav"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mSpavAreqc56SW",
-    "name": "Liputan6",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/5-ire55eCXQ"
-      ]
-    },
-    "languages": [
-      "ind"
     ],
     "country": "id",
     "isGeoBlocked": false
@@ -468,7 +487,8 @@
     "name": "Magna Channel",
     "sources": {
       "streams": [
-        "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8"
+        "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8",
+        "https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8"
       ]
     },
     "languages": [
@@ -492,33 +512,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6Oy6l4nSQLXeVV",
-    "name": "Matrix TV Yogyakarta",
+    "nanoid": "AixeZaoPbQBLhF",
+    "name": "MDTV",
     "sources": {
       "streams": [
-        "https://stream.matrixtv.id/hls/0/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "ind",
-      "jav"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "c9GCwVR0qdOyVK",
-    "name": "MBG TV FHD",
-    "sources": {
-      "streams": [
-        "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8"
+        "https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8"
       ]
     },
     "languages": [
       "ind"
     ],
     "country": "id",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "A8yIwT2axQkqtt",
@@ -550,6 +555,21 @@
     ],
     "country": "id",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tbxK2dQgHC237S",
+    "name": "Moji",
+    "sources": {
+      "streams": [
+        "https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "AL5enZ9zRbuM0T",
@@ -598,6 +618,7 @@
     "name": "Nusantara TV",
     "sources": {
       "streams": [
+        "https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8",
         "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8"
       ]
     },
@@ -627,6 +648,20 @@
     "sources": {
       "streams": [
         "https://streaming.id18.tunnel.my.id/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ha2zWLoq5d13uY",
+    "name": "Radar Lampung TV",
+    "sources": {
+      "streams": [
+        "https://www.streaming.radartv.co.id/hls/test.m3u8"
       ]
     },
     "languages": [
@@ -696,7 +731,8 @@
     "name": "Rodja TV",
     "sources": {
       "streams": [
-        "https://rodjatv.com/rodjatv/live.m3u8"
+        "https://rodjatv.com/rodjatv/live.m3u8",
+        "https://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8"
       ]
     },
     "languages": [
@@ -796,6 +832,20 @@
     "sources": {
       "streams": [
         "https://selaparangtv.siar.us/live/selaparangtv.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eQt3qfpQWLo9FO",
+    "name": "Serambinews",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/fMB4b_pXdHk"
       ]
     },
     "languages": [
@@ -1049,6 +1099,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kdo7FgfMM2HTEd",
+    "name": "tvOne",
+    "sources": {
+      "streams": [
+        "https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "LoQgh9Xj1nCTfY",
     "name": "tvOneNews",
     "sources": {
@@ -1067,7 +1131,8 @@
     "name": "TVRI",
     "sources": {
       "streams": [
-        "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8"
+        "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
+        "https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8"
       ]
     },
     "languages": [

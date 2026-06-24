@@ -70,11 +70,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AS45XKoNM4hcAi",
-    "name": "Canal C del Zulia",
+    "nanoid": "tF5n1NaStHSPlK",
+    "name": "Canal Diplomatico",
     "sources": {
       "streams": [
-        "https://vs20.live.opencaster.com/cristianhilos_314b91b0/index.m3u8"
+        "https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8"
       ]
     },
     "languages": [
@@ -84,11 +84,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fUuKAKoxR67afP",
-    "name": "Canal Once",
+    "nanoid": "1GpRDoekUac7eR",
+    "name": "Canal I",
     "sources": {
       "streams": [
-        "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8"
+        "https://streaming.canal-i.com/canal-i/live/master.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6SYW2B8xTfiTLL",
+    "name": "Catatumbo TV",
+    "sources": {
+      "streams": [
+        "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
       ]
     },
     "languages": [
@@ -103,6 +117,20 @@
     "sources": {
       "streams": [
         "https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EBZkwFw2avmA6X",
+    "name": "Fortuna TV",
+    "sources": {
+      "streams": [
+        "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8"
       ]
     },
     "languages": [
@@ -253,20 +281,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Y5blHOrOCn0tLM",
-    "name": "Portuguesa Television",
-    "sources": {
-      "streams": [
-        "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YQGNpYUE3gQTO4",
     "name": "PromarTV",
     "sources": {
@@ -295,11 +309,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8UCD3Qx8hCNOEd",
-    "name": "Siembra TV",
+    "nanoid": "Hf8hQXiCJxWSk6",
+    "name": "Somos TV",
     "sources": {
       "streams": [
-        "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8"
+        "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -356,6 +370,7 @@
     "sources": {
       "streams": [
         "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+        "https://edgectc.com/TELESUR/index.m3u8",
         "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
       ]
     },
@@ -376,6 +391,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1M4Le4GYVDf5Ni",
+    "name": "Televisora de Oriente",
+    "sources": {
+      "streams": [
+        "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
     "country": "ve",
     "isGeoBlocked": false
@@ -414,6 +443,20 @@
     "sources": {
       "streams": [
         "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "b3aSHeBRmQKpi4",
+    "name": "TV Oasis Monay",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8"
       ]
     },
     "languages": [
