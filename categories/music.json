@@ -429,6 +429,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "c4VJcNzklIX0CI",
+    "name": "Alcance FM PLAY TV",
+    "sources": {
+      "streams": [
+        "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YbFD75G4AxdNyE",
     "name": "All the K-POP",
     "sources": {
@@ -566,20 +580,6 @@
       "kor"
     ],
     "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GPyu3zvadmUURC",
-    "name": "ATN Music",
-    "sources": {
-      "streams": [
-        "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ben"
-    ],
-    "country": "bd",
     "isGeoBlocked": false
   },
   {
@@ -826,20 +826,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YWNPX9f8P0Trxq",
-    "name": "BTA TV",
-    "sources": {
-      "streams": [
-        "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QpkwHa7GwFnKLp",
     "name": "BTB Music",
     "sources": {
@@ -851,6 +837,20 @@
       "pol"
     ],
     "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "96eR5wTMfDjbi2",
+    "name": "Buenisima Radio TV",
+    "sources": {
+      "streams": [
+        "https://canal.mediaserver.com.co/live/buenisimatv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
     "isGeoBlocked": false
   },
   {
@@ -873,6 +873,7 @@
     "sources": {
       "streams": [
         "https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8",
+        "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8",
         "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8"
       ]
     },
@@ -887,7 +888,8 @@
     "name": "Canal 3 KMK TV",
     "sources": {
       "streams": [
-        "https://cloudvideo.servers10.com:8081/8120/index.m3u8"
+        "https://cloudvideo.servers10.com:8081/8120/index.m3u8",
+        "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
       ]
     },
     "languages": [
@@ -908,6 +910,20 @@
       "spa"
     ],
     "country": "cu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qAN5sBGpkuc0D2",
+    "name": "CEACOM TV",
+    "sources": {
+      "streams": [
+        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
     "isGeoBlocked": false
   },
   {
@@ -1163,6 +1179,20 @@
       "spa"
     ],
     "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1GY6OP9FOCGwGi",
+    "name": "D3 TV",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ml",
     "isGeoBlocked": false
   },
   {
@@ -1444,20 +1474,6 @@
       "spa"
     ],
     "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HQxmczuRTCLJHk",
-    "name": "Ellinikos FM",
-    "sources": {
-      "streams": [
-        "https://rtmp.win:3603/live/ellinikosfmlive.m3u8"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
     "isGeoBlocked": false
   },
   {
@@ -1771,34 +1787,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KorxP0jgE3cFyZ",
-    "name": "GO TV",
-    "sources": {
-      "streams": [
-        "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cqIhg7ovb7n2hP",
-    "name": "Gugak TV",
-    "sources": {
-      "streams": [
-        "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QoGBfp2S5Hqmo0",
     "name": "Happy Radio TV",
     "sources": {
@@ -1980,6 +1968,20 @@
       "spa"
     ],
     "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tD3Wczppk44E6w",
+    "name": "Interradio TV",
+    "sources": {
+      "streams": [
+        "https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -2508,6 +2510,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oMhYmCaf0w71Vh",
+    "name": "Look Thoong TV",
+    "sources": {
+      "streams": [
+        "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "lao"
+    ],
+    "country": "la",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "b9QdwOWvuoD0L1",
     "name": "LRT Klasika",
     "sources": {
@@ -2651,20 +2667,6 @@
       "bul"
     ],
     "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xpVI5qvhacSMib",
-    "name": "Maimon TV Canal 3",
-    "sources": {
-      "streams": [
-        "https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -3752,6 +3754,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tadaKAwuktrkov",
+    "name": "Power 101.7 FM",
+    "sources": {
+      "streams": [
+        "https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "nld",
+      "pap"
+    ],
+    "country": "aw",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fEdPdOM5VlxlUw",
     "name": "Power Dance",
     "sources": {
@@ -3967,8 +3985,7 @@
     "sources": {
       "streams": [
         "https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8",
-        "https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8",
-        "https://op-group1-swiftservehd-1.dens.tv/h/h153/index2.m3u8"
+        "https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8"
       ]
     },
     "languages": [
@@ -4004,20 +4021,6 @@
       "spa"
     ],
     "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0AeHu53Cy2m0HP",
-    "name": "Radio Capital TiVu",
-    "sources": {
-      "streams": [
-        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -4446,20 +4449,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3TUlEoB2wOW9de",
-    "name": "RC Music",
-    "sources": {
-      "streams": [
-        "https://view.rcserver.in/tmp_hls1/stream/index.m3u8"
-      ]
-    },
-    "languages": [
-      "tam"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HUFnf2hzpL68qM",
     "name": "RedMusic",
     "sources": {
@@ -4730,7 +4719,6 @@
     "name": "Salsa Gorda Television",
     "sources": {
       "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
         "https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8"
       ]
     },
@@ -4956,6 +4944,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TAur6WI03rCzWr",
+    "name": "SpektraTV",
+    "sources": {
+      "streams": [
+        "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tjg8L7lKOORAsp",
     "name": "Spirit TV",
     "sources": {
@@ -5016,8 +5019,7 @@
     "name": "Stingray Classica",
     "sources": {
       "streams": [
-        "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8",
-        "https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8"
+        "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
       ]
     },
     "languages": [
@@ -5520,7 +5522,7 @@
     "name": "SuriaTV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/iP6Z6MO6oSo"
+        "https://www.youtube-nocookie.com/embed/Pbn-PHbyL30"
       ]
     },
     "languages": [
@@ -5569,6 +5571,20 @@
       "fas"
     ],
     "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MIaqKXd3JITgYF",
+    "name": "Tabbar Hits",
+    "sources": {
+      "streams": [
+        "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pan"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -6286,7 +6302,7 @@
     "name": "Urbana Play 104.3 FM",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/G7T5Wn5Sshg"
+        "https://www.youtube-nocookie.com/embed/tl90O0ptuQs"
       ]
     },
     "languages": [
@@ -6677,20 +6693,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9TUqw93GWA6FwZ",
-    "name": "Vos y TV",
-    "sources": {
-      "streams": [
-        "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3nsgW8D5vXmLf3",
     "name": "Wavez FM",
     "sources": {
@@ -6947,6 +6949,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UGOn3j007AWKXK",
+    "name": "ZB Music",
+    "sources": {
+      "streams": [
+        "https://server.zillarbarta.com/zbmusic/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "T6K1OzxVu2js0L",
     "name": "ZFM Zoetermeer TV",
     "sources": {
@@ -7016,6 +7032,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JIHZDaqzj6yTSY",
+    "name": "アイドルマスターチャンネル",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/M7-18drgj8E"
+      ]
+    },
+    "languages": [
+      "jpn"
+    ],
+    "country": "jp",
     "isGeoBlocked": false
   }
 ]

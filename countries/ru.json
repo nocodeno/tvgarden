@@ -595,12 +595,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JIOxlnAu1GPh23",
+    "name": "City Eden TV",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/34246/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BxZoC6PtEMXYP0",
     "name": "Crimea 24",
     "sources": {
       "streams": [
-        "https://streaming.televizor-24-tochka.ru/live/28.m3u8",
-        "https://cdn.1tvcrimea.ru/24tvcrimea.m3u8"
+        "https://streaming.televizor-24-tochka.ru/live/28.m3u8"
       ]
     },
     "languages": [
@@ -785,6 +798,7 @@
     "name": "Friday!",
     "sources": {
       "streams": [
+        "https://vod.tuva.ru/friday/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8"
       ]
     },
@@ -841,7 +855,8 @@
     "name": "Hope Channel Russia",
     "sources": {
       "streams": [
-        "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+        "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+        "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -926,7 +941,7 @@
     "name": "Jetix",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SjD45J3RdXI"
+        "https://www.youtube-nocookie.com/embed/fDcu7MP-SF0"
       ]
     },
     "languages": [
@@ -1076,6 +1091,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nTIR26728Xpjfo",
+    "name": "Legendarnyy 24",
+    "sources": {
+      "streams": [
+        "https://sevas.1tvcrimea.ru/legendarniy24.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "S00p2qbV49fypF",
     "name": "LenTV24",
     "sources": {
@@ -1127,20 +1156,6 @@
     },
     "languages": [
       "fra"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "erxOsx3g2a8Kk4",
-    "name": "Millet",
-    "sources": {
-      "streams": [
-        "https://live1.1tvcrimea.ru/milletlive.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
     ],
     "country": "ru",
     "isGeoBlocked": false
@@ -1377,20 +1392,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FPW5dG6jwJsfts",
-    "name": "Novyi Russkii",
-    "sources": {
-      "streams": [
-        "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PQJUP9ib8lXjkv",
     "name": "NTK 21",
     "sources": {
@@ -1549,11 +1550,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kDIn5P06JUE8QJ",
-    "name": "Perviy Krymskiy",
+    "nanoid": "xaE820ta9it7vV",
+    "name": "Pervyy Respublikanskiy",
     "sources": {
       "streams": [
-        "https://live1.1tvcrimea.ru/1tvcrimea.m3u8"
+        "https://streaming.televizor-24-tochka.ru/live/27.m3u8"
       ]
     },
     "languages": [
@@ -1738,8 +1739,7 @@
     "name": "RT",
     "sources": {
       "streams": [
-        "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8",
-        "https://op-group1-swiftservehd-1.dens.tv/h/h226/index.m3u8"
+        "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1768,6 +1768,7 @@
     "name": "RTR-Planeta Asia",
     "sources": {
       "streams": [
+        "https://streaming.televizor-24-tochka.ru/live/211.m3u8",
         "https://stream.smotrim.ru/hls2/planeta_rtr_asia/playlist_4.m3u8"
       ]
     },
@@ -2350,6 +2351,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "j6MZdxXHuUAaPH",
+    "name": "Tavriya",
+    "sources": {
+      "streams": [
+        "https://streaming.televizor-24-tochka.ru/live/24.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "n24WKhfbAy2vvs",
     "name": "Telecafe",
     "sources": {
@@ -2424,6 +2439,7 @@
     "name": "TNT",
     "sources": {
       "streams": [
+        "https://streaming.televizor-24-tochka.ru/live/38.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8"
       ]
     },

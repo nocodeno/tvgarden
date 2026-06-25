@@ -201,20 +201,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NZvHXProBuiKC4",
-    "name": "BabyTV Spain",
-    "sources": {
-      "streams": [
-        "https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NsRP1rTNLBH991",
     "name": "Balapan",
     "sources": {
@@ -243,17 +229,31 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wAhOZxTBn6q208",
-    "name": "Barbie",
+    "nanoid": "qeGibjiweoCaEb",
+    "name": "BBC Four/CBeebies",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/mvms1JNZDlA"
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/BBCFourCBeebies.m3u8"
       ]
     },
     "languages": [
       "eng"
     ],
-    "country": "us",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bxrLpOnIw2cIku",
+    "name": "BBC Three/CBBC",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/BBCThreeCBBC.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -275,7 +275,8 @@
     "name": "Bem Mais TV",
     "sources": {
       "streams": [
-        "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8"
+        "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8",
+        "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
       ]
     },
     "languages": [
@@ -662,6 +663,34 @@
       "tam"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hboH9AkWIrBLT1",
+    "name": "Clifford the Big Red Dog: Classic",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/a_SMmchmVN0"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DWHNlPkSNnnnSG",
+    "name": "Clifford the Big Red Dog: Clifford's Puppy Days",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/pOzW0QuoMew"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1147,17 +1176,49 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0KHOlcS3CSZQO6",
+    "name": "JapanimTV",
+    "sources": {
+      "streams": [
+        "https://foxkidstv.be:3369/stream/play.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EDJsRoJArkwgcL",
     "name": "Jetix",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SjD45J3RdXI"
+        "https://www.youtube-nocookie.com/embed/fDcu7MP-SF0"
       ]
     },
     "languages": [
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v5IfXYen2Q01eP",
+    "name": "JimJam Europe",
+    "sources": {
+      "streams": [
+        "https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/jimjam/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ces",
+      "eng",
+      "heb",
+      "por",
+      "slk"
+    ],
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -1437,7 +1498,6 @@
     "name": "Moonbug Kids",
     "sources": {
       "streams": [
-        "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
         "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8",
         "https://trs1.aynaott.com/MoonbugKids/index.m3u8"
       ]
@@ -1707,8 +1767,7 @@
     "name": "PBS Kids",
     "sources": {
       "streams": [
-        "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8",
-        "https://trs1.aynaott.com/pbskids/index.m3u8"
+        "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8"
       ]
     },
     "languages": [
@@ -1834,7 +1893,7 @@
     "name": "Peppa Pig Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/cinxZaqBwWs"
+        "https://www.youtube-nocookie.com/embed/ZlWqKyR-YFE"
       ]
     },
     "languages": [
@@ -2700,7 +2759,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/43nJNp10Xpk"
+        "https://www.youtube-nocookie.com/embed/kPBKa9wHOck"
       ]
     },
     "languages": [

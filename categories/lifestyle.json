@@ -144,6 +144,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qAN5sBGpkuc0D2",
+    "name": "CEACOM TV",
+    "sources": {
+      "streams": [
+        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rPl77qAXLXht7K",
     "name": "City Eden MedZdrav",
     "sources": {
@@ -170,20 +184,6 @@
     ],
     "country": "in",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Pic4Xl9r2hbCyz",
-    "name": "Dens Play",
-    "sources": {
-      "streams": [
-        "https://op-group1-swiftservehd-1.dens.tv/h/h246/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "lMbPpHBoCjzoLt",
@@ -418,7 +418,7 @@
       "streams": [
         "https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8",
-        "https://insighttv-samsung-us.amagi.tv/playlist.m3u8"
+        "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
