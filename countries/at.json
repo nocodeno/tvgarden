@@ -141,20 +141,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0U8AHRskM6eU3e",
-    "name": "Kronehit",
-    "sources": {
-      "streams": [
-        "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CKfg0b9vG2JaE5",
     "name": "Kronen Zeitung",
     "sources": {
@@ -258,7 +244,8 @@
     "name": "N1 TV",
     "sources": {
       "streams": [
-        "https://z4atvie10snsr101.rtccdn.com/r9_live/r9_n1media_abr/playlist.m3u8"
+        "https://z4atvie10snsr101.rtccdn.com/r9_live/r9_n1media_abr/playlist.m3u8",
+        "https://ms02.w24.at/R9Partner/noentv.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -489,6 +476,34 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YQPekJKCEusA1c",
+    "name": "Tirol TV",
+    "sources": {
+      "streams": [
+        "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rKCjw7q21G4IO1",
+    "name": "TV 1 Oberosterreich",
+    "sources": {
+      "streams": [
+        "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
     ],
     "country": "at",
     "isGeoBlocked": false

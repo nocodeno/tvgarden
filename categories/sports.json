@@ -297,20 +297,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5gtsOEcYRKF3yk",
-    "name": "Arena Sport 4 Premium",
-    "sources": {
-      "streams": [
-        "https://nl1.nghk.ai/SK1SRHD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "srp"
-    ],
-    "country": "rs",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8ktj3i2pvJ17KQ",
     "name": "Arena Sport 5",
     "sources": {
@@ -339,17 +325,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HhTYS11ALVUJdQ",
-    "name": "Arena Sport 5 Premium",
+    "nanoid": "IoRMqsZptDH95R",
+    "name": "Arena Sport 5 BH",
     "sources": {
       "streams": [
-        "https://nl1.nghk.ai/SK2SRHD/index.m3u8"
+        "https://nl1.nghk.ai/ArenaSport5BH/index.m3u8"
       ]
     },
     "languages": [
       "srp"
     ],
-    "country": "rs",
+    "country": "ba",
     "isGeoBlocked": false
   },
   {
@@ -1353,6 +1339,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "WjzlJmHsxUPxpZ",
+    "name": "MNB Sport",
+    "sources": {
+      "streams": [
+        "https://live.mnb.mn/hls/mnb_sport.stream.m3u8"
+      ]
+    },
+    "languages": [
+      "mon"
+    ],
+    "country": "mn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xYgLb0tc6pAHED",
     "name": "More Than Sports TV",
     "sources": {
@@ -1426,6 +1426,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "dZNlCzQICHPeq8",
+    "name": "NHL Network",
+    "sources": {
+      "streams": [
+        "https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iqW7NImquoQlAB",
     "name": "NHRA TV",
     "sources": {
@@ -1488,6 +1502,7 @@
     "name": "Pac-12 Insider",
     "sources": {
       "streams": [
+        "https://pac12-roku-us.amagi.tv/playlist.m3u8",
         "https://pac12-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1821,6 +1836,7 @@
     "sources": {
       "streams": [
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
+        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
         "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
@@ -1844,6 +1860,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Xo18ZDfnL00kD5",
+    "name": "Sporty TV",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/sporty_tv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ces"
+    ],
+    "country": "cz",
     "isGeoBlocked": false
   },
   {
@@ -1953,27 +1983,14 @@
     "sources": {
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
+        "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jKrbneuISWEpD1",
-    "name": "Tigo Sports",
-    "sources": {
-      "streams": [
-        "https://master.tucableip.com/Amistoso/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
     "isGeoBlocked": false
   },
   {

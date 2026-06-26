@@ -361,34 +361,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9cbMZrwOtdSUeq",
-    "name": "Bir TV",
-    "sources": {
-      "streams": [
-        "https://edge2.taksimbilisim.com/birtv/bant1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Z7tHup27v1j2Td",
-    "name": "Bodrum Kent TV",
-    "sources": {
-      "streams": [
-        "https://edge2.taksimbilisim.com/bodrumkenttv/bant1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lnPH0Jssl2BDkS",
     "name": "Bric ve Satranc TV",
     "sources": {
@@ -714,7 +686,7 @@
     "name": "EKOTÜRK TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/5ovykCkBWfU"
+        "https://www.youtube-nocookie.com/embed/GUJpUMf0H1Q"
       ]
     },
     "languages": [
@@ -869,6 +841,7 @@
     "name": "Finans Turk TV",
     "sources": {
       "streams": [
+        "https://trs1.aynaott.com/Finans/index.m3u8",
         "https://yayin30.haber100.com/live/finansturk/playlist.m3u8"
       ]
     },
@@ -895,8 +868,8 @@
     "name": "Fortuna TV",
     "sources": {
       "streams": [
-        "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
-        "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
+        "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
+        "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1411,18 +1384,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1nu9wksZgw8mcn",
-    "name": "Kon TV",
-    "sources": {
-      "streams": [
-        "https://yayin1.canlitv.fun/canlitv/kontv.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f"
-      ]
-    },
-    "languages": [],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "axZRIy6sk182NP",
     "name": "Konya Olay TV",
     "sources": {
@@ -1897,6 +1858,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GOBdXHd7gdoheA",
+    "name": "Sercem TV",
+    "sources": {
+      "streams": [
+        "https://canli.sercemtv.com.tr/hls/0/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "kur",
+      "tur",
+      "zza"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "e6ku1z7iZYh6lv",
     "name": "Show Max",
     "sources": {
@@ -2156,20 +2133,6 @@
     "sources": {
       "streams": [
         "https://live.euromediacenter.com/trakyaturk/tracks-v1a1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e8zax7Tb0zc8Eu",
-    "name": "TRT 1",
-    "sources": {
-      "streams": [
-        "https://tv-trt1.medya.trt.com.tr/master.m3u8"
       ]
     },
     "languages": [
@@ -2447,6 +2410,20 @@
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/4WSvLRk83-c"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZdxrMEOa28PZnq",
+    "name": "TV 264",
+    "sources": {
+      "streams": [
+        "https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8"
       ]
     },
     "languages": [

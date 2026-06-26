@@ -14,6 +14,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sFPfedqXXPJW5f",
+    "name": "EAC News TV",
+    "sources": {
+      "streams": [
+        "https://live.eac-news.com/LiveApp/streams/eacnews.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dytKAoNeSNBKGD",
+    "name": "iTV HD",
+    "sources": {
+      "streams": [
+        "https://live.eac-news.com/Khmer/streams/ITVHD.m3u8"
+      ]
+    },
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "22GUfDaUhwRUJ1",
     "name": "Netlink TV",
     "sources": {
@@ -22,20 +50,6 @@
       ]
     },
     "languages": [],
-    "country": "kh",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "a7p8px0xew1TNk",
-    "name": "Sangkem TV",
-    "sources": {
-      "streams": [
-        "https://live.sangkemtv.com/memfs/sangkem.m3u8"
-      ]
-    },
-    "languages": [
-      "khm"
-    ],
     "country": "kh",
     "isGeoBlocked": false
   },
@@ -73,20 +87,6 @@
     "sources": {
       "streams": [
         "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "khm"
-    ],
-    "country": "kh",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JliijnACP4jH0u",
-    "name": "Wiki TV",
-    "sources": {
-      "streams": [
-        "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8"
       ]
     },
     "languages": [

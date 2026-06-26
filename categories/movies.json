@@ -113,25 +113,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "i0FCLehrB1FgEt",
-    "name": "Alankar TV",
-    "sources": {
-      "streams": [
-        "https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ori"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "P7GocxvCrb9Z27",
     "name": "All Time Movies",
     "sources": {
       "streams": [
-        "https://mumt03.tangotv.in/Dsly5z3HALLTIMEMOVIES/index.m3u8"
+        "https://mumt03.tangotv.in/Dsly5z3HALLTIMEMOVIES/index.m3u8",
+        "https://trs1.aynaott.com/Dhinchaak/index.m3u8"
       ]
     },
     "languages": [
@@ -180,20 +167,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GyD5jgzfEEiUYG",
-    "name": "Asia Flix TV",
-    "sources": {
-      "streams": [
-        "https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl"
-    ],
-    "country": "ph",
     "isGeoBlocked": false
   },
   {
@@ -597,6 +570,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mrbOEcmtP5KVxY",
+    "name": "Cosmos Tv",
+    "sources": {
+      "streams": [
+        "https://canaletaplus.com:3922/live/cosmoslive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TzIN60aLMDMQAJ",
     "name": "Dom kino",
     "sources": {
@@ -726,20 +713,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FsqGCMRqEpSuHU",
-    "name": "FilmBox Extra Adria",
-    "sources": {
-      "streams": [
-        "https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LkePMRrYywHJL3",
     "name": "FilmBox Netherlands",
     "sources": {
@@ -754,8 +727,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FsqGCMRqEpSuHU",
+    "name": "FilmBox+ Emotion Adria",
+    "sources": {
+      "streams": [
+        "https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mTMVPOuf7uKRkN",
-    "name": "FilmBox Premium Adria",
+    "name": "FilmBox+ Hits Adria",
     "sources": {
       "streams": [
         "https://webtvstream.bhtelecom.ba/hls7/filmbox_premium.m3u8"
@@ -769,7 +756,7 @@
   },
   {
     "nanoid": "KcN1k5dKr2fSSJ",
-    "name": "FilmBox Stars Adria",
+    "name": "FilmBox+ Love & Crime Adria",
     "sources": {
       "streams": [
         "https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8"
@@ -954,12 +941,40 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "No7OajC4TSop0b",
+    "name": "GREAT! action",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/GreatAction.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aZ7OPQQXDiuZF3",
     "name": "GREAT! movies UK",
     "sources": {
       "streams": [
         "https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8",
         "https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Bd3hGtrAoBkLtg",
+    "name": "GREAT! mystery",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/GreatMystery.m3u8"
       ]
     },
     "languages": [
@@ -1751,17 +1766,73 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jrhvPj9Sfa0uyr",
-    "name": "Rakuten TV Family Movies Germany",
+    "nanoid": "DqKr2u3T1rmLql",
+    "name": "Rakuten Top Movies UK",
     "sources": {
       "streams": [
-        "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8"
+        "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FT8VcZltRS1FOf",
+    "name": "Rakuten TV Action Movies Germany",
+    "sources": {
+      "streams": [
+        "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
       ]
     },
     "languages": [
       "deu"
     ],
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "c4Swg0nm0Rjn8G",
+    "name": "Rakuten TV Action Movies UK",
+    "sources": {
+      "streams": [
+        "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "i6jMhimWGlGgKg",
+    "name": "Rakuten TV Top Movies Germany",
+    "sources": {
+      "streams": [
+        "https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Dc2UvpAt3aRjGd",
+    "name": "Rakuten TV Top Movies Italy",
+    "sources": {
+      "streams": [
+        "https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -1874,6 +1945,20 @@
       "hin"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "U4qFQGhb2lylGn",
+    "name": "Sine Plus",
+    "sources": {
+      "streams": [
+        "https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
     "isGeoBlocked": false
   },
   {
