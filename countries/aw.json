@@ -1,20 +1,5 @@
 [
   {
-    "nanoid": "sdiObwInEYoWku",
-    "name": "Balchi TV",
-    "sources": {
-      "streams": [
-        "https://rtmpcontrol.com:1936/balchitv/balchitv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "nld",
-      "pap"
-    ],
-    "country": "aw",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ynzFVHU7oaBdM1",
     "name": "Cool FM 98.9",
     "sources": {
@@ -72,6 +57,21 @@
     },
     "languages": [
       "nld",
+      "pap"
+    ],
+    "country": "aw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rRrU0vsSO24VhA",
+    "name": "X 102.7 FM",
+    "sources": {
+      "streams": [
+        "https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
       "pap"
     ],
     "country": "aw",

@@ -32,9 +32,9 @@
     "name": "Arirang Radio",
     "sources": {
       "streams": [
-        "https://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
-        "https://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
-        "https://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8"
+        "https://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+        "https://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -62,12 +62,26 @@
     "name": "Arirang TV",
     "sources": {
       "streams": [
+        "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
         "https://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-        "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-        "https://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+        "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/CJVBX7KI5nU"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MLoSafen2Et7rW",
+    "name": "Arirang UN",
+    "sources": {
+      "streams": [
+        "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -349,34 +363,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LeEKq1Wp81fOe3",
-    "name": "HLAN-DTV",
-    "sources": {
-      "streams": [
-        "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pnA1ESNuQBhdp0",
-    "name": "HLAT-DTV",
-    "sources": {
-      "streams": [
-        "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GCDtsdmWOrJKEn",
     "name": "HLCQ-DTV",
     "sources": {
@@ -479,7 +465,7 @@
     "name": "JTBC News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/kX9IxQX04M4"
+        "https://www.youtube-nocookie.com/embed/IVqMtI7Qr0Q"
       ]
     },
     "languages": [
@@ -493,7 +479,7 @@
     "name": "KBS News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/c8J_vSaKSz8"
+        "https://www.youtube-nocookie.com/embed/8dXPEMy3A_4"
       ]
     },
     "languages": [
@@ -647,7 +633,7 @@
     "name": "SBS",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/qyiz0lvS1oo"
+        "https://www.youtube-nocookie.com/embed/ANypy02eQT8"
       ]
     },
     "languages": [

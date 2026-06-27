@@ -140,11 +140,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "4r0QKfGoGD09Z7",
-    "name": "FTV",
+    "nanoid": "qxZNW1EDwI0BGa",
+    "name": "Gigavision",
     "sources": {
       "streams": [
-        "https://master.tucableip.com/ftvhd/index.m3u8"
+        "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8"
       ]
     },
     "languages": [
@@ -154,11 +154,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qxZNW1EDwI0BGa",
-    "name": "Gigavision",
+    "nanoid": "YIKke4PY7wnkdl",
+    "name": "Palenque TV",
     "sources": {
       "streams": [
-        "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8"
+        "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8"
       ]
     },
     "languages": [
@@ -225,20 +225,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "F3BYfjJnpkzbsO",
-    "name": "Red Uno",
-    "sources": {
-      "streams": [
-        "https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "izfFH8RnAwm70u",
     "name": "RTP",
     "sources": {
@@ -258,20 +244,6 @@
     "sources": {
       "streams": [
         "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ztTWlTaxLQDSi1",
-    "name": "TV OFF",
-    "sources": {
-      "streams": [
-        "https://edge.enhdtv.com/tvoff/index.m3u8"
       ]
     },
     "languages": [
@@ -316,20 +288,6 @@
     "sources": {
       "streams": [
         "https://live.enhdtv.com:8081/8192/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9u6WNgsEYDn11w",
-    "name": "Univalle Television",
-    "sources": {
-      "streams": [
-        "https://master.tucableip.com/univalletv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -384,6 +342,20 @@
     "sources": {
       "streams": [
         "https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "99nnCKryI6XnTb",
+    "name": "Zuraca TV",
+    "sources": {
+      "streams": [
+        "https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8"
       ]
     },
     "languages": [

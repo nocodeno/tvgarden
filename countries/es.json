@@ -115,20 +115,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "h2QQauoc9yd3VL",
-    "name": "Activa TV",
-    "sources": {
-      "streams": [
-        "https://streamtv.mediasector.es/hls/activatv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5OMRq0f5EVNrGL",
     "name": "Actualidad 360",
     "sources": {
@@ -950,20 +936,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ep6n7moIe4Ru3N",
-    "name": "Fibwi",
-    "sources": {
-      "streams": [
-        "https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EGsBwKlWFjIivG",
     "name": "France 24 Español",
     "sources": {
@@ -1121,6 +1093,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yZT8JeLEndYnMC",
+    "name": "Los Gipsy Kings",
+    "sources": {
+      "streams": [
+        "https://gipsy-kings-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6752/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tE3WIvWTPSPArw",
     "name": "Love The Planet ES",
     "sources": {
@@ -1205,6 +1189,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6eqonCNvLaNPX2",
+    "name": "MTV",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/MTVSpain.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Wrgjk0eyRotOl3",
     "name": "Music TV Granada",
     "sources": {
@@ -1253,6 +1251,49 @@
       "streams": [
         "https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8",
         "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oa4PQYfQ5rBcI4",
+    "name": "Neox",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/Neox.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ncLkRAAk3Dywk7",
+    "name": "Nick Jr.",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "j5aEA4hOVinh3j",
+    "name": "Nickelodeon",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/NickelodeonSpain.m3u8",
+        "https://xykt-fix.github.io/iptv/streams/SP57.m3u8"
       ]
     },
     "languages": [
@@ -1445,14 +1486,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6Fk85FNF4cdSWr",
-    "name": "Rakuten TV Sci-Fi Spain",
+    "nanoid": "6xG0BDh6352B56",
+    "name": "Rakuten TV Comedy Movies Spain",
     "sources": {
       "streams": [
-        "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8"
+        "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "spa"
+    ],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1519,7 +1562,8 @@
     "sources": {
       "streams": [
         "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
-        "https://rt-esp.rttv.com/live/rtesp/playlist.m3u8"
+        "https://rt-esp.rttv.com/live/rtesp/playlist.m3u8",
+        "https://streaming.thestream.cyou/live/46.m3u8"
       ]
     },
     "languages": [
@@ -1705,20 +1749,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/39tFLvriPTs"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1nQKxr4bzoAoiY",
-    "name": "Telemotril",
-    "sources": {
-      "streams": [
-        "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8"
       ]
     },
     "languages": [
