@@ -131,7 +131,6 @@
     "name": "Aqlvoy",
     "sources": {
       "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/Aqlvoy.m3u8",
         "https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -217,7 +216,8 @@
     "name": "Balapan",
     "sources": {
       "streams": [
-        "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8"
+        "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
+        "https://live-3.otcnet.ru/Balapan/index.m3u8"
       ]
     },
     "languages": [
@@ -273,7 +273,8 @@
     "name": "BBC Three/CBBC",
     "sources": {
       "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/BBCThreeCBBC.m3u8"
+        "https://adpnetworkhd-cmd.github.io/iptv/BBCThreeCBBC.m3u8",
+        "https://41.205.77.102/BBC-THREE/index.m3u8"
       ]
     },
     "languages": [
@@ -438,10 +439,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Rao826EJExOvWU",
+    "name": "Canal J",
+    "sources": {
+      "streams": [
+        "https://41.205.77.102/CANALJ/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eXRHxuSjLuhKid",
     "name": "Carousel",
     "sources": {
       "streams": [
+        "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
         "https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
       ]
@@ -705,48 +721,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hboH9AkWIrBLT1",
-    "name": "Clifford the Big Red Dog: Classic",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/a_SMmchmVN0"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DWHNlPkSNnnnSG",
-    "name": "Clifford the Big Red Dog: Clifford's Puppy Days",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/pOzW0QuoMew"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RidUlDDUCTjznW",
-    "name": "Cocuk Smart",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/CocukSmart.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DIYFiR27hwM7Fq",
     "name": "Dios Te Ve Kids",
     "sources": {
@@ -843,6 +817,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Q60Bq0egXWGDrD",
+    "name": "Disney Jr.",
+    "sources": {
+      "streams": [
+        "https://41.205.77.102/DISNEY-JUNIOR/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -1045,20 +1033,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "G2NosoJRDb3Bwq",
-    "name": "Duronto TV",
-    "sources": {
-      "streams": [
-        "https://trs1.aynaott.com/duronto/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ben"
-    ],
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mkS2euN6WoaBGB",
     "name": "EBS Kids",
     "sources": {
@@ -1168,6 +1142,20 @@
       "urd"
     ],
     "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OXrSvXG0IZZsyw",
+    "name": "Gulli",
+    "sources": {
+      "streams": [
+        "https://41.205.77.102/GULLI/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -1448,20 +1436,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fZyKRU2kHKETIx",
-    "name": "Lou!",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/cMYWm856DQM"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DdiVuOolojZUS0",
     "name": "MCN6 Music Channel",
     "sources": {
@@ -1660,20 +1634,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ncLkRAAk3Dywk7",
-    "name": "Nick Jr.",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LhLrzvZ35u0Jdu",
     "name": "Nick Jr. Latin America Panregional",
     "sources": {
@@ -1688,18 +1648,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j5aEA4hOVinh3j",
+    "nanoid": "7DSi96Xgx28uw1",
     "name": "Nickelodeon",
     "sources": {
       "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/NickelodeonSpain.m3u8",
-        "https://xykt-fix.github.io/iptv/streams/SP57.m3u8"
+        "https://193.239.186.231/NICK/index.m3u8"
       ]
     },
     "languages": [
-      "spa"
+      "eng",
+      "nld"
     ],
-    "country": "es",
+    "country": "nl",
     "isGeoBlocked": false
   },
   {
@@ -1770,6 +1730,20 @@
       "ukr"
     ],
     "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tqpekqbtzkiahc",
+    "name": "O!",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/O.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1945,7 +1919,7 @@
     "name": "Peppa Pig Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Lqq5C2YT8kA"
+        "https://www.youtube-nocookie.com/embed/_Uu2-QtAFO4"
       ]
     },
     "languages": [
@@ -2368,7 +2342,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/hXGwYzGNL2I"
+        "https://www.youtube-nocookie.com/embed/tB7JTEEHWa4"
       ]
     },
     "languages": [
@@ -2382,7 +2356,7 @@
     "name": "Super Simple: Noodle and Pals",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/s3LXwlf0AIs"
+        "https://www.youtube-nocookie.com/embed/yl8MhXvX4ug"
       ]
     },
     "languages": [
@@ -2396,7 +2370,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/RGQEdlUX8HM"
+        "https://www.youtube-nocookie.com/embed/5Sc5Tsvwmoo"
       ]
     },
     "languages": [
@@ -2419,20 +2393,6 @@
     ],
     "country": "es",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "99DtWOF0uOZLNA",
-    "name": "Tamyr",
-    "sources": {
-      "streams": [
-        "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "bak"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "IOF8Iz2JmaTIcg",
@@ -2475,6 +2435,20 @@
       "spa"
     ],
     "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "poeRKF8tYIPqgm",
+    "name": "TiJi",
+    "sources": {
+      "streams": [
+        "https://41.205.77.102/TIJI/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -2634,6 +2608,20 @@
       "nld"
     ],
     "country": "sx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XS1GBLfk5lOEUi",
+    "name": "TVOKids",
+    "sources": {
+      "streams": [
+        "https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -2810,7 +2798,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/KBWDmYIlRKU"
+        "https://www.youtube-nocookie.com/embed/L04IhOjAXUY"
       ]
     },
     "languages": [

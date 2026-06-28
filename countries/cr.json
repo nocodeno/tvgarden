@@ -104,6 +104,7 @@
     "name": "Canal 3 KMK TV",
     "sources": {
       "streams": [
+        "https://cloudvideo.servers10.com:8081/8120/index.m3u8",
         "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
       ]
     },
@@ -146,20 +147,6 @@
     "sources": {
       "streams": [
         "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Rbhi1IeYnyJ3gG",
-    "name": "Cedros TV",
-    "sources": {
-      "streams": [
-        "https://eu1.servers10.com:8081/cedrostv/index.m3u8"
       ]
     },
     "languages": [
@@ -230,20 +217,6 @@
     "sources": {
       "streams": [
         "https://cloudvideo.servers10.com:8081/8030/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0Bp1uWDwZ9RGmr",
-    "name": "Cristo Vision Canal 31",
-    "sources": {
-      "streams": [
-        "https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8"
       ]
     },
     "languages": [
@@ -794,6 +767,18 @@
     "languages": [
       "spa"
     ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8qWUmlZKBNU8HB",
+    "name": "Xpresso Joven Radio",
+    "sources": {
+      "streams": [
+        "https://vivo.solumedia.com:19360/xpressojoven/xpressojoven.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "cr",
     "isGeoBlocked": false
   },
