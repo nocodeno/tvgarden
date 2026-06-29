@@ -171,20 +171,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VtHTEOxTK0CD0C",
-    "name": "Belarus-3",
-    "sources": {
-      "streams": [
-        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "by",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "L3YkR6AcwrR8JI",
     "name": "Bem Mais TV",
     "sources": {
@@ -257,6 +243,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QtyIEE9DZnKUAu",
+    "name": "Canal 17 RTVD",
+    "sources": {
+      "streams": [
+        "https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LmCgWicnECUdGm",
     "name": "Canal A",
     "sources": {
@@ -268,20 +268,6 @@
       "spa"
     ],
     "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tF5n1NaStHSPlK",
-    "name": "Canal Diplomatico",
-    "sources": {
-      "streams": [
-        "https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
     "isGeoBlocked": false
   },
   {
@@ -318,9 +304,6 @@
     "sources": {
       "streams": [
         "https://pemirateshls.persiana.live/hls/stream.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/iJlJhQsNdhQ"
       ]
     },
     "languages": [
@@ -413,34 +396,6 @@
       "spa"
     ],
     "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "msqk8hFvDiwdDB",
-    "name": "Cultura 24",
-    "sources": {
-      "streams": [
-        "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XDbtm1nI0M6XvU",
-    "name": "Cultura Online",
-    "sources": {
-      "streams": [
-        "https://streaming.bitsur.cl:3399/live/vdo532live.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -609,20 +564,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "31Wi6UqtxsYAm3",
-    "name": "Ev-tele",
-    "sources": {
-      "streams": [
-        "https://playtv4k.live/live/EVTELE/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "cg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "f5Yx0yGiPGMvvv",
     "name": "Flowers TV USA",
     "sources": {
@@ -656,6 +597,7 @@
     "name": "Fox Soul",
     "sources": {
       "streams": [
+        "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
         "https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8"
       ]
     },
@@ -737,6 +679,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WDEjDpDWifIyr0",
+    "name": "Imai TV",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tam"
+    ],
+    "country": "lk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "X9gLOfHKZiwazd",
     "name": "Ishtar TV",
     "sources": {
@@ -792,22 +748,6 @@
       "kur"
     ],
     "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Bvox2CnXHOsvHp",
-    "name": "JOS TV HD",
-    "sources": {
-      "streams": [
-        "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
-      ]
-    },
-    "languages": [
-      "fra",
-      "kon",
-      "lin"
-    ],
-    "country": "cg",
     "isGeoBlocked": false
   },
   {
@@ -1071,21 +1011,6 @@
       "eng"
     ],
     "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dEANspwI90Hs8o",
-    "name": "NTV Mir",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/NTVMir.m3u8",
-        "https://streaming.thestream.cyou/live/213.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1541,6 +1466,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AgdBh1G6zjQQ1P",
+    "name": "TVR Cultural",
+    "sources": {
+      "streams": [
+        "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wOuKcaJXWEMKNa",
     "name": "UCL",
     "sources": {
@@ -1616,7 +1555,6 @@
     "name": "zenith",
     "sources": {
       "streams": [
-        "https://live.azenagroup.com/zenith/index.ll.m3u8",
         "https://live.azenagroup.com/zenith/index.m3u8"
       ]
     },

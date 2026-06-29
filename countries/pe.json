@@ -56,20 +56,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4DBElJ7eVRBwAz",
-    "name": "Arpegio TV",
-    "sources": {
-      "streams": [
-        "https://vdo.oyotunserver.com/arpegio/video.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "d4L8PBtWXj8rtD",
     "name": "AsiriTV",
     "sources": {
@@ -267,20 +253,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "msqk8hFvDiwdDB",
-    "name": "Cultura 24",
-    "sources": {
-      "streams": [
-        "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fqDkRQsbGbe2La",
     "name": "DeltaTV",
     "sources": {
@@ -370,6 +342,20 @@
     "sources": {
       "streams": [
         "https://play.folkloretv.pe/StreamSD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Rwuv8AlFTYihSG",
+    "name": "Foro TV",
+    "sources": {
+      "streams": [
+        "https://mc.servidor.stream:19360/8274/8274.m3u8"
       ]
     },
     "languages": [
@@ -713,6 +699,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1HAo4CqmpS0XAl",
+    "name": "Primavera 15",
+    "sources": {
+      "streams": [
+        "https://mc.servidor.stream:19360/8244/8244.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5KzJxTUZ8XM9K0",
     "name": "Qosqo Times",
     "sources": {
@@ -857,8 +857,8 @@
     "name": "RSelvaTV",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8",
-        "https://live.obslivestream.com/selvatv/index.m3u8"
+        "https://live.obslivestream.com/selvatv/index.m3u8",
+        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8"
       ]
     },
     "languages": [
@@ -901,20 +901,6 @@
     "sources": {
       "streams": [
         "https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BsVGc0NetKyHUo",
-    "name": "SolTV",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8"
       ]
     },
     "languages": [
@@ -1027,7 +1013,8 @@
     "name": "Trivu",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8"
+        "https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8",
+        "https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8"
       ]
     },
     "languages": [
@@ -1164,20 +1151,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dbLCjbraoPInRW",
-    "name": "Uchu TV",
-    "sources": {
-      "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aYohLShFUh3sGK",
     "name": "Unicentro TV",
     "sources": {
@@ -1192,11 +1165,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EfKZO2yd4jlLmt",
-    "name": "Unitel",
+    "nanoid": "HYnHHpCe4o5p06",
+    "name": "Universitaria TV",
     "sources": {
       "streams": [
-        "https://play.agenciastreaming.com:8081/uniteltv/index.m3u8"
+        "https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1309,20 +1282,6 @@
     "sources": {
       "streams": [
         "https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "C3wFgRMIBFHtTG",
-    "name": "Zeleve TV",
-    "sources": {
-      "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8"
       ]
     },
     "languages": [

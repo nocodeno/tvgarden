@@ -173,7 +173,7 @@
     "name": "B SMART",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/yQu9tqGJYhg"
+        "https://www.youtube-nocookie.com/embed/k_fEP3ouGbw"
       ]
     },
     "languages": [
@@ -471,6 +471,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vyAlDaoF9WU1Q1",
+    "name": "Euronews English",
+    "sources": {
+      "streams": [
+        "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
+        "https://dash4.antik.sk/live/test_euronews/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "32YXpnKvxn9M0K",
     "name": "Euronews Français",
     "sources": {
@@ -480,6 +498,20 @@
     },
     "languages": [
       "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JyVf4M7JRgVcg7",
+    "name": "Euronews German",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/CQ3KsEbsYHs"
+      ]
+    },
+    "languages": [
+      "deu"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -564,20 +596,6 @@
     },
     "languages": [
       "ron"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xsUZSvBNUz3yiT",
-    "name": "Euronews Spanish",
-    "sources": {
-      "streams": [
-        "https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -1291,23 +1309,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "kVuXOdBXr2x3dW",
-    "name": "Rakuten TV Alerte Cobra",
+    "nanoid": "4OHJUKjDj7pE2U",
+    "name": "Rakuten TV Films Drames",
     "sources": {
       "streams": [
-        "https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iLva87P8XGqzZK",
-    "name": "Rakuten TV Films Romance",
-    "sources": {
-      "streams": [
-        "https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8"
+        "https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8"
       ]
     },
     "languages": [],
@@ -1941,7 +1947,6 @@
     "name": "zenith",
     "sources": {
       "streams": [
-        "https://live.azenagroup.com/zenith/index.ll.m3u8",
         "https://live.azenagroup.com/zenith/index.m3u8"
       ]
     },

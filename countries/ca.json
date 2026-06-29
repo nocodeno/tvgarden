@@ -857,9 +857,9 @@
     "name": "Gusto TV",
     "sources": {
       "streams": [
-        "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://gusto-xumo.amagi.tv/playlist.m3u8"
+        "https://gusto-xumo.amagi.tv/playlist.m3u8",
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1991,6 +1991,21 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tfahh4mN8EFFmu",
+    "name": "Uvagut TV",
+    "sources": {
+      "streams": [
+        "https://hls.uvagut.tv/hls/uvagut/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "iku"
     ],
     "country": "ca",
     "isGeoBlocked": false

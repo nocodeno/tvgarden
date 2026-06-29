@@ -75,7 +75,8 @@
     "name": "BestClasicosTV",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
+        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
+        "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
       ]
     },
     "languages": [
@@ -217,6 +218,20 @@
     "sources": {
       "streams": [
         "https://cloudvideo.servers10.com:8081/8030/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0Bp1uWDwZ9RGmr",
+    "name": "Cristo Vision Canal 31",
+    "sources": {
+      "streams": [
+        "https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8"
       ]
     },
     "languages": [
@@ -372,6 +387,20 @@
     "sources": {
       "streams": [
         "https://rtmp.info/iqtv/envivo/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hWONN4ANlWd0XQ",
+    "name": "La Potente Radio TV",
+    "sources": {
+      "streams": [
+        "https://latamvdo.com:3626/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -590,20 +619,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FY9JMfvI9sWSMw",
-    "name": "TeleBrunca",
-    "sources": {
-      "streams": [
-        "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GHvLc9YKjbjb4r",
     "name": "Telefides",
     "sources": {
@@ -644,6 +659,20 @@
     ],
     "country": "cr",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "aeI6TVNDKNvZiP",
+    "name": "TeleSUR Costa Rica",
+    "sources": {
+      "streams": [
+        "https://s1.tvdatta.com:3582/live/telesurlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "xLJatClo1nNRli",

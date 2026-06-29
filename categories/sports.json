@@ -6,9 +6,6 @@
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
         "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/1jA1IUpCeu0"
       ]
     },
     "languages": [
@@ -199,6 +196,20 @@
       "slv"
     ],
     "country": "si",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "P0bKpW2bLTNB9M",
+    "name": "Arena Sport 2",
+    "sources": {
+      "streams": [
+        "https://nl1.nghk.ai/ArenaSport2BH/index.m3u8"
+      ]
+    },
+    "languages": [
+      "srp"
+    ],
+    "country": "ba",
     "isGeoBlocked": false
   },
   {
@@ -496,20 +507,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KM1wqUbKveZt3Y",
-    "name": "Arena Sport Adrenalin",
-    "sources": {
-      "streams": [
-        "https://nl1.nghk.ai/SK3SRHD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "srp"
-    ],
-    "country": "rs",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NM1QE8lmkRwR7E",
     "name": "Arena Sport Premium 1 BH",
     "sources": {
@@ -675,20 +672,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yxXfCHd5uHQMJD",
-    "name": "Belarus-5",
-    "sources": {
-      "streams": [
-        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "by",
     "isGeoBlocked": false
   },
   {
@@ -878,6 +861,21 @@
     ],
     "country": "es",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
+    "sources": {
+      "streams": [
+        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Ps5SHG9loIy0eR",
@@ -1124,6 +1122,20 @@
       "eng"
     ],
     "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "440EBhNILeBYuU",
+    "name": "Futbol",
+    "sources": {
+      "streams": [
+        "https://live.teleradiocom.tj/8/3m.m3u8"
+      ]
+    },
+    "languages": [
+      "tgk"
+    ],
+    "country": "tj",
     "isGeoBlocked": false
   },
   {
@@ -1852,8 +1864,8 @@
     "name": "Sportitalia Solocalcio",
     "sources": {
       "streams": [
-        "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
         "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
+        "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
         "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },

@@ -15,20 +15,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "36lN8WV2fDdHrJ",
-    "name": "13th Street Universal",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/13thStreet.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LAPj7zIAvtxGKM",
     "name": "Alex Berlin",
     "sources": {
@@ -77,7 +63,6 @@
     "sources": {
       "streams": [
         "https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8",
-        "https://adpnetworkhd-cmd.github.io/iptv/Arte.m3u8",
         "https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8"
       ]
     },
@@ -1204,8 +1189,8 @@
     "name": "OK Merseburg-Querfurt",
     "sources": {
       "streams": [
-        "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-merseburg_high/playlist.m3u8",
-        "https://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8"
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8",
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-merseburg_high/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1472,30 +1457,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mMN16NkXBOiZlV",
-    "name": "Rakuten TV Comedy Movies Germany",
+    "nanoid": "rahlDGPnE1FWrR",
+    "name": "Rakuten TV Crime Series Germany",
     "sources": {
       "streams": [
-        "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8"
+        "https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8"
       ]
     },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nYCXjvra9MA0zd",
-    "name": "Rakuten TV Drama Movies Germany",
-    "sources": {
-      "streams": [
-        "https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
+    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   },
