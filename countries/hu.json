@@ -42,18 +42,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0Lx1LJBNUCUK2I",
-    "name": "AXN Spin",
-    "sources": {
-      "streams": [
-        "https://lb.dstvmultimedia.com/AXNSpin/index.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZTvTYkAMkRF41z",
     "name": "Bajai TV",
     "sources": {
@@ -142,7 +130,8 @@
     "name": "Euronews Hungarian",
     "sources": {
       "streams": [
-        "https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8"
+        "https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8",
+        "https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8"
       ]
     },
     "languages": [
@@ -227,20 +216,6 @@
     "sources": {
       "streams": [
         "https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eeDvgxwcpXFEcL",
-    "name": "Kapos TV",
-    "sources": {
-      "streams": [
-        "https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -351,20 +326,6 @@
     "sources": {
       "streams": [
         "https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TXVHSWHgllbutZ",
-    "name": "Szolnok TV",
-    "sources": {
-      "streams": [
-        "https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8"
       ]
     },
     "languages": [

@@ -5,7 +5,8 @@
     "sources": {
       "streams": [
         "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
-        "https://41.223.30.230/3SAT/index.m3u8"
+        "https://41.223.30.230/3SAT/index.m3u8",
+        "https://41.205.77.102/3SAT/index.m3u8"
       ]
     },
     "languages": [
@@ -13,6 +14,20 @@
     ],
     "country": "de",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "36lN8WV2fDdHrJ",
+    "name": "13th Street Universal",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/13thStreet.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "LAPj7zIAvtxGKM",
@@ -63,6 +78,7 @@
     "sources": {
       "streams": [
         "https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8",
+        "https://adpnetworkhd-cmd.github.io/iptv/Arte.m3u8",
         "https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8"
       ]
     },
@@ -216,20 +232,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mW0XW8knvFv3Gu",
-    "name": "Comedy Central",
-    "sources": {
-      "streams": [
-        "https://lb.dstvmultimedia.com/ComedyCentral/index.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6A5ze3h8nnCjde",
     "name": "Dark Monkey Music: Dark Minimal Techno Trip",
     "sources": {
@@ -292,6 +294,35 @@
     "sources": {
       "streams": [
         "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kxfwLfpFpzHMm2",
+    "name": "Deluxe Rap",
+    "sources": {
+      "streams": [
+        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8"
+      ]
+    },
+    "languages": [
+      "deu",
+      "eng"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nSzgFY1wA728Rf",
+    "name": "Disney Channel",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelDeutschland.m3u8"
       ]
     },
     "languages": [
@@ -918,7 +949,8 @@
     "name": "NDR Hamburg",
     "sources": {
       "streams": [
-        "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8"
+        "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8",
+        "https://adpnetworkhd-cmd.github.io/iptv/NDR.m3u8"
       ]
     },
     "languages": [
@@ -1189,8 +1221,8 @@
     "name": "OK Merseburg-Querfurt",
     "sources": {
       "streams": [
-        "https://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8",
-        "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-merseburg_high/playlist.m3u8"
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-merseburg_high/playlist.m3u8",
+        "https://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1457,11 +1489,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rahlDGPnE1FWrR",
-    "name": "Rakuten TV Crime Series Germany",
+    "nanoid": "SMFkP3zTr5LosF",
+    "name": "Rakuten TV German Cinema",
     "sources": {
       "streams": [
-        "https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8"
+        "https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8"
       ]
     },
     "languages": [],
@@ -1619,6 +1651,20 @@
       "streams": [
         "https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8",
         "https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "brqnNRKBRjnKyb",
+    "name": "RTL Super",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/RTLSuperToggoHD.m3u8"
       ]
     },
     "languages": [

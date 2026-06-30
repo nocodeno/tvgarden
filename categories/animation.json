@@ -144,6 +144,7 @@
     "name": "BBC Three/CBBC",
     "sources": {
       "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/BBCThreeCBBC.m3u8",
         "https://41.205.77.102/BBC-THREE/index.m3u8"
       ]
     },
@@ -266,48 +267,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VCUvM2AMC0JyGp",
-    "name": "DreamWorks Channel Latin America",
-    "sources": {
-      "streams": [
-        "https://cdn-5.nxplay.com.br/DREAMWORKS/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LRgPxcQZ9T6wh6",
-    "name": "EnerGeek",
-    "sources": {
-      "streams": [
-        "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Fho666tDNHtuPI",
-    "name": "EnerGeek FAN",
-    "sources": {
-      "streams": [
-        "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "s3sqg6vutusQdl",
     "name": "eSports Max TV",
     "sources": {
@@ -348,6 +307,20 @@
       "jap"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oj7vX3xxxcxlj0",
+    "name": "Fugget About It",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/tLRQ0hGA5Rs"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -405,6 +378,20 @@
     ],
     "country": "sa",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gnovPIP6KioXwn",
+    "name": "Hasbro Legends",
+    "sources": {
+      "streams": [
+        "https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "6LMZLvrPTalkLd",
@@ -859,17 +846,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kgLIBciurHYpOo",
-    "name": "Slime",
+    "nanoid": "e2QKMdwgfK4Vxo",
+    "name": "Simon Super Lapin",
     "sources": {
-      "streams": [
-        "https://slime.x1co.com.br/hls/stream.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/8MG1UXKTETg"
       ]
     },
     "languages": [
-      "por"
+      "fra"
     ],
-    "country": "br",
+    "country": "fr",
     "isGeoBlocked": false
   },
   {

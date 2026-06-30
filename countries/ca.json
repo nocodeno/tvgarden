@@ -44,6 +44,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YD8ihVxcEILfkx",
+    "name": "Azan TV",
+    "sources": {
+      "streams": [
+        "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vLJxCfSjAO72Wd",
     "name": "Belmedia TV",
     "sources": {
@@ -233,20 +247,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "mIGdPVCQ0ktnig",
-    "name": "CBFT-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "LBj1hZ9cWVQmJb",
     "name": "CBHT-DT",
     "sources": {
@@ -261,20 +261,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "C2IpSsj3CjIb2e",
-    "name": "CBKFT-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "6clwzOHKjk87Fu",
     "name": "CBKT-DT",
     "sources": {
@@ -284,20 +270,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "1yLst6OvN4IiS8",
-    "name": "CBLFT-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
     ],
     "country": "ca",
     "isGeoBlocked": true
@@ -345,20 +317,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "qMfxPERIpN5bJn",
-    "name": "CBOFT-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "9lH9HCemzV0cvI",
     "name": "CBOT-DT",
     "sources": {
@@ -387,20 +345,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "9l6DsmybaReA2E",
-    "name": "CBUFT-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "HgrAueLlDv0C9R",
     "name": "CBUT-DT",
     "sources": {
@@ -410,20 +354,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "lxLCWtpDfYneS1",
-    "name": "CBVT-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
     ],
     "country": "ca",
     "isGeoBlocked": true
@@ -723,6 +653,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NYOzLMHn9DVS1q",
+    "name": "Doyel TV",
+    "sources": {
+      "streams": [
+        "https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QtZoQSlu8071bX",
     "name": "Eawaz TV",
     "sources": {
@@ -811,6 +755,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oj7vX3xxxcxlj0",
+    "name": "Fugget About It",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/tLRQ0hGA5Rs"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3PWIwG9FFIlO5Y",
     "name": "Game+",
     "sources": {
@@ -857,8 +815,8 @@
     "name": "Gusto TV",
     "sources": {
       "streams": [
+        "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://gusto-xumo.amagi.tv/playlist.m3u8",
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
       ]
     },
@@ -1763,7 +1721,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/tB7JTEEHWa4"
+        "https://www.youtube-nocookie.com/embed/vFvcJPYJB1U"
       ]
     },
     "languages": [
@@ -1777,7 +1735,7 @@
     "name": "Super Simple: Noodle and Pals",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/yl8MhXvX4ug"
+        "https://www.youtube-nocookie.com/embed/36h1xLBgHX8"
       ]
     },
     "languages": [
@@ -1791,7 +1749,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/5Sc5Tsvwmoo"
+        "https://www.youtube-nocookie.com/embed/4vyZYzbdTik"
       ]
     },
     "languages": [

@@ -70,20 +70,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SlAJ7Vn2dydX9r",
-    "name": "Canal 51",
-    "sources": {
-      "streams": [
-        "https://live.cn51hn.com/live/cn51.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MleqMuDrYxICgp",
     "name": "CCI Channel",
     "sources": {
@@ -238,11 +224,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YFN0Wt8jkUTjZN",
-    "name": "HCH",
+    "nanoid": "7jZdYZLmUugc11",
+    "name": "Guayape TV",
     "sources": {
       "streams": [
-        "https://live.streamhch.com/live/streams/hch1.m3u8"
+        "https://tv.bitstreaming.net:8443/live/guayapetv.m3u8"
       ]
     },
     "languages": [
@@ -252,11 +238,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CLZTA8WF1pQ7a8",
-    "name": "ICN Digital",
+    "nanoid": "YFN0Wt8jkUTjZN",
+    "name": "HCH",
     "sources": {
       "streams": [
-        "https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8"
+        "https://live.streamhch.com/live/streams/hch1.m3u8"
       ]
     },
     "languages": [
@@ -284,7 +270,8 @@
     "name": "JBN TV",
     "sources": {
       "streams": [
-        "https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8"
+        "https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8",
+        "https://viewhn.com/jbn_live/enlace/playlist.m3u8"
       ]
     },
     "languages": [
@@ -532,20 +519,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vrzSBLwEYUrESe",
-    "name": "TeleDanli",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/giatv/giatv-canal9/canal9/chunks.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "THKN8j8NPbhAcj",
     "name": "Telemas",
     "sources": {
@@ -602,6 +575,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OPNVhQbPeZ6MyD",
+    "name": "TV Centro HD",
+    "sources": {
+      "streams": [
+        "https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pT9oAXkeRbqGBU",
     "name": "TV Copan",
     "sources": {
@@ -621,20 +608,6 @@
     "sources": {
       "streams": [
         "https://s.emisoras.tv:8081/tve/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "68v5jZBiXMRfcB",
-    "name": "UNE TV",
-    "sources": {
-      "streams": [
-        "https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [

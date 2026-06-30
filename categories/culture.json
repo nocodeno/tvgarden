@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "qrJk7Z0w2ndHZn",
-    "name": "13C",
-    "sources": {
-      "streams": [
-        "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SUz6ZlewrjG9Ml",
     "name": "Abai TV",
     "sources": {
@@ -175,8 +161,7 @@
     "name": "Bem Mais TV",
     "sources": {
       "streams": [
-        "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8",
-        "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
+        "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8"
       ]
     },
     "languages": [
@@ -271,6 +256,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tF5n1NaStHSPlK",
+    "name": "Canal Diplomatico",
+    "sources": {
+      "streams": [
+        "https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kcUlTpEd2EjJLo",
     "name": "Capital 21",
     "sources": {
@@ -354,20 +353,6 @@
       "tur"
     ],
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "m1fqGkSb3kQ4GK",
-    "name": "Ciracu TV",
-    "sources": {
-      "streams": [
-        "https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
     "isGeoBlocked": false
   },
   {
@@ -473,6 +458,20 @@
       "zho"
     ],
     "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NYOzLMHn9DVS1q",
+    "name": "Doyel TV",
+    "sources": {
+      "streams": [
+        "https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -597,7 +596,6 @@
     "name": "Fox Soul",
     "sources": {
       "streams": [
-        "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
         "https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8"
       ]
     },
@@ -605,20 +603,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "duSXiulPj9T5qC",
-    "name": "Guaymate TV",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -751,6 +735,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Bvox2CnXHOsvHp",
+    "name": "JOS TV HD",
+    "sources": {
+      "streams": [
+        "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
+      ]
+    },
+    "languages": [
+      "fra",
+      "kon",
+      "lin"
+    ],
+    "country": "cg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iHcwCYBoO04vaV",
     "name": "Kajou TV",
     "sources": {
@@ -817,20 +817,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "kw",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "x84vEYjClS3UTx",
-    "name": "KTV Arabe",
-    "sources": {
-      "streams": [
-        "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
     ],
     "country": "kw",
     "isGeoBlocked": false
@@ -1014,6 +1000,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dEANspwI90Hs8o",
+    "name": "NTV Mir",
+    "sources": {
+      "streams": [
+        "https://streaming.thestream.cyou/live/213.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "n3MPyyNxowDoVf",
     "name": "Odisha TV",
     "sources": {
@@ -1166,33 +1166,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "y8ufu4YXUzuRSK",
-    "name": "RTB 3",
-    "sources": {
-      "streams": [
-        "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8"
-      ]
-    },
-    "languages": [
-      "bbo",
-      "bib",
-      "box",
-      "dgi",
-      "dyu",
-      "ful",
-      "gux",
-      "lee",
-      "lob",
-      "mos",
-      "rkm",
-      "sbd",
-      "stj",
-      "sym"
-    ],
-    "country": "bf",
     "isGeoBlocked": false
   },
   {
@@ -1508,21 +1481,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fcllzx7ENtLcnw",
-    "name": "UMSA TVU LP",
-    "sources": {
-      "streams": [
-        "https://edge.enhdtv.com/8190/index.m3u8",
-        "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7UeLUueVRqvHR1",
     "name": "Unisul TV",
     "sources": {
@@ -1555,6 +1513,7 @@
     "name": "zenith",
     "sources": {
       "streams": [
+        "https://live.azenagroup.com/zenith/index.ll.m3u8",
         "https://live.azenagroup.com/zenith/index.m3u8"
       ]
     },

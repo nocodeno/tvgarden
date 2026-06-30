@@ -341,6 +341,7 @@
     "name": "BBC Three/CBBC",
     "sources": {
       "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/BBCThreeCBBC.m3u8",
         "https://41.205.77.102/BBC-THREE/index.m3u8"
       ]
     },
@@ -351,11 +352,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EohUZfaHu9Fw27",
-    "name": "BBC Two",
+    "nanoid": "lM7b4zFwGuvMGj",
+    "name": "Blaze",
     "sources": {
       "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/BBCTwo.m3u8"
+        "https://adpnetworkhd-cmd.github.io/iptv/Blaze.m3u8"
       ]
     },
     "languages": [
@@ -507,6 +508,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/XfZetbS9084"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nKxFjTat4RDbkM",
+    "name": "Challenge",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/ChallengeUK.m3u8"
       ]
     },
     "languages": [
@@ -678,7 +693,7 @@
     "name": "Crafter's TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/l5JNM-ZuZAk"
+        "https://www.youtube-nocookie.com/embed/Cn601a1zo5s"
       ]
     },
     "languages": [
@@ -1023,20 +1038,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "k9Z5raN5ubTZep",
-    "name": "Gems TV",
-    "sources": {
-      "streams": [
-        "https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QsnZdQrvWuaOtn",
     "name": "Get.factual UK",
     "sources": {
@@ -1081,6 +1082,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "No7OajC4TSop0b",
+    "name": "GREAT! action",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/GreatAction.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aZ7OPQQXDiuZF3",
     "name": "GREAT! movies UK",
     "sources": {
@@ -1115,7 +1130,22 @@
     "sources": {
       "streams": [
         "https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8",
-        "https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8"
+        "https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8",
+        "https://adpnetworkhd-cmd.github.io/iptv/GreatRomance.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PikdYPD5t5SNhA",
+    "name": "GREAT! tv",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/GreatTV.m3u8"
       ]
     },
     "languages": [
@@ -1216,34 +1246,6 @@
       ]
     },
     "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "f4STSe9tgyRVf3",
-    "name": "Hobby Maker",
-    "sources": {
-      "streams": [
-        "https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gfaamDst89W7kn",
-    "name": "Horrid Henry",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/X3DkRnx3y8Q"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1380,24 +1382,6 @@
       ]
     },
     "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v5IfXYen2Q01eP",
-    "name": "JimJam Europe",
-    "sources": {
-      "streams": [
-        "https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/jimjam/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ces",
-      "eng",
-      "heb",
-      "por",
-      "slk"
-    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1598,7 +1582,6 @@
     "name": "Moonbug Kids",
     "sources": {
       "streams": [
-        "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
         "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
       ]
     },
@@ -2167,11 +2150,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bM1ajyE0MLR0WL",
-    "name": "Rakuten TV Family Movies UK",
+    "nanoid": "DqKr2u3T1rmLql",
+    "name": "Rakuten Top Movies UK",
     "sources": {
       "streams": [
-        "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8"
+        "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
       ]
     },
     "languages": [
@@ -2181,14 +2164,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pCghkk05sIwmT1",
-    "name": "Rakuten TV Reality UK",
+    "nanoid": "F2ftHadqxcG2u5",
+    "name": "Rakuten TV Drama Movies UK",
     "sources": {
       "streams": [
-        "https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8"
+        "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -2237,6 +2222,20 @@
       ]
     },
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "It8TOsjzodWxGM",
+    "name": "Really",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/Really.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -2633,20 +2632,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pzt1PSqplgKD2y",
-    "name": "Totalmusic",
-    "sources": {
-      "streams": [
-        "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9Rw1P5d6hpRKjY",
     "name": "Totalmusic 80s",
     "sources": {
@@ -3014,7 +2999,6 @@
     "name": "World War TV",
     "sources": {
       "streams": [
-        "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8"
       ]
     },

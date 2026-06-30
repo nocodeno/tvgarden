@@ -140,53 +140,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ejkIiH8jZa5e2h",
-    "name": "Apostrophe TV",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/Apostrophe.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "H0fTRstAnfWOk3",
-    "name": "Avers",
-    "sources": {
-      "streams": [
-        "https://avers.pp.ua/hls/efir.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "F9LfVyG31TYOvT",
     "name": "Avtoradio Ukraine",
     "sources": {
       "streams": [
         "https://iptv.prosto.tv/ch392/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4qc36aVWEzWpf9",
-    "name": "Bigudi",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/Bigudi.m3u8"
       ]
     },
     "languages": [
@@ -479,6 +437,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gohVZ5pWFjJg26",
+    "name": "K1",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/K1.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mqffvBQ8XNfThQ",
+    "name": "K2",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/K2.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RCrPTSQMxm28NU",
     "name": "Kus-Kus",
     "sources": {
@@ -501,6 +487,20 @@
       ]
     },
     "languages": [],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lzJSxnnbUFitFG",
+    "name": "Kyiv",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/Kyiv.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -593,10 +593,26 @@
     "name": "Niki Kids",
     "sources": {
       "streams": [
-        "https://iptv.prosto.tv/ch71/index.m3u8"
+        "https://iptv.prosto.tv/ch71/index.m3u8",
+        "https://adpnetworkhd-cmd.github.io/iptv/NIKIKids.m3u8"
       ]
     },
     "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "O2ACBT3EyZ5vGM",
+    "name": "Novyi Channel",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/NoviyKanal.m3u8"
+      ]
+    },
+    "languages": [
+      "rus",
       "ukr"
     ],
     "country": "ua",
@@ -621,7 +637,64 @@
     "name": "NTN",
     "sources": {
       "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/NTNUA.m3u8",
         "https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2PBHcYmItAsjgH",
+    "name": "Obozrevatel TV",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/ObozrevatelTV.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1xUmuzl9Q16l9b",
+    "name": "Pershyi",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/Pershyi.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "HqxGIe9L28ibkT",
+    "name": "Pershyi avtomobilnyi",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/Pershyiavtomobilnyi.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VhpM1iN4jkajPC",
+    "name": "PLUSPLUS",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/PlusPlus.m3u8"
       ]
     },
     "languages": [
@@ -636,6 +709,20 @@
     "sources": {
       "streams": [
         "https://iptv.prosto.tv/ch192/tracks-v1a1/mono.m3u8?21yo=1&e=1782901327&id=742347&ip=104.28.156.59&live=1&secret=vu2y5m72&st=bflIqYjnSIr75ACfgV-mug"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "A0z8YsTqUmmvpH",
+    "name": "Priamyi",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/Priamyi.m3u8"
       ]
     },
     "languages": [
@@ -1075,7 +1162,7 @@
     "name": "Телеканал Конкурент TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Tl1w2A4929c"
+        "https://www.youtube-nocookie.com/embed/WAFmV8F0hKE"
       ]
     },
     "languages": [
