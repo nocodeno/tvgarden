@@ -116,18 +116,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nlHRC1EER9kWOE",
-    "name": "RTS 3",
-    "sources": {
-      "streams": [
-        "https://live1.acangroup.org:1929/larts/rts3/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "sn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eHM605p4bMlMA0",
     "name": "RTS 4",
     "sources": {
@@ -152,5 +140,19 @@
     ],
     "country": "sn",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "RfhIP8Ek1pr7to",
+    "name": "SenJeunes TV",
+    "sources": {
+      "streams": [
+        "https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "sn",
+    "isGeoBlocked": false
   }
 ]

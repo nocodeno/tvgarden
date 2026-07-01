@@ -47,6 +47,9 @@
     "sources": {
       "streams": [
         "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/qVgzbLwopFQ"
       ]
     },
     "languages": [
@@ -656,9 +659,9 @@
     "name": "AccuWeather NOW",
     "sources": {
       "streams": [
-        "https://accuweather-xumo.amagi.tv/playlist.m3u8",
-        "https://d1gldweznovt26.cloudfront.net/Accuweather.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8",
+        "https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8",
+        "https://d1gldweznovt26.cloudfront.net/Accuweather.m3u8"
       ]
     },
     "languages": [
@@ -1050,20 +1053,6 @@
     },
     "languages": [
       "ara"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tfq3VfOu2CNACd",
-    "name": "Al-Mahdi TV",
-    "sources": {
-      "streams": [
-        "https://iptv.almahditv.com/almahditv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fas"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -1476,6 +1465,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sPGmyALtlBkjD3",
+    "name": "Ameritrade",
+    "sources": {
+      "streams": [
+        "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "et5iR1Oc0qBZ3J",
     "name": "AMG TV",
     "sources": {
@@ -1625,7 +1628,7 @@
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/453e03c1-3a9f-415c-9370-5c744b19a748/playlist.m3u8",
         "https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetse-samsungse/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2988,7 +2991,7 @@
     "name": "Cartoon Network: Clarence",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/iWCDZDGM93Q"
+        "https://www.youtube-nocookie.com/embed/bQMvESXfRB4"
       ]
     },
     "languages": [
@@ -3119,7 +3122,7 @@
         "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/PEdOR5gqobA"
+        "https://www.youtube-nocookie.com/embed/OBWszEBK1hs"
       ]
     },
     "languages": [
@@ -3533,8 +3536,8 @@
     "sources": {
       "streams": [
         "https://amg00432-circletvfast-amg00432c1-cineverse-us-1112.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-cineverseus/playlist.m3u8",
-        "https://circle-xumo.amagi.tv/playlist.m3u8",
-        "https://circle-samsung.amagi.tv/playlist.m3u8"
+        "https://circle-roku.amagi.tv/playlist.m3u8",
+        "https://circle-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -3607,6 +3610,21 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lRKUVxSJLWtW94",
+    "name": "City TV Channel 3/41",
+    "sources": {
+      "streams": [
+        "https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -4909,6 +4927,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "W96nD2jfO547gK",
+    "name": "Disney Channel East",
+    "sources": {
+      "streams": [
+        "https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disney/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VJ5gw1qkZks4rp",
     "name": "Disney Channel: Big City Greens",
     "sources": {
@@ -4974,6 +5007,21 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "U8REylkpG4igqA",
+    "name": "Disney Junior East",
+    "sources": {
+      "streams": [
+        "https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disneyjr/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -5337,7 +5385,7 @@
     "name": "Dr. Seuss",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/0eJnWun3HzQ"
+        "https://www.youtube-nocookie.com/embed/HF7InIKLA_0"
       ]
     },
     "languages": [
@@ -5951,8 +5999,8 @@
     "name": "FilAmTV Network",
     "sources": {
       "streams": [
-        "https://streams.comclark.com/pknsd/filamtv/playlist.m3u8",
-        "https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8"
+        "https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8",
+        "https://streams.comclark.com/pknsd/filamtv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -6219,9 +6267,9 @@
     "name": "Fox Weather",
     "sources": {
       "streams": [
+        "https://foxweather-xumo.amagi.tv/playlist.m3u8",
         "https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8",
-        "https://247wlive.foxweather.com/stream/index.m3u8",
-        "https://aegis-cloudfront-1.tubi.video/d4d03a5e-dd3e-4b9a-8b11-b86c88d717fe/index.m3u8"
+        "https://247wlive.foxweather.com/stream/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/wt6SIE7BXS8"
@@ -7419,20 +7467,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "aJFgR2OgjemAZb",
-    "name": "IraneFarda TV",
-    "sources": {
-      "streams": [
-        "https://iranefardalive.com/stream/live.m3u8"
-      ]
-    },
-    "languages": [
-      "fas"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "58H646efp8Dkiq",
     "name": "Island Vibes",
     "sources": {
@@ -7476,6 +7510,20 @@
     "sources": {
       "streams": [
         "https://content.uplynk.com/channel/fbc0f835332e476397b12216f9042f78.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DTrA30XU0Iez6A",
+    "name": "JBS",
+    "sources": {
+      "streams": [
+        "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8"
       ]
     },
     "languages": [
@@ -8807,20 +8855,6 @@
     "sources": {
       "streams": [
         "https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wiIsgplTccLk32",
-    "name": "Lacrosse TV",
-    "sources": {
-      "streams": [
-        "https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8"
       ]
     },
     "languages": [
@@ -10250,20 +10284,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gnVAiCFZtZcopw",
-    "name": "MTV Live",
-    "sources": {
-      "streams": [
-        "https://41.205.77.102/MTVUSA/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9pWgUOLbE5LECP",
     "name": "Murder She Wrote",
     "sources": {
@@ -10388,6 +10408,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/uwXgcTc8oY8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9Lv6gyQaWTeTvh",
+    "name": "NASA: ISS HD",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/awQzjn72bI0"
       ]
     },
     "languages": [
@@ -10622,7 +10656,7 @@
         "https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/7cxCCru7QLI"
+        "https://www.youtube-nocookie.com/embed/cQdLDXcwJq4"
       ]
     },
     "languages": [
@@ -10766,6 +10800,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yJ6qb835TTUKh1",
+    "name": "News12 Bronx",
+    "sources": {
+      "streams": [
+        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "EmHOTWEORpvSsZ",
     "name": "News12 Brooklyn",
     "sources": {
@@ -10808,20 +10856,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "gIo3PCn776MYcq",
-    "name": "News12 New Jersey",
-    "sources": {
-      "streams": [
-        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "zP30wxA2G2PSK5",
     "name": "News12 New York",
     "sources": {
@@ -10834,20 +10868,6 @@
     ],
     "country": "us",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "q8agflF5shjdE5",
-    "name": "News12 Westchester",
-    "sources": {
-      "streams": [
-        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "jLGAHvaIG3O3uP",
@@ -10869,8 +10889,8 @@
     "sources": {
       "streams": [
         "https://amg00217-newsmax-newsmax-rokuus-dur76.amagi.tv/playlist.m3u8",
-        "https://newsmax-klowdtv.amagi.tv/playlist.m3u8",
-        "https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8"
+        "https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+        "https://newsmax-klowdtv.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -11277,7 +11297,6 @@
     "name": "One America News Network",
     "sources": {
       "streams": [
-        "https://oneamericanews-vizio.amagi.tv/playlist.m3u8",
         "https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8"
       ]
     },
@@ -12246,6 +12265,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kPaNS4YtCeCnqg",
+    "name": "QVC+ HSN+: Fashion Finds",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/RwZYu_c13kA"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jEX34wYQSj1bA4",
     "name": "QVC+ HSN+: Outdoor Escape",
     "sources": {
@@ -12583,7 +12616,8 @@
     "sources": {
       "streams": [
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8",
-        "https://lds-realwild-rakuten.amagi.tv/playlist.m3u8"
+        "https://lds-realwild-rakuten.amagi.tv/playlist.m3u8",
+        "https://lds-realwild-samsungau.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -13948,20 +13982,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "h9eDkCfbFxUPDf",
-    "name": "Sunny Bunnies",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/5q1_S09g14c"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JAcyJ0pux8PIth",
     "name": "Supermarket Sweep",
     "sources": {
@@ -14325,7 +14345,7 @@
     "name": "Teenage Mutant Ninja Turtles: TMNT",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/c2FavXF01ZU"
+        "https://www.youtube-nocookie.com/embed/EUimd-12rp8"
       ]
     },
     "languages": [
@@ -16269,9 +16289,6 @@
         "https://amg00457-amg00457c1-stirr-us-8143.playouts.now.amagi.tv/playlist.m3u8",
         "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8",
         "https://usatodaynews-xumo.amagi.tv/playlist.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/u8pzPdllAf8"
       ]
     },
     "languages": [
@@ -16686,20 +16703,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/400k2SKoeh4"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xae9GkiaWEJxkK",
-    "name": "Warner Bros. Rewind: Police Academy Series",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/koAHvs1Sf7M"
       ]
     },
     "languages": [
@@ -19010,7 +19013,7 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/4cfc30dc-1431-46b6-aea7-89a2e7d35823/playlist.m3u8",
-        "https://amg00111-hearstmediaprod-xploreintlse-samsungse-lvo6s.amagi.tv/playlist/amg00111-hearstmediaprod-xploreintlse-samsungse/playlist.m3u8",
+        "https://xplore-vizio.amagi.tv/playlist.m3u8",
         "https://depdwjha9qyli.cloudfront.net/Xplore.m3u8"
       ]
     },
@@ -19042,7 +19045,7 @@
         "https://yahoo-plex.amagi.tv/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/MphLnxq9xMQ"
+        "https://www.youtube-nocookie.com/embed/KQp-e_XQnDE"
       ]
     },
     "languages": [

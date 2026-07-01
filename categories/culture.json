@@ -29,20 +29,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4RrCqsrdFtghH",
-    "name": "Afroculture TV",
-    "sources": {
-      "streams": [
-        "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Y2dtfZFJHxfB6A",
     "name": "AMP 2",
     "sources": {
@@ -161,7 +147,8 @@
     "name": "Bem Mais TV",
     "sources": {
       "streams": [
-        "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8"
+        "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8",
+        "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
       ]
     },
     "languages": [
@@ -239,20 +226,6 @@
       "spa"
     ],
     "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LmCgWicnECUdGm",
-    "name": "Canal A",
-    "sources": {
-      "streams": [
-        "https://edgectc.com/CANAL_A/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -356,6 +329,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "m1fqGkSb3kQ4GK",
+    "name": "Ciracu TV",
+    "sources": {
+      "streams": [
+        "https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pXvSXoe4kL9IM4",
     "name": "Classic Arts Showcase",
     "sources": {
@@ -421,7 +408,6 @@
     "name": "DD Punjabi",
     "sources": {
       "streams": [
-        "https://cdn-4.pishow.tv/live/24/master.m3u8",
         "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8"
       ]
     },
@@ -504,21 +490,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nuCkj2isILRO5a",
-    "name": "EET TV",
-    "sources": {
-      "streams": [
-        "https://eu.streamjo.com/eetlive/eettv.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tam"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "h9xUZ9qtOT3ejC",
     "name": "El 33",
     "sources": {
@@ -560,6 +531,20 @@
       "est"
     ],
     "country": "ee",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "31Wi6UqtxsYAm3",
+    "name": "Ev-tele",
+    "sources": {
+      "streams": [
+        "https://playtv4k.live/live/EVTELE/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "cg",
     "isGeoBlocked": false
   },
   {
@@ -735,22 +720,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Bvox2CnXHOsvHp",
-    "name": "JOS TV HD",
-    "sources": {
-      "streams": [
-        "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
-      ]
-    },
-    "languages": [
-      "fra",
-      "kon",
-      "lin"
-    ],
-    "country": "cg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iHcwCYBoO04vaV",
     "name": "Kajou TV",
     "sources": {
@@ -817,6 +786,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "kw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "x84vEYjClS3UTx",
+    "name": "KTV Arabe",
+    "sources": {
+      "streams": [
+        "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
     ],
     "country": "kw",
     "isGeoBlocked": false
@@ -1057,34 +1040,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CB542USEKKwSaw",
-    "name": "Ondambiental TV",
-    "sources": {
-      "streams": [
-        "https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2YKn96rbCyY3de",
-    "name": "ORF III",
-    "sources": {
-      "streams": [
-        "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "T0s7Y4K2sYggX7",
     "name": "Orler TV",
     "sources": {
@@ -1096,20 +1051,6 @@
       "ita"
     ],
     "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PGFyEoRa4S4ygM",
-    "name": "Ost West 24",
-    "sources": {
-      "streams": [
-        "https://iptv.prosto.tv/ch237/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -1166,6 +1107,33 @@
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "y8ufu4YXUzuRSK",
+    "name": "RTB 3",
+    "sources": {
+      "streams": [
+        "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8"
+      ]
+    },
+    "languages": [
+      "bbo",
+      "bib",
+      "box",
+      "dgi",
+      "dyu",
+      "ful",
+      "gux",
+      "lee",
+      "lob",
+      "mos",
+      "rkm",
+      "sbd",
+      "stj",
+      "sym"
+    ],
+    "country": "bf",
     "isGeoBlocked": false
   },
   {
@@ -1238,20 +1206,6 @@
       "hin"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "z6v7ZVW8wRdbxQ",
-    "name": "Senal U",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -1443,7 +1397,7 @@
     "name": "TVR Cultural",
     "sources": {
       "streams": [
-        "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8"
+        "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1478,6 +1432,21 @@
       "spa"
     ],
     "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fcllzx7ENtLcnw",
+    "name": "UMSA TVU LP",
+    "sources": {
+      "streams": [
+        "https://edge.enhdtv.com/8190/index.m3u8",
+        "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
     "isGeoBlocked": false
   },
   {

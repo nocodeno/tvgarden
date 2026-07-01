@@ -5,26 +5,15 @@
     "sources": {
       "streams": [
         "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/qVgzbLwopFQ"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mGLwdOQP8VDOyv",
-    "name": "3RS Cartoon Movies",
-    "sources": {
-      "streams": [
-        "https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl"
-    ],
-    "country": "ph",
     "isGeoBlocked": false
   },
   {
@@ -126,25 +115,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qeGibjiweoCaEb",
-    "name": "BBC Four/CBeebies",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/BBCFourCBeebies.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bxrLpOnIw2cIku",
     "name": "BBC Three/CBBC",
     "sources": {
       "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/BBCThreeCBBC.m3u8",
         "https://41.205.77.102/BBC-THREE/index.m3u8"
       ]
     },
@@ -264,6 +238,34 @@
       "spa"
     ],
     "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LRgPxcQZ9T6wh6",
+    "name": "EnerGeek",
+    "sources": {
+      "streams": [
+        "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Fho666tDNHtuPI",
+    "name": "EnerGeek FAN",
+    "sources": {
+      "streams": [
+        "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -889,20 +891,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9O197zg8eEKLG6",
-    "name": "Spacetoon Arabic",
-    "sources": {
-      "streams": [
-        "https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pIMH6WPwb6VNHf",
     "name": "SX3",
     "sources": {
@@ -936,7 +924,7 @@
     "name": "Teenage Mutant Ninja Turtles: TMNT",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/c2FavXF01ZU"
+        "https://www.youtube-nocookie.com/embed/EUimd-12rp8"
       ]
     },
     "languages": [

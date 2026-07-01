@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3QRPAcVmVoh8UN",
-    "name": "4ever Drama",
-    "sources": {
-      "streams": [
-        "https://iptv.prosto.tv/ch49/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "unFAtIKdGdKV06",
     "name": "13T",
     "sources": {
@@ -106,7 +92,7 @@
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/453e03c1-3a9f-415c-9370-5c744b19a748/playlist.m3u8",
         "https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetse-samsungse/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8"
       ]
     },
     "languages": [
@@ -128,20 +114,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ymYVGnhQRFcrVV",
-    "name": "Atreseries",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/A3Series.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -242,6 +214,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UYW2WtzuwJvxrr",
+    "name": "City Eden KinoDok",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/38354/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -629,6 +615,7 @@
     "name": "Inside Crime UK",
     "sources": {
       "streams": [
+        "https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8",
         "https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8"
       ]

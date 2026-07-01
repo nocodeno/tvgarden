@@ -32,7 +32,6 @@
     "name": "360TuneBox",
     "sources": {
       "streams": [
-        "https://iptv.prosto.tv/ch141/index.m3u8",
         "https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8"
       ]
     },
@@ -171,25 +170,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uC0jraL1VNPnXr",
-    "name": "DocuBox",
-    "sources": {
-      "streams": [
-        "https://iptv.prosto.tv/ch93/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cihRbiX7gws0cD",
     "name": "FashionBox",
     "sources": {
       "streams": [
-        "https://iptv.prosto.tv/ch369/index.m3u8",
         "https://webtvstream.bhtelecom.ba/hls6/fashion_box.m3u8"
       ]
     },
@@ -218,22 +202,7 @@
     "name": "FightBox",
     "sources": {
       "streams": [
-        "https://iptv.prosto.tv/ch118/index.m3u8",
         "https://webtvstream.bhtelecom.ba/hls7/fightbox.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iPLSWaME1Eh8cp",
-    "name": "FilmBox Arthouse",
-    "sources": {
-      "streams": [
-        "https://iptv.prosto.tv/ch63/index.m3u8"
       ]
     },
     "languages": [
@@ -346,20 +315,6 @@
     "sources": {
       "streams": [
         "https://webtvstream.bhtelecom.ba/hls15/funbox.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KG7zrdGqErjlji",
-    "name": "Gametoon",
-    "sources": {
-      "streams": [
-        "https://iptv.prosto.tv/ch256/index.m3u8"
       ]
     },
     "languages": [
@@ -1346,6 +1301,20 @@
     "sources": {
       "streams": [
         "https://d3eq9mufmyqgh4.cloudfront.net/nlpo/clr-nlpo/slotstadtv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "O0kpowmkTJLDCA",
+    "name": "SRC TV",
+    "sources": {
+      "streams": [
+        "https://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8"
       ]
     },
     "languages": [
