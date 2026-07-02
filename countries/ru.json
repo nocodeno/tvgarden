@@ -275,6 +275,7 @@
     "name": "Channel 8",
     "sources": {
       "streams": [
+        "https://tshift-1.telecoma.tv/8channel/index.m3u8",
         "https://v4.proofix.ru/8tv-russia/index.m3u8"
       ]
     },
@@ -357,20 +358,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Gq4mY3pzS19BJ0",
-    "name": "City Eden AutoGid",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/47515/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BN8UK0JlgAMrEm",
     "name": "City Eden Birma Play",
     "sources": {
@@ -404,20 +391,6 @@
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/41333/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "n4R8lzuArvLNkC",
-    "name": "City Eden KinoArt",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/38398/index.m3u8"
       ]
     },
     "languages": [
@@ -544,34 +517,6 @@
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/47519/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9QIFKg7aQ0UqIc",
-    "name": "City Eden Play",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34100/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rt3pDKAk1yMoRc",
-    "name": "City Eden Recepty Gurmana",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/47516/index.m3u8"
       ]
     },
     "languages": [
@@ -2042,20 +1987,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "smZ8zWafuMXzbV",
-    "name": "Shopping Live",
-    "sources": {
-      "streams": [
-        "https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OU8aCzJR3XgtbJ",
     "name": "Simferopol 24",
     "sources": {
@@ -2543,7 +2474,6 @@
     "name": "TNV-Planet",
     "sources": {
       "streams": [
-        "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8",
         "https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8"
       ]
     },

@@ -86,26 +86,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "X0fe1ozGC5qVsh",
-    "name": "Canal 1",
-    "sources": {
-      "streams": [
-        "https://vid.canal1cr.com:3424/multi_live/play.m3u8",
-        "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9cN6rSKGfOi3ha",
     "name": "Canal 3 KMK TV",
     "sources": {
       "streams": [
-        "https://cloudvideo.servers10.com:8081/8120/index.m3u8"
+        "https://cloudvideo.servers10.com:8081/8120/index.m3u8",
+        "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
       ]
     },
     "languages": [
@@ -138,6 +124,20 @@
       ]
     },
     "languages": [],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Rbhi1IeYnyJ3gG",
+    "name": "Cedros TV",
+    "sources": {
+      "streams": [
+        "https://eu1.servers10.com:8081/cedrostv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
     "country": "cr",
     "isGeoBlocked": false
   },
@@ -283,20 +283,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g2oDIGkwBMwsy6",
-    "name": "Extrema TV",
-    "sources": {
-      "streams": [
-        "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0qduamfMKf5AXL",
     "name": "GAM TV",
     "sources": {
@@ -372,20 +358,6 @@
     "sources": {
       "streams": [
         "https://rtmp.info/iqtv/envivo/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hWONN4ANlWd0XQ",
-    "name": "La Potente Radio TV",
-    "sources": {
-      "streams": [
-        "https://latamvdo.com:3626/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -552,6 +524,20 @@
     "sources": {
       "streams": [
         "https://lstv.duckdns.org:449/hls/stv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2ogrHzPUOLVEgc",
+    "name": "SOY Plancha TV",
+    "sources": {
+      "streams": [
+        "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
       ]
     },
     "languages": [
@@ -743,6 +729,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tTy2o9iN37Hvi8",
+    "name": "Vintage Music",
+    "sources": {
+      "streams": [
+        "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KTfqjR2nJysy7l",
+    "name": "VM Latino",
+    "sources": {
+      "streams": [
+        "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lyisHWGyNS2hyW",
     "name": "VoiceOver Radio TV",
     "sources": {
@@ -753,6 +767,18 @@
     "languages": [
       "spa"
     ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8qWUmlZKBNU8HB",
+    "name": "Xpresso Joven Radio",
+    "sources": {
+      "streams": [
+        "https://vivo.solumedia.com:19360/xpressojoven/xpressojoven.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "cr",
     "isGeoBlocked": false
   },
