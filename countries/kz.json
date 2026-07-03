@@ -122,7 +122,6 @@
     "name": "Silk Way",
     "sources": {
       "streams": [
-        "https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8",
         "https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8"
       ]
     },
@@ -135,17 +134,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "if2kwrLRFc4oRC",
-    "name": "Телеканал 24kz",
+    "nanoid": "MYbhEZtWxMLBpp",
+    "name": "Silk Way Cinema",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/xDCQadHjzoY"
+      "streams": [
+        "https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8"
       ]
     },
-    "languages": [
-      "rus"
-    ],
+    "languages": [],
     "country": "kz",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   }
 ]

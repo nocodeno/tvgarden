@@ -75,8 +75,22 @@
     "name": "BestClasicosTV",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
-        "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
+        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "X0fe1ozGC5qVsh",
+    "name": "Canal 1",
+    "sources": {
+      "streams": [
+        "https://vid.canal1cr.com:3424/multi_live/play.m3u8",
+        "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
       ]
     },
     "languages": [
@@ -105,8 +119,7 @@
     "name": "Canal 10",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
-        "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
+        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -158,20 +171,6 @@
   {
     "nanoid": "A4LHpAMdBTGdMa",
     "name": "Conexion Positiva Television",
-    "sources": {
-      "streams": [
-        "https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iiLr4bWIeoPOWM",
-    "name": "Conexión Positiva Televisión",
     "sources": {
       "streams": [
         "https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8"
@@ -283,6 +282,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "g2oDIGkwBMwsy6",
+    "name": "Extrema TV",
+    "sources": {
+      "streams": [
+        "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0qduamfMKf5AXL",
     "name": "GAM TV",
     "sources": {
@@ -358,6 +371,20 @@
     "sources": {
       "streams": [
         "https://rtmp.info/iqtv/envivo/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hWONN4ANlWd0XQ",
+    "name": "La Potente Radio TV",
+    "sources": {
+      "streams": [
+        "https://latamvdo.com:3626/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -767,18 +794,6 @@
     "languages": [
       "spa"
     ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8qWUmlZKBNU8HB",
-    "name": "Xpresso Joven Radio",
-    "sources": {
-      "streams": [
-        "https://vivo.solumedia.com:19360/xpressojoven/xpressojoven.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "cr",
     "isGeoBlocked": false
   },

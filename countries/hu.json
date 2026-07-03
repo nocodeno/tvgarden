@@ -84,11 +84,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "X4xe5RrfPw7ILD",
-    "name": "Cartoonito Magyarország",
+    "nanoid": "KtUOjtUN5J2cOR",
+    "name": "Csurgo TV",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/lwiWqNgWgbE"
+      "streams": [
+        "https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -211,6 +211,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eeDvgxwcpXFEcL",
+    "name": "Kapos TV",
+    "sources": {
+      "streams": [
+        "https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "18AN91eApyBqTs",
     "name": "Karcag TV",
     "sources": {
@@ -289,6 +303,34 @@
       ]
     },
     "languages": [],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yLfdBafHhlhrgj",
+    "name": "SIXO TV",
+    "sources": {
+      "streams": [
+        "https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TXVHSWHgllbutZ",
+    "name": "Szolnok TV",
+    "sources": {
+      "streams": [
+        "https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
     "country": "hu",
     "isGeoBlocked": false
   },

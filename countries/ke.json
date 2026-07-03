@@ -14,11 +14,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4q1ZZQLc1olL3d",
+    "name": "Capuchin TV",
+    "sources": {
+      "streams": [
+        "https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Y5Fz3kBbZ6F9dL",
     "name": "Citizen TV Kenya",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/1YzlFiqmHDY"
+        "https://www.youtube-nocookie.com/embed/7UjuD7Wkc5Y"
       ]
     },
     "languages": [
@@ -61,7 +75,22 @@
     "name": "K24",
     "sources": {
       "streams": [
-        "https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8"
+        "https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8",
+        "https://livecdn.premiumfree.tv/afxpstr/K24Backup/tracks-v1a1/mono.ts.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g5kwz1y6chFW7A",
+    "name": "K24TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/5svl8eQHC2Y"
       ]
     },
     "languages": [
@@ -75,7 +104,7 @@
     "name": "KTN News Kenya",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/bnFEMNM1LuQ"
+        "https://www.youtube-nocookie.com/embed/wfAGBVgUrro"
       ]
     },
     "languages": [
@@ -122,20 +151,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "ke",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QNrQ5ZEGUQREnZ",
-    "name": "Ramogi TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/DwPZ08oEl4k"
-      ]
-    },
-    "languages": [
-      "luo"
     ],
     "country": "ke",
     "isGeoBlocked": false
