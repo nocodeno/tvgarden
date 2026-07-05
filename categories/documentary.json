@@ -121,6 +121,21 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "vifXiIDfcyAksy",
+    "name": "BTB Info",
+    "sources": {
+      "streams": [
+        "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8qbHNd2Zc2MjWY",
     "name": "CCTV-9",
     "sources": {
@@ -163,6 +178,20 @@
       "zho"
     ],
     "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UYW2WtzuwJvxrr",
+    "name": "City Eden KinoDok",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/38354/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -213,9 +242,9 @@
     "name": "Court TV",
     "sources": {
       "streams": [
-        "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
         "https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8",
-        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8"
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
+        "https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8"
       ]
     },
     "languages": [
@@ -438,6 +467,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "D0kxX68lMX7LDk",
+    "name": "History East",
+    "sources": {
+      "streams": [
+        "https://206.212.244.63/91/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HZEhjsWnhssch2",
     "name": "History Hit",
     "sources": {
@@ -482,6 +525,20 @@
     ],
     "country": "in",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "ydI9RzI56VdmqS",
+    "name": "Karbala Documentary",
+    "sources": {
+      "streams": [
+        "https://ktvlive.online/stream/hls/ch3.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "KkqMuLxaMTBFSE",
@@ -599,6 +656,20 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "AQcwe6Z9P7sz9G",
+    "name": "MRTV Farmer",
+    "sources": {
+      "streams": [
+        "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8"
+      ]
+    },
+    "languages": [
+      "mya"
+    ],
+    "country": "mm",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "yWqRPjIHcgYftM",
@@ -789,7 +860,8 @@
     "name": "Reelz",
     "sources": {
       "streams": [
-        "https://206.212.244.63/144/index.m3u8"
+        "https://206.212.244.63/144/index.m3u8",
+        "https://40.160.24.55/REELZ/index.m3u8"
       ]
     },
     "languages": [
@@ -818,8 +890,7 @@
     "name": "Safari TV",
     "sources": {
       "streams": [
-        "https://cdn-6.pishow.tv/live/1513/master.m3u8",
-        "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
+        "https://cdn-6.pishow.tv/live/1513/master.m3u8"
       ]
     },
     "languages": [

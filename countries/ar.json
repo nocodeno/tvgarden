@@ -145,7 +145,6 @@
     "name": "Bragado TV",
     "sources": {
       "streams": [
-        "https://srv1053170.hstgr.cloud/hls/bragadotv.m3u8",
         "https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8"
       ]
     },
@@ -160,8 +159,8 @@
     "name": "Bravo TV",
     "sources": {
       "streams": [
-        "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8",
-        "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef"
+        "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef",
+        "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -255,6 +254,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VpgtgckDtqTAhJ",
+    "name": "Canal 2 NexTV Rafaela",
+    "sources": {
+      "streams": [
+        "https://edge.enhdtv.com/nexthd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UUoSz4ieYffPkM",
     "name": "Canal 3 Formosa",
     "sources": {
@@ -283,11 +296,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HiSqdLo7Vz02nV",
+    "name": "Canal 3 Las Heras",
+    "sources": {
+      "streams": [
+        "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "orfuIaNTEmG6BY",
     "name": "Canal 3 Pinamar",
     "sources": {
       "streams": [
         "https://intelincloud01.com.ar/hls/cn3/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "j1Mx0NYk5KtzPX",
+    "name": "Canal 4 San Juan",
+    "sources": {
+      "streams": [
+        "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8"
       ]
     },
     "languages": [
@@ -466,6 +507,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pGg9E7GpQgpIle",
+    "name": "Canal 11 de la Costa",
+    "sources": {
+      "streams": [
+        "https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QxvjL1iq4CQvYc",
     "name": "Canal 13 Jujuy",
     "sources": {
@@ -485,6 +540,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/uototPhieJM"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aoSHf7umzvQAal",
+    "name": "Canal 13 San Luis",
+    "sources": {
+      "streams": [
+        "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8"
       ]
     },
     "languages": [
@@ -864,20 +933,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c2k5mg9wITshic",
-    "name": "Corrientes TV",
-    "sources": {
-      "streams": [
-        "https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mrbOEcmtP5KVxY",
     "name": "Cosmos Tv",
     "sources": {
@@ -976,20 +1031,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uvdbgKYfuDPGUL",
-    "name": "El Observador 107.9",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/lACAJKsDNmk"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zJRHZOB2I3XI0b",
     "name": "El Once Radio",
     "sources": {
@@ -1008,7 +1049,7 @@
     "name": "El Once TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/rX44mUPfmII"
+        "https://www.youtube-nocookie.com/embed/ICv59WkYrIA"
       ]
     },
     "languages": [
@@ -1199,12 +1240,40 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xVaEKcGj3VuSQR",
+    "name": "Neox TV",
+    "sources": {
+      "streams": [
+        "https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nCjEym27rIb7Sc",
     "name": "NET TV",
     "sources": {
       "streams": [
         "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
         "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yzztzhg09dFhfS",
+    "name": "NG Federal",
+    "sources": {
+      "streams": [
+        "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1467,20 +1536,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lwUs8vce39cW6q",
-    "name": "Tele Posadas",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "15KFLuGTzrHWsE",
     "name": "Telecinco",
     "sources": {
@@ -1569,7 +1624,7 @@
     "name": "Televisión Pública",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/R94hClOzdhg"
+        "https://www.youtube-nocookie.com/embed/hUz11gpfYHw"
       ]
     },
     "languages": [
@@ -1612,20 +1667,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/cb12KmMMDJA"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "H7hqVpOhxTx8VO",
-    "name": "TV Mana Argentina",
-    "sources": {
-      "streams": [
-        "https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1738,7 +1779,7 @@
     "name": "Urbana Play 104.3 FM",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/8Q8U0dbUR7c"
+        "https://www.youtube-nocookie.com/embed/QB7Ge4A0bCo"
       ]
     },
     "languages": [

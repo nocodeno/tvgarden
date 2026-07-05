@@ -45,20 +45,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sPGmyALtlBkjD3",
-    "name": "Ameritrade",
-    "sources": {
-      "streams": [
-        "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
     "sources": {
@@ -218,6 +204,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8jSnAgazSmGpyh",
+    "name": "BMG TV",
+    "sources": {
+      "streams": [
+        "https://tv.nucast.tv/lb/ge/bmg/index.m3u8"
+      ]
+    },
+    "languages": [
+      "kat"
+    ],
+    "country": "ge",
     "isGeoBlocked": false
   },
   {
@@ -499,7 +499,8 @@
     "name": "Fox Business Network",
     "sources": {
       "streams": [
-        "https://206.212.244.63/66/index.m3u8"
+        "https://206.212.244.63/66/index.m3u8",
+        "https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8"
       ]
     },
     "languages": [
@@ -548,20 +549,6 @@
       "nld"
     ],
     "country": "be",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hNA8RP7NoiPpEi",
-    "name": "Le Nouveau Manager TV",
-    "sources": {
-      "streams": [
-        "https://lnmlive.com/live/lnmtv.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "bj",
     "isGeoBlocked": false
   },
   {
@@ -687,20 +674,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "99nnCKryI6XnTb",
-    "name": "Zuraca TV",
-    "sources": {
-      "streams": [
-        "https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "hkhk8nvVQebQV1",

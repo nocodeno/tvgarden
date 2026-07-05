@@ -18,7 +18,6 @@
     "name": "88 Stereo",
     "sources": {
       "streams": [
-        "https://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
         "https://s1.tvdatta.com:3972/live/88stereolive.m3u8"
       ]
     },
@@ -104,8 +103,7 @@
     "name": "Canal 3 KMK TV",
     "sources": {
       "streams": [
-        "https://cloudvideo.servers10.com:8081/8120/index.m3u8",
-        "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
+        "https://cloudvideo.servers10.com:8081/8120/index.m3u8"
       ]
     },
     "languages": [
@@ -171,6 +169,20 @@
   {
     "nanoid": "A4LHpAMdBTGdMa",
     "name": "Conexion Positiva Television",
+    "sources": {
+      "streams": [
+        "https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iiLr4bWIeoPOWM",
+    "name": "Conexión Positiva Televisión",
     "sources": {
       "streams": [
         "https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8"
@@ -371,20 +383,6 @@
     "sources": {
       "streams": [
         "https://rtmp.info/iqtv/envivo/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hWONN4ANlWd0XQ",
-    "name": "La Potente Radio TV",
-    "sources": {
-      "streams": [
-        "https://latamvdo.com:3626/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -794,6 +792,18 @@
     "languages": [
       "spa"
     ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8qWUmlZKBNU8HB",
+    "name": "Xpresso Joven Radio",
+    "sources": {
+      "streams": [
+        "https://vivo.solumedia.com:19360/xpressojoven/xpressojoven.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "cr",
     "isGeoBlocked": false
   },

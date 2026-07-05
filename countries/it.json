@@ -563,20 +563,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bT0DyxeO3Y36es",
-    "name": "Giornale Radio TV",
-    "sources": {
-      "streams": [
-        "https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Fsy8GZ76VPTJUS",
     "name": "Giovanni Paolo TV",
     "sources": {
@@ -930,6 +916,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rHFsmVO1xzZ8xd",
+    "name": "Mediaset Italia",
+    "sources": {
+      "streams": [
+        "https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "ffGmMhn32f5osC",
     "name": "Medjugorje Italia TV",
     "sources": {
@@ -1079,48 +1079,6 @@
     },
     "languages": [
       "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XVHhDeQHjuS3Dt",
-    "name": "Peer TV Alto Adige",
-    "sources": {
-      "streams": [
-        "https://iptv.peer.biz/live/peertv-it.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N6SFUaTsOKbZm2",
-    "name": "Peer TV South Tyrol",
-    "sources": {
-      "streams": [
-        "https://iptv.peer.biz/live/peertv-en.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6qAfF0Ciz7BFIk",
-    "name": "Peer TV Sudtirol",
-    "sources": {
-      "streams": [
-        "https://iptv.peer.biz/live/peertv.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
     ],
     "country": "it",
     "isGeoBlocked": false
@@ -1452,6 +1410,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "pLY3FvdnGbSkPJ",
+    "name": "Rai 2",
+    "sources": {
+      "streams": [
+        "https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "gb89vMj4sSblmg",
     "name": "Rai 3",
     "sources": {
@@ -1464,6 +1436,88 @@
     ],
     "country": "it",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "ozBRFwRaYqr51w",
+    "name": "Rai Italia Americas",
+    "sources": {
+      "streams": [
+        "https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1sYELMxG7kdJps",
+    "name": "Rai Italia Europe/Africa",
+    "sources": {
+      "streams": [
+        "https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ilmq7YqEXqJqfJ",
+    "name": "Rai Scuola",
+    "sources": {
+      "streams": [
+        "https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "LWZDtgK1acZAb3",
+    "name": "Rai Storia",
+    "sources": {
+      "streams": [
+        "https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "NnyzHhJkjsfZ3n",
+    "name": "Rakuten TV Crime Series Italy",
+    "sources": {
+      "streams": [
+        "https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pVq6NYAblJFq99",
+    "name": "Rakuten TV Drama Movies Italy",
+    "sources": {
+      "streams": [
+        "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "mwaE9Of5KjZvBf",
@@ -1768,8 +1822,8 @@
     "sources": {
       "streams": [
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
-        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8",
-        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8"
+        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
+        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
     "languages": [
