@@ -14,6 +14,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7ww4XqjlIRbeax",
+    "name": "Asahi: Documentary",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/mbptU9ntHn8"
+      ]
+    },
+    "languages": [
+      "jpn"
+    ],
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5ZGnLxWOqASmvp",
     "name": "Asharq Discovery",
     "sources": {
@@ -178,20 +192,6 @@
       "zho"
     ],
     "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UYW2WtzuwJvxrr",
-    "name": "City Eden KinoDok",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/38354/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -455,18 +455,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Dsvkj5Ex7UWMgQ",
-    "name": "Heroes & Icons",
-    "sources": {
-      "streams": [
-        "https://206.212.244.63/88/index.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "D0kxX68lMX7LDk",
     "name": "History East",
     "sources": {
@@ -704,21 +692,8 @@
     "name": "National Geographic East",
     "sources": {
       "streams": [
-        "https://40.160.24.53/NAT_GEO/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "P3rtGhMl7lNWwt",
-    "name": "National Geographic West",
-    "sources": {
-      "streams": [
-        "https://206.212.244.63/122/index.m3u8"
+        "https://40.160.24.53/NAT_GEO/index.m3u8",
+        "https://cdn.haititivi.net/NATIONAL-GEOGRAPHIC/index.m3u8"
       ]
     },
     "languages": [
@@ -746,7 +721,7 @@
     "name": "National Geographic Wild East",
     "sources": {
       "streams": [
-        "https://206.212.244.63/123/index.m3u8"
+        "https://40.160.24.53/NAT_GEO_WILD/index.m3u8"
       ]
     },
     "languages": [
@@ -828,20 +803,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5dGASmS4TNjspn",
-    "name": "O'zbekiston Tarixi",
-    "sources": {
-      "streams": [
-        "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "uzb"
-    ],
-    "country": "uz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6nVDnHEbOf1hio",
     "name": "Persiana Docs",
     "sources": {
@@ -860,7 +821,6 @@
     "name": "Reelz",
     "sources": {
       "streams": [
-        "https://206.212.244.63/144/index.m3u8",
         "https://40.160.24.55/REELZ/index.m3u8"
       ]
     },
@@ -890,7 +850,8 @@
     "name": "Safari TV",
     "sources": {
       "streams": [
-        "https://cdn-6.pishow.tv/live/1513/master.m3u8"
+        "https://cdn-6.pishow.tv/live/1513/master.m3u8",
+        "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
       ]
     },
     "languages": [

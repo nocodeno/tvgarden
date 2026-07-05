@@ -193,20 +193,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TGIxs2mxFIlLmz",
-    "name": "Bloomberg TV US",
-    "sources": {
-      "streams": [
-        "https://206.212.244.63/22/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8jSnAgazSmGpyh",
     "name": "BMG TV",
     "sources": {
@@ -326,9 +312,6 @@
     "nanoid": "7XcP1junyS1aZN",
     "name": "CNBC",
     "sources": {
-      "streams": [
-        "https://206.212.244.63/41/index.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/9NyxcX3rhQs"
       ]
@@ -425,20 +408,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "HZSopribXygq7f",
-    "name": "CNBC World",
-    "sources": {
-      "streams": [
-        "https://206.212.244.63/42/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OSKKDWCAHjH9Fa",
     "name": "CNBC-e",
     "sources": {
@@ -499,7 +468,6 @@
     "name": "Fox Business Network",
     "sources": {
       "streams": [
-        "https://206.212.244.63/66/index.m3u8",
         "https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8"
       ]
     },
@@ -549,6 +517,20 @@
       "nld"
     ],
     "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hNA8RP7NoiPpEi",
+    "name": "Le Nouveau Manager TV",
+    "sources": {
+      "streams": [
+        "https://lnmlive.com/live/lnmtv.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "bj",
     "isGeoBlocked": false
   },
   {
@@ -674,6 +656,20 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "99nnCKryI6XnTb",
+    "name": "Zuraca TV",
+    "sources": {
+      "streams": [
+        "https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "hkhk8nvVQebQV1",

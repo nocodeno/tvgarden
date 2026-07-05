@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "unFAtIKdGdKV06",
-    "name": "13T",
-    "sources": {
-      "streams": [
-        "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9yTrQThbXl1idJ",
     "name": "48 Hours US",
     "sources": {
@@ -131,6 +117,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "aPpjoxS7Oyu4bM",
+    "name": "AWTV",
+    "sources": {
+      "streams": [
+        "https://awtv.nuvemplay.live/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "o0UvEWQ7gtWbCm",
     "name": "Baywatch US",
     "sources": {
@@ -200,20 +200,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UYW2WtzuwJvxrr",
-    "name": "City Eden KinoDok",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/38354/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -572,7 +558,7 @@
       "streams": [
         "https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8",
         "https://amg00654-itvstudios-hellskitchen-samsungse-9n806.amagi.tv/playlist/amg00654-itvstudios-hellskitchen-samsungse/playlist.m3u8",
-        "https://amg00654-itvstudios-hellskitchennl-samsungnl-kvxhp.amagi.tv/playlist/amg00654-itvstudios-hellskitchennl-samsungnl/playlist.m3u8"
+        "https://amg00654-itvstudios-hellskitchen-samsunguk-c8rgt.amagi.tv/playlist/amg00654-itvstudios-hellskitchen-samsunguk/playlist.m3u8"
       ]
     },
     "languages": [
@@ -600,6 +586,7 @@
     "name": "Inside Crime UK",
     "sources": {
       "streams": [
+        "https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8",
         "https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8"
       ]
@@ -805,7 +792,8 @@
     "name": "Paramount Network East",
     "sources": {
       "streams": [
-        "https://206.212.244.63/137/index.m3u8"
+        "https://206.212.244.63/137/index.m3u8",
+        "https://cdn.haititivi.net/PARAMOUNT-CHANNEL/index.m3u8"
       ]
     },
     "languages": [
@@ -1050,8 +1038,8 @@
     "name": "SYFY East",
     "sources": {
       "streams": [
-        "https://206.212.244.63/152/index.m3u8",
-        "https://40.160.24.55/SYFY/index.m3u8"
+        "https://40.160.24.55/SYFY/index.m3u8",
+        "https://206.212.244.63/152/index.m3u8"
       ]
     },
     "languages": [
@@ -1224,8 +1212,8 @@
     "name": "USA Network East",
     "sources": {
       "streams": [
-        "https://206.212.244.63/168/index.m3u8",
-        "https://40.160.24.55/USA_NETWORK/index.m3u8"
+        "https://40.160.24.55/USA_NETWORK/index.m3u8",
+        "https://206.212.244.63/168/index.m3u8"
       ]
     },
     "languages": [
@@ -1239,8 +1227,8 @@
     "name": "We TV East",
     "sources": {
       "streams": [
-        "https://206.212.244.63/172/index.m3u8",
         "https://40.160.24.55/WE_TV/index.m3u8",
+        "https://206.212.244.63/172/index.m3u8",
         "https://streamer1.nexgen.bz/WE_TV/index.m3u8"
       ]
     },

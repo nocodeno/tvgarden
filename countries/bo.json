@@ -14,11 +14,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KEJsht72ocVVnY",
-    "name": "Aiquilena Radio y Television",
+    "nanoid": "C7CqrdYHekA32V",
+    "name": "Alegria TV",
     "sources": {
       "streams": [
-        "https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8"
+        "https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -28,11 +28,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C7CqrdYHekA32V",
-    "name": "Alegria TV",
+    "nanoid": "DRw9wn4aT071aO",
+    "name": "As Contenidos",
     "sources": {
       "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8"
+        "https://master.tucableip.com/ascontenido/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FuTnPCDlGaBjIO",
+    "name": "Audiokiss",
+    "sources": {
+      "streams": [
+        "https://master.tucableip.com/audiokisstv/index.m3u8"
       ]
     },
     "languages": [
@@ -98,11 +112,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "i2edNkHj2H2KTm",
-    "name": "Canal 25 Bermejo",
+    "nanoid": "CnDq6xDOGFtSot",
+    "name": "Canal 15 Teleor",
     "sources": {
       "streams": [
-        "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8"
+        "https://ares.disfrutaenlared.com:1936/activatv/activatv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -239,40 +253,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "p4RUs4APE7OSx0",
-    "name": "Interactivo Television",
-    "sources": {
-      "streams": [
-        "https://mist01.homestream.fun/hls/interactivotv/index.m3u8",
-        "https://mist01.homestream.fun/hls/interactivotv2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oZfCviYfiespp7",
     "name": "La Exitosa TV Riberalta",
     "sources": {
       "streams": [
         "https://ares.disfrutaenlared.com:1936/exitosa/exitosa/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YlwVfWw6lKlpgd",
-    "name": "ONCE TV",
-    "sources": {
-      "streams": [
-        "https://master.tucableip.com/ascontenido/index.m3u8"
       ]
     },
     "languages": [
@@ -324,8 +309,36 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DhTQWgZILszZGP",
-    "name": "Radio Television Ichilo",
+    "nanoid": "pYqhwxhr9gjeaq",
+    "name": "Radio Centro",
+    "sources": {
+      "streams": [
+        "https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BnzbysvLZ1mHZ2",
+    "name": "Radio Clasica TV",
+    "sources": {
+      "streams": [
+        "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uMIh7eDq4J69dP",
+    "name": "Radio Kollasuyo",
     "sources": {
       "streams": [
         "https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8"
@@ -386,8 +399,8 @@
     "sources": {
       "streams": [
         "https://rtp.noxun.net/hls/stream.m3u8",
-        "https://rtp.noxun.net/hls720/stream3.m3u8",
-        "https://rtp.noxun.net/hls480/stream2.m3u8"
+        "https://rtp.noxun.net/hls480/stream2.m3u8",
+        "https://rtp.noxun.net/hls720/stream3.m3u8"
       ]
     },
     "languages": [
@@ -443,7 +456,6 @@
     "name": "TV Latina",
     "sources": {
       "streams": [
-        "https://master.tucableip.com/audiokisstv/index.m3u8",
         "https://master.tucableip.com/tvlatina/index.m3u8",
         "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8"
       ]
@@ -542,6 +554,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9u6WNgsEYDn11w",
+    "name": "Univalle Television",
+    "sources": {
+      "streams": [
+        "https://master.tucableip.com/univalletv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "T3D6a3NyVvl2H9",
     "name": "UniversidadMayordeSanAndres",
     "sources": {
@@ -587,6 +613,20 @@
     "sources": {
       "streams": [
         "https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "99nnCKryI6XnTb",
+    "name": "Zuraca TV",
+    "sources": {
+      "streams": [
+        "https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8"
       ]
     },
     "languages": [

@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "t2xHdunHhK2Qqc",
-    "name": "Aguacate TV",
-    "sources": {
-      "streams": [
-        "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ciUS0lRhmTtePT",
     "name": "Anzoategui TV",
     "sources": {
@@ -112,11 +98,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fUuKAKoxR67afP",
-    "name": "Canal Once",
+    "nanoid": "1GpRDoekUac7eR",
+    "name": "Canal I",
     "sources": {
       "streams": [
-        "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8"
+        "https://streaming.canal-i.com/canal-i/live/master.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6SYW2B8xTfiTLL",
+    "name": "Catatumbo TV",
+    "sources": {
+      "streams": [
+        "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
       ]
     },
     "languages": [
@@ -172,7 +172,6 @@
     "name": "Grande TV",
     "sources": {
       "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8",
         "https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8"
       ]
     },
@@ -300,20 +299,6 @@
     "sources": {
       "streams": [
         "https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tbGxevqWx6uLGr",
-    "name": "Maxima TV",
-    "sources": {
-      "streams": [
-        "https://maximatv.net/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -466,11 +451,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sB2nccFi22vLUq",
-    "name": "TNO Radio",
+    "nanoid": "1M4Le4GYVDf5Ni",
+    "name": "Televisora de Oriente",
     "sources": {
       "streams": [
-        "https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8"
+        "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8"
       ]
     },
     "languages": [
@@ -508,6 +493,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IMxxuZcthSxVVc",
+    "name": "Tu TV",
+    "sources": {
+      "streams": [
+        "https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GmMshdsdBRXuib",
     "name": "TV Familia",
     "sources": {
@@ -536,25 +535,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "plr8p8zjDPs7Ks",
-    "name": "TVS",
+    "nanoid": "XdOMLij5yy08uC",
+    "name": "TVM para ti",
     "sources": {
       "streams": [
-        "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aPoebbGsPHojms",
-    "name": "UniTV",
-    "sources": {
-      "streams": [
-        "https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8"
+        "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8"
       ]
     },
     "languages": [
