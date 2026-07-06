@@ -42,11 +42,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6HjiInfkoOCTQt",
-    "name": "LBFD RTV",
+    "nanoid": "D6KiASo2YhEXxv",
+    "name": "EVI TV",
     "sources": {
       "streams": [
-        "https://tnt-television.com/LBFD_RTV/index.m3u8"
+        "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"
       ]
     },
     "languages": [
@@ -56,17 +56,29 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "URTHCiUj4sa5bi",
-    "name": "Le Monde en 24h",
+    "nanoid": "ja8UrHCZtIyHwA",
+    "name": "Geopolis TV",
     "sources": {
       "streams": [
-        "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8"
+        "https://tnt-television.com/Geopolis_tv/index.m3u8"
       ]
     },
     "languages": [
-      "eng",
-      "fra",
-      "spa"
+      "fra"
+    ],
+    "country": "cd",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6HjiInfkoOCTQt",
+    "name": "LBFD RTV",
+    "sources": {
+      "streams": [
+        "https://tnt-television.com/LBFD_RTV/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
     ],
     "country": "cd",
     "isGeoBlocked": false

@@ -48,7 +48,7 @@
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/b42ac280-5300-4db0-8a63-2ec2e52c5b5c/playlist.m3u8",
         "https://amg02333-pbs-amg02333c9-firetv-us-4249.playouts.now.amagi.tv/playlist.m3u8",
-        "https://d3v8uchko88gmi.cloudfront.net/PBSART_GB.m3u8"
+        "https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8"
       ]
     },
     "languages": [
@@ -119,8 +119,8 @@
     "name": "Biz TV",
     "sources": {
       "streams": [
-        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
-        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
+        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
+        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -141,6 +141,48 @@
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qAN5sBGpkuc0D2",
+    "name": "CEACOM TV",
+    "sources": {
+      "streams": [
+        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rPl77qAXLXht7K",
+    "name": "City Eden MedZdrav",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/47519/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Xc6IpLccTTfU6S",
+    "name": "Cleo TV",
+    "sources": {
+      "streams": [
+        "https://206.212.244.63/38/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -169,6 +211,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kYQnPKKVLeV7yp",
+    "name": "Dog TV",
+    "sources": {
+      "streams": [
+        "https://206.212.244.63/56/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -290,6 +346,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/NQrmlwqsxP4"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sbhZ10bGdSZMPq",
+    "name": "FYI East",
+    "sources": {
+      "streams": [
+        "https://206.212.244.63/78/index.m3u8"
       ]
     },
     "languages": [
@@ -441,6 +511,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0d7AKk0q5cqwkG",
+    "name": "KPVM-LD 25.7",
+    "sources": {
+      "streams": [
+        "https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zVgfO28kmeuXlu",
     "name": "Localish",
     "sources": {
@@ -509,20 +593,6 @@
       "eng"
     ],
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AQcwe6Z9P7sz9G",
-    "name": "MRTV Farmer",
-    "sources": {
-      "streams": [
-        "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8"
-      ]
-    },
-    "languages": [
-      "mya"
-    ],
-    "country": "mm",
     "isGeoBlocked": false
   },
   {

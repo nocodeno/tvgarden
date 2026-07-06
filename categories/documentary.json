@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7ww4XqjlIRbeax",
-    "name": "Asahi: Documentary",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/mbptU9ntHn8"
-      ]
-    },
-    "languages": [
-      "jpn"
-    ],
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5ZGnLxWOqASmvp",
     "name": "Asharq Discovery",
     "sources": {
@@ -192,6 +178,20 @@
       "zho"
     ],
     "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UYW2WtzuwJvxrr",
+    "name": "City Eden KinoDok",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/38354/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -455,16 +455,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D0kxX68lMX7LDk",
-    "name": "History East",
+    "nanoid": "Dsvkj5Ex7UWMgQ",
+    "name": "Heroes & Icons",
     "sources": {
       "streams": [
-        "https://206.212.244.63/91/index.m3u8"
+        "https://206.212.244.63/88/index.m3u8"
       ]
     },
-    "languages": [
-      "eng"
-    ],
+    "languages": [],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -526,6 +524,20 @@
       "ara"
     ],
     "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ovqg1va2O0hkqi",
+    "name": "KPVM-LD 25.6",
+    "sources": {
+      "streams": [
+        "https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -646,20 +658,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "AQcwe6Z9P7sz9G",
-    "name": "MRTV Farmer",
-    "sources": {
-      "streams": [
-        "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8"
-      ]
-    },
-    "languages": [
-      "mya"
-    ],
-    "country": "mm",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yWqRPjIHcgYftM",
     "name": "Nano",
     "sources": {
@@ -692,8 +690,8 @@
     "name": "National Geographic East",
     "sources": {
       "streams": [
-        "https://40.160.24.53/NAT_GEO/index.m3u8",
-        "https://cdn.haititivi.net/NATIONAL-GEOGRAPHIC/index.m3u8"
+        "https://cdn.haititivi.net/NATIONAL-GEOGRAPHIC/index.m3u8",
+        "https://40.160.24.53/NAT_GEO/index.m3u8"
       ]
     },
     "languages": [
@@ -703,17 +701,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v63UFM91nMh49U",
-    "name": "National Geographic Wild",
+    "nanoid": "P3rtGhMl7lNWwt",
+    "name": "National Geographic West",
     "sources": {
       "streams": [
-        "https://41.205.77.102/NATGEO-WILD/index.m3u8"
+        "https://206.212.244.63/122/index.m3u8"
       ]
     },
     "languages": [
-      "fra"
+      "eng"
     ],
-    "country": "fr",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -721,7 +719,8 @@
     "name": "National Geographic Wild East",
     "sources": {
       "streams": [
-        "https://40.160.24.53/NAT_GEO_WILD/index.m3u8"
+        "https://40.160.24.53/NAT_GEO_WILD/index.m3u8",
+        "https://206.212.244.63/123/index.m3u8"
       ]
     },
     "languages": [
@@ -803,6 +802,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5dGASmS4TNjspn",
+    "name": "O'zbekiston Tarixi",
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "uzb"
+    ],
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6nVDnHEbOf1hio",
     "name": "Persiana Docs",
     "sources": {
@@ -821,6 +834,7 @@
     "name": "Reelz",
     "sources": {
       "streams": [
+        "https://206.212.244.63/144/index.m3u8",
         "https://40.160.24.55/REELZ/index.m3u8"
       ]
     },
