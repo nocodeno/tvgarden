@@ -4,7 +4,6 @@
     "name": "¡OPA!",
     "sources": {
       "streams": [
-        "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8",
         "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8"
       ]
     },
@@ -75,8 +74,7 @@
     "name": "BestClasicosTV",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
-        "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
+        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -119,8 +117,7 @@
     "name": "Canal 10",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
-        "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
+        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -269,6 +266,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DfocyeyWMBI6M1",
+    "name": "Enlace Juvenil",
+    "sources": {
+      "streams": [
+        "https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ejJZfMgOR7K5m8",
     "name": "Extrema Kids TV",
     "sources": {
@@ -396,6 +407,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hWONN4ANlWd0XQ",
+    "name": "La Potente Radio TV",
+    "sources": {
+      "streams": [
+        "https://latamvdo.com:3626/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YEWQw0DloTzS1o",
     "name": "Limon TV",
     "sources": {
@@ -442,7 +467,7 @@
     "name": "Multimedios Costa Rica",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/8m7cYf0Labg"
+        "https://www.youtube-nocookie.com/embed/chb6ehef5Yk"
       ]
     },
     "languages": [
@@ -811,18 +836,6 @@
     "languages": [
       "spa"
     ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8qWUmlZKBNU8HB",
-    "name": "Xpresso Joven Radio",
-    "sources": {
-      "streams": [
-        "https://vivo.solumedia.com:19360/xpressojoven/xpressojoven.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "cr",
     "isGeoBlocked": false
   },

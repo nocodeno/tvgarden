@@ -113,20 +113,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NHCXMxoKr3soBB",
-    "name": "BTB 2",
-    "sources": {
-      "streams": [
-        "https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DHR1El8JiIdfUH",
     "name": "BTB 3",
     "sources": {
@@ -381,6 +367,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cVaJUABGdrFesO",
+    "name": "Radiowa Czworka",
+    "sources": {
+      "streams": [
+        "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uro7Gvibaed6g8",
     "name": "Rakuten Viki Poland",
     "sources": {
@@ -484,6 +484,20 @@
     "sources": {
       "streams": [
         "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hjCXHjX41BNCM8",
+    "name": "Telewizja Gorzów",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/2HZMzDAYztQ"
       ]
     },
     "languages": [
@@ -693,7 +707,21 @@
     "name": "TV Relax",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/fAc2b4cZ4Xk"
+        "https://www.youtube-nocookie.com/embed/x9SrAm_InmM"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aY6u7qwNMI1Wgm",
+    "name": "TVK Stella",
+    "sources": {
+      "streams": [
+        "https://stream.tvkstella.pl/stella/stella.m3u8"
       ]
     },
     "languages": [

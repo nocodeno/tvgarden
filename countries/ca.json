@@ -232,34 +232,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "peNEYUQb4M45PO",
-    "name": "CBCT-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "KcvTsuM7wRGshA",
-    "name": "CBET-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "mIGdPVCQ0ktnig",
     "name": "CBFT-DT",
     "sources": {
@@ -269,20 +241,6 @@
     },
     "languages": [
       "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "LBj1hZ9cWVQmJb",
-    "name": "CBHT-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": true
@@ -302,15 +260,15 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "6clwzOHKjk87Fu",
-    "name": "CBKT-DT",
+    "nanoid": "1yLst6OvN4IiS8",
+    "name": "CBLFT-DT",
     "sources": {
       "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8"
+        "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "fra"
     ],
     "country": "ca",
     "isGeoBlocked": true
@@ -321,34 +279,6 @@
     "sources": {
       "streams": [
         "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "cbneQnbfoN2mFd",
-    "name": "CBMT-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "lgWoc0yLlv7q3R",
-    "name": "CBNT-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8"
       ]
     },
     "languages": [
@@ -451,20 +381,6 @@
     },
     "languages": [
       "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "u5gnRH3JIZw6XB",
-    "name": "CBWT-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": true
@@ -851,7 +767,8 @@
     "name": "Fight Network",
     "sources": {
       "streams": [
-        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
+        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
+        "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
       ]
     },
     "languages": [
@@ -880,6 +797,20 @@
     "sources": {
       "streams": [
         "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hTAa42S6ckdNs5",
+    "name": "Garfield & Friends",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/rqeIZywMwEc"
       ]
     },
     "languages": [
@@ -1077,8 +1008,8 @@
     "name": "Legislative Assembly of Ontario",
     "sources": {
       "streams": [
-        "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
-        "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8"
+        "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8",
+        "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1841,7 +1772,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/mhd9OUQ5Y6g"
+        "https://www.youtube-nocookie.com/embed/PNfVXc3-FhA"
       ]
     },
     "languages": [
@@ -1855,7 +1786,7 @@
     "name": "Super Simple: Noodle and Pals",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/y62H2P4qDm8"
+        "https://www.youtube-nocookie.com/embed/LUAwRypy2eo"
       ]
     },
     "languages": [
@@ -1869,7 +1800,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/9laTWEu_M-w"
+        "https://www.youtube-nocookie.com/embed/rz8CMjOvBDM"
       ]
     },
     "languages": [
@@ -2050,7 +1981,7 @@
     "name": "TV Témis",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ap0DhDsiGPs"
+        "https://www.youtube-nocookie.com/embed/hp2Q-OQktgw"
       ]
     },
     "languages": [

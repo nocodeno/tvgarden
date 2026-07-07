@@ -58,10 +58,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bjEIxQbflZEnVl",
+    "name": "Inooro TV",
+    "sources": {
+      "streams": [
+        "https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0obNTrGtjRCK4a",
     "name": "K24",
     "sources": {
       "streams": [
+        "https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8",
         "https://livecdn.premiumfree.tv/afxpstr/K24Backup/tracks-v1a1/mono.ts.m3u8"
       ]
     },
@@ -95,20 +110,6 @@
     },
     "languages": [
       "swa"
-    ],
-    "country": "ke",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y7vYe1yqK0sxRF",
-    "name": "MERU TV",
-    "sources": {
-      "streams": [
-        "https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "ke",
     "isGeoBlocked": false

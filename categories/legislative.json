@@ -227,21 +227,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "udSOaNy3d31JFB",
-    "name": "Chamber TV",
-    "sources": {
-      "streams": [
-        "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra",
-      "ltz"
-    ],
-    "country": "lu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zzIInP1RoY4ur6",
     "name": "Channel 10",
     "sources": {
@@ -275,6 +260,20 @@
     "sources": {
       "streams": [
         "https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "p9TPCkNNGjcV0i",
+    "name": "City of Monroe Government Channel",
+    "sources": {
+      "streams": [
+        "https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8"
       ]
     },
     "languages": [
@@ -394,6 +393,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WscC7Swxpk8hjp",
+    "name": "Congreso del Perú en Vivo",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/6rlNukFUinA"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -855,8 +868,8 @@
     "name": "Legislative Assembly of Ontario",
     "sources": {
       "streams": [
-        "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
-        "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8"
+        "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8",
+        "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1092,6 +1105,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C4WEiFY5k9mJhz",
+    "name": "Orszaggyules: OGY plenaris",
+    "sources": {
+      "streams": [
+        "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "sources": {
@@ -1209,7 +1236,8 @@
     "name": "Sansad TV 1",
     "sources": {
       "streams": [
-        "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8"
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
+        "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
       ]
     },
     "languages": [
@@ -1225,6 +1253,7 @@
     "sources": {
       "streams": [
         "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
+        "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8",
         "https://cdn-2.pishow.tv/live/39/master.m3u8"
       ]
     },
@@ -1306,20 +1335,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OYvTn4IG3sRdlR",
-    "name": "Stockton Gov TV",
-    "sources": {
-      "streams": [
-        "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ztLXAJFpTRNVhe",
     "name": "Thai Parliament Television",
     "sources": {
@@ -1349,20 +1364,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ztNrNzCLndWIQ7",
-    "name": "The Parliamentary Channel",
-    "sources": {
-      "streams": [
-        "https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "bs",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "am21AdPLsYEXMM",
     "name": "The Peninsula Channel",
     "sources": {
@@ -1375,6 +1376,20 @@
       "spa"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qIar6axvqjptwG",
+    "name": "TV Assembleia Minas Gerais",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/vZNAuGbwQYk"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {

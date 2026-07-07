@@ -130,20 +130,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "h2QQauoc9yd3VL",
-    "name": "Activa TV",
-    "sources": {
-      "streams": [
-        "https://streamtv.mediasector.es/hls/activatv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5OMRq0f5EVNrGL",
     "name": "Actualidad 360",
     "sources": {
@@ -767,20 +753,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IgIhtSlDnhWcsL",
-    "name": "El Futuro En tu Mano",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/ced5Kh3cQnI"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hH4CoV8wpIpgVv",
     "name": "El Toro TV",
     "sources": {
@@ -1054,6 +1026,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "h9YxHU0Ug32YMW",
+    "name": "HOLA! Play",
+    "sources": {
+      "streams": [
+        "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "c53RhFBvJqM5zG",
     "name": "Ideas en 5 minutos",
     "sources": {
@@ -1159,6 +1145,20 @@
     },
     "languages": [
       "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lMIWUh9FjBPLOx",
+    "name": "Molahits TV",
+    "sources": {
+      "streams": [
+        "https://ventdelnord.tv:8080/mola/directe.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -1460,11 +1460,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yoWnDlFSJLbaIM",
-    "name": "Rakuten TV Thrillers Spain",
+    "nanoid": "6Fk85FNF4cdSWr",
+    "name": "Rakuten TV Sci-Fi Spain",
     "sources": {
       "streams": [
-        "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8"
+        "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8"
       ]
     },
     "languages": [],
@@ -1748,7 +1748,7 @@
     "name": "TELEVISIÓN Canaria",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ucRYG4XFp6w"
+        "https://www.youtube-nocookie.com/embed/DByMAYdYEmc"
       ]
     },
     "languages": [
@@ -1827,11 +1827,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eHijSwcOOuzyYg",
-    "name": "TV BRICS Spanish",
+    "nanoid": "tAsFFtQNNY2ssU",
+    "name": "Trece",
     "sources": {
       "streams": [
-        "https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8"
+        "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1841,15 +1841,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GHuoWKJ2SeYBCe",
-    "name": "TV Sabadell-Valles",
+    "nanoid": "eHijSwcOOuzyYg",
+    "name": "TV BRICS Spanish",
     "sources": {
       "streams": [
-        "https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8"
+        "https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8"
       ]
     },
     "languages": [
-      "cat"
+      "spa"
     ],
     "country": "es",
     "isGeoBlocked": false
