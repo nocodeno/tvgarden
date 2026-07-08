@@ -130,6 +130,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "h2QQauoc9yd3VL",
+    "name": "Activa TV",
+    "sources": {
+      "streams": [
+        "https://streamtv.mediasector.es/hls/activatv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5OMRq0f5EVNrGL",
     "name": "Actualidad 360",
     "sources": {
@@ -150,20 +164,6 @@
       "streams": [
         "https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8",
         "https://217.182.77.27/live/alcarriatv-livestream.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "STFjLqvPSDxjMh",
-    "name": "Angel TV Spanish",
-    "sources": {
-      "streams": [
-        "https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8"
       ]
     },
     "languages": [
@@ -796,6 +796,21 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
+    "sources": {
+      "streams": [
+        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vBQYI4XuRuNh2P",
     "name": "Estepona Television",
     "sources": {
@@ -1017,20 +1032,6 @@
     "sources": {
       "streams": [
         "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "h9YxHU0Ug32YMW",
-    "name": "HOLA! Play",
-    "sources": {
-      "streams": [
-        "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8"
       ]
     },
     "languages": [
@@ -1460,14 +1461,30 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6Fk85FNF4cdSWr",
-    "name": "Rakuten TV Sci-Fi Spain",
+    "nanoid": "9yewxbvb9FUiND",
+    "name": "Rakuten TV Action Movies Spain",
     "sources": {
       "streams": [
-        "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8"
+        "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9DzDnm8vJPwosX",
+    "name": "Rakuten TV Top Movies Spain",
+    "sources": {
+      "streams": [
+        "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1855,6 +1872,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GHuoWKJ2SeYBCe",
+    "name": "TV Sabadell-Valles",
+    "sources": {
+      "streams": [
+        "https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kPwmKAQVMJQRJJ",
     "name": "TV3",
     "sources": {
@@ -2051,20 +2082,6 @@
     },
     "languages": [
       "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "f4MvB70GxNwe4i",
-    "name": "VOTV",
-    "sources": {
-      "streams": [
-        "https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "cat"
     ],
     "country": "es",
     "isGeoBlocked": false

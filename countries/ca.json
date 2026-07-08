@@ -115,20 +115,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "uBHOMGgN58fSBN",
-    "name": "CBAT-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "zBkZSnkjPvAVvt",
     "name": "CBC Comedy",
     "sources": {
@@ -206,8 +192,7 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8",
-        "https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8",
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8"
+        "https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/5vfaDsMhCF4"
@@ -274,20 +259,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "rk9KHpIpwRsPQC",
-    "name": "CBLT-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "qMfxPERIpN5bJn",
     "name": "CBOFT-DT",
     "sources": {
@@ -302,34 +273,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "9lH9HCemzV0cvI",
-    "name": "CBOT-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "tR4eck6zlxwnoQ",
-    "name": "CBRT-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "9l6DsmybaReA2E",
     "name": "CBUFT-DT",
     "sources": {
@@ -339,20 +282,6 @@
     },
     "languages": [
       "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "HgrAueLlDv0C9R",
-    "name": "CBUT-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": true
@@ -391,20 +320,6 @@
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "Trl88tsxoM9nFw",
-    "name": "CBXT-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8"
       ]
     },
     "languages": [
@@ -466,20 +381,6 @@
     ],
     "country": "ca",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XHFhYIB5cgd9ie",
-    "name": "CFYK-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "MmmREMvWn5mM26",
@@ -854,7 +755,7 @@
       "streams": [
         "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://gusto-xumo.amagi.tv/playlist.m3u8"
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1037,6 +938,18 @@
     "sources": {
       "streams": [
         "https://lin13.isilive.ca/live/_definst_/ontla/committee_2-en/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0KUROtebe5Hr0N",
+    "name": "Legislative Assembly of Ontario Committees (room 151)",
+    "sources": {
+      "streams": [
+        "https://temp3.isilive.ca/live/_definst_/ontla/rm151-en/playlist.m3u8"
       ]
     },
     "languages": [],

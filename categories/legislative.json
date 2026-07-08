@@ -227,6 +227,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "udSOaNy3d31JFB",
+    "name": "Chamber TV",
+    "sources": {
+      "streams": [
+        "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra",
+      "ltz"
+    ],
+    "country": "lu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zzIInP1RoY4ur6",
     "name": "Channel 10",
     "sources": {
@@ -292,21 +307,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lRKUVxSJLWtW94",
-    "name": "City TV Channel 3/41",
-    "sources": {
-      "streams": [
-        "https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -410,6 +410,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PBodzBcJwnieH1",
+    "name": "CongressTV",
+    "sources": {
+      "streams": [
+        "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5ymwJKVoGafdCH",
     "name": "COStv",
     "sources": {
@@ -476,21 +491,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "s4rmwbOJvp7dJM",
-    "name": "Cupertino City Channel",
-    "sources": {
-      "streams": [
-        "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -600,6 +600,34 @@
     "sources": {
       "streams": [
         "https://video.oct.dc.gov/out/u/DCN.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xupLUhlUhMmQst",
+    "name": "Duma TV",
+    "sources": {
+      "streams": [
+        "https://dumatv.iptv2022.com/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zXnZtysd9jWieA",
+    "name": "Escambia County TV",
+    "sources": {
+      "streams": [
+        "https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1105,20 +1133,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C4WEiFY5k9mJhz",
-    "name": "Orszaggyules: OGY plenaris",
-    "sources": {
-      "streams": [
-        "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "sources": {
@@ -1364,6 +1378,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ztNrNzCLndWIQ7",
+    "name": "The Parliamentary Channel",
+    "sources": {
+      "streams": [
+        "https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "bs",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "am21AdPLsYEXMM",
     "name": "The Peninsula Channel",
     "sources": {
@@ -1376,20 +1404,6 @@
       "spa"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qIar6axvqjptwG",
-    "name": "TV Assembleia Minas Gerais",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/vZNAuGbwQYk"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
     "isGeoBlocked": false
   },
   {

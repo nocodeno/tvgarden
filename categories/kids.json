@@ -17,20 +17,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mGLwdOQP8VDOyv",
-    "name": "3RS Cartoon Movies",
-    "sources": {
-      "streams": [
-        "https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fooBWNn7lAf85s",
     "name": "4 Fun Kids",
     "sources": {
@@ -56,20 +42,6 @@
       "spa"
     ],
     "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EgspbzPRaIJYXi",
-    "name": "ADO TV",
-    "sources": {
-      "streams": [
-        "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "bj",
     "isGeoBlocked": false
   },
   {
@@ -192,6 +164,7 @@
     "name": "BabyFirst US",
     "sources": {
       "streams": [
+        "https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8",
         "https://206.212.244.63/639/index.m3u8"
       ]
     },
@@ -439,20 +412,6 @@
       "eng"
     ],
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "z5PHRIy6vPGnG4",
-    "name": "Bravo! Kids TV",
-    "sources": {
-      "streams": [
-        "https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8"
-      ]
-    },
-    "languages": [
-      "hrv"
-    ],
-    "country": "hr",
     "isGeoBlocked": false
   },
   {
@@ -1262,20 +1221,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0KHOlcS3CSZQO6",
-    "name": "JapanimTV",
-    "sources": {
-      "streams": [
-        "https://foxkidstv.be:3369/stream/play.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EDJsRoJArkwgcL",
     "name": "Jetix",
     "sources": {
@@ -1317,6 +1262,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
+    "sources": {
+      "streams": [
+        "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -1552,6 +1511,7 @@
     "name": "Moonbug Kids",
     "sources": {
       "streams": [
+        "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
         "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
       ]
     },
@@ -2069,6 +2029,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "LaJUiyDd3qErb2",
+    "name": "Pororo 뽀로로",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/0hhISFu0W5U"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uuPEZrmKbOVuZJ",
     "name": "Radost Moya",
     "sources": {
@@ -2095,6 +2069,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GzjkBwRPP1x8dy",
+    "name": "Reino Infantil",
+    "sources": {
+      "streams": [
+        "https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "mz",
     "isGeoBlocked": false
   },
   {
@@ -2365,6 +2353,20 @@
       "bak"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tJbJDDKt3d57P6",
+    "name": "TeenNick East",
+    "sources": {
+      "streams": [
+        "https://206.212.244.63/670/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -2756,7 +2758,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/9gfSR9vqv_I"
+        "https://www.youtube-nocookie.com/embed/MKHKrr7wQ8w"
       ]
     },
     "languages": [

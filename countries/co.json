@@ -1,5 +1,33 @@
 [
   {
+    "nanoid": "b9E07ezUKVar1z",
+    "name": "Alerta Bogota",
+    "sources": {
+      "streams": [
+        "https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "RENB7FpGag5A0S",
+    "name": "Amaga Television",
+    "sources": {
+      "streams": [
+        "https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ttmBt8cYm9HkmY",
     "name": "ANC Television",
     "sources": {
@@ -19,20 +47,6 @@
     "sources": {
       "streams": [
         "https://canal.aupurtv.co/live/stream/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DhFWPxFh4aKhyC",
-    "name": "Avivamiento TV",
-    "sources": {
-      "streams": [
-        "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8"
       ]
     },
     "languages": [
@@ -184,11 +198,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4tOQsHNAnrUk50",
-    "name": "Canal Calima TV",
+    "nanoid": "dIQhSN2tH9x7qG",
+    "name": "Canal 55 Telemorisco TV",
     "sources": {
       "streams": [
-        "https://movil.ejeserver.com/live/calimatv.m3u8"
+        "https://canal.mediaserver.com.co/live/telemorisco.m3u8"
       ]
     },
     "languages": [
@@ -433,20 +447,6 @@
       "streams": [
         "https://movil.ejeserver.com/live/cncsantander.m3u8",
         "https://video.ejeserver.com/live/cncsantander.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vQAqd810W37H0l",
-    "name": "CNC Tulua",
-    "sources": {
-      "streams": [
-        "https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8"
       ]
     },
     "languages": [
@@ -907,11 +907,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wSVf29nNzyqfLG",
+    "name": "TDI Colombia",
+    "sources": {
+      "streams": [
+        "https://live.amelbatv.co:81/tdicolombiatv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HgBlAsHZW8C65f",
     "name": "Tele Mocoa Canal 10",
     "sources": {
       "streams": [
         "https://live.amelbatv.co:81/telemocoalive/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uxS8FJ2xMmx0S8",
+    "name": "Tele San Jacinto",
+    "sources": {
+      "streams": [
+        "https://vs20.live.opencaster.com/sjradio_4c916ece/index.m3u8"
       ]
     },
     "languages": [

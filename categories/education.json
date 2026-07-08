@@ -12,6 +12,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CtdqbL5wtTjnvo",
+    "name": "AgroCanal",
+    "sources": {
+      "streams": [
+        "https://45.162.64.114/AGRO_CANAL/index.m3u8",
+        "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2iEMu7y7Pfmad9",
     "name": "Al Hiwar TV",
     "sources": {
@@ -102,7 +117,8 @@
     "name": "Canal Educacao",
     "sources": {
       "streams": [
-        "https://canaleducacao-stream.ebc.com.br/index.m3u8"
+        "https://canaleducacao-stream.ebc.com.br/index.m3u8",
+        "https://45.162.64.114/CANAL_EDUCACAO/index.m3u8"
       ]
     },
     "languages": [
@@ -112,25 +128,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "K3el31a2gq3vxi",
-    "name": "Canal Educativo 2",
-    "sources": {
-      "streams": [
-        "https://tv.picta.cu/educativo2/educativo2_0.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hrsVs9qqIiOboO",
     "name": "Canal FDR",
     "sources": {
       "streams": [
         "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8yxjHQYdOlErAK",
+    "name": "Canal Futura",
+    "sources": {
+      "streams": [
+        "https://45.162.64.114/FUTURA/index.m3u8"
       ]
     },
     "languages": [
@@ -1096,20 +1112,6 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "n4MkAIlXwdSE8X",
-    "name": "OUN",
-    "sources": {
-      "streams": [
-        "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
     "isGeoBlocked": false
   },
   {

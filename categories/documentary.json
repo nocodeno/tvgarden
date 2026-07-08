@@ -60,7 +60,8 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
+        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -177,6 +178,20 @@
       "zho"
     ],
     "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UYW2WtzuwJvxrr",
+    "name": "City Eden KinoDok",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/38354/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -703,8 +718,8 @@
     "name": "National Geographic East",
     "sources": {
       "streams": [
-        "https://40.160.24.53/NAT_GEO/index.m3u8",
-        "https://cdn.haititivi.net/NATIONAL-GEOGRAPHIC/index.m3u8"
+        "https://cdn.haititivi.net/NATIONAL-GEOGRAPHIC/index.m3u8",
+        "https://40.160.24.53/NAT_GEO/index.m3u8"
       ]
     },
     "languages": [
