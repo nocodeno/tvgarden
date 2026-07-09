@@ -112,48 +112,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CnDq6xDOGFtSot",
-    "name": "Canal 15 Teleor",
-    "sources": {
-      "streams": [
-        "https://ares.disfrutaenlared.com:1936/activatv/activatv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qAN5sBGpkuc0D2",
-    "name": "CEACOM TV",
-    "sources": {
-      "streams": [
-        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TphCDlbCPyYa2m",
-    "name": "Cinerama Television",
-    "sources": {
-      "streams": [
-        "https://live.cineramatvbo.com/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tBCwhYIvDRfrhj",
     "name": "CN3 Television",
     "sources": {
@@ -267,11 +225,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HZgZI7rlmeI69Y",
-    "name": "Imagen TV",
+    "nanoid": "sbY71GQX2qeY5v",
+    "name": "GTV",
     "sources": {
       "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/imagentvpotosib/playlist.m3u8"
+        "https://lbgo.bozztv.com/ssh101/ssh101/guadalupetv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -301,34 +259,6 @@
     "sources": {
       "streams": [
         "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ctXKtPRIVgnD2j",
-    "name": "Poder de Dios TV",
-    "sources": {
-      "streams": [
-        "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4frDgMPDz0NOom",
-    "name": "PTV",
-    "sources": {
-      "streams": [
-        "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8"
       ]
     },
     "languages": [
@@ -380,11 +310,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OPWUaOk2V7zsOP",
-    "name": "Radio Mega TV Amazonia",
+    "nanoid": "mTzTqBj0alnBwf",
+    "name": "Radio Uno PST",
     "sources": {
       "streams": [
-        "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8"
+        "https://master.tucableip.com/pstbolivia/index.m3u8"
       ]
     },
     "languages": [
@@ -437,11 +367,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "F3BYfjJnpkzbsO",
-    "name": "Red Uno",
+    "nanoid": "izfFH8RnAwm70u",
+    "name": "RTP",
     "sources": {
       "streams": [
-        "https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8"
+        "https://rtp.noxun.net/hls/stream.m3u8",
+        "https://rtp.noxun.net/hls480/stream2.m3u8",
+        "https://rtp.noxun.net/hls720/stream3.m3u8"
       ]
     },
     "languages": [
@@ -451,13 +383,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "izfFH8RnAwm70u",
-    "name": "RTP",
+    "nanoid": "17VDedV3F7KkDk",
+    "name": "RTV Norte",
     "sources": {
       "streams": [
-        "https://rtp.noxun.net/hls/stream.m3u8",
-        "https://rtp.noxun.net/hls480/stream2.m3u8",
-        "https://rtp.noxun.net/hls720/stream3.m3u8"
+        "https://lbgo.bozztv.com/ssh101/ssh101/mbocayatyhd/playlist.m3u8"
       ]
     },
     "languages": [
@@ -615,7 +545,8 @@
     "name": "Unitel Cochabamba",
     "sources": {
       "streams": [
-        "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8"
+        "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
+        "https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8"
       ]
     },
     "languages": [

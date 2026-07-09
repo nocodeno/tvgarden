@@ -1,10 +1,10 @@
 [
   {
-    "nanoid": "FXQtm2S6eQXf1s",
-    "name": "B+ TV",
+    "nanoid": "YcQ8Y6oWUVxpk1",
+    "name": "BCN TV",
     "sources": {
       "streams": [
-        "https://tv.btnrwanda.com:3432/live/bpluslive.m3u8"
+        "https://live.bcntv.org/live/bcn_16_9.m3u8"
       ]
     },
     "languages": [
@@ -15,15 +15,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YcQ8Y6oWUVxpk1",
-    "name": "BCN TV",
+    "nanoid": "hRgd0Ypxitc2Uq",
+    "name": "BTN TV",
     "sources": {
       "streams": [
-        "https://live.bcntv.org/live/bcn_16_9.m3u8"
+        "https://tv.btnrwanda.com:3973/live/btnv2live.m3u8"
       ]
     },
     "languages": [
-      "eng",
       "kin"
     ],
     "country": "rw",
@@ -60,15 +59,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xlbj1xHjnlV1Js",
-    "name": "TV10",
+    "nanoid": "vQHcA6mmqDdzeF",
+    "name": "Rwanda TV",
     "sources": {
       "streams": [
-        "https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8"
+        "https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8"
       ]
     },
     "languages": [
       "eng",
+      "fra",
       "kin"
     ],
     "country": "rw",

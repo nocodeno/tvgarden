@@ -377,20 +377,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QM97jV9eSE3fpe",
-    "name": "Brit Asia TV",
-    "sources": {
-      "streams": [
-        "https://hls.autopo.st/hls/britasiatv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4CWfFilRZlkt2J",
     "name": "British Screen Classics",
     "sources": {
@@ -576,11 +562,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vFuB4amnCAnzu2",
+    "name": "Crafter's TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/bHIklLP3mVw"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SNT2M9ATZsS3tF",
     "name": "Create & Craft TV Extra",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/d0YEFBi7ip0"
+        "https://www.youtube-nocookie.com/embed/hsGF02WaJSY"
       ]
     },
     "languages": [
@@ -883,8 +883,8 @@
     "sources": {
       "streams": [
         "https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8",
-        "https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8",
-        "https://amg01076-lightningintern-gbnewsse-samsungse-q7qjc.amagi.tv/playlist/amg01076-lightningintern-gbnewsse-samsungse/playlist.m3u8"
+        "https://amg01076-lightningintern-gbnewsse-samsungse-q7qjc.amagi.tv/playlist/amg01076-lightningintern-gbnewsse-samsungse/playlist.m3u8",
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/I8E6eDmhegY"
@@ -929,7 +929,6 @@
     "name": "Ghost Hunters UK",
     "sources": {
       "streams": [
-        "https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg00353-amg00353c30-samsung-gb-8552.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunterfetch-samsunggb/playlist.m3u8",
         "https://amg00353-amg00353c30-samsung-nz-3439.playouts.now.amagi.tv/playlist.m3u8"
       ]
@@ -946,6 +945,20 @@
     "sources": {
       "streams": [
         "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oS8yaG00faaZ9t",
+    "name": "Goodwood Road & Racing",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/1o9c846D46s"
       ]
     },
     "languages": [
@@ -1028,9 +1041,9 @@
     "name": "Hell's Kitchen UK",
     "sources": {
       "streams": [
-        "https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8",
         "https://amg00654-itvstudios-hellskitchen-samsungse-9n806.amagi.tv/playlist/amg00654-itvstudios-hellskitchen-samsungse/playlist.m3u8",
-        "https://amg00654-itvstudios-hellskitchennl-samsungnl-kvxhp.amagi.tv/playlist/amg00654-itvstudios-hellskitchennl-samsungnl/playlist.m3u8"
+        "https://amg00654-itvstudios-hellskitchennl-samsungnl-kvxhp.amagi.tv/playlist/amg00654-itvstudios-hellskitchennl-samsungnl/playlist.m3u8",
+        "https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1440,7 +1453,6 @@
     "name": "Moonbug Kids",
     "sources": {
       "streams": [
-        "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
         "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
       ]
     },
@@ -1510,7 +1522,6 @@
     "sources": {
       "streams": [
         "https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8",
-        "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg00627-amg00627c23-samsung-gb-3927.playouts.now.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1623,6 +1634,7 @@
     "name": "Mystery TV UK",
     "sources": {
       "streams": [
+        "https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8",
         "https://blaze-fast-mystery-tv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-mystery-tv-amagi/playlist.m3u8"
       ]
@@ -1639,8 +1651,8 @@
     "sources": {
       "streams": [
         "https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/index.m3u8",
-        "https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8",
-        "https://amg00627-banijay-amg00627c14-samsung-nz-2342.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungnz/playlist.m3u8"
+        "https://amg00627-banijay-amg00627c14-samsung-nz-2342.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungnz/playlist.m3u8",
+        "https://d1cgf0ptrv4t22.cloudfront.net/Mythbusters_GB.m3u8"
       ]
     },
     "languages": [
@@ -1893,7 +1905,7 @@
       "eng"
     ],
     "country": "uk",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "6mEQRrMBqTxNoW",
@@ -2006,30 +2018,6 @@
     "sources": {
       "streams": [
         "https://dikkyk1ckkhzq.cloudfront.net/RabiddsInvasion_GB.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6OObHoCz5T6mVt",
-    "name": "Rakuten TV Sci-Fi UK",
-    "sources": {
-      "streams": [
-        "https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jz4YnIQOr3KiI6",
-    "name": "Rakuten TV Thrillers UK",
-    "sources": {
-      "streams": [
-        "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8"
       ]
     },
     "languages": [],
@@ -2847,6 +2835,7 @@
     "name": "World War TV",
     "sources": {
       "streams": [
+        "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8"
       ]
     },

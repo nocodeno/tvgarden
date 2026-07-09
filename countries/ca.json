@@ -87,20 +87,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gouSrPs3KYyRhk",
-    "name": "Canada One",
-    "sources": {
-      "streams": [
-        "https://cdn8.live247stream.com/canadaone/tv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bcFNUEYUWeV35y",
     "name": "CBAFT-DT",
     "sources": {
@@ -755,7 +741,7 @@
       "streams": [
         "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
+        "https://gusto-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1928,6 +1914,20 @@
     "languages": [
       "eng",
       "iku"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7MJcYnhqkdKmZp",
+    "name": "Watan-e-Maa TV",
+    "sources": {
+      "streams": [
+        "https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "prd"
     ],
     "country": "ca",
     "isGeoBlocked": false
