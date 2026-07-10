@@ -281,20 +281,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bxrLpOnIw2cIku",
-    "name": "BBC Three/CBBC",
-    "sources": {
-      "streams": [
-        "https://41.205.77.102/BBC-THREE/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0LllhlpEzMQvfO",
     "name": "Bluey - Official Channel",
     "sources": {
@@ -373,6 +359,20 @@
       ]
     },
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QM97jV9eSE3fpe",
+    "name": "Brit Asia TV",
+    "sources": {
+      "streams": [
+        "https://hls.autopo.st/hls/britasiatv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -566,7 +566,7 @@
     "name": "Crafter's TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/bHIklLP3mVw"
+        "https://www.youtube-nocookie.com/embed/aSANNCxwpLw"
       ]
     },
     "languages": [
@@ -703,6 +703,20 @@
     ],
     "country": "uk",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "efmLnGoMatsGBL",
+    "name": "DP World Tour",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/WgCCXN_BPn4"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "6DT2CZ9jL47ilp",
@@ -883,8 +897,8 @@
     "sources": {
       "streams": [
         "https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8",
-        "https://amg01076-lightningintern-gbnewsse-samsungse-q7qjc.amagi.tv/playlist/amg01076-lightningintern-gbnewsse-samsungse/playlist.m3u8",
-        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8"
+        "https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8",
+        "https://amg01076-lightningintern-gbnewsse-samsungse-q7qjc.amagi.tv/playlist/amg01076-lightningintern-gbnewsse-samsungse/playlist.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/I8E6eDmhegY"
@@ -929,6 +943,7 @@
     "name": "Ghost Hunters UK",
     "sources": {
       "streams": [
+        "https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg00353-amg00353c30-samsung-gb-8552.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunterfetch-samsunggb/playlist.m3u8",
         "https://amg00353-amg00353c30-samsung-nz-3439.playouts.now.amagi.tv/playlist.m3u8"
       ]
@@ -958,7 +973,7 @@
     "name": "Goodwood Road & Racing",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/1o9c846D46s"
+        "https://www.youtube-nocookie.com/embed/ebJzfdQAcVI"
       ]
     },
     "languages": [
@@ -1041,9 +1056,9 @@
     "name": "Hell's Kitchen UK",
     "sources": {
       "streams": [
+        "https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8",
         "https://amg00654-itvstudios-hellskitchen-samsungse-9n806.amagi.tv/playlist/amg00654-itvstudios-hellskitchen-samsungse/playlist.m3u8",
-        "https://amg00654-itvstudios-hellskitchennl-samsungnl-kvxhp.amagi.tv/playlist/amg00654-itvstudios-hellskitchennl-samsungnl/playlist.m3u8",
-        "https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8"
+        "https://amg00654-itvstudios-hellskitchennl-samsungnl-kvxhp.amagi.tv/playlist/amg00654-itvstudios-hellskitchennl-samsungnl/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1191,6 +1206,7 @@
     "name": "Inside Crime UK",
     "sources": {
       "streams": [
+        "https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8",
         "https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8"
       ]
@@ -1522,6 +1538,7 @@
     "sources": {
       "streams": [
         "https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8",
+        "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg00627-amg00627c23-samsung-gb-3927.playouts.now.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1651,8 +1668,8 @@
     "sources": {
       "streams": [
         "https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/index.m3u8",
-        "https://amg00627-banijay-amg00627c14-samsung-nz-2342.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungnz/playlist.m3u8",
-        "https://d1cgf0ptrv4t22.cloudfront.net/Mythbusters_GB.m3u8"
+        "https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8",
+        "https://amg00627-banijay-amg00627c14-samsung-nz-2342.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungnz/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1905,7 +1922,7 @@
       "eng"
     ],
     "country": "uk",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "6mEQRrMBqTxNoW",
@@ -2018,6 +2035,18 @@
     "sources": {
       "streams": [
         "https://dikkyk1ckkhzq.cloudfront.net/RabiddsInvasion_GB.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mN7jjbfyCCrHDM",
+    "name": "Rakuten TV Romance Movies UK",
+    "sources": {
+      "streams": [
+        "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8"
       ]
     },
     "languages": [],
@@ -2807,6 +2836,7 @@
     "sources": {
       "streams": [
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8",
+        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
         "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
       ]
     },

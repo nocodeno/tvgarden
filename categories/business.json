@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "iLcflI1KSBOjbJ",
-    "name": "Agenda Minera TV",
-    "sources": {
-      "streams": [
-        "https://stv2.boliviaplay.com.bo/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2TkyVV55zzBzz3",
     "name": "Al Arabiya Business",
     "sources": {
@@ -42,6 +28,20 @@
       "ron"
     ],
     "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sPGmyALtlBkjD3",
+    "name": "Ameritrade",
+    "sources": {
+      "streams": [
+        "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -99,6 +99,20 @@
       "ara"
     ],
     "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OTtgOdMuzH3Ad4",
+    "name": "Ausbiz TV",
+    "sources": {
+      "streams": [
+        "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
     "isGeoBlocked": false
   },
   {
@@ -190,6 +204,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8jSnAgazSmGpyh",
+    "name": "BMG TV",
+    "sources": {
+      "streams": [
+        "https://tv.nucast.tv/lb/ge/bmg/index.m3u8"
+      ]
+    },
+    "languages": [
+      "kat"
+    ],
+    "country": "ge",
     "isGeoBlocked": false
   },
   {
@@ -541,10 +569,6 @@
     "nanoid": "PrbGgJSVKuINgQ",
     "name": "NDTV Profit",
     "sources": {
-      "streams": [
-        "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8",
-        "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/EN-N1xhtBqU"
       ]
@@ -567,6 +591,34 @@
       "spa"
     ],
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fEhuSbh6UZiVWk",
+    "name": "NW Economie",
+    "sources": {
+      "streams": [
+        "https://hls.newworldtv.com/nw-economie/video/live.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "tg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "h6xlBNAG4NibAI",
+    "name": "Pro Business",
+    "sources": {
+      "streams": [
+        "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {

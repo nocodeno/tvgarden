@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CYPaX2UVL5PBUV",
-    "name": "13 Humor",
-    "sources": {
-      "streams": [
-        "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "C7SK0S2RgKNZGi",
     "name": "AFV",
     "sources": {
@@ -74,7 +60,8 @@
     "name": "Anger Management Channel",
     "sources": {
       "streams": [
-        "https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8"
+        "https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8",
+        "https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8"
       ]
     },
     "languages": [
@@ -479,6 +466,22 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3KIbg37PQUOdm7",
+    "name": "Viasat Kino Comedy",
+    "sources": {
+      "streams": [
+        "https://ukr.ukrainske.tv/493/keytvainua/video.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "lat",
+      "rus"
+    ],
+    "country": "ua",
     "isGeoBlocked": false
   }
 ]

@@ -143,9 +143,6 @@
     "nanoid": "nvi12xPQhPg1F5",
     "name": "Canal Gov",
     "sources": {
-      "streams": [
-        "https://canalgov-stream.ebc.com.br/index.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/3gGHN13xwdI"
       ]
@@ -624,6 +621,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xupLUhlUhMmQst",
+    "name": "Duma TV",
+    "sources": {
+      "streams": [
+        "https://dumatv.iptv2022.com/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xnU10BQX3X7Kmm",
     "name": "Fernandina Beach Channel",
     "sources": {
@@ -671,6 +682,20 @@
     "sources": {
       "streams": [
         "https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "X9s52ZHCIYv79e",
+    "name": "HCTV Government Channel",
+    "sources": {
+      "streams": [
+        "https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8"
       ]
     },
     "languages": [
@@ -1106,20 +1131,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zMW8FE1xQLG090",
-    "name": "Orszaggyules: OGY TAB",
-    "sources": {
-      "streams": [
-        "https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "sources": {
@@ -1266,6 +1277,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZLv6M8x6GdOHFN",
+    "name": "Senato TV",
+    "sources": {
+      "streams": [
+        "https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QvfZ45T9wvpbFD",
     "name": "SFGovTV",
     "sources": {
@@ -1365,11 +1390,40 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "am21AdPLsYEXMM",
+    "name": "The Peninsula Channel",
+    "sources": {
+      "streams": [
+        "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qIar6axvqjptwG",
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/WHEPeW5GQTw"
+        "https://www.youtube-nocookie.com/embed/BtW815zFG0Y"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QrY7bSr5CSX6dm",
+    "name": "TV Assembleia Piaui",
+    "sources": {
+      "streams": [
+        "https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1383,7 +1437,8 @@
     "name": "TV Camara",
     "sources": {
       "streams": [
-        "https://stream3.camara.gov.br/tv1/manifest.m3u8"
+        "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+        "https://45.162.64.114/TV_CAMARA/index.m3u8"
       ]
     },
     "languages": [

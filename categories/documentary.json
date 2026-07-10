@@ -60,8 +60,7 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
-        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
       ]
     },
     "languages": [
@@ -384,20 +383,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FOmh48Vhhwgsmx",
-    "name": "Ecovision",
-    "sources": {
-      "streams": [
-        "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "J5HDeVjO016Oz1",
     "name": "EPlanet TV",
     "sources": {
@@ -440,6 +425,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GOMdLvvyu3y5ss",
+    "name": "GZT",
+    "sources": {
+      "streams": [
+        "https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Dsvkj5Ex7UWMgQ",
     "name": "Heroes & Icons",
     "sources": {
@@ -472,7 +472,7 @@
       "streams": [
         "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8",
-        "https://timeline-samsung-uk.amagi.tv/playlist.m3u8"
+        "https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8"
       ]
     },
     "languages": [
@@ -501,6 +501,7 @@
     "sources": {
       "streams": [
         "https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8",
         "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8"
       ]
     },
@@ -645,6 +646,7 @@
     "sources": {
       "streams": [
         "https://pb-5evqkeieu3o6d.akamaized.net/Magellan_TV_Now.m3u8",
+        "https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8",
         "https://amg00376-magellan-amg00376c5-samsung-nz-1714.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungnz/playlist.m3u8"
       ]
     },
@@ -744,8 +746,8 @@
     "name": "National Geographic Wild East",
     "sources": {
       "streams": [
-        "https://40.160.24.53/NAT_GEO_WILD/index.m3u8",
-        "https://206.212.244.63/123/index.m3u8"
+        "https://206.212.244.63/123/index.m3u8",
+        "https://40.160.24.53/NAT_GEO_WILD/index.m3u8"
       ]
     },
     "languages": [
@@ -816,6 +818,7 @@
     "name": "NatureTime AU",
     "sources": {
       "streams": [
+        "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8",
         "https://amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv/playlist/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8"
       ]
     },
@@ -873,7 +876,6 @@
     "name": "RTД",
     "sources": {
       "streams": [
-        "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
         "https://streaming.thestream.cyou/live/554.m3u8"
       ]
     },
