@@ -162,7 +162,8 @@
     "name": "Cleo TV",
     "sources": {
       "streams": [
-        "https://206.212.244.63/38/index.m3u8"
+        "https://206.212.244.63/38/index.m3u8",
+        "https://40.160.24.52/Cleo_TV/index.m3u8"
       ]
     },
     "languages": [
@@ -183,6 +184,20 @@
       "tel"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "npYrPfjJi5ZgRi",
+    "name": "Dabl",
+    "sources": {
+      "streams": [
+        "https://40.160.24.56/DABL/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -359,7 +374,8 @@
     "name": "Great American Faith & Living",
     "sources": {
       "streams": [
-        "https://206.212.244.63/82/index.m3u8"
+        "https://206.212.244.63/82/index.m3u8",
+        "https://40.160.24.52/GAC_LIVING/index.m3u8"
       ]
     },
     "languages": [
@@ -598,20 +614,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "to6WdXHX9Bv9Ju",
-    "name": "Nova",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/Nova/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZGvoYb8iZS7uzb",
     "name": "NowMedia Television",
     "sources": {
@@ -823,6 +825,20 @@
       "fra"
     ],
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LmMmHAVWfMTaiO",
+    "name": "Wapp",
+    "sources": {
+      "streams": [
+        "https://stream.wapptv.cl/video/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   }
 ]

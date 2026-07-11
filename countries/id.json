@@ -101,20 +101,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wgCHFkD8F6PNpc",
-    "name": "Astha TV",
-    "sources": {
-      "streams": [
-        "https://hgmtv.com:19360/asthatv/asthatv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YJjt1kMM9xV6J0",
     "name": "Astro Blitar TV",
     "sources": {
@@ -423,6 +409,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ekV6A2aydUNj5E",
+    "name": "Khalid Basalamah",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/BNpKfk-8Q1w"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0xr9dDKplwszmy",
     "name": "Kids TV",
     "sources": {
@@ -621,20 +621,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "L5BvWuf8rlqBr4",
-    "name": "Music Information Channel",
-    "sources": {
-      "streams": [
-        "https://mic.siar.us/mic/live/mic.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZAMsD9HhaPz9Bn",
     "name": "Nusantara TV",
     "sources": {
@@ -668,6 +654,20 @@
     "sources": {
       "streams": [
         "https://streaming.id18.tunnel.my.id/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ha2zWLoq5d13uY",
+    "name": "Radar Lampung TV",
+    "sources": {
+      "streams": [
+        "https://www.streaming.radartv.co.id/hls/test.m3u8"
       ]
     },
     "languages": [
@@ -832,20 +832,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pJu6TwMXSbyJfF",
-    "name": "SMTV",
-    "sources": {
-      "streams": [
-        "https://e.siar.us/live/smtv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0cfFq7pSzUjjN2",
     "name": "Sriwijaya TV",
     "sources": {
@@ -959,20 +945,6 @@
     "languages": [
       "ind",
       "sun"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6DA4FLoBUvoZ4f",
-    "name": "Surabaya TV",
-    "sources": {
-      "streams": [
-        "https://e.siar.us/live/surabayatv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
     ],
     "country": "id",
     "isGeoBlocked": false
@@ -1301,25 +1273,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aKhPxO0qIJnOmB",
-    "name": "TVRI Lampung",
+    "nanoid": "4lgXnmhGxV9Mm5",
+    "name": "TVRI North Sulawesi",
     "sources": {
       "streams": [
-        "https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xAe3wKMPLdjB8T",
-    "name": "TVRI Maluku",
-    "sources": {
-      "streams": [
-        "https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8"
+        "https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8"
       ]
     },
     "languages": [

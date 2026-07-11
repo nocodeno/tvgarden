@@ -77,7 +77,8 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/453e03c1-3a9f-415c-9370-5c744b19a748/playlist.m3u8",
-        "https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8"
+        "https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8",
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8"
       ]
     },
     "languages": [
@@ -135,8 +136,8 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/9d1cd886-32b9-41ce-a7de-3babb46506aa/playlist.m3u8",
-        "https://baywatch-xumo.amagi.tv/playlist.m3u8",
-        "https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8"
+        "https://amg00145-buzzr-bigballs-baywatch-rokuus-qq7iy.amagi.tv/playlist/amg00145-buzzr-bigballs-baywatch-rokuus/playlist.m3u8",
+        "https://baywatch-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -276,7 +277,7 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/65eef95b-7b52-42be-8b08-faa459153ed9/playlist.m3u8",
-        "https://amg00627-amg00627c21-samsung-gb-3869.playouts.now.amagi.tv/playlist.m3u8",
+        "https://deal-or-no-deal-rakuten.amagi.tv/playlist.m3u8",
         "https://pb-gnznqq6l66wre.akamaized.net/Deal_or_No_Deal.m3u8"
       ]
     },
@@ -377,6 +378,7 @@
     "name": "Don't Tell The Bride",
     "sources": {
       "streams": [
+        "https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg00426-lds-amg00426c15-samsung-nz-3685.playouts.now.amagi.tv/playlist.m3u8"
       ]
@@ -567,7 +569,8 @@
     "name": "Hallmark Mystery East",
     "sources": {
       "streams": [
-        "https://206.212.244.63/86/index.m3u8"
+        "https://206.212.244.63/86/index.m3u8",
+        "https://40.160.24.53/HALLMARK_MOVIES_AND_MYSTERIES/index.m3u8"
       ]
     },
     "languages": [
@@ -834,7 +837,8 @@
     "sources": {
       "streams": [
         "https://206.212.244.63/137/index.m3u8",
-        "https://cdn.haititivi.net/PARAMOUNT-CHANNEL/index.m3u8"
+        "https://cdn.haititivi.net/PARAMOUNT-CHANNEL/index.m3u8",
+        "https://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8"
       ]
     },
     "languages": [
@@ -1007,7 +1011,8 @@
     "name": "Start TV",
     "sources": {
       "streams": [
-        "https://206.212.244.63/150/index.m3u8"
+        "https://206.212.244.63/150/index.m3u8",
+        "https://40.160.24.55/START_TV/index.m3u8"
       ]
     },
     "languages": [
@@ -1225,8 +1230,22 @@
     "name": "USA Network East",
     "sources": {
       "streams": [
-        "https://40.160.24.55/USA_NETWORK/index.m3u8",
-        "https://206.212.244.63/168/index.m3u8"
+        "https://206.212.244.63/168/index.m3u8",
+        "https://40.160.24.55/USA_NETWORK/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fE02SPfh0IePpn",
+    "name": "USA Network West",
+    "sources": {
+      "streams": [
+        "https://40.160.24.55/USA_NETWORK_WEST/index.m3u8"
       ]
     },
     "languages": [

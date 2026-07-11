@@ -810,21 +810,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "CuPJ7DXi3sDSGh",
-    "name": "Esport3 Originals",
-    "sources": {
-      "streams": [
-        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-      ]
-    },
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vBQYI4XuRuNh2P",
     "name": "Estepona Television",
     "sources": {
@@ -952,13 +937,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ep6n7moIe4Ru3N",
+    "name": "Fibwi",
+    "sources": {
+      "streams": [
+        "https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EGsBwKlWFjIivG",
     "name": "France 24 Español",
     "sources": {
       "streams": [
+        "https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8",
         "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8",
-        "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8",
-        "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8"
+        "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/zTv0hCakAhg"
@@ -1241,20 +1240,6 @@
     "sources": {
       "streams": [
         "https://streaming013.gestec-video.com/hls/negociostv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "to6WdXHX9Bv9Ju",
-    "name": "Nova",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/Nova/index.m3u8"
       ]
     },
     "languages": [

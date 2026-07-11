@@ -128,6 +128,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3VqJp1fO3TYTIw",
+    "name": "Angel TV Russian",
+    "sources": {
+      "streams": [
+        "https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Dp26BhBSy3QLvt",
     "name": "Arkhyz 24",
     "sources": {
@@ -320,7 +334,6 @@
     "sources": {
       "streams": [
         "https://178.217.49.7/1/index.m3u8",
-        "https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8"
       ]
     },
@@ -406,20 +419,6 @@
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/41333/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Wc02nSZr6VuoIF",
-    "name": "City Eden KinoAsia",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34393/index.m3u8"
       ]
     },
     "languages": [
@@ -541,34 +540,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9QIFKg7aQ0UqIc",
-    "name": "City Eden Play",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34100/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rt3pDKAk1yMoRc",
-    "name": "City Eden Recepty Gurmana",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/47516/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eLHDrGKZWgbc15",
     "name": "City Eden Sirtaki TV",
     "sources": {
@@ -588,20 +559,6 @@
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/46209/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JIOxlnAu1GPh23",
-    "name": "City Eden TV",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34246/index.m3u8"
       ]
     },
     "languages": [
@@ -717,20 +674,6 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xupLUhlUhMmQst",
-    "name": "Duma TV",
-    "sources": {
-      "streams": [
-        "https://dumatv.iptv2022.com/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1755,7 +1698,6 @@
     "name": "Radost Moya",
     "sources": {
       "streams": [
-        "https://radm.mediacdn.ru/cdn/radost/playlist.m3u8",
         "https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8"
       ]
     },
@@ -1857,7 +1799,8 @@
     "sources": {
       "streams": [
         "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8",
-        "https://wisewatchoott.wiseplayout.com/RT/master.m3u8"
+        "https://wisewatchoott.wiseplayout.com/RT/master.m3u8",
+        "https://41.205.77.102/RT-ENGLISH/index.m3u8"
       ]
     },
     "languages": [
@@ -1957,6 +1900,7 @@
     "name": "RTД",
     "sources": {
       "streams": [
+        "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
         "https://streaming.thestream.cyou/live/554.m3u8"
       ]
     },
@@ -1985,9 +1929,9 @@
     "name": "Russia-1",
     "sources": {
       "streams": [
+        "https://41.223.30.230/RUSSIA1/index.m3u8",
         "https://109.207.243.18/2/index.m3u8",
-        "https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8",
-        "https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8"
+        "https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8"
       ]
     },
     "languages": [
@@ -2288,6 +2232,20 @@
     "sources": {
       "streams": [
         "https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uuwdAM4ggDTLQ4",
+    "name": "SONGTV Russia",
+    "sources": {
+      "streams": [
+        "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2886,6 +2844,20 @@
     "sources": {
       "streams": [
         "https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "K5EAZFvuWObb4f",
+    "name": "VIVA Russia",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8"
       ]
     },
     "languages": [
