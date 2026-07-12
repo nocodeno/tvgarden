@@ -98,25 +98,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EP8aV0QwkfdsbF",
-    "name": "Canal 6 Master TV Carapari",
+    "nanoid": "qAN5sBGpkuc0D2",
+    "name": "CEACOM TV",
     "sources": {
       "streams": [
-        "https://edge.enhdtv.com/8064/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CnDq6xDOGFtSot",
-    "name": "Canal 15 Teleor",
-    "sources": {
-      "streams": [
-        "https://ares.disfrutaenlared.com:1936/activatv/activatv/playlist.m3u8"
+        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
       ]
     },
     "languages": [
@@ -159,6 +145,20 @@
     "sources": {
       "streams": [
         "https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oh20dqyFkVNesT",
+    "name": "Dmoda Channel",
+    "sources": {
+      "streams": [
+        "https://master.tucableip.com/dmoda/index.m3u8"
       ]
     },
     "languages": [
@@ -239,34 +239,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sbY71GQX2qeY5v",
-    "name": "GTV",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/guadalupetv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HZgZI7rlmeI69Y",
-    "name": "Imagen TV",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/imagentvpotosib/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "p4RUs4APE7OSx0",
     "name": "Interactivo Television",
     "sources": {
@@ -310,20 +282,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4frDgMPDz0NOom",
-    "name": "PTV",
-    "sources": {
-      "streams": [
-        "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pYqhwxhr9gjeaq",
     "name": "Radio Centro",
     "sources": {
@@ -338,11 +296,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BnzbysvLZ1mHZ2",
-    "name": "Radio Clasica TV",
+    "nanoid": "yb5J2y39iS97LB",
+    "name": "Radio Gente",
     "sources": {
       "streams": [
-        "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8"
+        "https://edge.enhdtv.com/8068/index.m3u8"
       ]
     },
     "languages": [
@@ -357,20 +315,6 @@
     "sources": {
       "streams": [
         "https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OPWUaOk2V7zsOP",
-    "name": "Radio Mega TV Amazonia",
-    "sources": {
-      "streams": [
-        "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -403,21 +347,6 @@
     },
     "languages": [
       "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hzi4nlNP3J2X8P",
-    "name": "Red CCTV",
-    "sources": {
-      "streams": [
-        "https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8",
-        "https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "bo",
     "isGeoBlocked": false
@@ -465,11 +394,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jo5rZWZDxVWDCK",
-    "name": "Sucremanta TV",
+    "nanoid": "izfFH8RnAwm70u",
+    "name": "RTP",
     "sources": {
       "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8"
+        "https://rtp.noxun.net/hls/stream.m3u8",
+        "https://rtp.noxun.net/hls720/stream3.m3u8"
       ]
     },
     "languages": [
@@ -521,11 +451,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oOiARRZ91GwBKV",
-    "name": "TL Estrella",
+    "nanoid": "lCPbDhC1z9VYdq",
+    "name": "TransMedia",
     "sources": {
       "streams": [
-        "https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8"
+        "https://edge.enhdtv.com/8064/index.m3u8"
       ]
     },
     "languages": [
@@ -599,6 +529,20 @@
       "streams": [
         "https://edge.enhdtv.com/8190/index.m3u8",
         "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aEcBTxbogN3Y6R",
+    "name": "Unica TV",
+    "sources": {
+      "streams": [
+        "https://59d39900ebfb8.streamlock.net/unicatv/unicatv/playlist.m3u8"
       ]
     },
     "languages": [

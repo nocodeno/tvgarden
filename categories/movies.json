@@ -183,17 +183,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GyD5jgzfEEiUYG",
-    "name": "Asia Flix TV",
+    "nanoid": "qS9h25t8tf42wr",
+    "name": "Aurora Media Films",
     "sources": {
       "streams": [
-        "https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8"
+        "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"
       ]
     },
     "languages": [
-      "tgl"
+      "spa"
     ],
-    "country": "ph",
+    "country": "gt",
     "isGeoBlocked": false
   },
   {
@@ -302,9 +302,9 @@
     "name": "Charge!",
     "sources": {
       "streams": [
+        "https://206.212.244.63/34/index.m3u8",
         "https://40.160.24.52/CHARGE/index.m3u8",
-        "https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8",
-        "https://206.212.244.63/34/index.m3u8"
+        "https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8"
       ]
     },
     "languages": [
@@ -459,11 +459,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8Ucx5FG7ngDLh5",
-    "name": "City Eden KinoDetektiv",
+    "nanoid": "n4R8lzuArvLNkC",
+    "name": "City Eden KinoArt",
     "sources": {
       "streams": [
-        "https://cityeden.catcast.tv/content/41327/index.m3u8"
+        "https://cityeden.catcast.tv/content/38398/index.m3u8"
       ]
     },
     "languages": [
@@ -473,11 +473,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FQwfx6NTcjE41o",
-    "name": "City Eden KinoDrama",
+    "nanoid": "Wc02nSZr6VuoIF",
+    "name": "City Eden KinoAsia",
     "sources": {
       "streams": [
-        "https://cityeden.catcast.tv/content/45269/index.m3u8"
+        "https://cityeden.catcast.tv/content/34393/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8Ucx5FG7ngDLh5",
+    "name": "City Eden KinoDetektiv",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/41327/index.m3u8"
       ]
     },
     "languages": [
@@ -501,39 +515,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xjnk7dNYRv7edj",
-    "name": "City Eden KinoKlassika",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34185/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "N0XF0zTYtjf6Vc",
     "name": "City Eden KinoKomediya",
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/41331/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hYJqIp24qMnNqd",
-    "name": "City Eden KinoMistika",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/40783/index.m3u8"
       ]
     },
     "languages": [
@@ -619,7 +605,6 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8",
-        "https://amg00353-lionsgatestudios-amg00353c11-xumo-us-2108.playouts.now.amagi.tv/EbonyTV-pl/playlist.m3u8",
         "https://pb-6csswagmy4nat.akamaized.net/Ebony_TV_by_Lionsgate.m3u8"
       ]
     },
@@ -669,6 +654,20 @@
       "bho"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zog5XJTCy1wjbi",
+    "name": "Fillka TV",
+    "sources": {
+      "streams": [
+        "https://amixtv.com/fillkatvhd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -810,6 +809,35 @@
       "ukr"
     ],
     "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "St4mIyJrfGj7sA",
+    "name": "Flix East",
+    "sources": {
+      "streams": [
+        "https://40.160.24.52/FLIX/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sHoHuSAlPWO3Lh",
+    "name": "FrightFlix",
+    "sources": {
+      "streams": [
+        "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2229"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -958,6 +986,7 @@
     "name": "Great American Family",
     "sources": {
       "streams": [
+        "https://40.160.24.52/GREAT_AMERICAN_COUNTRY/index.m3u8",
         "https://206.212.244.63/81/index.m3u8",
         "https://40.160.24.58/GAC_FAMILY/index.m3u8"
       ]
@@ -1174,7 +1203,6 @@
     "name": "Indiyskoye Kino",
     "sources": {
       "streams": [
-        "https://188.113.190.12/329/index.m3u8",
         "https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -1467,6 +1495,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nmvDYU77CcKzht",
+    "name": "MGM+ East",
+    "sources": {
+      "streams": [
+        "https://40.160.24.52/EPIX/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VJnruYtq19n0mK",
+    "name": "MGM+ Hits East",
+    "sources": {
+      "streams": [
+        "https://40.160.24.52/EPIX_2/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zNKcIL8vSfNOiJ",
     "name": "Mix Hollywood",
     "sources": {
@@ -1552,6 +1610,20 @@
     ],
     "country": "lv",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MGmbqNX8bkdPaR",
+    "name": "My Cinema Europe",
+    "sources": {
+      "streams": [
+        "https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ch",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "AWbO3MTrOLeQig",
@@ -1871,17 +1943,46 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FT8VcZltRS1FOf",
-    "name": "Rakuten TV Action Movies Germany",
+    "nanoid": "DqKr2u3T1rmLql",
+    "name": "Rakuten Top Movies UK",
     "sources": {
       "streams": [
-        "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
+        "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
       ]
     },
     "languages": [
-      "deu"
+      "eng"
     ],
-    "country": "de",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "agkvvLgzKzCtyK",
+    "name": "Rakuten TV Action Movies Finland",
+    "sources": {
+      "streams": [
+        "https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9yewxbvb9FUiND",
+    "name": "Rakuten TV Action Movies Spain",
+    "sources": {
+      "streams": [
+        "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -1896,62 +1997,6 @@
       "eng"
     ],
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nYCXjvra9MA0zd",
-    "name": "Rakuten TV Drama Movies Germany",
-    "sources": {
-      "streams": [
-        "https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pVq6NYAblJFq99",
-    "name": "Rakuten TV Drama Movies Italy",
-    "sources": {
-      "streams": [
-        "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "i6jMhimWGlGgKg",
-    "name": "Rakuten TV Top Movies Germany",
-    "sources": {
-      "streams": [
-        "https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Dc2UvpAt3aRjGd",
-    "name": "Rakuten TV Top Movies Italy",
-    "sources": {
-      "streams": [
-        "https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -2135,6 +2180,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TwLZYUht0iqIvh",
+    "name": "Sony Movies",
+    "sources": {
+      "streams": [
+        "https://45.162.64.114/SONY_MOVIES/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Kvk7RMDyU5nlWZ",
     "name": "Sony Movies Latin America",
     "sources": {
@@ -2265,12 +2324,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9XCIxSDz7ScIo3",
+    "name": "Suriyan TV",
+    "sources": {
+      "streams": [
+        "https://stream.sscloud7.com/live/suriyantv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "tam"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jBHty7VgENQxrk",
     "name": "SYFY East",
     "sources": {
       "streams": [
-        "https://40.160.24.55/SYFY/index.m3u8",
-        "https://206.212.244.63/152/index.m3u8"
+        "https://206.212.244.63/152/index.m3u8",
+        "https://40.160.24.55/SYFY/index.m3u8"
       ]
     },
     "languages": [
@@ -2352,6 +2425,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3KIbg37PQUOdm7",
+    "name": "Viasat Kino Comedy",
+    "sources": {
+      "streams": [
+        "https://ukr.ukrainske.tv/493/keytvainua/video.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "lat",
+      "rus"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Q5p4g67XWwNDIs",
     "name": "viju TV1000 action",
     "sources": {
@@ -2395,6 +2484,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZhCUVwbnjNLKS9",
+    "name": "Watch it Scream!",
+    "sources": {
+      "streams": [
+        "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2246"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UutI4EHEMbjGu9",
     "name": "Whiplash Cinema",
     "sources": {
@@ -2420,20 +2523,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HFLT2PMog36fFQ",
-    "name": "Xtrema Accion",
-    "sources": {
-      "streams": [
-        "https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
     "isGeoBlocked": false
   },
   {

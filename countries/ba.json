@@ -12,15 +12,29 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yLVZgzeSuuMtfC",
-    "name": "NTV IC Kakanj",
+    "nanoid": "EVEWwSdKrqOAA0",
+    "name": "Newsmax Balkans",
     "sources": {
       "streams": [
-        "https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8"
+        "https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8"
       ]
     },
     "languages": [
       "bos"
+    ],
+    "country": "ba",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "V8QFLQrHQiMeTN",
+    "name": "RTRS plus",
+    "sources": {
+      "streams": [
+        "https://pluslive.rtrs.tv/plus/plus/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "srp"
     ],
     "country": "ba",
     "isGeoBlocked": false

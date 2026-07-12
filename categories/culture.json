@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "qrJk7Z0w2ndHZn",
-    "name": "13C",
-    "sources": {
-      "streams": [
-        "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SUz6ZlewrjG9Ml",
     "name": "Abai TV",
     "sources": {
@@ -142,6 +128,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sdiObwInEYoWku",
+    "name": "Balchi TV",
+    "sources": {
+      "streams": [
+        "https://rtmpcontrol.com:1936/balchitv/balchitv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "nld",
+      "pap"
+    ],
+    "country": "aw",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Pkjc3NERB4CaPa",
     "name": "BAM-TV",
     "sources": {
@@ -182,21 +183,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bYTvtLA2rlhnbu",
-    "name": "Bonaire.tv",
-    "sources": {
-      "streams": [
-        "https://media.streambrothers.com:1936/8506/8506/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "nld",
-      "pap"
-    ],
-    "country": "bq",
     "isGeoBlocked": false
   },
   {
@@ -284,28 +270,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vUd9BZTcBgBOm3",
-    "name": "Catamarca TV",
-    "sources": {
-      "streams": [
-        "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RMJta2uB0RhiFk",
     "name": "Channel One",
     "sources": {
       "streams": [
         "https://pemirateshls.persiana.live/hls/stream.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/3RAHXSuF6VA"
       ]
     },
     "languages": [
@@ -681,17 +650,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "duSXiulPj9T5qC",
-    "name": "Guaymate TV",
+    "nanoid": "8KOU6DpK9ejUrd",
+    "name": "Hakka TV",
     "sources": {
       "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
+        "https://hc9lby9bzw8zcar.wcetv.com/hls/hakkatv.m3u8"
       ]
     },
     "languages": [
-      "spa"
+      "zho"
     ],
-    "country": "do",
+    "country": "tw",
     "isGeoBlocked": false
   },
   {
@@ -1204,8 +1173,8 @@
     "name": "Ovation",
     "sources": {
       "streams": [
-        "https://40.160.24.55/OVATION/index.m3u8",
-        "https://206.212.244.63/134/index.m3u8"
+        "https://206.212.244.63/134/index.m3u8",
+        "https://40.160.24.55/OVATION/index.m3u8"
       ]
     },
     "languages": [
@@ -1398,20 +1367,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "z6v7ZVW8wRdbxQ",
-    "name": "Senal U",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GOBdXHd7gdoheA",
     "name": "Sercem TV",
     "sources": {
@@ -1449,20 +1404,6 @@
       "xms"
     ],
     "country": "ma",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7omf3emk4fDdL8",
-    "name": "STZ TV",
-    "sources": {
-      "streams": [
-        "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -1693,11 +1634,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XhURbZlUHvh8jv",
+    "name": "Verso TV",
+    "sources": {
+      "streams": [
+        "https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "glNPCf2RbwoWmt",
     "name": "zenith",
     "sources": {
       "streams": [
-        "https://live.azenagroup.com/zenith/index.ll.m3u8",
         "https://live.azenagroup.com/zenith/index.m3u8"
       ]
     },
