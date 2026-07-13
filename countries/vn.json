@@ -82,18 +82,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "PYD65sKTsyBg8u",
-    "name": "Lao Cai TV",
-    "sources": {
-      "streams": [
-        "https://live.baolaocai.vn/channel2/stream.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nfUMYUgBEhhJaP",
     "name": "Lao SV TV",
     "sources": {
@@ -113,6 +101,20 @@
     "sources": {
       "streams": [
         "https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1Z09wt5wx76BFs",
+    "name": "QPVN",
+    "sources": {
+      "streams": [
+        "https://qpvn.vn/live/qpvn/master.m3u8"
       ]
     },
     "languages": [
@@ -155,6 +157,20 @@
     "sources": {
       "streams": [
         "https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OHw1zTMDs2YTrv",
+    "name": "TVB Vietnam",
+    "sources": {
+      "streams": [
+        "https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8"
       ]
     },
     "languages": [

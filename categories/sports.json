@@ -6,6 +6,9 @@
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
         "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/gEb5e99c1zM"
       ]
     },
     "languages": [
@@ -190,7 +193,8 @@
     "name": "Band Sports",
     "sources": {
       "streams": [
-        "https://45.162.64.114/BAND_SPORTS/index.m3u8"
+        "https://45.162.64.114/BAND_SPORTS/index.m3u8",
+        "https://45.190.28.50/BAND_SPORTS_HD/index.m3u8"
       ]
     },
     "languages": [
@@ -285,6 +289,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "g9NMm1b1v6WPST",
+    "name": "Combate",
+    "sources": {
+      "streams": [
+        "https://143.14.134.107/167/index.m3u8",
+        "https://45.190.156.152/COMBATE/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wuceitzgHl5DOL",
     "name": "CRTV",
     "sources": {
@@ -311,20 +330,6 @@
       "hin"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "efmLnGoMatsGBL",
-    "name": "DP World Tour",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/Yl_WDEf0zqk"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -442,6 +447,35 @@
       "cat"
     ],
     "country": "es",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
+    "sources": {
+      "streams": [
+        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ps5SHG9loIy0eR",
+    "name": "F1 Channel US",
+    "sources": {
+      "streams": [
+        "https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": true
   },
   {
@@ -620,10 +654,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uVswq4jnyeoNam",
+    "name": "Fox Sports 1",
+    "sources": {
+      "streams": [
+        "https://streamvidex.qzz.io/videx/fox1usa/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KKtmG6U0zua4oT",
     "name": "FTF Sports",
     "sources": {
       "streams": [
+        "https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8",
         "https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8",
         "https://a-cdn.klowdtv.com/live2/ftf_720p/playlist.m3u8"
       ]
@@ -878,34 +927,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wiIsgplTccLk32",
-    "name": "Lacrosse TV",
-    "sources": {
-      "streams": [
-        "https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zfJa4qfi7LBJ6S",
-    "name": "M4 Sport",
-    "sources": {
-      "streams": [
-        "https://c802-node63-cdn.connectmedia.hu/110304/ab67a38843442593e9b3d3933bfe7885/6a512f37/index.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hRCPRwYpEDOZ41",
     "name": "MadeinBO TV",
     "sources": {
@@ -1083,6 +1104,7 @@
     "name": "NBA TV",
     "sources": {
       "streams": [
+        "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
         "https://pb-5pdyic0cu7tri.akamaized.net/NBA.m3u8",
         "https://40.160.24.58/NBA_TV/index.m3u8"
       ]
@@ -1338,6 +1360,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TlTNzcDW7CflZP",
+    "name": "Premiere Clubes",
+    "sources": {
+      "streams": [
+        "https://45.190.156.152/PREMIERE_CLUBES/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -1882,7 +1918,8 @@
     "name": "Trace Sport Stars",
     "sources": {
       "streams": [
-        "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8"
+        "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8",
+        "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8"
       ]
     },
     "languages": [
@@ -1890,7 +1927,7 @@
       "fra"
     ],
     "country": "fr",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "CliuBv6wjZdpBP",
@@ -2149,7 +2186,8 @@
     "name": "TyC Sports",
     "sources": {
       "streams": [
-        "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
+        "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
+        "https://45.181.87.106/TYCSPORTSHD/index.m3u8"
       ]
     },
     "languages": [

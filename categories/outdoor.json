@@ -59,6 +59,7 @@
     "sources": {
       "streams": [
         "https://45.162.64.114/AGRO_CANAL/index.m3u8",
+        "https://45.190.28.50/AGRO_CANAL/index.m3u8",
         "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
       ]
     },
@@ -201,7 +202,8 @@
     "name": "Fish TV",
     "sources": {
       "streams": [
-        "https://45.162.64.114/FISH_TV/index.m3u8"
+        "https://45.162.64.114/FISH_TV/index.m3u8",
+        "https://45.190.28.50/FISH_TV_HD/index.m3u8"
       ]
     },
     "languages": [
@@ -246,6 +248,9 @@
     "sources": {
       "streams": [
         "https://fms.premio.link/fishingtv/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/FMWosQMfdy0"
       ]
     },
     "languages": [
@@ -340,7 +345,7 @@
       "streams": [
         "https://206.212.244.63/2507/index.m3u8",
         "https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8",
-        "https://40.160.24.55/OUTDOOR_CHANNEL/index.m3u8"
+        "https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8?ads.vf=z_DyaXIqL6G"
       ]
     },
     "languages": [
@@ -405,20 +410,6 @@
       "deu"
     ],
     "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bcFsomEBowqYIB",
-    "name": "Productiva TV",
-    "sources": {
-      "streams": [
-        "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
     "isGeoBlocked": false
   },
   {

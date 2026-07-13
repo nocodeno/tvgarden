@@ -17,6 +17,7 @@
     "sources": {
       "streams": [
         "https://45.162.64.114/AGRO_CANAL/index.m3u8",
+        "https://45.190.28.50/AGRO_CANAL/index.m3u8",
         "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
       ]
     },
@@ -117,8 +118,8 @@
     "name": "Canal Educacao",
     "sources": {
       "streams": [
-        "https://canaleducacao-stream.ebc.com.br/index.m3u8",
-        "https://45.162.64.114/CANAL_EDUCACAO/index.m3u8"
+        "https://45.162.64.114/CANAL_EDUCACAO/index.m3u8",
+        "https://canaleducacao-stream.ebc.com.br/index.m3u8"
       ]
     },
     "languages": [
@@ -835,6 +836,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9NYf5msdVIxgC1",
+    "name": "ILCE Canal 15 Summa Saberes",
+    "sources": {
+      "streams": [
+        "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wBMPZbYU5rhwEy",
     "name": "iSTUFF",
     "sources": {
@@ -947,20 +962,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QOQ6tEZPUjQnVk",
-    "name": "M5",
-    "sources": {
-      "streams": [
-        "https://c402-node62-cdn.connectmedia.hu/110305/2f9138f608109e0767d30a91d01c67cd/6a512e5f/index.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xsRHw7w1yWnmCm",
     "name": "Made In History",
     "sources": {
@@ -980,20 +981,6 @@
     "sources": {
       "streams": [
         "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uvGkHvj4kYuGpc",
-    "name": "MCPSS TV",
-    "sources": {
-      "streams": [
-        "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1112,20 +1099,6 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "n4MkAIlXwdSE8X",
-    "name": "OUN",
-    "sources": {
-      "streams": [
-        "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -1538,6 +1511,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "g7YtvRUN199O67",
+    "name": "TV UG",
+    "sources": {
+      "streams": [
+        "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wbA0Ma6O1OQNwg",
     "name": "TV UJAT",
     "sources": {
@@ -1767,11 +1754,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5X15DRPWWS1LoX",
-    "name": "XHMNL-TDT",
+    "nanoid": "qY3In36TCPaQmA",
+    "name": "XEIPN-TDT",
     "sources": {
       "streams": [
-        "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
+        "https://s5.mexside.net:1936/stream/stream/index.m3u8"
       ]
     },
     "languages": [

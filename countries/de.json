@@ -4,8 +4,8 @@
     "name": "3sat",
     "sources": {
       "streams": [
-        "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
         "https://41.205.77.102/3SAT/index.m3u8",
+        "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
         "https://41.223.30.230/3SAT/index.m3u8"
       ]
     },
@@ -205,8 +205,7 @@
     "name": "Cira TV",
     "sources": {
       "streams": [
-        "https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8",
-        "https://cira-tv.akamaized.net/hls/stream_0.m3u8"
+        "https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8"
       ]
     },
     "languages": [
@@ -338,7 +337,7 @@
       "streams": [
         "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
         "https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8",
-        "https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8"
+        "https://45.190.28.50/DW/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
@@ -442,6 +441,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0deWs8tTLyJPRE",
+    "name": "FilmGold Germany",
+    "sources": {
+      "streams": [
+        "https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CiGC7hiaz7dMhM",
     "name": "Filstalwelle",
     "sources": {
@@ -467,6 +478,18 @@
       "deu",
       "tur"
     ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6ftPsR4C1PTDrI",
+    "name": "Fluss Monster",
+    "sources": {
+      "streams": [
+        "https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -864,18 +887,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "4YOpv1CYox1W50",
-    "name": "Naruto Germany",
-    "sources": {
-      "streams": [
-        "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9oFKf7u6XNNE0e",
     "name": "NDR Hamburg",
     "sources": {
@@ -1090,6 +1101,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "D4nMjd2d15gJap",
+    "name": "OK Kaiserslautern",
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/abr_okkl/webstream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "0ATgctzwJhYRU7",
+    "name": "OK Kassel",
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/mok-ks/kassel/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "TAd1Ubg7TEmAUU",
     "name": "OK Kiel",
     "sources": {
@@ -1134,6 +1173,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WXS0fra9wbJjZY",
+    "name": "OK Rhein-Main",
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "rBGrW8kNGesFFe",
     "name": "OK Salzwedel",
     "sources": {
@@ -1165,6 +1218,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "F23o0isfrVABPH",
+    "name": "OK Trier",
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/ott/webstream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "iD1O3DGfgUMF59",
     "name": "OK Wernigerode",
     "sources": {
@@ -1178,6 +1245,34 @@
     ],
     "country": "de",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8i2J4ObjaTLwEP",
+    "name": "OK4",
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/abr_ok4/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "yxO2PJ4t5WokqS",
+    "name": "OK54",
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "hKXziqHmvJRVZi",

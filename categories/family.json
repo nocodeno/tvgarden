@@ -119,7 +119,7 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8",
-        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8",
+        "https://amg00567-amg00567c1-firetv-us-4124.playouts.now.amagi.tv/playlist.m3u8",
         "https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8"
       ]
     },
@@ -134,8 +134,8 @@
     "name": "FETV",
     "sources": {
       "streams": [
-        "https://206.212.244.63/60/index.m3u8",
-        "https://40.160.24.52/FETV/index.m3u8"
+        "https://40.160.24.52/FETV/index.m3u8",
+        "https://206.212.244.63/60/index.m3u8"
       ]
     },
     "languages": [
@@ -149,8 +149,8 @@
     "name": "Freeform East",
     "sources": {
       "streams": [
-        "https://40.160.24.52/FREEFORM/index.m3u8",
-        "https://206.212.244.63/69/index.m3u8"
+        "https://206.212.244.63/69/index.m3u8",
+        "https://40.160.24.52/FREEFORM/index.m3u8"
       ]
     },
     "languages": [
@@ -179,8 +179,8 @@
     "sources": {
       "streams": [
         "https://40.160.24.52/GREAT_AMERICAN_COUNTRY/index.m3u8",
-        "https://206.212.244.63/81/index.m3u8",
-        "https://40.160.24.58/GAC_FAMILY/index.m3u8"
+        "https://40.160.24.58/GAC_FAMILY/index.m3u8",
+        "https://206.212.244.63/81/index.m3u8"
       ]
     },
     "languages": [
@@ -322,20 +322,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OFNCxJwQlhXnh3",
-    "name": "Tshwane TV",
-    "sources": {
-      "streams": [
-        "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GmMshdsdBRXuib",
     "name": "TV Familia",
     "sources": {
@@ -347,6 +333,20 @@
       "spa"
     ],
     "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "usETpjVP1bzVNN",
+    "name": "TV Famille",
+    "sources": {
+      "streams": [
+        "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "mq",
     "isGeoBlocked": false
   },
   {

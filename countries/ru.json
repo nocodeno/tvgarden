@@ -319,6 +319,7 @@
     "sources": {
       "streams": [
         "https://178.217.49.7/1/index.m3u8",
+        "https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8"
       ]
     },
@@ -385,20 +386,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gUswhqxHZdKrP1",
-    "name": "City Eden KinoAction",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/41333/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "n4R8lzuArvLNkC",
     "name": "City Eden KinoArt",
     "sources": {
@@ -455,6 +442,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FQwfx6NTcjE41o",
+    "name": "City Eden KinoDrama",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/45269/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zzxh5uo44jq1FL",
     "name": "City Eden KinoFantastika",
     "sources": {
@@ -469,11 +470,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xjnk7dNYRv7edj",
+    "name": "City Eden KinoKlassika",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/34185/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "N0XF0zTYtjf6Vc",
     "name": "City Eden KinoKomediya",
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/41331/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hYJqIp24qMnNqd",
+    "name": "City Eden KinoMistika",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/40783/index.m3u8"
       ]
     },
     "languages": [
@@ -502,6 +531,20 @@
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/34100/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rt3pDKAk1yMoRc",
+    "name": "City Eden Recepty Gurmana",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/47516/index.m3u8"
       ]
     },
     "languages": [
@@ -631,20 +674,6 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xupLUhlUhMmQst",
-    "name": "Duma TV",
-    "sources": {
-      "streams": [
-        "https://dumatv.iptv2022.com/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1083,6 +1112,20 @@
     "sources": {
       "streams": [
         "https://ukr.ukrainske.tv/134/keytvainua/video.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "erxOsx3g2a8Kk4",
+    "name": "Millet",
+    "sources": {
+      "streams": [
+        "https://live1.1tvcrimea.ru/milletlive.m3u8"
       ]
     },
     "languages": [
@@ -1537,20 +1580,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kDIn5P06JUE8QJ",
-    "name": "Perviy Krymskiy",
-    "sources": {
-      "streams": [
-        "https://live1.1tvcrimea.ru/1tvcrimea.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xaE820ta9it7vV",
     "name": "Pervyy Respublikanskiy",
     "sources": {
@@ -1626,6 +1655,7 @@
     "name": "Prosveshchenie",
     "sources": {
       "streams": [
+        "https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8",
         "https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8"
       ]
     },
@@ -1741,7 +1771,6 @@
     "name": "RT",
     "sources": {
       "streams": [
-        "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8",
         "https://wisewatchoott.wiseplayout.com/RT/master.m3u8",
         "https://41.205.77.102/RT-ENGLISH/index.m3u8"
       ]
@@ -1757,7 +1786,6 @@
     "name": "RT Arabic",
     "sources": {
       "streams": [
-        "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
         "https://rt-arb.rttv.com/live/rtarab/playlist.m3u8"
       ]
     },
@@ -2473,7 +2501,6 @@
     "name": "TNT",
     "sources": {
       "streams": [
-        "https://streaming.televizor-24-tochka.ru/live/38.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8"
       ]
     },
@@ -2797,6 +2824,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "K5EAZFvuWObb4f",
+    "name": "VIVA Russia",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pnRdmB03EI7cgW",
     "name": "Vmeste-RF",
     "sources": {
@@ -3073,6 +3114,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/ozFiyuUljag"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VRSVNzRuNbdCXJ",
+    "name": "Ювелирочка",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/5AHR_m-yDCc"
       ]
     },
     "languages": [

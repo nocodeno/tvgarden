@@ -41,6 +41,9 @@
         "https://40.160.24.56/CBS_NEWS/index.m3u8",
         "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
         "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/BpK7_SJOMYg"
       ]
     },
     "languages": [
@@ -90,7 +93,7 @@
       "streams": [
         "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
         "https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8",
-        "https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8"
+        "https://45.190.28.50/DW/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
@@ -101,6 +104,25 @@
     ],
     "country": "de",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "vyAlDaoF9WU1Q1",
+    "name": "Euronews English",
+    "sources": {
+      "streams": [
+        "https://45.190.28.50/EURONEWS_HD/index.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8",
+        "https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "oTQxI54nBGEd6Z",
@@ -165,7 +187,6 @@
     "name": "RT",
     "sources": {
       "streams": [
-        "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8",
         "https://wisewatchoott.wiseplayout.com/RT/master.m3u8",
         "https://41.205.77.102/RT-ENGLISH/index.m3u8"
       ]

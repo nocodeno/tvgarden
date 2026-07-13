@@ -31,6 +31,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sPGmyALtlBkjD3",
+    "name": "Ameritrade",
+    "sources": {
+      "streams": [
+        "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
     "sources": {
@@ -414,8 +428,8 @@
     "name": "CNBC World",
     "sources": {
       "streams": [
-        "https://40.160.24.52/CNBC_WORLD/index.m3u8",
-        "https://206.212.244.63/42/index.m3u8"
+        "https://206.212.244.63/42/index.m3u8",
+        "https://40.160.24.52/CNBC_WORLD/index.m3u8"
       ]
     },
     "languages": [
@@ -485,8 +499,8 @@
     "name": "Fox Business Network",
     "sources": {
       "streams": [
-        "https://206.212.244.63/66/index.m3u8",
         "https://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8",
+        "https://206.212.244.63/66/index.m3u8",
         "https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8"
       ]
     },
@@ -542,6 +556,10 @@
     "nanoid": "PrbGgJSVKuINgQ",
     "name": "NDTV Profit",
     "sources": {
+      "streams": [
+        "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8",
+        "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/EN-N1xhtBqU"
       ]
@@ -564,6 +582,20 @@
       "spa"
     ],
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fEhuSbh6UZiVWk",
+    "name": "NW Economie",
+    "sources": {
+      "streams": [
+        "https://hls.newworldtv.com/nw-economie/video/live.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "tg",
     "isGeoBlocked": false
   },
   {

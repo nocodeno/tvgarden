@@ -164,21 +164,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UQ2tnaYuDB5seW",
-    "name": "Rika TV",
-    "sources": {
-      "streams": [
-        "https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kaz",
-      "rus"
-    ],
-    "country": "kz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TomqBXbWstBWEq",
     "name": "Silk Way",
     "sources": {
@@ -203,7 +188,10 @@
         "https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "kaz",
+      "rus"
+    ],
     "country": "kz",
     "isGeoBlocked": true
   },

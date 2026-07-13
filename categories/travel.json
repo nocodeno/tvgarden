@@ -132,7 +132,8 @@
     "name": "Fun Roads",
     "sources": {
       "streams": [
-        "https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8"
+        "https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8",
+        "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978"
       ]
     },
     "languages": [
@@ -257,20 +258,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "goNrMuzefDwskd",
-    "name": "Maldives TV",
-    "sources": {
-      "streams": [
-        "https://lana.psm.mv/live/mtv.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "mv",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IG7KP9uOfXV0Z7",
     "name": "OEPM TV",
     "sources": {
@@ -370,6 +357,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RjizuTIlBcKIri",
+    "name": "Travel Box Brazil",
+    "sources": {
+      "streams": [
+        "https://45.190.28.50/TRAVEL_BOX_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fwm1YJJu2dW30c",
     "name": "Travel TV",
     "sources": {
@@ -381,20 +382,6 @@
       "bul"
     ],
     "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xCDrIWnNgtribb",
-    "name": "Turismo RDTV",
-    "sources": {
-      "streams": [
-        "https://streamunoapp.com:3086/live/telemileniolive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -423,20 +410,6 @@
       "spa"
     ],
     "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AOuzDU3o0FoYy3",
-    "name": "TV Parana Turismo",
-    "sources": {
-      "streams": [
-        "https://200.189.113.201/hls/tve.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
     "isGeoBlocked": false
   },
   {
