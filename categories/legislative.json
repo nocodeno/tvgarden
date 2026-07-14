@@ -1049,20 +1049,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "G91NOrrqX23WUi",
-    "name": "Natick Government Channel",
-    "sources": {
-      "streams": [
-        "https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XdBBT0nNYrdIFQ",
     "name": "NMBTV",
     "sources": {
@@ -1145,6 +1131,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "C4WEiFY5k9mJhz",
+    "name": "Orszaggyules: OGY plenaris",
+    "sources": {
+      "streams": [
+        "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
     "isGeoBlocked": false
   },
   {
@@ -1393,6 +1393,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ztNrNzCLndWIQ7",
+    "name": "The Parliamentary Channel",
+    "sources": {
+      "streams": [
+        "https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "bs",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "am21AdPLsYEXMM",
     "name": "The Peninsula Channel",
     "sources": {
@@ -1412,7 +1426,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/i5p3UdZMwmA"
+        "https://www.youtube-nocookie.com/embed/kACp-Viww6I"
       ]
     },
     "languages": [
@@ -1441,8 +1455,8 @@
     "sources": {
       "streams": [
         "https://stream3.camara.gov.br/tv1/manifest.m3u8",
-        "https://45.190.28.50/TV_CAMARA/index.m3u8",
-        "https://45.162.64.114/TV_CAMARA/index.m3u8"
+        "https://45.162.64.114/TV_CAMARA/index.m3u8",
+        "https://45.190.28.50/TV_CAMARA/index.m3u8"
       ]
     },
     "languages": [

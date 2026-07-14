@@ -104,14 +104,28 @@
     "name": "Arte 1",
     "sources": {
       "streams": [
-        "https://45.162.64.114/ARTE1/index.m3u8",
-        "https://45.190.28.50/ARTE_1/index.m3u8"
+        "https://45.190.28.50/ARTE_1/index.m3u8",
+        "https://45.162.64.114/ARTE1/index.m3u8"
       ]
     },
     "languages": [
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "d4L8PBtWXj8rtD",
+    "name": "AsiriTV",
+    "sources": {
+      "streams": [
+        "https://video2.lhdserver.es/asiritv/live.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -169,20 +183,6 @@
       "fra"
     ],
     "country": "be",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VtHTEOxTK0CD0C",
-    "name": "Belarus-3",
-    "sources": {
-      "streams": [
-        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "by",
     "isGeoBlocked": false
   },
   {
@@ -321,7 +321,7 @@
         "https://pemirateshls.persiana.live/hls/stream.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/edwutYuNPhs"
+        "https://www.youtube-nocookie.com/embed/y3Ehkg-QUp0"
       ]
     },
     "languages": [
@@ -596,20 +596,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "31Wi6UqtxsYAm3",
-    "name": "Ev-tele",
-    "sources": {
-      "streams": [
-        "https://playtv4k.live/live/EVTELE/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "cg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "f5Yx0yGiPGMvvv",
     "name": "Flowers TV USA",
     "sources": {
@@ -654,17 +640,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8KOU6DpK9ejUrd",
-    "name": "Hakka TV",
+    "nanoid": "duSXiulPj9T5qC",
+    "name": "Guaymate TV",
     "sources": {
       "streams": [
-        "https://hc9lby9bzw8zcar.wcetv.com/hls/hakkatv.m3u8"
+        "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
       ]
     },
     "languages": [
-      "zho"
+      "spa"
     ],
-    "country": "tw",
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -794,22 +780,6 @@
       "kur"
     ],
     "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Bvox2CnXHOsvHp",
-    "name": "JOS TV HD",
-    "sources": {
-      "streams": [
-        "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
-      ]
-    },
-    "languages": [
-      "fra",
-      "kon",
-      "lin"
-    ],
-    "country": "cg",
     "isGeoBlocked": false
   },
   {
@@ -1193,8 +1163,8 @@
     "name": "Ovation",
     "sources": {
       "streams": [
-        "https://206.212.244.63/134/index.m3u8",
-        "https://40.160.24.55/OVATION/index.m3u8"
+        "https://40.160.24.55/OVATION/index.m3u8",
+        "https://206.212.244.63/134/index.m3u8"
       ]
     },
     "languages": [
@@ -1370,6 +1340,20 @@
       "hin"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "z6v7ZVW8wRdbxQ",
+    "name": "Senal U",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
     "isGeoBlocked": false
   },
   {

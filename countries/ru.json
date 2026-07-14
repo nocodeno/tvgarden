@@ -289,7 +289,23 @@
     "name": "Channel 8",
     "sources": {
       "streams": [
-        "https://tshift-1.telecoma.tv/8channel/index.m3u8"
+        "https://tshift-1.telecoma.tv/8channel/index.m3u8",
+        "https://v4.proofix.ru/okino-tv/index.m3u8",
+        "https://v4.proofix.ru/8tv-russia/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kA1UY3dRMwFBRR",
+    "name": "Channel 8 International",
+    "sources": {
+      "streams": [
+        "https://v4.proofix.ru/8tv-europe/index.m3u8"
       ]
     },
     "languages": [
@@ -358,6 +374,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Gq4mY3pzS19BJ0",
+    "name": "City Eden AutoGid",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/47515/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BN8UK0JlgAMrEm",
     "name": "City Eden Birma Play",
     "sources": {
@@ -377,6 +407,20 @@
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/47400/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gUswhqxHZdKrP1",
+    "name": "City Eden KinoAction",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/41333/index.m3u8"
       ]
     },
     "languages": [
@@ -568,6 +612,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CZ0c6ZasjBnZ4w",
+    "name": "City Eden TeleNovella",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/46209/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BxZoC6PtEMXYP0",
     "name": "Crimea 24",
     "sources": {
@@ -744,7 +802,6 @@
     "name": "Friday!",
     "sources": {
       "streams": [
-        "https://vod.tuva.ru/friday/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8"
       ]
     },
@@ -832,20 +889,6 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "etbkA5a5Tjztc5",
-    "name": "Ingushetia",
-    "sources": {
-      "streams": [
-        "https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1523,26 +1566,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GjOEGazOqwfLoM",
-    "name": "Okhota i rybalka",
+    "nanoid": "Dey2lxno90kK7c",
+    "name": "OSN",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8"
+        "https://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8"
       ]
     },
     "languages": [
-      "eng",
       "rus"
     ],
     "country": "ru",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Dey2lxno90kK7c",
-    "name": "OSN",
+    "nanoid": "qr9xvBDjARPSP8",
+    "name": "Otkritiy mir. Zdorove",
     "sources": {
       "streams": [
-        "https://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8"
+        "https://v4.proofix.ru/0mir/index.m3u8"
       ]
     },
     "languages": [
@@ -1786,7 +1828,7 @@
     "name": "RT Arabic",
     "sources": {
       "streams": [
-        "https://rt-arb.rttv.com/live/rtarab/playlist.m3u8"
+        "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1858,6 +1900,7 @@
     "name": "RTVi",
     "sources": {
       "streams": [
+        "https://shift03.isp.bg/RTVi/index.m3u8",
         "https://s70378.cdn.ngenix.net/rtvi/index.m3u8"
       ]
     },
@@ -2245,7 +2288,6 @@
     "name": "Spas",
     "sources": {
       "streams": [
-        "https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8"
       ]
     },
@@ -2371,20 +2413,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nb5MYVmBj2KvUf",
-    "name": "Svoyo TV",
-    "sources": {
-      "streams": [
-        "https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RNUBpldOGsNXSB",
     "name": "T24",
     "sources": {
@@ -2501,6 +2529,7 @@
     "name": "TNT",
     "sources": {
       "streams": [
+        "https://streaming.televizor-24-tochka.ru/live/38.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8"
       ]
     },
@@ -2878,20 +2907,6 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "MzPT9rWsVbKTNy",
-    "name": "YaPervyy",
-    "sources": {
-      "streams": [
-        "https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "UduqqsC4bcIebm",

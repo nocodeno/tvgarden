@@ -587,8 +587,7 @@
     "name": "Cine Friki",
     "sources": {
       "streams": [
-        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
-        "https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8"
+        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8"
       ]
     },
     "languages": [
@@ -1191,20 +1190,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lMIWUh9FjBPLOx",
-    "name": "Molahits TV",
-    "sources": {
-      "streams": [
-        "https://ventdelnord.tv:8080/mola/directe.m3u8"
-      ]
-    },
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lRMrIEjwRowfq6",
     "name": "Mr. Bean Anime Spain",
     "sources": {
@@ -1501,6 +1486,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9yewxbvb9FUiND",
+    "name": "Rakuten TV Action Movies Spain",
+    "sources": {
+      "streams": [
+        "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cWeIWfx3JTfA50",
     "name": "Rakuten TV Crime Series Spain",
     "sources": {
@@ -1509,6 +1508,20 @@
       ]
     },
     "languages": [],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "duHgjkhG7rfbm4",
+    "name": "Rakuten TV Family Movies Spain",
+    "sources": {
+      "streams": [
+        "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1776,20 +1789,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/39tFLvriPTs"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1nQKxr4bzoAoiY",
-    "name": "Telemotril",
-    "sources": {
-      "streams": [
-        "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2120,6 +2119,20 @@
     },
     "languages": [
       "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "f4MvB70GxNwe4i",
+    "name": "VOTV",
+    "sources": {
+      "streams": [
+        "https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
     ],
     "country": "es",
     "isGeoBlocked": false

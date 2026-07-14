@@ -118,42 +118,14 @@
     "name": "Canal Educacao",
     "sources": {
       "streams": [
-        "https://45.162.64.114/CANAL_EDUCACAO/index.m3u8",
-        "https://canaleducacao-stream.ebc.com.br/index.m3u8"
+        "https://canaleducacao-stream.ebc.com.br/index.m3u8",
+        "https://45.162.64.114/CANAL_EDUCACAO/index.m3u8"
       ]
     },
     "languages": [
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kmgZCVMju22EeN",
-    "name": "Canal Educativo",
-    "sources": {
-      "streams": [
-        "https://tv.picta.cu/educativo/educativo_0.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "K3el31a2gq3vxi",
-    "name": "Canal Educativo 2",
-    "sources": {
-      "streams": [
-        "https://tv.picta.cu/educativo2/educativo2_0.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cu",
     "isGeoBlocked": false
   },
   {
@@ -750,6 +722,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sJtHUQ2FEosClO",
+    "name": "Educa TV",
+    "sources": {
+      "streams": [
+        "https://avm.ecuamedia.net/educatv/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DuJd4u0fDHyZVy",
     "name": "Eduvision",
     "sources": {
@@ -1060,20 +1046,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1juHBAKtJpASKF",
-    "name": "Natick Education Channel",
-    "sources": {
-      "streams": [
-        "https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "miOqdRnG0LrRce",
     "name": "NBS",
     "sources": {
@@ -1099,6 +1071,20 @@
       "deu"
     ],
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n4MkAIlXwdSE8X",
+    "name": "OUN",
+    "sources": {
+      "streams": [
+        "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -1469,6 +1455,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ufquGR4ncw7ZpB",
+    "name": "TV BUAP",
+    "sources": {
+      "streams": [
+        "https://tvenvivo.buap.mx/livestream/stream/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LSV8LWxmVrWxS3",
     "name": "TV Cuatro 4.4",
     "sources": {
@@ -1508,20 +1508,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g7YtvRUN199O67",
-    "name": "TV UG",
-    "sources": {
-      "streams": [
-        "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -1759,6 +1745,20 @@
     "sources": {
       "streams": [
         "https://s5.mexside.net:1936/stream/stream/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5X15DRPWWS1LoX",
+    "name": "XHMNL-TDT",
+    "sources": {
+      "streams": [
+        "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
       ]
     },
     "languages": [

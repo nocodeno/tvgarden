@@ -1101,6 +1101,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "goJdBBUxKzhIiT",
+    "name": "Paradise TV",
+    "sources": {
+      "streams": [
+        "https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "rCWYXbGU5lesuk",
     "name": "Parole di Vita",
     "sources": {
@@ -1397,20 +1411,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Qw8OveH5NJ4HC0",
-    "name": "Radio Piter Pan TV",
-    "sources": {
-      "streams": [
-        "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "70aquUrXJYO7OT",
     "name": "Radio Studio Delta TV",
     "sources": {
@@ -1511,18 +1511,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "ozBRFwRaYqr51w",
-    "name": "Rai Italia Americas",
-    "sources": {
-      "streams": [
-        "https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1sYELMxG7kdJps",
     "name": "Rai Italia Europe/Africa",
     "sources": {
@@ -1532,6 +1520,34 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Hui54duTgxlhaP",
+    "name": "Rai Italia North Americas",
+    "sources": {
+      "streams": [
+        "https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2GgBtdEY2JnD3f",
+    "name": "Rai Italia South Americas",
+    "sources": {
+      "streams": [
+        "https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
     ],
     "country": "it",
     "isGeoBlocked": false
@@ -1565,15 +1581,15 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "4XypCIgUkqx4tL",
-    "name": "Rakuten TV Action Movies Italy",
+    "nanoid": "2WWhyLXun5E4Bd",
+    "name": "Rai Sudtirol",
     "sources": {
       "streams": [
-        "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
+        "https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8"
       ]
     },
     "languages": [
-      "ita"
+      "deu"
     ],
     "country": "it",
     "isGeoBlocked": false
@@ -1902,20 +1918,6 @@
     ],
     "country": "it",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "DmUTFjCclq9vDQ",
-    "name": "ST Europe Channel",
-    "sources": {
-      "streams": [
-        "https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "RR6jlIVs0NTuWf",
@@ -2433,6 +2435,20 @@
     "sources": {
       "streams": [
         "https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kVRqkfw56FIDW8",
+    "name": "TV Yes Italia",
+    "sources": {
+      "streams": [
+        "https://stream1.aswifi.it/radioyes/live/index.m3u8"
       ]
     },
     "languages": [

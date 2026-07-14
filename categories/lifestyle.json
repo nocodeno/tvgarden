@@ -119,8 +119,8 @@
     "name": "Biz TV",
     "sources": {
       "streams": [
-        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
-        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
+        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
       ]
     },
     "languages": [
@@ -473,7 +473,7 @@
     "name": "HGTV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/g7ZXtDAM_VE"
+        "https://www.youtube-nocookie.com/embed/7MelgCw5FTQ"
       ]
     },
     "languages": [
@@ -654,6 +654,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LSoGDBr7qw33OY",
+    "name": "NBC LX Home",
+    "sources": {
+      "streams": [
+        "https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FWaOGPp6Dlex8v",
     "name": "NDTV Good Times",
     "sources": {
@@ -712,6 +726,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qr9xvBDjARPSP8",
+    "name": "Otkritiy mir. Zdorove",
+    "sources": {
+      "streams": [
+        "https://v4.proofix.ru/0mir/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "i9at9xUaP2xXBL",
     "name": "PBS Travel",
     "sources": {
@@ -738,21 +766,6 @@
       "spa"
     ],
     "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3FPl5RIfISFiTh",
-    "name": "PRIDEtv LATAM",
-    "sources": {
-      "streams": [
-        "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "cl",
     "isGeoBlocked": false
   },
   {

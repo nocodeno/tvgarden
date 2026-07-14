@@ -1,10 +1,38 @@
 [
   {
+    "nanoid": "mGLwdOQP8VDOyv",
+    "name": "3RS Cartoon Movies",
+    "sources": {
+      "streams": [
+        "https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "w6lCTe5PGiw86y",
     "name": "3RS Movie Box",
     "sources": {
       "streams": [
         "https://3rsmoviebox.elektriko4444.workers.dev/moon.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ljbDHsn3LrEl5J",
+    "name": "3RS Sine Pinoy",
+    "sources": {
+      "streams": [
+        "https://3rssinepinoy2.elektriko4444.workers.dev/mochi.m3u8"
       ]
     },
     "languages": [
@@ -99,6 +127,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ndVRRmZjXvgvtL",
+    "name": "Allo Cine",
+    "sources": {
+      "streams": [
+        "https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fre"
+    ],
+    "country": "cm",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "miNrjenD6E2QJg",
     "name": "alpha Cinema",
     "sources": {
@@ -155,18 +198,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EyuttfLgYLGigl",
-    "name": "AMC Europe",
-    "sources": {
-      "streams": [
-        "https://dokagents.site/live/amc/mono.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aooVVp9SNVkFy5",
     "name": "AMC Latin America Brazil",
     "sources": {
@@ -178,20 +209,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GyD5jgzfEEiUYG",
-    "name": "Asia Flix TV",
-    "sources": {
-      "streams": [
-        "https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl"
-    ],
-    "country": "ph",
     "isGeoBlocked": false
   },
   {
@@ -265,20 +282,6 @@
       "rus"
     ],
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5fPdHbPWBlhNGl",
-    "name": "Boreal",
-    "sources": {
-      "streams": [
-        "https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -361,8 +364,7 @@
     "name": "Cine Friki",
     "sources": {
       "streams": [
-        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
-        "https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8"
+        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8"
       ]
     },
     "languages": [
@@ -476,6 +478,20 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gUswhqxHZdKrP1",
+    "name": "City Eden KinoAction",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/41333/index.m3u8"
       ]
     },
     "languages": [
@@ -726,17 +742,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zog5XJTCy1wjbi",
-    "name": "Fillka TV",
+    "nanoid": "MODjjERDzpT3OS",
+    "name": "Filmax",
     "sources": {
       "streams": [
-        "https://amixtv.com/fillkatvhd/index.m3u8"
+        "https://s3.ideationtec.live/Filmax/Filmax.m3u8"
       ]
     },
     "languages": [
-      "spa"
+      "urd"
     ],
-    "country": "pe",
+    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -1055,9 +1071,9 @@
     "name": "Great American Family",
     "sources": {
       "streams": [
-        "https://40.160.24.52/GREAT_AMERICAN_COUNTRY/index.m3u8",
         "https://40.160.24.58/GAC_FAMILY/index.m3u8",
-        "https://206.212.244.63/81/index.m3u8"
+        "https://206.212.244.63/81/index.m3u8",
+        "https://40.160.24.52/GREAT_AMERICAN_COUNTRY/index.m3u8"
       ]
     },
     "languages": [
@@ -1536,20 +1552,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CH0OBldtzqtjEK",
-    "name": "Mega Cine TV",
-    "sources": {
-      "streams": [
-        "https://cnn.hostlagarto.com/megacinetv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "r3pcMeCTNiXCm8",
     "name": "Meta Film TV",
     "sources": {
@@ -1605,6 +1607,20 @@
       "ara"
     ],
     "country": "eg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4JeYX90lm5Sxdq",
+    "name": "Movie Star",
+    "sources": {
+      "streams": [
+        "https://shift03.isp.bg/MovieStar/index.m3u8"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
     "isGeoBlocked": false
   },
   {
@@ -1859,7 +1875,6 @@
     "sources": {
       "streams": [
         "https://206.212.244.63/137/index.m3u8",
-        "https://cdn.haititivi.net/PARAMOUNT-CHANNEL/index.m3u8",
         "https://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8"
       ]
     },
@@ -2012,25 +2027,53 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4XypCIgUkqx4tL",
-    "name": "Rakuten TV Action Movies Italy",
+    "nanoid": "9yewxbvb9FUiND",
+    "name": "Rakuten TV Action Movies Spain",
     "sources": {
       "streams": [
-        "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
+        "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
       ]
     },
     "languages": [
-      "ita"
+      "spa"
     ],
-    "country": "it",
+    "country": "es",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ys9b9lAAuDchCF",
-    "name": "Rakuten TV Comedy Movies UK",
+    "nanoid": "mMN16NkXBOiZlV",
+    "name": "Rakuten TV Comedy Movies Germany",
     "sources": {
       "streams": [
-        "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8"
+        "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "duHgjkhG7rfbm4",
+    "name": "Rakuten TV Family Movies Spain",
+    "sources": {
+      "streams": [
+        "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bM1ajyE0MLR0WL",
+    "name": "Rakuten TV Family Movies UK",
+    "sources": {
+      "streams": [
+        "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8"
       ]
     },
     "languages": [
@@ -2458,8 +2501,8 @@
     "name": "USA Network East",
     "sources": {
       "streams": [
-        "https://206.212.244.63/168/index.m3u8",
-        "https://40.160.24.55/USA_NETWORK/index.m3u8"
+        "https://40.160.24.55/USA_NETWORK/index.m3u8",
+        "https://206.212.244.63/168/index.m3u8"
       ]
     },
     "languages": [
@@ -2480,6 +2523,22 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3KIbg37PQUOdm7",
+    "name": "Viasat Kino Comedy",
+    "sources": {
+      "streams": [
+        "https://ukr.ukrainske.tv/493/keytvainua/video.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "lat",
+      "rus"
+    ],
+    "country": "ua",
     "isGeoBlocked": false
   },
   {
