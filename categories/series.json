@@ -947,6 +947,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "aRFi5tYztwXALW",
+    "name": "Series Classic",
+    "sources": {
+      "streams": [
+        "https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AEW5rUSukyBObX",
     "name": "Smotrim 100% Lyubov",
     "sources": {
@@ -1068,6 +1082,7 @@
     "sources": {
       "streams": [
         "https://40.160.24.55/SYFY/index.m3u8",
+        "https://gpuserver5.tier1streams.com/SYFY/index.m3u8",
         "https://206.212.244.63/152/index.m3u8"
       ]
     },
@@ -1256,6 +1271,7 @@
     "sources": {
       "streams": [
         "https://40.160.24.55/USA_NETWORK/index.m3u8",
+        "https://gpuserver5.tier1streams.com/USA_NETWORK/index.m3u8",
         "https://206.212.244.63/168/index.m3u8"
       ]
     },
@@ -1284,8 +1300,8 @@
     "name": "We TV East",
     "sources": {
       "streams": [
-        "https://40.160.24.55/WE_TV/index.m3u8",
         "https://206.212.244.63/172/index.m3u8",
+        "https://40.160.24.55/WE_TV/index.m3u8",
         "https://streamer1.nexgen.bz/WE_TV/index.m3u8"
       ]
     },

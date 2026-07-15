@@ -59,22 +59,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3AVsF9F3MmLx0i",
-    "name": "KTK",
-    "sources": {
-      "streams": [
-        "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8",
-        "https://89.218.30.37/ktklive/live.hq/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kaz",
-      "rus"
-    ],
-    "country": "kz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5b8XYlH65LRz6N",
     "name": "MTRK",
     "sources": {
@@ -147,6 +131,21 @@
     ],
     "country": "kz",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "aryd9ltXWZSxq7",
+    "name": "Qonaev Media",
+    "sources": {
+      "streams": [
+        "https://s.qonaevtv.kz/live/qonaev/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "UQ2tnaYuDB5seW",
