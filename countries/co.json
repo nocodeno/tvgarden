@@ -42,20 +42,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DhFWPxFh4aKhyC",
-    "name": "Avivamiento TV",
-    "sources": {
-      "streams": [
-        "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KstfcDMjN0CcgR",
     "name": "Bendicion Channel",
     "sources": {
@@ -170,20 +156,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "t77vURUv4tfKdi",
-    "name": "Canal 9 Cosespu",
-    "sources": {
-      "streams": [
-        "https://video2.lhdserver.es/canal9cosespu/live.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "s64BgUfTafeYF2",
     "name": "Canal 14 Codazzi",
     "sources": {
@@ -217,6 +189,20 @@
     "sources": {
       "streams": [
         "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "btEJDr7vMTEkmk",
+    "name": "Canal Cine Dios",
+    "sources": {
+      "streams": [
+        "https://canal.mediaserver.com.co/live/cinedios.m3u8"
       ]
     },
     "languages": [
@@ -497,11 +483,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DuJd4u0fDHyZVy",
+    "name": "Eduvision",
+    "sources": {
+      "streams": [
+        "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8MkrJaxHtTluMW",
     "name": "El Mundo del Campo",
     "sources": {
       "streams": [
         "https://movil.ejeserver.com/live/elmundodelcampo.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mshfkhqs41pHqb",
+    "name": "Fiesta TV",
+    "sources": {
+      "streams": [
+        "https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8"
       ]
     },
     "languages": [
@@ -558,20 +572,6 @@
     "sources": {
       "streams": [
         "https://server.asilivehd.com:3333/live/huilatvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "02mPmZWllvm8GE",
-    "name": "Kalu TV",
-    "sources": {
-      "streams": [
-        "https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8"
       ]
     },
     "languages": [
@@ -642,21 +642,6 @@
     "sources": {
       "streams": [
         "https://live.arnoproducciones.com/hls/norte.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2RNOyGKRiGPXuw",
-    "name": "MasMusica FM",
-    "sources": {
-      "streams": [
-        "https://movil.ejeserver.com/live/masmusica.m3u8",
-        "https://video.ejeserver.com/live/masmusica.m3u8"
       ]
     },
     "languages": [
@@ -839,7 +824,6 @@
     "name": "Salsa Gorda Television",
     "sources": {
       "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
         "https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8"
       ]
     },
@@ -910,21 +894,8 @@
     "name": "Suram TV",
     "sources": {
       "streams": [
-        "https://us.streaminghd.cl/suramtv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wSVf29nNzyqfLG",
-    "name": "TDI Colombia",
-    "sources": {
-      "streams": [
-        "https://live.amelbatv.co:81/tdicolombiatv/index.m3u8"
+        "https://us.streaminghd.cl/suramtv/index.m3u8",
+        "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8"
       ]
     },
     "languages": [
@@ -939,20 +910,6 @@
     "sources": {
       "streams": [
         "https://live.amelbatv.co:81/telemocoalive/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aJPAtWT0lETbk1",
-    "name": "Telebolivar",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8"
       ]
     },
     "languages": [

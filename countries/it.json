@@ -450,20 +450,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WWqClKgm7DSO3U",
-    "name": "Donna TV",
-    "sources": {
-      "streams": [
-        "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BrM3wf2aWU1ejo",
     "name": "Elive TV Brescia",
     "sources": {
@@ -609,22 +595,7 @@
     "name": "Gold TV",
     "sources": {
       "streams": [
-        "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8",
         "https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kTsDjvuR5SnaAA",
-    "name": "Gold TV Sat",
-    "sources": {
-      "streams": [
-        "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8"
       ]
     },
     "languages": [
@@ -686,20 +657,6 @@
     ],
     "country": "it",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "oBwvurm2qFur1v",
-    "name": "Italia 7",
-    "sources": {
-      "streams": [
-        "https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "LJMWlXY7EZt85L",
@@ -863,20 +820,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ex98n0tFYkUwoo",
-    "name": "Lazio TV",
-    "sources": {
-      "streams": [
-        "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QUgozEv0vZrkjK",
     "name": "Lira TV",
     "sources": {
@@ -1031,20 +974,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vep0J58HudEoW3",
-    "name": "Odeon 24",
-    "sources": {
-      "streams": [
-        "https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "02hgQBIaeAN9gz",
     "name": "Onda Novara TV",
     "sources": {
@@ -1101,39 +1030,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zH1wikEA6iyust",
-    "name": "Padre Pio TV",
-    "sources": {
-      "streams": [
-        "https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "goJdBBUxKzhIiT",
-    "name": "Paradise TV",
-    "sources": {
-      "streams": [
-        "https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "rCWYXbGU5lesuk",
     "name": "Parole di Vita",
     "sources": {
       "streams": [
         "https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XVHhDeQHjuS3Dt",
+    "name": "Peer TV Alto Adige",
+    "sources": {
+      "streams": [
+        "https://iptv.peer.biz/live/peertv-it.m3u8"
       ]
     },
     "languages": [
@@ -1581,14 +1496,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NnyzHhJkjsfZ3n",
-    "name": "Rakuten TV Crime Series Italy",
+    "nanoid": "rW6tKgiQ7jM4rF",
+    "name": "Rakuten TV Comedy Movies Italy",
     "sources": {
       "streams": [
-        "https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8"
+        "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "ita"
+    ],
     "country": "it",
     "isGeoBlocked": false
   },
@@ -1894,8 +1811,9 @@
     "name": "Sportitalia Solocalcio",
     "sources": {
       "streams": [
+        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8",
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
-        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
+        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1967,20 +1885,6 @@
     "sources": {
       "streams": [
         "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jHr3gQHmtG7nGu",
-    "name": "T9",
-    "sources": {
-      "streams": [
-        "https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2305,23 +2209,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fPi31GojXVdhWd",
-    "name": "TeleRegione 118",
-    "sources": {
-      "streams": [
-        "https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "J7sB9N56vSaJtA",
     "name": "Teleromagna",
     "sources": {
       "streams": [
         "https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Dl9U0IgvARdklB",
+    "name": "TeleSanDomenico",
+    "sources": {
+      "streams": [
+        "https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8"
       ]
     },
     "languages": [

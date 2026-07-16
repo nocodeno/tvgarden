@@ -784,20 +784,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LkePMRrYywHJL3",
-    "name": "FilmBox Netherlands",
-    "sources": {
-      "streams": [
-        "https://193.239.186.231/FILMBOX/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qgqjKHkHjQzR2F",
     "name": "Finans Turk TV",
     "sources": {
@@ -832,6 +818,20 @@
       "streams": [
         "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
         "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4WUKZJPvirxz3S",
+    "name": "FRT TV",
+    "sources": {
+      "streams": [
+        "https://edge1.taksimbilisim.com/frttv/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1781,6 +1781,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GOBdXHd7gdoheA",
+    "name": "Sercem TV",
+    "sources": {
+      "streams": [
+        "https://canli.sercemtv.com.tr/hls/0/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "kur",
+      "tur",
+      "zza"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "e6ku1z7iZYh6lv",
     "name": "Show Max",
     "sources": {
@@ -1969,9 +1985,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/iivvBS0o45c"
       ]
     },
     "languages": [

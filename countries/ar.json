@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "0DxYL5OpmCaJwV",
-    "name": "5tv",
-    "sources": {
-      "streams": [
-        "https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OuXJk2O3QtFOgh",
     "name": "24/7 Canal de Noticias",
     "sources": {
@@ -145,8 +131,8 @@
     "name": "Bravo TV",
     "sources": {
       "streams": [
-        "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8",
-        "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef"
+        "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef",
+        "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -470,20 +456,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/oWhJ-uShQTU"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Cs5KBo5YCWbQ9V",
-    "name": "Canal 9 Link",
-    "sources": {
-      "streams": [
-        "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -933,20 +905,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c2k5mg9wITshic",
-    "name": "Corrientes TV",
-    "sources": {
-      "streams": [
-        "https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mrbOEcmtP5KVxY",
     "name": "Cosmos Tv",
     "sources": {
@@ -1017,6 +975,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9e5y7tJlyjMnq7",
+    "name": "DSports Panregional",
+    "sources": {
+      "streams": [
+        "https://streamvidex.qzz.io/videx/dsportsar/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NC7SqlAIbLjEQr",
     "name": "Eco TV",
     "sources": {
@@ -1036,20 +1008,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/nndzeKDSjuc"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uvdbgKYfuDPGUL",
-    "name": "El Observador 107.9",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/CIBr9YIO_LI"
       ]
     },
     "languages": [
@@ -1091,7 +1049,7 @@
     "name": "El Once TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/I8SKyGkMCoI"
+        "https://www.youtube-nocookie.com/embed/MYD5BF7b2Ik"
       ]
     },
     "languages": [
@@ -1180,6 +1138,20 @@
     },
     "languages": [
       "eng",
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NsUYoIH4Dx24ML",
+    "name": "La Nacion +",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/cT6dBArksws"
+      ]
+    },
+    "languages": [
       "spa"
     ],
     "country": "ar",
@@ -1310,11 +1282,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nCjEym27rIb7Sc",
-    "name": "NET TV",
+    "nanoid": "xVaEKcGj3VuSQR",
+    "name": "Neox TV",
     "sources": {
       "streams": [
-        "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8"
+        "https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8"
       ]
     },
     "languages": [
@@ -1324,11 +1296,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yzztzhg09dFhfS",
-    "name": "NG Federal",
+    "nanoid": "nCjEym27rIb7Sc",
+    "name": "NET TV",
     "sources": {
       "streams": [
-        "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8"
+        "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
+        "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1605,6 +1578,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SN16BOH21ybhnt",
+    "name": "Tele Federal",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/giatv/giatv-federaltv/federaltv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "15KFLuGTzrHWsE",
     "name": "Telecinco",
     "sources": {
@@ -1680,20 +1667,6 @@
     "sources": {
       "streams": [
         "https://45.181.87.106/TELEMUNDOHD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "C4INN3f93tsfyG",
-    "name": "Televisión Pública",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/L0_uGuMo9Yw"
       ]
     },
     "languages": [
@@ -1863,7 +1836,7 @@
     "name": "Urbana Play 104.3 FM",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/JbKmlpQGC5c"
+        "https://www.youtube-nocookie.com/embed/vjz3iEyttdI"
       ]
     },
     "languages": [

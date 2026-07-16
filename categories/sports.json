@@ -215,20 +215,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SxEZ67YPc8yPDE",
-    "name": "BEK TV Sports West",
-    "sources": {
-      "streams": [
-        "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yxXfCHd5uHQMJD",
     "name": "Belarus-5",
     "sources": {
@@ -376,17 +362,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "24Fz8LacigNCo4",
-    "name": "DSports 2 Panregional",
+    "nanoid": "9e5y7tJlyjMnq7",
+    "name": "DSports Panregional",
     "sources": {
       "streams": [
-        "https://streamvidex.qzz.io/videx/dsports2/index.m3u8"
+        "https://streamvidex.qzz.io/videx/dsportsar/index.m3u8"
       ]
     },
     "languages": [
       "spa"
     ],
-    "country": "us",
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -408,7 +394,8 @@
     "name": "ESPN Deportes",
     "sources": {
       "streams": [
-        "https://40.160.24.58/ESPN_DEPORTES/index.m3u8"
+        "https://40.160.24.58/ESPN_DEPORTES/index.m3u8",
+        "https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8"
       ]
     },
     "languages": [
@@ -1040,6 +1027,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Y5ryr3X9r1YZgg",
+    "name": "MMA-TV.com",
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WjzlJmHsxUPxpZ",
     "name": "MNB Sport",
     "sources": {
@@ -1316,6 +1318,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "F6us4nh1xfdGhd",
+    "name": "NW Sport 2",
+    "sources": {
+      "streams": [
+        "https://41.205.70.146/M6/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "tg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yxyIFaB4Q9mpks",
     "name": "Oman Sports TV",
     "sources": {
@@ -1401,20 +1417,6 @@
       "urd"
     ],
     "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qJreMi855SZsfR",
-    "name": "Poker Go",
-    "sources": {
-      "streams": [
-        "https://linear-426.frequency.stream/dist/xumo/426/hls/master/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1738,8 +1740,9 @@
     "name": "Sportitalia Solocalcio",
     "sources": {
       "streams": [
+        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8",
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
-        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
+        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1893,13 +1896,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QCubHZSGzvkAVk",
+    "name": "Teletrak TV",
+    "sources": {
+      "streams": [
+        "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Li2QUIWlgtJ1VE",
     "name": "Tennis Channel",
     "sources": {
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
         "https://206.212.244.63/6149/index.m3u8",
-        "https://40.160.24.55/TENNIS_CHANNEL/index.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1914,9 +1931,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/iivvBS0o45c"
       ]
     },
     "languages": [
@@ -2065,6 +2079,20 @@
       "spa"
     ],
     "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "46bhWZVm1EdjmB",
+    "name": "TV Cartago Digital",
+    "sources": {
+      "streams": [
+        "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
     "isGeoBlocked": false
   },
   {
