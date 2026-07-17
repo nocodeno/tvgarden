@@ -637,20 +637,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xupLUhlUhMmQst",
-    "name": "Duma TV",
-    "sources": {
-      "streams": [
-        "https://dumatv.iptv2022.com/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xnU10BQX3X7Kmm",
     "name": "Fernandina Beach Channel",
     "sources": {
@@ -1218,20 +1204,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HSwH6uFzgwd6tN",
-    "name": "Privesc.Eu TV",
-    "sources": {
-      "streams": [
-        "https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "md",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4ZoIV04EJZdC50",
     "name": "PSL TV",
     "sources": {
@@ -1264,7 +1236,8 @@
     "name": "Sansad TV 1",
     "sources": {
       "streams": [
-        "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8"
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
+        "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
       ]
     },
     "languages": [
@@ -1403,6 +1376,20 @@
       "spa"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qIar6axvqjptwG",
+    "name": "TV Assembleia Minas Gerais",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/6nebWRtJCrE"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {

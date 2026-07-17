@@ -383,20 +383,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FOmh48Vhhwgsmx",
-    "name": "Ecovision",
-    "sources": {
-      "streams": [
-        "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "J5HDeVjO016Oz1",
     "name": "EPlanet TV",
     "sources": {
@@ -932,6 +918,7 @@
     "name": "RTД",
     "sources": {
       "streams": [
+        "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
         "https://streaming.thestream.cyou/live/554.m3u8"
       ]
     },
