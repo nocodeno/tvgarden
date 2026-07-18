@@ -112,34 +112,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "s7bMJMlkZ9S5PS",
-    "name": "C-SPAN",
-    "sources": {
-      "streams": [
-        "https://40.160.24.52/C-SPAN_HD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Do7oeDT3YviGiQ",
-    "name": "C-SPAN 2",
-    "sources": {
-      "streams": [
-        "https://40.160.24.52/C-SPAN_2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UTKM2yB8tUj85p",
     "name": "Camera dei Deputati",
     "sources": {
@@ -1175,6 +1147,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dGKj0Pu82BToTZ",
+    "name": "Pershyi Zahidnyi",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/246/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "StqTBnuulyCkPJ",
     "name": "PHLgovTV",
     "sources": {
@@ -1201,6 +1187,20 @@
       "spa"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HSwH6uFzgwd6tN",
+    "name": "Privesc.Eu TV",
+    "sources": {
+      "streams": [
+        "https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "md",
     "isGeoBlocked": false
   },
   {
@@ -1383,7 +1383,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/6nebWRtJCrE"
+        "https://www.youtube-nocookie.com/embed/82GSpiO4N64"
       ]
     },
     "languages": [
@@ -1412,22 +1412,7 @@
     "sources": {
       "streams": [
         "https://stream3.camara.gov.br/tv1/manifest.m3u8",
-        "https://45.162.64.114/TV_CAMARA/index.m3u8",
         "https://45.190.28.50/TV_CAMARA/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ljxQJllBAK9Pvk",
-    "name": "TV Câmara Porto Alegre",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/gyuyDtRVFaU"
       ]
     },
     "languages": [

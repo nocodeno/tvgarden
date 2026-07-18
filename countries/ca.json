@@ -217,6 +217,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "mIGdPVCQ0ktnig",
+    "name": "CBFT-DT",
+    "sources": {
+      "streams": [
+        "https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "C2IpSsj3CjIb2e",
     "name": "CBKFT-DT",
     "sources": {
@@ -535,20 +549,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "tbufnPAZVgBtOR",
-    "name": "CTV Drama Channel",
-    "sources": {
-      "streams": [
-        "https://40.160.24.52/DISCOVERY_SCIENCE_HD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZXvLfybRDCi9xD",
     "name": "DesheBideshe TV",
     "sources": {
@@ -741,7 +741,7 @@
       "streams": [
         "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
+        "https://gusto-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -846,6 +846,20 @@
     ],
     "country": "ca",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Mv6EQSLomOzZH0",
+    "name": "IIPC TV",
+    "sources": {
+      "streams": [
+        "https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "mh8ffIuQVJBAom",
@@ -1220,6 +1234,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mmZjHuy87LmO4O",
+    "name": "Sooriyan TV",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tam"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -1681,11 +1709,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "daf0IVQd6eS7Tl",
+    "name": "Super Channel Vault",
+    "sources": {
+      "streams": [
+        "https://206.212.244.63/6142/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3C5tAme4Sy2gIV",
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/tCArML7CWNw"
+        "https://www.youtube-nocookie.com/embed/7c0HtbclMHY"
       ]
     },
     "languages": [
@@ -1699,7 +1741,7 @@
     "name": "Super Simple: Noodle and Pals",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/O-4SiAj_eBU"
+        "https://www.youtube-nocookie.com/embed/Jd9zu248zPA"
       ]
     },
     "languages": [
@@ -1713,7 +1755,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/im2ox24j7-k"
+        "https://www.youtube-nocookie.com/embed/Ll1gKbbN8Qs"
       ]
     },
     "languages": [

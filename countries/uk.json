@@ -208,6 +208,7 @@
     "name": "BBC News Europe",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/85/index.m3u8",
         "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8"
       ]
     },
@@ -222,8 +223,7 @@
     "name": "BBC News North America",
     "sources": {
       "streams": [
-        "https://206.212.244.63/14/index.m3u8",
-        "https://40.160.24.52/BBC_WORLD_NEWS/index.m3u8"
+        "https://206.212.244.63/14/index.m3u8"
       ]
     },
     "languages": [
@@ -1165,7 +1165,6 @@
     "name": "Inside Crime UK",
     "sources": {
       "streams": [
-        "https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8",
         "https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8"
       ]
@@ -1228,6 +1227,24 @@
       ]
     },
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v5IfXYen2Q01eP",
+    "name": "JimJam Europe",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/150/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ces",
+      "eng",
+      "heb",
+      "por",
+      "slk"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1624,6 +1641,7 @@
     "name": "Mystery TV UK",
     "sources": {
       "streams": [
+        "https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8",
         "https://blaze-fast-mystery-tv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-mystery-tv-amagi/playlist.m3u8"
       ]
@@ -2007,32 +2025,6 @@
     "sources": {
       "streams": [
         "https://dikkyk1ckkhzq.cloudfront.net/RabiddsInvasion_GB.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ys9b9lAAuDchCF",
-    "name": "Rakuten TV Comedy Movies UK",
-    "sources": {
-      "streams": [
-        "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pCghkk05sIwmT1",
-    "name": "Rakuten TV Reality UK",
-    "sources": {
-      "streams": [
-        "https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8"
       ]
     },
     "languages": [],
@@ -2771,6 +2763,20 @@
       ]
     },
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "at7QYcug7oV0tu",
+    "name": "WildBrain Max: LEGO",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/LAP302yWZGo"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
