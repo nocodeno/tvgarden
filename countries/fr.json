@@ -1127,20 +1127,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CpZZCNRPTXaipO",
-    "name": "MTV",
-    "sources": {
-      "streams": [
-        "https://41.205.70.146/MTVFRANCE/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aRYM4hJmBP444c",
     "name": "My Gospel TV",
     "sources": {
@@ -1184,6 +1170,20 @@
     ],
     "country": "fr",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "v63UFM91nMh49U",
+    "name": "National Geographic Wild",
+    "sources": {
+      "streams": [
+        "https://41.205.77.102/NATGEO-WILD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "SbCVyIRCGshv9Z",
@@ -1296,6 +1296,42 @@
     ],
     "country": "fr",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "kVuXOdBXr2x3dW",
+    "name": "Rakuten TV Alerte Cobra",
+    "sources": {
+      "streams": [
+        "https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9PtGiKgkdbGXR3",
+    "name": "Rakuten TV Films Action",
+    "sources": {
+      "streams": [
+        "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "phice2bsfFKDLs",
+    "name": "Rakuten TV Séries Crime",
+    "sources": {
+      "streams": [
+        "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "K1cCEN7WNbjDun",
@@ -1474,6 +1510,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/j9uQt53dmNY"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0vj7h7luvbbLt2",
+    "name": "Teva",
+    "sources": {
+      "streams": [
+        "https://41.205.77.102/TEVA/index.m3u8"
       ]
     },
     "languages": [
@@ -1757,6 +1807,7 @@
     "name": "Trace Sport Stars",
     "sources": {
       "streams": [
+        "https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8",
         "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8",
         "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8"
       ]
@@ -2023,6 +2074,7 @@
     "name": "zenith",
     "sources": {
       "streams": [
+        "https://live.azenagroup.com/zenith/index.ll.m3u8",
         "https://live.azenagroup.com/zenith/index.m3u8"
       ]
     },

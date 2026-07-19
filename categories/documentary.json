@@ -60,7 +60,8 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
+        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -191,6 +192,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GDeVF43cbBphiD",
+    "name": "ClickTV Chile",
+    "sources": {
+      "streams": [
+        "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -366,6 +381,20 @@
       "deu"
     ],
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FOmh48Vhhwgsmx",
+    "name": "Ecovision",
+    "sources": {
+      "streams": [
+        "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -771,6 +800,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "v63UFM91nMh49U",
+    "name": "National Geographic Wild",
+    "sources": {
+      "streams": [
+        "https://41.205.77.102/NATGEO-WILD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pfvOjTL0SzRiOd",
     "name": "National Geographic Wild East",
     "sources": {
@@ -905,7 +948,6 @@
     "name": "RTД",
     "sources": {
       "streams": [
-        "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
         "https://streaming.thestream.cyou/live/554.m3u8"
       ]
     },
@@ -949,7 +991,8 @@
     "name": "Terra Mater WILD English",
     "sources": {
       "streams": [
-        "https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8"
+        "https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8",
+        "https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1021,6 +1064,34 @@
     "sources": {
       "streams": [
         "https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9qxiwyypjNrlXI",
+    "name": "Viasat History",
+    "sources": {
+      "streams": [
+        "https://shift03.isp.bg/ViasatHistory_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "grL6LmvbHNpgqD",
+    "name": "Viasat Nature",
+    "sources": {
+      "streams": [
+        "https://shift03.isp.bg/ViasatNature_HD/index.m3u8"
       ]
     },
     "languages": [

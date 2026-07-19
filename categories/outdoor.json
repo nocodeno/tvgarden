@@ -314,7 +314,8 @@
     "name": "Ohotnik i rybolov",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/194/index.m3u8"
+        "https://stream.mcquack.net/194/index.m3u8",
+        "https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -328,7 +329,8 @@
     "name": "Okhota i rybalka",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/155/index.m3u8"
+        "https://stream.mcquack.net/155/index.m3u8",
+        "https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -358,8 +360,8 @@
     "name": "Outdoor Channel",
     "sources": {
       "streams": [
-        "https://206.212.244.63/2507/index.m3u8",
         "https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8",
+        "https://206.212.244.63/2507/index.m3u8",
         "https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8?ads.vf=z_DyaXIqL6G"
       ]
     },
@@ -374,8 +376,8 @@
     "name": "Outside TV",
     "sources": {
       "streams": [
+        "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8",
         "https://desdobebr2wri.cloudfront.net/Outside.m3u8",
-        "https://206.212.244.63/2508/index.m3u8",
         "https://40.160.24.55/OUTSIDE_TV/index.m3u8"
       ]
     },
@@ -409,6 +411,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6qAfF0Ciz7BFIk",
+    "name": "Peer TV Sudtirol",
+    "sources": {
+      "streams": [
+        "https://iptv.peer.biz/live/peertv.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
     ],
     "country": "it",
     "isGeoBlocked": false
@@ -597,6 +613,21 @@
       "eng"
     ],
     "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NpwExVTLVpI32y",
+    "name": "Trofei",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/357/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus",
+      "ukr"
+    ],
+    "country": "ua",
     "isGeoBlocked": false
   },
   {

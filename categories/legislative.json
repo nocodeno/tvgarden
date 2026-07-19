@@ -411,20 +411,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WscC7Swxpk8hjp",
-    "name": "Congreso del Perú en Vivo",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/6rlNukFUinA"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5ymwJKVoGafdCH",
     "name": "COStv",
     "sources": {
@@ -806,6 +792,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pXFYh4j5PohrH6",
+    "name": "Knesset Channel",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/48/index.m3u8"
+      ]
+    },
+    "languages": [
+      "heb"
+    ],
+    "country": "il",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pEAMt0Cl6awh5C",
     "name": "KTOP",
     "sources": {
@@ -983,20 +983,6 @@
     "sources": {
       "streams": [
         "https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "G91NOrrqX23WUi",
-    "name": "Natick Government Channel",
-    "sources": {
-      "streams": [
-        "https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1383,7 +1369,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/82GSpiO4N64"
+        "https://www.youtube-nocookie.com/embed/cTcLQgQD3N4"
       ]
     },
     "languages": [
@@ -1412,6 +1398,7 @@
     "sources": {
       "streams": [
         "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+        "https://45.162.64.114/TV_CAMARA/index.m3u8",
         "https://45.190.28.50/TV_CAMARA/index.m3u8"
       ]
     },

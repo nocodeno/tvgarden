@@ -259,20 +259,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "qMfxPERIpN5bJn",
-    "name": "CBOFT-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "9l6DsmybaReA2E",
     "name": "CBUFT-DT",
     "sources": {
@@ -310,20 +296,6 @@
     },
     "languages": [
       "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "vN4KxpB8RBfII1",
-    "name": "CBXFT-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": true
@@ -852,7 +824,8 @@
     "name": "IIPC TV",
     "sources": {
       "streams": [
-        "https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8"
+        "https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8",
+        "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8"
       ]
     },
     "languages": [

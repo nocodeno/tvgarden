@@ -72,34 +72,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QNyNJWJnmxp6PU",
-    "name": "Chef TV",
-    "sources": {
-      "streams": [
-        "https://45.190.28.50/CHEF_TV/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rt3pDKAk1yMoRc",
-    "name": "City Eden Recepty Gurmana",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/47516/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "h07WOJZbzIu3Iu",
     "name": "Cooking Panda",
     "sources": {
@@ -270,6 +242,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AU79Q982Hd3lD2",
+    "name": "Tastemade en Espanol",
+    "sources": {
+      "streams": [
+        "https://tastemadees16us-xumo.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "hAcFI08ZNbAHCM",
     "name": "Tastemade International",
     "sources": {
@@ -291,7 +277,8 @@
     "sources": {
       "streams": [
         "https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8",
-        "https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8"
+        "https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8",
+        "https://tm-tmtar-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
