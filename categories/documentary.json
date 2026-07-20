@@ -60,8 +60,7 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
-        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
       ]
     },
     "languages": [
@@ -181,20 +180,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UYW2WtzuwJvxrr",
-    "name": "City Eden KinoDok",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/38354/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GDeVF43cbBphiD",
     "name": "ClickTV Chile",
     "sources": {
@@ -242,9 +227,9 @@
     "name": "Court TV",
     "sources": {
       "streams": [
+        "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
         "https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8",
-        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
-        "https://csm-e-ceshared1lusordlive-98202546.bln1.yospace.com/csm/extlive/lawnewzprd01,court-tv.m3u8"
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8"
       ]
     },
     "languages": [
@@ -800,20 +785,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v63UFM91nMh49U",
-    "name": "National Geographic Wild",
-    "sources": {
-      "streams": [
-        "https://41.205.77.102/NATGEO-WILD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pfvOjTL0SzRiOd",
     "name": "National Geographic Wild East",
     "sources": {
@@ -948,6 +919,7 @@
     "name": "RTД",
     "sources": {
       "streams": [
+        "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
         "https://streaming.thestream.cyou/live/554.m3u8"
       ]
     },

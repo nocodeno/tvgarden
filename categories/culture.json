@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "qrJk7Z0w2ndHZn",
+    "name": "13C",
+    "sources": {
+      "streams": [
+        "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SUz6ZlewrjG9Ml",
     "name": "Abai TV",
     "sources": {
@@ -172,20 +186,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VtHTEOxTK0CD0C",
-    "name": "Belarus-3",
-    "sources": {
-      "streams": [
-        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "by",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "L3YkR6AcwrR8JI",
     "name": "Bem Mais TV",
     "sources": {
@@ -305,6 +305,9 @@
     "sources": {
       "streams": [
         "https://pemirateshls.persiana.live/hls/stream.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/U7n-lZq6s9w"
       ]
     },
     "languages": [
@@ -341,20 +344,6 @@
       "eng"
     ],
     "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eDESw3Ox4wXwbn",
-    "name": "Chiloe Red 25",
-    "sources": {
-      "streams": [
-        "https://v2.tustreaming.cl/chiloered/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -426,20 +415,6 @@
       "spa"
     ],
     "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "msqk8hFvDiwdDB",
-    "name": "Cultura 24",
-    "sources": {
-      "streams": [
-        "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -1721,20 +1696,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wOuKcaJXWEMKNa",
-    "name": "UCL",
-    "sources": {
-      "streams": [
-        "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "uy",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "L90TWymzbjAtJm",
     "name": "UCV TV",
     "sources": {
@@ -1778,25 +1739,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XhURbZlUHvh8jv",
-    "name": "Verso TV",
-    "sources": {
-      "streams": [
-        "https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "glNPCf2RbwoWmt",
     "name": "zenith",
     "sources": {
       "streams": [
-        "https://live.azenagroup.com/zenith/index.ll.m3u8",
         "https://live.azenagroup.com/zenith/index.m3u8"
       ]
     },
