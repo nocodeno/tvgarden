@@ -45,20 +45,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "At9xDVwnRJnJwN",
-    "name": "13 Kids",
-    "sources": {
-      "streams": [
-        "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EgspbzPRaIJYXi",
     "name": "ADO TV",
     "sources": {
@@ -711,11 +697,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "H1mfvMhLRHAyXr",
+    "name": "Disney Channel",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/disneychannel/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "W96nD2jfO547gK",
     "name": "Disney Channel East",
     "sources": {
       "streams": [
-        "https://206.212.244.63/650/index.m3u8"
+        "https://206.212.244.63/650/index.m3u8",
+        "https://gpuserver3.tier1streams.com/Disney_Channel_HD/index.m3u8"
       ]
     },
     "languages": [
@@ -825,13 +826,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "opaqjlxdDwE3Fc",
+    "name": "Disney Junior",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/disneyjunior/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "U8REylkpG4igqA",
     "name": "Disney Junior East",
     "sources": {
       "streams": [
         "https://206.212.244.63/3147/index.m3u8",
-        "https://tvsen5.aynascope.net/disney/index.m3u8",
-        "https://tvsen7.aynascope.net/disney/index.m3u8"
+        "https://gpuserver3.tier1streams.com/Disney_JR/index.m3u8",
+        "https://tvsen5.aynascope.net/disney/index.m3u8"
       ]
     },
     "languages": [
@@ -1298,6 +1313,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YjA5xk6RLQJ7vM",
+    "name": "JimJam",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/jimjam/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "v5IfXYen2Q01eP",
     "name": "JimJam Europe",
     "sources": {
@@ -1700,6 +1730,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iWgQmEwDVrwbe4",
+    "name": "Nick Jr.",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/nickjr/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RdBj6vEFVhj28o",
     "name": "Nick Jr.",
     "sources": {
@@ -1741,6 +1785,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T2YeVfcaiiFhTA",
+    "name": "Nickelodeon",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/nickelodeon/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
     "isGeoBlocked": false
   },
   {
@@ -1798,6 +1856,20 @@
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xzjnI8BbEIXshz",
+    "name": "Nicktoons",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/nicktoons/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ro",
     "isGeoBlocked": false
   },
   {
@@ -2456,7 +2528,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/7c0HtbclMHY"
+        "https://www.youtube-nocookie.com/embed/BDmCpNgOU0U"
       ]
     },
     "languages": [
@@ -2470,7 +2542,7 @@
     "name": "Super Simple: Noodle and Pals",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Jd9zu248zPA"
+        "https://www.youtube-nocookie.com/embed/Yksf85l2BOI"
       ]
     },
     "languages": [
@@ -2484,7 +2556,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Ll1gKbbN8Qs"
+        "https://www.youtube-nocookie.com/embed/OFNB3CDS6C4"
       ]
     },
     "languages": [
@@ -2915,7 +2987,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/jJ-eEin5jDA"
+        "https://www.youtube-nocookie.com/embed/qynLX43CdYs"
       ]
     },
     "languages": [

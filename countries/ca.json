@@ -73,20 +73,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XHxGpxMeodxqTd",
-    "name": "C Malayalam TV",
-    "sources": {
-      "streams": [
-        "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "mal"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gouSrPs3KYyRhk",
     "name": "Canada One",
     "sources": {
@@ -301,6 +287,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C2IpSsj3CjIb2e",
+    "name": "CBKFT-DT",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "1yLst6OvN4IiS8",
     "name": "CBLFT-DT",
     "sources": {
@@ -338,6 +338,48 @@
     },
     "languages": [
       "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "lxLCWtpDfYneS1",
+    "name": "CBVT-DT",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "tYCltkBmbBXWFA",
+    "name": "CBWFT-DT",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "vN4KxpB8RBfII1",
+    "name": "CBXFT-DT",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": true
@@ -521,11 +563,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UMIWvF117w8y9j",
-    "name": "CKTM-DT",
+    "nanoid": "V3BMBGhU6fGP7f",
+    "name": "CKSH-DT",
     "sources": {
       "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8"
+        "https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8"
       ]
     },
     "languages": [
@@ -535,18 +577,18 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "jqqev1sDHlkMw9",
-    "name": "CKTV-DT",
+    "nanoid": "5FIig7aRRBANHx",
+    "name": "CTV Speed Channel",
     "sources": {
       "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8"
+        "https://gpuserver3.tier1streams.com/DISCOVERY_SCIENCE_HD/index.m3u8"
       ]
     },
     "languages": [
-      "fra"
+      "eng"
     ],
     "country": "ca",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ZXvLfybRDCi9xD",
@@ -739,9 +781,8 @@
     "name": "Gusto TV",
     "sources": {
       "streams": [
-        "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://gusto-xumo.amagi.tv/playlist.m3u8"
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1728,7 +1769,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/7c0HtbclMHY"
+        "https://www.youtube-nocookie.com/embed/BDmCpNgOU0U"
       ]
     },
     "languages": [
@@ -1742,7 +1783,7 @@
     "name": "Super Simple: Noodle and Pals",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Jd9zu248zPA"
+        "https://www.youtube-nocookie.com/embed/Yksf85l2BOI"
       ]
     },
     "languages": [
@@ -1756,7 +1797,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Ll1gKbbN8Qs"
+        "https://www.youtube-nocookie.com/embed/OFNB3CDS6C4"
       ]
     },
     "languages": [

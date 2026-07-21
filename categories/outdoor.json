@@ -59,8 +59,7 @@
     "sources": {
       "streams": [
         "https://45.162.64.114/AGRO_CANAL/index.m3u8",
-        "https://45.190.28.50/AGRO_CANAL/index.m3u8",
-        "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
+        "https://45.190.28.50/AGRO_CANAL/index.m3u8"
       ]
     },
     "languages": [
@@ -170,6 +169,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YRaSWDx93xXiEO",
+    "name": "Digi Animal World",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/digianimalworld/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DIlZLkrC2C3Vr6",
     "name": "Dikaya okhota",
     "sources": {
@@ -216,8 +229,7 @@
     "name": "Fish TV",
     "sources": {
       "streams": [
-        "https://45.162.64.114/FISH_TV/index.m3u8",
-        "https://45.190.28.50/FISH_TV_HD/index.m3u8"
+        "https://45.162.64.114/FISH_TV/index.m3u8"
       ]
     },
     "languages": [
@@ -232,8 +244,7 @@
     "sources": {
       "streams": [
         "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
-        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8",
-        "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
+        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -411,20 +422,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6qAfF0Ciz7BFIk",
-    "name": "Peer TV Sudtirol",
-    "sources": {
-      "streams": [
-        "https://iptv.peer.biz/live/peertv.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
     ],
     "country": "it",
     "isGeoBlocked": false

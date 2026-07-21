@@ -197,6 +197,7 @@
     "name": "Bloomberg TV US",
     "sources": {
       "streams": [
+        "https://gpuserver3.tier1streams.com/BLOOMBERG/index.m3u8",
         "https://206.212.244.63/22/index.m3u8"
       ]
     },
@@ -323,6 +324,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BrKtlgOZb5CWr8",
+    "name": "Cheddar Business",
+    "sources": {
+      "streams": [
+        "https://gpuserver3.tier1streams.com/CHEDDAR_BUSINESS/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vrlS9LYggqZr3W",
     "name": "Class CNBC",
     "sources": {
@@ -341,6 +356,7 @@
     "name": "CNBC",
     "sources": {
       "streams": [
+        "https://gpuserver3.tier1streams.com/CNBC/index.m3u8",
         "https://206.212.244.63/41/index.m3u8"
       ],
       "youtube": [
@@ -443,7 +459,8 @@
     "name": "CNBC World",
     "sources": {
       "streams": [
-        "https://206.212.244.63/42/index.m3u8"
+        "https://206.212.244.63/42/index.m3u8",
+        "https://gpuserver3.tier1streams.com/CNBC_WORLD/index.m3u8"
       ]
     },
     "languages": [
@@ -513,8 +530,8 @@
     "name": "Fox Business Network",
     "sources": {
       "streams": [
-        "https://206.212.244.63/66/index.m3u8",
         "https://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8",
+        "https://206.212.244.63/66/index.m3u8",
         "https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8"
       ]
     },
@@ -624,20 +641,6 @@
       "spa"
     ],
     "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fEhuSbh6UZiVWk",
-    "name": "NW Economie",
-    "sources": {
-      "streams": [
-        "https://hls.newworldtv.com/nw-economie/video/live.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "tg",
     "isGeoBlocked": false
   },
   {

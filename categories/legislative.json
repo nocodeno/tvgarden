@@ -112,6 +112,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "s7bMJMlkZ9S5PS",
+    "name": "C-SPAN",
+    "sources": {
+      "streams": [
+        "https://gpuserver3.tier1streams.com/C-SPAN_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Do7oeDT3YviGiQ",
+    "name": "C-SPAN 2",
+    "sources": {
+      "streams": [
+        "https://gpuserver3.tier1streams.com/C-SPAN_2/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UTKM2yB8tUj85p",
     "name": "Camera dei Deputati",
     "sources": {
@@ -694,20 +722,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "p69vsxFs98WVu8",
-    "name": "Hluttaw S & D",
-    "sources": {
-      "streams": [
-        "https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8"
-      ]
-    },
-    "languages": [
-      "mya"
-    ],
-    "country": "mm",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fA9TEJ4ZsGIi2e",
     "name": "HTV 1 Houston Television",
     "sources": {
@@ -1091,6 +1105,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C4WEiFY5k9mJhz",
+    "name": "Orszaggyules: OGY plenaris",
+    "sources": {
+      "streams": [
+        "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "sources": {
@@ -1383,7 +1411,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/PQuVcAW6JeM"
+        "https://www.youtube-nocookie.com/embed/v-JICbgc0jM"
       ]
     },
     "languages": [
@@ -1414,6 +1442,20 @@
         "https://stream3.camara.gov.br/tv1/manifest.m3u8",
         "https://45.162.64.114/TV_CAMARA/index.m3u8",
         "https://45.190.28.50/TV_CAMARA/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ljxQJllBAK9Pvk",
+    "name": "TV Câmara Porto Alegre",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/tGQq3JKmA1Q"
       ]
     },
     "languages": [

@@ -28,20 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9UqseJeoJNwuVC",
-    "name": "Antena Monden",
-    "sources": {
-      "streams": [
-        "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "F1gJBTGOmz90yb",
     "name": "Antiques Road Trip",
     "sources": {
@@ -119,8 +105,8 @@
     "name": "Biz TV",
     "sources": {
       "streams": [
-        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
-        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
+        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
+        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -176,6 +162,7 @@
     "name": "Cleo TV",
     "sources": {
       "streams": [
+        "https://gpuserver3.tier1streams.com/Cleo_TV/index.m3u8",
         "https://206.212.244.63/38/index.m3u8",
         "https://206.212.244.63/4234/index.m3u8"
       ]
@@ -327,20 +314,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LwuXZMrWCojeSy",
-    "name": "FashionTV",
-    "sources": {
-      "streams": [
-        "https://45.190.28.50/FASHION_TV_HD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Qc6Yckay6OGUKY",
     "name": "FashionTV Paris L'Original",
     "sources": {
@@ -444,7 +417,8 @@
     "name": "Great American Faith & Living",
     "sources": {
       "streams": [
-        "https://206.212.244.63/82/index.m3u8"
+        "https://206.212.244.63/82/index.m3u8",
+        "https://gpuserver3.tier1streams.com/GAC_LIVING/index.m3u8"
       ]
     },
     "languages": [
@@ -597,20 +571,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LOoaceDLue8eJw",
-    "name": "MediCOOL TV",
-    "sources": {
-      "streams": [
-        "https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5oNNwRbeufUj8K",
     "name": "Monte Carlo Digital Television",
     "sources": {
@@ -622,20 +582,6 @@
       "eng"
     ],
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AQcwe6Z9P7sz9G",
-    "name": "MRTV Farmer",
-    "sources": {
-      "streams": [
-        "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8"
-      ]
-    },
-    "languages": [
-      "mya"
-    ],
-    "country": "mm",
     "isGeoBlocked": false
   },
   {
@@ -666,20 +612,6 @@
       "tam"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "to6WdXHX9Bv9Ju",
-    "name": "Nova",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/Nova/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -893,20 +825,6 @@
       "fra"
     ],
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LmMmHAVWfMTaiO",
-    "name": "Wapp",
-    "sources": {
-      "streams": [
-        "https://stream.wapptv.cl/video/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
     "isGeoBlocked": false
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "DNvXN4cXK8bo20",
-    "name": "AFBTV Kupang",
-    "sources": {
-      "streams": [
-        "https://afbtv.siar.us/live/afbtv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fEk1aZZhOygCxY",
     "name": "Ahsan TV",
     "sources": {
@@ -23,21 +9,6 @@
     },
     "languages": [
       "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aGem6cqP5Ol9m7",
-    "name": "Al Wafa Tarim",
-    "sources": {
-      "streams": [
-        "https://ammedia.siar.us/ammedia/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ind",
-      "msa"
     ],
     "country": "id",
     "isGeoBlocked": false
@@ -61,6 +32,7 @@
     "name": "Allegro",
     "sources": {
       "streams": [
+        "https://gist.githubusercontent.com/edgechannels1-ai/60104c033fc6f258800cb589ab3265de/raw/0f4e1404ae6f3d3cf41b6ca5bd6ec8e6f67d17b6/allegroudp.m3u8",
         "https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8"
       ]
     },
@@ -269,6 +241,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ksjOnBMCR8R7y0",
+    "name": "Dhamma TV",
+    "sources": {
+      "streams": [
+        "https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "baEpAaJEKajwBU",
     "name": "Dhoho TV",
     "sources": {
@@ -442,20 +428,6 @@
     "sources": {
       "streams": [
         "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ootv8lcMdtj5Da",
-    "name": "Kilisuci TV",
-    "sources": {
-      "streams": [
-        "https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -719,11 +691,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3v2UZx2WqrnRDM",
-    "name": "Radar Tasikmalaya TV",
+    "nanoid": "Ha2zWLoq5d13uY",
+    "name": "Radar Lampung TV",
     "sources": {
       "streams": [
-        "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8"
+        "https://www.streaming.radartv.co.id/hls/test.m3u8"
       ]
     },
     "languages": [
@@ -865,6 +837,20 @@
     "sources": {
       "streams": [
         "https://selaparangtv.siar.us/live/selaparangtv.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eQt3qfpQWLo9FO",
+    "name": "Serambinews",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Xz84jGNjZtg"
       ]
     },
     "languages": [
@@ -1586,20 +1572,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/HaDwWL5y1vQ"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SlDXX35NImvk2c",
-    "name": "UGTV",
-    "sources": {
-      "streams": [
-        "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8"
       ]
     },
     "languages": [

@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CYPaX2UVL5PBUV",
-    "name": "13 Humor",
-    "sources": {
-      "streams": [
-        "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "C7SK0S2RgKNZGi",
     "name": "AFV",
     "sources": {
@@ -47,6 +33,20 @@
     "sources": {
       "streams": [
         "https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zDrvFUZTP4zt2k",
+    "name": "alpha Moretime",
+    "sources": {
+      "streams": [
+        "https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8"
       ]
     },
     "languages": [
@@ -127,10 +127,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5BmPVKnvVw5EhX",
+    "name": "Comedy Central",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/comedycentral/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lwOO3yKfQFwVFA",
     "name": "Comedy Central East",
     "sources": {
       "streams": [
+        "https://gpuserver3.tier1streams.com/COMEDY_CENTRAL/index.m3u8",
         "https://206.212.244.63/44/index.m3u8"
       ]
     },
@@ -157,17 +172,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QDT0Nt5qZTPoXG",
-    "name": "Comedy Play",
+    "nanoid": "pCIEKxr3ezot69",
+    "name": "Comedy TV",
     "sources": {
       "streams": [
-        "https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8"
+        "https://gpuserver3.tier1streams.com/COMEDY_TV/index.m3u8"
       ]
     },
     "languages": [
-      "ron"
+      "eng"
     ],
-    "country": "ro",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -246,7 +261,8 @@
     "sources": {
       "streams": [
         "https://206.212.244.63/101/index.m3u8",
-        "https://40.160.24.53/LAFF_TV/index.m3u8"
+        "https://40.160.24.53/LAFF_TV/index.m3u8",
+        "https://tvsen7.aynascope.net/laff/index.m3u8"
       ]
     },
     "languages": [
@@ -392,20 +408,6 @@
       "ara"
     ],
     "country": "jo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4VE8AYBTYbd8ii",
-    "name": "Sirippoli TV",
-    "sources": {
-      "streams": [
-        "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tam"
-    ],
-    "country": "in",
     "isGeoBlocked": false
   },
   {

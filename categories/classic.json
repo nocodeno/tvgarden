@@ -28,6 +28,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "bZQGzeEyald0Ck",
+    "name": "Bollywood Classic",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/bollywood/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3FibakB882ByKy",
     "name": "Classic TV",
     "sources": {
@@ -123,6 +137,21 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Gjmjoa2VOJKV6E",
+    "name": "Movify Kino",
+    "sources": {
+      "streams": [
+        "https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8"
+      ]
+    },
+    "languages": [
+      "lav",
+      "rus"
+    ],
+    "country": "lv",
     "isGeoBlocked": false
   },
   {
@@ -392,20 +421,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XwiDGKdsH20Bju",
-    "name": "TVS Retro",
-    "sources": {
-      "streams": [
-        "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "gt",
     "isGeoBlocked": false
   },
   {

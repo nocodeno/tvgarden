@@ -60,7 +60,8 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
+        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -68,6 +69,20 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "VBigvYn8JkeFMl",
+    "name": "BBC Earth Romania",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/bbcearth/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "eQ0MWZIQb0YBdg",
@@ -177,6 +192,20 @@
       "zho"
     ],
     "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UYW2WtzuwJvxrr",
+    "name": "City Eden KinoDok",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/38354/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -452,6 +481,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nlvnoQMvIoedNz",
+    "name": "History",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/history/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pwNSvcC8tmy7wH",
     "name": "History",
     "sources": {
@@ -686,20 +729,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "AQcwe6Z9P7sz9G",
-    "name": "MRTV Farmer",
-    "sources": {
-      "streams": [
-        "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8"
-      ]
-    },
-    "languages": [
-      "mya"
-    ],
-    "country": "mm",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yWqRPjIHcgYftM",
     "name": "Nano",
     "sources": {
@@ -726,6 +755,21 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "h02ivdi6VUowym",
+    "name": "National Geographic",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/natgeo/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ron"
+    ],
+    "country": "ro",
     "isGeoBlocked": false
   },
   {
@@ -782,6 +826,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L8DhkS4ZVRWBVB",
+    "name": "National Geographic Wild",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/natgeowild/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
     "isGeoBlocked": false
   },
   {
