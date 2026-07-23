@@ -550,20 +550,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/F7aBBEQllZQ"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SNT2M9ATZsS3tF",
     "name": "Create & Craft TV Extra",
     "sources": {
@@ -852,20 +838,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D6bV62QbdgsCop",
-    "name": "FMTV",
-    "sources": {
-      "streams": [
-        "https://s2.tvdatta.com:3307/hybrid/play.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xAwIJiuvV7pfvX",
     "name": "GB News",
     "sources": {
@@ -1018,7 +990,7 @@
       "streams": [
         "https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8",
         "https://amg00654-itvstudios-hellskitchen-samsungse-9n806.amagi.tv/playlist/amg00654-itvstudios-hellskitchen-samsungse/playlist.m3u8",
-        "https://amg00654-itvstudios-hellskitchennl-samsungnl-kvxhp.amagi.tv/playlist/amg00654-itvstudios-hellskitchennl-samsungnl/playlist.m3u8"
+        "https://amg00654-itvstudios-hellskitchen-samsunguk-c8rgt.amagi.tv/playlist/amg00654-itvstudios-hellskitchen-samsunguk/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1073,20 +1045,6 @@
     "sources": {
       "streams": [
         "https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gfaamDst89W7kn",
-    "name": "Horrid Henry",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/cxMkHZIAsdQ"
       ]
     },
     "languages": [
@@ -1166,6 +1124,7 @@
     "name": "Inside Crime UK",
     "sources": {
       "streams": [
+        "https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8",
         "https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8"
       ]
@@ -1642,6 +1601,7 @@
     "name": "Mystery TV UK",
     "sources": {
       "streams": [
+        "https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8",
         "https://blaze-fast-mystery-tv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-mystery-tv-amagi/playlist.m3u8"
       ]
@@ -2046,11 +2006,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c4Swg0nm0Rjn8G",
-    "name": "Rakuten TV Action Movies UK",
+    "nanoid": "bM1ajyE0MLR0WL",
+    "name": "Rakuten TV Family Movies UK",
     "sources": {
       "streams": [
-        "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
+        "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8"
       ]
     },
     "languages": [
@@ -2060,11 +2020,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pCghkk05sIwmT1",
-    "name": "Rakuten TV Reality UK",
+    "nanoid": "mN7jjbfyCCrHDM",
+    "name": "Rakuten TV Romance Movies UK",
     "sources": {
       "streams": [
-        "https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8"
+        "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8"
       ]
     },
     "languages": [],
@@ -2082,6 +2042,18 @@
     "languages": [],
     "country": "uk",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RekrBPbX5KKpZp",
+    "name": "Real Crime",
+    "sources": {
+      "streams": [
+        "https://lds-realcrime-samsunguk.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "jNN9ef0ljzGJ7E",
@@ -2246,8 +2218,7 @@
     "name": "Space Live powered by sen",
     "sources": {
       "streams": [
-        "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8",
-        "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8"
+        "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8"
       ]
     },
     "languages": [

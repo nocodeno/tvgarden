@@ -28,18 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rWtKJSewbglBpX",
-    "name": "Agro TV",
-    "sources": {
-      "streams": [
-        "https://stream-hls.castr.net/6731d96a1f5e55c4190da53f/live_9e594110a26911ef9f033f53e767ab9f/index.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zLbErKeLWlYtjV",
     "name": "Agro TV",
     "sources": {
@@ -59,7 +47,8 @@
     "sources": {
       "streams": [
         "https://45.162.64.114/AGRO_CANAL/index.m3u8",
-        "https://45.190.28.50/AGRO_CANAL/index.m3u8"
+        "https://45.190.28.50/AGRO_CANAL/index.m3u8",
+        "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
       ]
     },
     "languages": [
@@ -123,6 +112,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sPitwPVtngUuVb",
+    "name": "ARDB TV",
+    "sources": {
+      "streams": [
+        "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8"
+      ]
+    },
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
     "isGeoBlocked": false
   },
   {
@@ -229,7 +232,8 @@
     "name": "Fish TV",
     "sources": {
       "streams": [
-        "https://45.162.64.114/FISH_TV/index.m3u8"
+        "https://45.162.64.114/FISH_TV/index.m3u8",
+        "https://45.190.28.50/FISH_TV_HD/index.m3u8"
       ]
     },
     "languages": [
@@ -244,7 +248,8 @@
     "sources": {
       "streams": [
         "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
-        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
+        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8",
+        "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -373,7 +378,7 @@
       "streams": [
         "https://206.212.244.63/2507/index.m3u8",
         "https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8",
-        "https://40.160.24.55/OUTDOOR_CHANNEL/index.m3u8"
+        "https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8?ads.vf=z_DyaXIqL6G"
       ]
     },
     "languages": [
@@ -422,6 +427,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6qAfF0Ciz7BFIk",
+    "name": "Peer TV Sudtirol",
+    "sources": {
+      "streams": [
+        "https://iptv.peer.biz/live/peertv.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
     ],
     "country": "it",
     "isGeoBlocked": false
@@ -533,6 +552,7 @@
     "name": "REV'N Action",
     "sources": {
       "streams": [
+        "https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8",
         "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8"
       ]
     },

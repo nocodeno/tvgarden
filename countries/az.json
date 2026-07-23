@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "tz14elcyNSIFkg",
+    "name": "Alvin Channel TV",
+    "sources": {
+      "streams": [
+        "https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "aze"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UuxAvZJ7qbOfux",
     "name": "Ayaz TV",
     "sources": {
@@ -48,7 +62,7 @@
         "https://rtmp.baku.tv/hls/bakutv.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Cl4V-31BhB8"
+        "https://www.youtube-nocookie.com/embed/C_ZDEwU7BJY"
       ]
     },
     "languages": [
@@ -63,20 +77,6 @@
     "sources": {
       "streams": [
         "https://live.eltv.az/live/eltv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "aze"
-    ],
-    "country": "az",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bTpfDJ5yQNPKEE",
-    "name": "Kanal 35",
-    "sources": {
-      "streams": [
-        "https://str2.yodacdn.net/kanal35/index.m3u8"
       ]
     },
     "languages": [
@@ -123,6 +123,22 @@
     },
     "languages": [
       "aze"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jlkmejIqbIV0I0",
+    "name": "Naxcivan TV",
+    "sources": {
+      "streams": [
+        "https://str2.yodacdn.net/ntv/video.m3u8"
+      ]
+    },
+    "languages": [
+      "aze",
+      "eng",
+      "rus"
     ],
     "country": "az",
     "isGeoBlocked": false

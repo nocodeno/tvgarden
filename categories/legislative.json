@@ -173,9 +173,6 @@
     "sources": {
       "streams": [
         "https://canalgov-stream.ebc.com.br/index.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/3gGHN13xwdI"
       ]
     },
     "languages": [
@@ -614,6 +611,34 @@
     "sources": {
       "streams": [
         "https://video.oct.dc.gov/out/u/DCN.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xupLUhlUhMmQst",
+    "name": "Duma TV",
+    "sources": {
+      "streams": [
+        "https://dumatv.iptv2022.com/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zXnZtysd9jWieA",
+    "name": "Escambia County TV",
+    "sources": {
+      "streams": [
+        "https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1105,20 +1130,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C4WEiFY5k9mJhz",
-    "name": "Orszaggyules: OGY plenaris",
-    "sources": {
-      "streams": [
-        "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "sources": {
@@ -1243,20 +1254,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TGxMGkMiPXHlY0",
-    "name": "Rio TV Câmara",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/-W727PeeOEQ"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -1411,7 +1408,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/v-JICbgc0jM"
+        "https://www.youtube-nocookie.com/embed/9AxnOpZpUrQ"
       ]
     },
     "languages": [
@@ -1440,8 +1437,8 @@
     "sources": {
       "streams": [
         "https://stream3.camara.gov.br/tv1/manifest.m3u8",
-        "https://45.162.64.114/TV_CAMARA/index.m3u8",
-        "https://45.190.28.50/TV_CAMARA/index.m3u8"
+        "https://45.190.28.50/TV_CAMARA/index.m3u8",
+        "https://45.162.64.114/TV_CAMARA/index.m3u8"
       ]
     },
     "languages": [

@@ -28,6 +28,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9UqseJeoJNwuVC",
+    "name": "Antena Monden",
+    "sources": {
+      "streams": [
+        "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "F1gJBTGOmz90yb",
     "name": "Antiques Road Trip",
     "sources": {
@@ -105,14 +119,28 @@
     "name": "Biz TV",
     "sources": {
       "streams": [
-        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
-        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
+        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bQHA6IIcanB7RR",
+    "name": "Bizz TV",
+    "sources": {
+      "streams": [
+        "https://stream.bizzmedia.biz/bizz_tv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "tt",
     "isGeoBlocked": false
   },
   {
@@ -162,9 +190,9 @@
     "name": "Cleo TV",
     "sources": {
       "streams": [
-        "https://gpuserver3.tier1streams.com/Cleo_TV/index.m3u8",
         "https://206.212.244.63/38/index.m3u8",
-        "https://206.212.244.63/4234/index.m3u8"
+        "https://206.212.244.63/4234/index.m3u8",
+        "https://gpuserver3.tier1streams.com/Cleo_TV/index.m3u8"
       ]
     },
     "languages": [
@@ -314,6 +342,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LwuXZMrWCojeSy",
+    "name": "FashionTV",
+    "sources": {
+      "streams": [
+        "https://45.190.28.50/FASHION_TV_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Qc6Yckay6OGUKY",
     "name": "FashionTV Paris L'Original",
     "sources": {
@@ -375,7 +417,7 @@
     "name": "Friends of Felines Rescue Center",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/NQrmlwqsxP4"
+        "https://www.youtube-nocookie.com/embed/_NTiH_PJYEQ"
       ]
     },
     "languages": [
@@ -410,6 +452,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "N5fpxQ8AgYEmQP",
+    "name": "Good Life",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/47/index.m3u8"
+      ]
+    },
+    "languages": [
+      "heb"
+    ],
+    "country": "il",
     "isGeoBlocked": false
   },
   {
@@ -615,6 +671,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "to6WdXHX9Bv9Ju",
+    "name": "Nova",
+    "sources": {
+      "streams": [
+        "https://40.160.24.55/Nova/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZGvoYb8iZS7uzb",
     "name": "NowMedia Television",
     "sources": {
@@ -800,20 +870,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "C5BeaJj41VYD7f",
-    "name": "TV3 Life",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/373/index.m3u8"
-      ]
-    },
-    "languages": [
-      "lav"
-    ],
-    "country": "lv",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2gvbHx7OrU70G2",
     "name": "TV5MONDE Chefs",
     "sources": {
@@ -825,6 +881,20 @@
       "fra"
     ],
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LmMmHAVWfMTaiO",
+    "name": "Wapp",
+    "sources": {
+      "streams": [
+        "https://stream.wapptv.cl/video/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   }
 ]

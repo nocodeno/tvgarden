@@ -14,6 +14,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sPitwPVtngUuVb",
+    "name": "ARDB TV",
+    "sources": {
+      "streams": [
+        "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8"
+      ]
+    },
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YY9NfXqZlAyphj",
+    "name": "CTN",
+    "sources": {
+      "streams": [
+        "https://live.happywatch99.com/ctnhdtv/c83cc584a878608f6b36a9717bd7a8ab.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sFPfedqXXPJW5f",
     "name": "EAC News TV",
     "sources": {
@@ -28,11 +56,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dytKAoNeSNBKGD",
-    "name": "iTV HD",
+    "nanoid": "Qpem3hrPjq4VqQ",
+    "name": "My TV",
     "sources": {
       "streams": [
-        "https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8"
+        "https://live.happywatch99.com/mytvhdtv/c83cc584a878608f6b36a9717bd7a8ab.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -42,14 +70,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "22GUfDaUhwRUJ1",
-    "name": "Netlink TV",
+    "nanoid": "WFZZO9COu2oeln",
+    "name": "NTV",
     "sources": {
       "streams": [
-        "https://netlink.netlinkbroadcaster.com/hls/test.m3u8"
+        "https://stream.pdtvhd.com/LiveApp/streams/ntvhd.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "khm"
+    ],
     "country": "kh",
     "isGeoBlocked": false
   },
@@ -73,20 +103,6 @@
     "sources": {
       "streams": [
         "https://seatv.netlinkbroadcaster.com/hls/test.m3u8"
-      ]
-    },
-    "languages": [
-      "khm"
-    ],
-    "country": "kh",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Mhke0W0yDC0bio",
-    "name": "TV5 Cambodia",
-    "sources": {
-      "streams": [
-        "https://ip.pdtvhd.com/Khmer/streams/CTV5.m3u8"
       ]
     },
     "languages": [

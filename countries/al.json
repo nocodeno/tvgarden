@@ -88,8 +88,7 @@
     "name": "Panorama TV",
     "sources": {
       "streams": [
-        "https://tv02.zas.media:1936/panorama/panorama/playlist.m3u8",
-        "https://159.69.221.56/panorama/livestream/playlist.m3u8"
+        "https://tv02.zas.media:1936/panorama/panorama/playlist.m3u8"
       ]
     },
     "languages": [
@@ -127,11 +126,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j5CXLxVnKscAiK",
-    "name": "TV 7 Albania",
+    "nanoid": "QjtZoPFnS11dwq",
+    "name": "TV Johaniter",
     "sources": {
       "streams": [
-        "https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8"
+        "https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "sqi"
+    ],
+    "country": "al",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "16gGAjZZtes1Qk",
+    "name": "Zjarr TV",
+    "sources": {
+      "streams": [
+        "https://zjarr.future.al/hls/playlist.m3u8"
       ]
     },
     "languages": [

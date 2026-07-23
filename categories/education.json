@@ -1,23 +1,12 @@
 [
   {
-    "nanoid": "rWtKJSewbglBpX",
-    "name": "Agro TV",
-    "sources": {
-      "streams": [
-        "https://stream-hls.castr.net/6731d96a1f5e55c4190da53f/live_9e594110a26911ef9f033f53e767ab9f/index.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CtdqbL5wtTjnvo",
     "name": "AgroCanal",
     "sources": {
       "streams": [
         "https://45.162.64.114/AGRO_CANAL/index.m3u8",
-        "https://45.190.28.50/AGRO_CANAL/index.m3u8"
+        "https://45.190.28.50/AGRO_CANAL/index.m3u8",
+        "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
       ]
     },
     "languages": [
@@ -195,6 +184,21 @@
       "fra"
     ],
     "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pOal2u88RSp40P",
+    "name": "Chemodan TV",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/399/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ukr"
+    ],
+    "country": "ua",
     "isGeoBlocked": false
   },
   {
@@ -707,6 +711,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sJtHUQ2FEosClO",
+    "name": "Educa TV",
+    "sources": {
+      "streams": [
+        "https://avm.ecuamedia.net/educatv/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DuJd4u0fDHyZVy",
     "name": "Eduvision",
     "sources": {
@@ -755,7 +773,7 @@
     "name": "FGN Channel",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/L7uvhVs1Cag"
+        "https://www.youtube-nocookie.com/embed/HVyl8bB3FBU"
       ]
     },
     "languages": [
@@ -793,6 +811,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9NYf5msdVIxgC1",
+    "name": "ILCE Canal 15 Summa Saberes",
+    "sources": {
+      "streams": [
+        "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wBMPZbYU5rhwEy",
     "name": "iSTUFF",
     "sources": {
@@ -804,6 +836,20 @@
       "deu"
     ],
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Kqr3JHbCw7DAtR",
+    "name": "ISTV",
+    "sources": {
+      "streams": [
+        "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -919,6 +965,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uvGkHvj4kYuGpc",
+    "name": "MCPSS TV",
+    "sources": {
+      "streams": [
+        "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vGCm6ufhO0hHv0",
     "name": "MediBizTV",
     "sources": {
@@ -930,20 +990,6 @@
       "eng"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tqCNZa0HLCee0u",
-    "name": "Midpen Media Center Channel 28",
-    "sources": {
-      "streams": [
-        "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1607,6 +1653,21 @@
       "spa"
     ],
     "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "igJmo5J6YhgXmV",
+    "name": "Unifranz",
+    "sources": {
+      "streams": [
+        "https://edge.enhdtv.com/8192/index.m3u8",
+        "https://live.enhdtv.com:8081/8192/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
     "isGeoBlocked": false
   },
   {

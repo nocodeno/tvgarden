@@ -145,8 +145,8 @@
     "name": "Comedy Central East",
     "sources": {
       "streams": [
-        "https://gpuserver3.tier1streams.com/COMEDY_CENTRAL/index.m3u8",
-        "https://206.212.244.63/44/index.m3u8"
+        "https://206.212.244.63/44/index.m3u8",
+        "https://gpuserver3.tier1streams.com/COMEDY_CENTRAL/index.m3u8"
       ]
     },
     "languages": [
@@ -345,7 +345,7 @@
     "name": "Mystery Science Theater 3000: FOREVER-a-thon",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Ai8jOHPBggM"
+        "https://www.youtube-nocookie.com/embed/Q2wocb89yGc"
       ]
     },
     "languages": [
@@ -411,6 +411,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4VE8AYBTYbd8ii",
+    "name": "Sirippoli TV",
+    "sources": {
+      "streams": [
+        "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tam"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kXXPyaWYEhBzfW",
     "name": "SNL Vault",
     "sources": {
@@ -421,6 +435,21 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CXYeH7nn79yAkB",
+    "name": "Starz Comedy East",
+    "sources": {
+      "streams": [
+        "https://40.160.24.55/STARZ_COMEDY/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
     ],
     "country": "us",
     "isGeoBlocked": false

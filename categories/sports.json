@@ -133,6 +133,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VqtDhAiC23hAWl",
+    "name": "AntenaSport",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/antneassport/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xNO3EJp4mhTrDD",
     "name": "AS3 Sport TV",
     "sources": {
@@ -229,6 +243,20 @@
       "tur"
     ],
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SxEZ67YPc8yPDE",
+    "name": "BEK TV Sports West",
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -431,34 +459,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "24Fz8LacigNCo4",
-    "name": "DSports 2 Panregional",
-    "sources": {
-      "streams": [
-        "https://streamvidex.qzz.io/videx/dsports2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0neaxGPIJmta4Y",
-    "name": "DSports+ Panregional",
-    "sources": {
-      "streams": [
-        "https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -855,20 +855,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3PWIwG9FFIlO5Y",
-    "name": "Game+",
-    "sources": {
-      "streams": [
-        "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lagHJficp6nYbz",
     "name": "ge Fast",
     "sources": {
@@ -989,6 +975,7 @@
     "name": "Jordan Sport",
     "sources": {
       "streams": [
+        "https://93.184.10.248/JordanSport/index.m3u8",
         "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8"
       ]
     },
@@ -1285,6 +1272,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yBJtUSwNk3MfD6",
+    "name": "Multivision Sports",
+    "sources": {
+      "streams": [
+        "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NojFEcZYn2QGaE",
     "name": "N Sports",
     "sources": {
@@ -1305,7 +1306,7 @@
       "streams": [
         "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
         "https://pb-5pdyic0cu7tri.akamaized.net/NBA.m3u8",
-        "https://cdn1.ayitistream.com/NBATV/index.m3u8"
+        "https://40.160.24.58/NBA_TV/index.m3u8"
       ]
     },
     "languages": [
@@ -1506,6 +1507,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "zzEkf9yZmrhUaA",
+    "name": "PK Sports",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GlQwW110Nt7S5R",
     "name": "PokerGo",
     "sources": {
@@ -1557,20 +1572,6 @@
       "ron"
     ],
     "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "A7KiTJBJvkHgIp",
-    "name": "Prime",
-    "sources": {
-      "streams": [
-        "https://mn-nl.mncdn.com/primetv/live/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "sy",
     "isGeoBlocked": false
   },
   {
@@ -1765,6 +1766,7 @@
     "name": "REV'N Action",
     "sources": {
       "streams": [
+        "https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8",
         "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8"
       ]
     },
@@ -1977,6 +1979,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "G2RRWXeusp0DYk",
+    "name": "Sport 5",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/212/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AOUELy3o1aVqxI",
     "name": "Sport Extra",
     "sources": {
@@ -2124,6 +2140,23 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "O4sDVfeWkHAv9g",
+    "name": "Star Sports 2",
+    "sources": {
+      "streams": [
+        "https://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "hin",
+      "tam",
+      "tel"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "crml1BYute3e3z",
     "name": "Star Sports Select 1",
     "sources": {
@@ -2136,6 +2169,20 @@
       "eng",
       "hin",
       "mal"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5INojqhvrRt5r6",
+    "name": "Star Sports Select 2",
+    "sources": {
+      "streams": [
+        "https://tvsen7.aynascope.net/ssport2hd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "in",
     "isGeoBlocked": false
@@ -2213,6 +2260,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RYfMxL6JZWi97a",
+    "name": "Teledeporte",
+    "sources": {
+      "streams": [
+        "https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "QCubHZSGzvkAVk",
     "name": "Teletrak TV",
     "sources": {
@@ -2275,6 +2336,7 @@
     "name": "Trace Sport Stars",
     "sources": {
       "streams": [
+        "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
         "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8",
         "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8"
       ]
