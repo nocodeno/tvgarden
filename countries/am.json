@@ -4,12 +4,26 @@
     "name": "Armenia 1",
     "sources": {
       "streams": [
-        "https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8",
+        "https://ifl01eu-new.bozztv.com/am1abr/index.m3u8",
         "https://dash2.antik.sk/live/test_armenia/playlist.m3u8"
       ]
     },
     "languages": [
       "hye"
+    ],
+    "country": "am",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QtcUq072FGwBxQ",
+    "name": "Armenia 1 Sattelite",
+    "sources": {
+      "streams": [
+        "https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8"
+      ]
+    },
+    "languages": [
+      "arm"
     ],
     "country": "am",
     "isGeoBlocked": false
@@ -43,8 +57,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zs2o3KqRqzOyCq",
-    "name": "Armenia TV",
+    "nanoid": "bYYMwaB9DMbAOl",
+    "name": "Armenia TV Satellite",
     "sources": {
       "streams": [
         "https://stream.mcquack.net/175/index.m3u8"

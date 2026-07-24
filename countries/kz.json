@@ -60,7 +60,20 @@
     "name": "Balapan",
     "sources": {
       "streams": [
-        "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
+        "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kaz"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JCokef05ozWI8Y",
+    "name": "Balapan International",
+    "sources": {
+      "streams": [
         "https://live-3.otcnet.ru/Balapan/index.m3u8"
       ]
     },
@@ -94,7 +107,6 @@
       ]
     },
     "languages": [
-      "eng",
       "kaz",
       "rus"
     ],
@@ -254,5 +266,19 @@
     ],
     "country": "kz",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "if2kwrLRFc4oRC",
+    "name": "Телеканал 24kz",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/JnH8hinvo4g"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
   }
 ]

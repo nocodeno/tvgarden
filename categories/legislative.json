@@ -196,20 +196,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zjs8fScsFVoj7q",
-    "name": "Canal Parlamento del Congreso de Jalisco",
-    "sources": {
-      "streams": [
-        "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tHu1Wqu4FkVfeh",
     "name": "Capital City Connection Montgomery",
     "sources": {
@@ -436,6 +422,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WscC7Swxpk8hjp",
+    "name": "Congreso del Perú en Vivo",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Tzh7494L_hs"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5ymwJKVoGafdCH",
     "name": "COStv",
     "sources": {
@@ -634,20 +634,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zXnZtysd9jWieA",
-    "name": "Escambia County TV",
-    "sources": {
-      "streams": [
-        "https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xnU10BQX3X7Kmm",
     "name": "Fernandina Beach Channel",
     "sources": {
@@ -789,20 +775,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kDus67YWLDmlSH",
-    "name": "JNE TV",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MdYnmsFTlP5Wem",
     "name": "Justicia TV",
     "sources": {
@@ -842,22 +814,6 @@
       "heb"
     ],
     "country": "il",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pEAMt0Cl6awh5C",
-    "name": "KTOP",
-    "sources": {
-      "streams": [
-        "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa",
-      "vie"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1404,20 +1360,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qIar6axvqjptwG",
-    "name": "TV Assembleia Minas Gerais",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/9AxnOpZpUrQ"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QrY7bSr5CSX6dm",
     "name": "TV Assembleia Piaui",
     "sources": {
@@ -1437,8 +1379,8 @@
     "sources": {
       "streams": [
         "https://stream3.camara.gov.br/tv1/manifest.m3u8",
-        "https://45.190.28.50/TV_CAMARA/index.m3u8",
-        "https://45.162.64.114/TV_CAMARA/index.m3u8"
+        "https://45.162.64.114/TV_CAMARA/index.m3u8",
+        "https://45.190.28.50/TV_CAMARA/index.m3u8"
       ]
     },
     "languages": [
