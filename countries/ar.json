@@ -160,7 +160,7 @@
     "name": "C5N",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/KRezJC7_9Uw"
+        "https://www.youtube-nocookie.com/embed/A4yjB85WbEo"
       ]
     },
     "languages": [
@@ -226,6 +226,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dP9dVYSF14RSuM",
+    "name": "Canal 2 Misiones",
+    "sources": {
+      "streams": [
+        "https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VpgtgckDtqTAhJ",
     "name": "Canal 2 NexTV Rafaela",
     "sources": {
@@ -259,6 +273,48 @@
     "sources": {
       "streams": [
         "https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HiSqdLo7Vz02nV",
+    "name": "Canal 3 Las Heras",
+    "sources": {
+      "streams": [
+        "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "orfuIaNTEmG6BY",
+    "name": "Canal 3 Pinamar",
+    "sources": {
+      "streams": [
+        "https://intelincloud01.com.ar/hls/cn3/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6iBS7M1tfSU4qM",
+    "name": "Canal 4 Jujuy",
+    "sources": {
+      "streams": [
+        "https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -398,7 +454,6 @@
     "name": "Canal 7 Salta",
     "sources": {
       "streams": [
-        "https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8",
         "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8"
       ]
     },
@@ -493,20 +548,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Gu6k19yrwk0QaT",
-    "name": "Canal 13 San Juan",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/5v9uxE2jbQY"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aoSHf7umzvQAal",
     "name": "Canal 13 San Luis",
     "sources": {
@@ -566,11 +607,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v7fuzMjUcfiKGk",
-    "name": "Canal 79 La Costa",
+    "nanoid": "a0DjassRF4smwf",
+    "name": "Canal 50 Morteros",
     "sources": {
       "streams": [
-        "https://streamconex.com:19360/lacosta/lacosta.m3u8"
+        "https://online.coopmorteros.coop/canal50/vivo.m3u8"
       ]
     },
     "languages": [
@@ -613,20 +654,6 @@
     "sources": {
       "streams": [
         "https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dsRy8tOTgBsAJD",
-    "name": "Canal 79 Villa Maza",
-    "sources": {
-      "streams": [
-        "https://streamconex.com:19360/villamaza/villamaza.m3u8"
       ]
     },
     "languages": [
@@ -737,6 +764,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gIVpxumuFFQfY2",
+    "name": "Canal Showsport",
+    "sources": {
+      "streams": [
+        "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5RVA7yz4BPlJbJ",
     "name": "Canal TDC",
     "sources": {
@@ -770,20 +811,6 @@
     "sources": {
       "streams": [
         "https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vUd9BZTcBgBOm3",
-    "name": "Catamarca TV",
-    "sources": {
-      "streams": [
-        "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
       ]
     },
     "languages": [
@@ -905,20 +932,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mrbOEcmtP5KVxY",
-    "name": "Cosmos Tv",
-    "sources": {
-      "streams": [
-        "https://canaletaplus.com:3922/live/cosmoslive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VgCWRw9yOKndDY",
     "name": "Cronica TV",
     "sources": {
@@ -1003,6 +1016,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uvdbgKYfuDPGUL",
+    "name": "El Observador 107.9",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/B87o7hK6Rs0"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GdDjRTp2cOF0FH",
     "name": "El Ocho",
     "sources": {
@@ -1021,7 +1048,7 @@
     "name": "El Once Radio",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/WARNLHOnhqY"
+        "https://www.youtube-nocookie.com/embed/0B-kdeEN9pY"
       ]
     },
     "languages": [
@@ -1240,20 +1267,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yurfvvnKGexwJR",
-    "name": "Multivision Federal",
-    "sources": {
-      "streams": [
-        "https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "83vfpPczQc0o3d",
     "name": "Neo TV",
     "sources": {
@@ -1302,20 +1315,6 @@
     "sources": {
       "streams": [
         "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ajBSt6NuLSUT5M",
-    "name": "Pop Radio 101.5",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/mDpl2M16qcs"
       ]
     },
     "languages": [
@@ -1508,6 +1507,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "z6v7ZVW8wRdbxQ",
+    "name": "Senal U",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rPtKuLjPt7QNrN",
     "name": "Sicardi TV",
     "sources": {
@@ -1541,6 +1554,21 @@
     "sources": {
       "streams": [
         "https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SN16BOH21ybhnt",
+    "name": "Tele Federal",
+    "sources": {
+      "streams": [
+        "https://183.bozztv.com/giatv/giatv-federaltv/federaltv/playlist.m3u8",
+        "https://lbgo.bozztv.com/giatv/giatv-federaltv/federaltv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1649,6 +1677,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nc0pgDvnPNWdj8",
+    "name": "Telenord",
+    "sources": {
+      "streams": [
+        "https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "C4INN3f93tsfyG",
     "name": "Televisión Pública",
     "sources": {
@@ -1733,6 +1775,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Aq3NehcnZez39K",
+    "name": "TV Publica Fueguina",
+    "sources": {
+      "streams": [
+        "https://nd106.republicaservers.com/hls/c8094/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lz2AEaZjXqIAQp",
     "name": "TV Publica Marcos Paz",
     "sources": {
@@ -1794,7 +1850,6 @@
     "name": "Unife TV",
     "sources": {
       "streams": [
-        "https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8",
         "https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8"
       ]
     },
@@ -1837,7 +1892,7 @@
     "name": "Urbana Play 104.3 FM",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/-mWVmJLvt34"
+        "https://www.youtube-nocookie.com/embed/I0SiC7cJFsw"
       ]
     },
     "languages": [

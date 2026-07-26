@@ -104,8 +104,7 @@
     "name": "Canal 3 KMK TV",
     "sources": {
       "streams": [
-        "https://cloudvideo.servers10.com:8081/8120/index.m3u8",
-        "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
+        "https://cloudvideo.servers10.com:8081/8120/index.m3u8"
       ]
     },
     "languages": [
@@ -147,8 +146,7 @@
     "name": "Canal 10",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
-        "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
+        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -170,18 +168,6 @@
     ],
     "country": "cr",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "Z3J6UkFFEng975",
-    "name": "Canal 17 TV Nosara",
-    "sources": {
-      "streams": [
-        "https://latamvdo.com:3870/hybrid/play.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cr",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "Rbhi1IeYnyJ3gG",
@@ -366,21 +352,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vPLx0tYa5CbY79",
-    "name": "Gex TV",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "no0bNa1IOmbWsV",
     "name": "Guatuso TV",
     "sources": {
@@ -483,7 +454,7 @@
     "name": "Multimedios Costa Rica",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/yEWPSaekXjA"
+        "https://www.youtube-nocookie.com/embed/gLQ16miJoOk"
       ]
     },
     "languages": [
@@ -648,20 +619,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GHvLc9YKjbjb4r",
-    "name": "Telefides",
-    "sources": {
-      "streams": [
-        "https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0dNDSI0p6Xtcvm",
     "name": "TeleMas",
     "sources": {
@@ -732,18 +689,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oFBYYfrHTKyW0r",
-    "name": "TV Nosara",
-    "sources": {
-      "streams": [
-        "https://latamvdo.com:3870/hybrid/play.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Y3sTV1ejuknKgG",
     "name": "TV Sur Canal 14",
     "sources": {
@@ -763,20 +708,6 @@
     "sources": {
       "streams": [
         "https://k20.usastreams.com:8081/tv8/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sue3ShLLkmrNlc",
-    "name": "Urbano TV",
-    "sources": {
-      "streams": [
-        "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8"
       ]
     },
     "languages": [

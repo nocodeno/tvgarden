@@ -401,6 +401,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hlG7Qk94i6rOfx",
+    "name": "Enquetes de Choc",
+    "sources": {
+      "streams": [
+        "https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DmuSIeE8brywZA",
     "name": "Euronews en Español",
     "sources": {
@@ -420,8 +432,8 @@
     "sources": {
       "streams": [
         "https://45.190.28.50/EURONEWS_HD/index.m3u8",
-        "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
-        "https://dash4.antik.sk/live/test_euronews/playlist.m3u8"
+        "https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8",
+        "https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
@@ -443,20 +455,6 @@
     },
     "languages": [
       "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JyVf4M7JRgVcg7",
-    "name": "Euronews German",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/CQ3KsEbsYHs"
-      ]
-    },
-    "languages": [
-      "deu"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -541,6 +539,20 @@
     },
     "languages": [
       "ron"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xsUZSvBNUz3yiT",
+    "name": "Euronews Spanish",
+    "sources": {
+      "streams": [
+        "https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -1046,6 +1058,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LMz39hxqiqUJdI",
+    "name": "Mezzo Live",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/276/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5oNNwRbeufUj8K",
     "name": "Monte Carlo Digital Television",
     "sources": {
@@ -1241,18 +1267,6 @@
     ],
     "country": "fr",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "3UupDDnNXaxwcR",
-    "name": "Rakuten TV Films Comédie",
-    "sources": {
-      "streams": [
-        "https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "K1cCEN7WNbjDun",
@@ -1910,20 +1924,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SbiWPbW9abVIyM",
-    "name": "Vosges TV",
-    "sources": {
-      "streams": [
-        "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8MY8QweXbIf30Y",
     "name": "Wasabi la chaîne anime",
     "sources": {
@@ -1952,6 +1952,7 @@
     "name": "zenith",
     "sources": {
       "streams": [
+        "https://live.azenagroup.com/zenith/index.ll.m3u8",
         "https://live.azenagroup.com/zenith/index.m3u8"
       ]
     },

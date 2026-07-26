@@ -14,6 +14,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FTvSSHqDu7zXUY",
+    "name": "Afaq TV",
+    "sources": {
+      "streams": [
+        "https://stream.afaq.iq/live/channel/afaqtv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara",
+      "eng"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ddrr8smWgDPaNo",
     "name": "Afarin Baxcha",
     "sources": {
@@ -116,7 +131,8 @@
     "name": "Al Sharqiya",
     "sources": {
       "streams": [
-        "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8"
+        "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8",
+        "https://185.9.2.18/chid_144/index.m3u8"
       ]
     },
     "languages": [
@@ -459,6 +475,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XqC5PVMCK6bt9P",
+    "name": "Manu Chat",
+    "sources": {
+      "streams": [
+        "https://vmi747311.contaboserver.net/hls/livetv.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zm44xwiDL9fsin",
     "name": "Marjaeyat TV Arabic",
     "sources": {
@@ -540,20 +570,6 @@
     },
     "languages": [
       "kur"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PhXDu5yXp9uaMZ",
-    "name": "Samarra TV",
-    "sources": {
-      "streams": [
-        "https://live.bradosti.net/live/samaraweb_playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
     ],
     "country": "iq",
     "isGeoBlocked": false

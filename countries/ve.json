@@ -1,10 +1,38 @@
 [
   {
+    "nanoid": "t2xHdunHhK2Qqc",
+    "name": "Aguacate TV",
+    "sources": {
+      "streams": [
+        "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xNO3EJp4mhTrDD",
     "name": "AS3 Sport TV",
     "sources": {
       "streams": [
         "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4OE4ZIp6ZfzmtV",
+    "name": "Audaz TV",
+    "sources": {
+      "streams": [
+        "https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8"
       ]
     },
     "languages": [
@@ -42,11 +70,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tF5n1NaStHSPlK",
-    "name": "Canal Diplomatico",
+    "nanoid": "AS45XKoNM4hcAi",
+    "name": "Canal C del Zulia",
     "sources": {
       "streams": [
-        "https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8"
+        "https://calm-forest-3478.cristianbracho904.workers.dev/master.m3u8"
       ]
     },
     "languages": [
@@ -56,11 +84,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1GpRDoekUac7eR",
-    "name": "Canal I",
+    "nanoid": "tF5n1NaStHSPlK",
+    "name": "Canal Diplomatico",
     "sources": {
       "streams": [
-        "https://streaming.canal-i.com/canal-i/live/master.m3u8"
+        "https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8"
       ]
     },
     "languages": [
@@ -225,6 +253,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3E5bqWDK2SMWXh",
+    "name": "Latina TV",
+    "sources": {
+      "streams": [
+        "https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JdxBGAz4N8XmqU",
     "name": "LGD Television",
     "sources": {
@@ -272,6 +314,20 @@
     "sources": {
       "streams": [
         "https://maximatv.net/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kE8N5CkT9Xc9Iu",
+    "name": "Nortena Tv",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8"
       ]
     },
     "languages": [
@@ -380,6 +436,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qRZZMGSFXehDnV",
+    "name": "TAM TV",
+    "sources": {
+      "streams": [
+        "https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LkfWLnGLDxyqrs",
+    "name": "Telebocono",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hWlY6DCrbQlbH1",
     "name": "Telecolor",
     "sources": {
@@ -398,7 +482,9 @@
     "name": "Telesur",
     "sources": {
       "streams": [
-        "https://45.190.28.50/TELESUR_HD/index.m3u8"
+        "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+        "https://45.190.28.50/TELESUR_HD/index.m3u8",
+        "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
       ]
     },
     "languages": [
@@ -456,6 +542,20 @@
     "sources": {
       "streams": [
         "https://us.streaminghd.cl/torococotelevision/video.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rO6eV79GxNqt7n",
+    "name": "TRT",
+    "sources": {
+      "streams": [
+        "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
       ]
     },
     "languages": [
