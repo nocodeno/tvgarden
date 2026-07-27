@@ -808,20 +808,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IgIhtSlDnhWcsL",
-    "name": "El Futuro En tu Mano",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/1lT_U9waO8U"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hH4CoV8wpIpgVv",
     "name": "El Toro TV",
     "sources": {
@@ -863,6 +849,21 @@
     ],
     "country": "es",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
+    "sources": {
+      "streams": [
+        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "mCiVfIGYDaqE2r",
@@ -1057,7 +1058,8 @@
     "name": "Historia",
     "sources": {
       "streams": [
-        "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8"
+        "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8",
+        "https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8"
       ]
     },
     "languages": [
@@ -1360,6 +1362,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jtokavrUrj69rD",
+    "name": "Parlamento de Navarra",
+    "sources": {
+      "streams": [
+        "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eus",
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "I0DVGAmN7OWX0l",
     "name": "Platzi TV",
     "sources": {
@@ -1407,20 +1424,6 @@
     "sources": {
       "streams": [
         "https://streamer.zapitv.com/PTV-granada/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6Cliy0YRCsxozG",
-    "name": "PTV Linares",
-    "sources": {
-      "streams": [
-        "https://streamer.zapitv.com/ptv-linarez/index.m3u8"
       ]
     },
     "languages": [
@@ -1501,16 +1504,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6xG0BDh6352B56",
-    "name": "Rakuten TV Comedy Movies Spain",
+    "nanoid": "SqdL0M66Q2lMl2",
+    "name": "Rakuten TV Cine Español",
     "sources": {
       "streams": [
-        "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
+        "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8"
       ]
     },
-    "languages": [
-      "spa"
-    ],
+    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1795,20 +1796,6 @@
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/39tFLvriPTs"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1nQKxr4bzoAoiY",
-    "name": "Telemotril",
-    "sources": {
-      "streams": [
-        "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8"
       ]
     },
     "languages": [

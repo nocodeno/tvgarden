@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "b9E07ezUKVar1z",
-    "name": "Alerta Bogota",
-    "sources": {
-      "streams": [
-        "https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "RENB7FpGag5A0S",
     "name": "Amaga Television",
     "sources": {
@@ -102,6 +88,7 @@
     "name": "BUM Television",
     "sources": {
       "streams": [
+        "https://movil.ejeserver.com/live/visiondorada.m3u8",
         "https://video.ejeserver.com/live/visiondorada.m3u8"
       ]
     },
@@ -197,11 +184,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dIQhSN2tH9x7qG",
-    "name": "Canal 55 Telemorisco TV",
+    "nanoid": "4tOQsHNAnrUk50",
+    "name": "Canal Calima TV",
     "sources": {
       "streams": [
-        "https://canal.mediaserver.com.co/live/telemorisco.m3u8"
+        "https://movil.ejeserver.com/live/calimatv.m3u8"
       ]
     },
     "languages": [
@@ -326,11 +313,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8wch0b4bAAxnPo",
-    "name": "Canal Womtv",
+    "nanoid": "A9tPf7Rzt5ngpc",
+    "name": "Canica TV",
     "sources": {
       "streams": [
-        "https://live.amelbatv.co:81/womtvlive/index.m3u8"
+        "https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -340,11 +327,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "A9tPf7Rzt5ngpc",
-    "name": "Canica TV",
+    "nanoid": "y6DIrrNamySBRa",
+    "name": "Caracol Televisión",
     "sources": {
-      "streams": [
-        "https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/x0eOenDDelg"
       ]
     },
     "languages": [
@@ -431,20 +418,6 @@
       "streams": [
         "https://movil.ejeserver.com/live/cncsantander.m3u8",
         "https://video.ejeserver.com/live/cncsantander.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vQAqd810W37H0l",
-    "name": "CNC Tulua",
-    "sources": {
-      "streams": [
-        "https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8"
       ]
     },
     "languages": [
@@ -678,6 +651,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2RNOyGKRiGPXuw",
+    "name": "MasMusica FM",
+    "sources": {
+      "streams": [
+        "https://movil.ejeserver.com/live/masmusica.m3u8",
+        "https://video.ejeserver.com/live/masmusica.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Lzh8NoZwGUGsG2",
     "name": "MCI Television",
     "sources": {
@@ -876,20 +864,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "31iHbRE43GfdAe",
-    "name": "Salsa Latina FM",
-    "sources": {
-      "streams": [
-        "https://panel.streamingmedia.com.co:3557/stream/play.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3mWLWKcj1kfrS0",
     "name": "Santel TV",
     "sources": {
@@ -961,6 +935,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HgBlAsHZW8C65f",
+    "name": "Tele Mocoa Canal 10",
+    "sources": {
+      "streams": [
+        "https://live.amelbatv.co:81/telemocoalive/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NNAoypPSm0OCzN",
     "name": "Teleislas",
     "sources": {
@@ -974,6 +962,20 @@
     ],
     "country": "co",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "J0rJwxe8lgoosT",
+    "name": "Telepacifico",
+    "sources": {
+      "streams": [
+        "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "BTUtiIKXJH39q3",

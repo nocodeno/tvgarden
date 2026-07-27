@@ -129,20 +129,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sYvKtrPKv77vYD",
-    "name": "Chacra TV",
-    "sources": {
-      "streams": [
-        "https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oSSIiRIXjb9uRw",
     "name": "Ciudad Magica",
     "sources": {
@@ -405,9 +391,9 @@
     "name": "Outdoor Channel",
     "sources": {
       "streams": [
-        "https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8",
         "https://206.212.244.63/2507/index.m3u8",
-        "https://40.160.24.55/OUTDOOR_CHANNEL/index.m3u8"
+        "https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8",
+        "https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8?ads.vf=z_DyaXIqL6G"
       ]
     },
     "languages": [
@@ -442,6 +428,34 @@
     },
     "languages": [
       "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "N6SFUaTsOKbZm2",
+    "name": "Peer TV South Tyrol",
+    "sources": {
+      "streams": [
+        "https://iptv.peer.biz/live/peertv-en.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6qAfF0Ciz7BFIk",
+    "name": "Peer TV Sudtirol",
+    "sources": {
+      "streams": [
+        "https://iptv.peer.biz/live/peertv.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
     ],
     "country": "it",
     "isGeoBlocked": false

@@ -105,8 +105,8 @@
     "name": "Biz TV",
     "sources": {
       "streams": [
-        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
-        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
+        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
       ]
     },
     "languages": [
@@ -176,8 +176,8 @@
     "name": "Cleo TV",
     "sources": {
       "streams": [
-        "https://206.212.244.63/38/index.m3u8",
         "https://206.212.244.63/4234/index.m3u8",
+        "https://206.212.244.63/38/index.m3u8",
         "https://gpuserver3.tier1streams.com/Cleo_TV/index.m3u8"
       ]
     },
@@ -287,20 +287,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "IgIhtSlDnhWcsL",
-    "name": "El Futuro En tu Mano",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/1lT_U9waO8U"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sNGgqsLaPmiNb6",
     "name": "Fashion Finds",
     "sources": {
@@ -396,21 +382,6 @@
       "hin"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WDQpCRq4dLb0NU",
-    "name": "Fortuna TV",
-    "sources": {
-      "streams": [
-        "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
-        "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -831,8 +802,8 @@
     "sources": {
       "streams": [
         "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8",
-        "https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8",
-        "https://amg00441-amg00441c1-samsung-au-6606.playouts.now.amagi.tv/playlist.m3u8"
+        "https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8",
+        "https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8"
       ]
     },
     "languages": [
@@ -857,6 +828,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "C5BeaJj41VYD7f",
+    "name": "TV3 Life",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/373/index.m3u8"
+      ]
+    },
+    "languages": [
+      "lav"
+    ],
+    "country": "lv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2gvbHx7OrU70G2",
     "name": "TV5MONDE Chefs",
     "sources": {
@@ -868,6 +853,20 @@
       "fra"
     ],
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LmMmHAVWfMTaiO",
+    "name": "Wapp",
+    "sources": {
+      "streams": [
+        "https://stream.wapptv.cl/video/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   }
 ]

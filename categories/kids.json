@@ -681,20 +681,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "H1mfvMhLRHAyXr",
-    "name": "Disney Channel",
-    "sources": {
-      "streams": [
-        "https://aes.m3u8simplu.workers.dev/disneychannel/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "W96nD2jfO547gK",
     "name": "Disney Channel East",
     "sources": {
@@ -810,26 +796,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "opaqjlxdDwE3Fc",
-    "name": "Disney Junior",
-    "sources": {
-      "streams": [
-        "https://aes.m3u8simplu.workers.dev/disneyjunior/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "U8REylkpG4igqA",
     "name": "Disney Junior East",
     "sources": {
       "streams": [
-        "https://gpuserver3.tier1streams.com/Disney_JR/index.m3u8",
         "https://206.212.244.63/3147/index.m3u8",
+        "https://gpuserver3.tier1streams.com/Disney_JR/index.m3u8",
         "https://tvsen5.aynascope.net/disney/index.m3u8"
       ]
     },
@@ -1140,20 +1112,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "X2mzfNA1EyPeME",
-    "name": "God Stands Kids Club TV Chinese",
-    "sources": {
-      "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "97TDYmlPdbsepe",
     "name": "God Stands Kids Club TV English",
     "sources": {
@@ -1259,7 +1217,7 @@
     "name": "Jetix",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/BV6ogRbNhOI"
+        "https://www.youtube-nocookie.com/embed/OUdgAypvWtc"
       ]
     },
     "languages": [
@@ -1715,20 +1673,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iWgQmEwDVrwbe4",
-    "name": "Nick Jr.",
-    "sources": {
-      "streams": [
-        "https://aes.m3u8simplu.workers.dev/nickjr/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RdBj6vEFVhj28o",
     "name": "Nick Jr.",
     "sources": {
@@ -1771,20 +1715,6 @@
       "rus"
     ],
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "T2YeVfcaiiFhTA",
-    "name": "Nickelodeon",
-    "sources": {
-      "streams": [
-        "https://aes.m3u8simplu.workers.dev/nickelodeon/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
     "isGeoBlocked": false
   },
   {
@@ -2253,26 +2183,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "LaJUiyDd3qErb2",
-    "name": "Pororo 뽀로로",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/m6pQPFVm28Q"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uuPEZrmKbOVuZJ",
     "name": "Radost Moya",
     "sources": {
       "streams": [
-        "https://radm.mediacdn.ru/cdn/radost/playlist.m3u8",
-        "https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8"
+        "https://radm.mediacdn.ru/cdn/radost/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2420,21 +2335,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JIPUpjryYJZoMO",
-    "name": "Smile TV",
-    "sources": {
-      "streams": [
-        "https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8",
-        "https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -2743,6 +2643,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YCPZsdEDhEaJOB",
+    "name": "TRT Cocuk",
+    "sources": {
+      "streams": [
+        "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aIKbRpQHmkkXLq",
     "name": "TRT Diyanet Cocuk",
     "sources": {
@@ -2960,7 +2874,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/GoDcMyfgbcQ"
+        "https://www.youtube-nocookie.com/embed/DK8AM-hkYKo"
       ]
     },
     "languages": [
