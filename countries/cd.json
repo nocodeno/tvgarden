@@ -42,11 +42,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ja8UrHCZtIyHwA",
-    "name": "Geopolis TV",
+    "nanoid": "D6KiASo2YhEXxv",
+    "name": "EVI TV",
     "sources": {
       "streams": [
-        "https://tnt-television.com/Geopolis_tv/index.m3u8"
+        "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"
       ]
     },
     "languages": [
@@ -75,6 +75,20 @@
     "sources": {
       "streams": [
         "https://tnt-television.com/NUMERICA/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "cd",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "C9r0nQTewOjHW3",
+    "name": "RL PRO TV",
+    "sources": {
+      "streams": [
+        "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
       ]
     },
     "languages": [

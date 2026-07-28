@@ -42,20 +42,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "qF4K7YKWjkSybG",
-    "name": "Bread TV",
-    "sources": {
-      "streams": [
-        "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"
-      ]
-    },
-    "languages": [
-      "cmn"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jPny5x45PjO9YA",
     "name": "CCTV-1",
     "sources": {
@@ -687,11 +673,35 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "G8jMlVl14mEiZk",
+    "name": "宿州公共",
+    "sources": {
+      "streams": [
+        "https://live.ahsz.tv/video/s10001-ggpd/index.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ez5NBYjpiihwmc",
+    "name": "宿州科教",
+    "sources": {
+      "streams": [
+        "https://live.ahsz.tv/video/s10001-kxjy/index.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0REjP55mYk4y0F",
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/DK8AM-hkYKo"
+        "https://www.youtube-nocookie.com/embed/g49OQ7g4_XU"
       ]
     },
     "languages": [
@@ -766,6 +776,30 @@
     "sources": {
       "streams": [
         "https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2D80wABwXq6SL0",
+    "name": "浙江 I 绍兴影视",
+    "sources": {
+      "streams": [
+        "https://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tWjSdo4t72dhtd",
+    "name": "浙江 I 绍兴综合",
+    "sources": {
+      "streams": [
+        "https://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8"
       ]
     },
     "languages": [],

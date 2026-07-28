@@ -197,7 +197,8 @@
     "name": "Bloomberg TV US",
     "sources": {
       "streams": [
-        "https://206.212.244.63/22/index.m3u8"
+        "https://206.212.244.63/22/index.m3u8",
+        "https://gpuserver3.tier1streams.com/BLOOMBERG/index.m3u8"
       ]
     },
     "languages": [
@@ -280,6 +281,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0w7Ai7GtLMZNLS",
+    "name": "Canal Pro",
+    "sources": {
+      "streams": [
+        "https://www.desde-paraguay.com/pro.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "v8hzHLNa329Qxl",
     "name": "Canal Z",
     "sources": {
@@ -306,20 +321,6 @@
       "zho"
     ],
     "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9pIQ8aGJ6RFrBk",
-    "name": "Champion TV",
-    "sources": {
-      "streams": [
-        "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ci",
     "isGeoBlocked": false
   },
   {
