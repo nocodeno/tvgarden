@@ -47,8 +47,8 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/b42ac280-5300-4db0-8a63-2ec2e52c5b5c/playlist.m3u8",
-        "https://amg02333-pbs-amg02333c9-firetv-us-4249.playouts.now.amagi.tv/playlist.m3u8",
-        "https://d3v8uchko88gmi.cloudfront.net/PBSART_GB.m3u8"
+        "https://d3v8uchko88gmi.cloudfront.net/PBSART_GB.m3u8",
+        "https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8"
       ]
     },
     "languages": [
@@ -76,8 +76,7 @@
     "name": "Ayush TV",
     "sources": {
       "streams": [
-        "https://cdn-6.pishow.tv/live/221/master.m3u8",
-        "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"
+        "https://cdn-6.pishow.tv/live/221/master.m3u8"
       ]
     },
     "languages": [
@@ -119,8 +118,8 @@
     "name": "Biz TV",
     "sources": {
       "streams": [
-        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
-        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
+        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
+        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -301,6 +300,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "IgIhtSlDnhWcsL",
+    "name": "El Futuro En tu Mano",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ZzlY3d_YSF0"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sNGgqsLaPmiNb6",
     "name": "Fashion Finds",
     "sources": {
@@ -340,6 +353,20 @@
       "eng"
     ],
     "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LwuXZMrWCojeSy",
+    "name": "FashionTV",
+    "sources": {
+      "streams": [
+        "https://45.190.28.50/FASHION_TV_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -460,7 +487,8 @@
     "name": "Great American Faith & Living",
     "sources": {
       "streams": [
-        "https://206.212.244.63/82/index.m3u8"
+        "https://206.212.244.63/82/index.m3u8",
+        "https://gpuserver3.tier1streams.com/GAC_LIVING/index.m3u8"
       ]
     },
     "languages": [
@@ -531,8 +559,8 @@
     "sources": {
       "streams": [
         "https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8",
-        "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8"
+        "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8",
+        "https://insighttv-samsung-us.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -830,7 +858,6 @@
     "sources": {
       "streams": [
         "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8",
         "https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8"
       ]
     },
@@ -854,20 +881,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "C5BeaJj41VYD7f",
-    "name": "TV3 Life",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/373/index.m3u8"
-      ]
-    },
-    "languages": [
-      "lav"
-    ],
-    "country": "lv",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "2gvbHx7OrU70G2",

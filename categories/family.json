@@ -76,7 +76,7 @@
       "streams": [
         "https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8",
         "https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8",
-        "https://206.212.244.63/6134/index.m3u8"
+        "https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8"
       ]
     },
     "languages": [
@@ -105,7 +105,7 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8",
-        "https://amg00567-amg00567c1-firetv-us-4124.playouts.now.amagi.tv/playlist.m3u8",
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8",
         "https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8"
       ]
     },
@@ -120,8 +120,8 @@
     "name": "FETV",
     "sources": {
       "streams": [
-        "https://206.212.244.63/60/index.m3u8",
-        "https://gpuserver3.tier1streams.com/FETV/index.m3u8"
+        "https://gpuserver3.tier1streams.com/FETV/index.m3u8",
+        "https://206.212.244.63/60/index.m3u8"
       ]
     },
     "languages": [
@@ -135,8 +135,9 @@
     "name": "Freeform East",
     "sources": {
       "streams": [
-        "https://gpuserver3.tier1streams.com/FREEFORM/index.m3u8",
-        "https://206.212.244.63/69/index.m3u8"
+        "https://206.212.244.63/69/index.m3u8",
+        "https://40.160.24.52/FREEFORM/index.m3u8",
+        "https://gpuserver3.tier1streams.com/FREEFORM/index.m3u8"
       ]
     },
     "languages": [
@@ -165,8 +166,8 @@
     "sources": {
       "streams": [
         "https://gpuserver3.tier1streams.com/GREAT_AMERICAN_COUNTRY/index.m3u8",
-        "https://40.160.24.58/GAC_FAMILY/index.m3u8",
-        "https://206.212.244.63/81/index.m3u8"
+        "https://206.212.244.63/81/index.m3u8",
+        "https://40.160.24.58/GAC_FAMILY/index.m3u8"
       ]
     },
     "languages": [
@@ -245,20 +246,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7UK6GTwohWhEMF",
-    "name": "Rakuten TV Family Movies Italy",
-    "sources": {
-      "streams": [
-        "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -347,20 +334,6 @@
       "eng"
     ],
     "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OFNCxJwQlhXnh3",
-    "name": "Tshwane TV",
-    "sources": {
-      "streams": [
-        "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "za",
     "isGeoBlocked": false
   },
   {
