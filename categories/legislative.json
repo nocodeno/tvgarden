@@ -154,20 +154,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mCYSTDjXapnUpp",
-    "name": "Canal del Congreso 45.1",
-    "sources": {
-      "streams": [
-        "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nvi12xPQhPg1F5",
     "name": "Canal Gov",
     "sources": {
@@ -628,6 +614,20 @@
     "sources": {
       "streams": [
         "https://video.oct.dc.gov/out/u/DCN.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xnU10BQX3X7Kmm",
+    "name": "Fernandina Beach Channel",
+    "sources": {
+      "streams": [
+        "https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1188,6 +1188,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TGxMGkMiPXHlY0",
+    "name": "Rio TV Câmara",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/KKbl9L_39ic"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "02FZNtdjYpb1eU",
     "name": "Sansad TV 1",
     "sources": {
@@ -1339,7 +1353,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/aUesoo_lfXc"
+        "https://www.youtube-nocookie.com/embed/SKg2lQOm0gk"
       ]
     },
     "languages": [
@@ -1368,8 +1382,8 @@
     "sources": {
       "streams": [
         "https://stream3.camara.gov.br/tv1/manifest.m3u8",
-        "https://45.190.28.50/TV_CAMARA/index.m3u8",
-        "https://45.162.64.114/TV_CAMARA/index.m3u8"
+        "https://45.162.64.114/TV_CAMARA/index.m3u8",
+        "https://45.190.28.50/TV_CAMARA/index.m3u8"
       ]
     },
     "languages": [

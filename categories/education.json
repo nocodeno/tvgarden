@@ -4,8 +4,8 @@
     "name": "AgroCanal",
     "sources": {
       "streams": [
-        "https://45.162.64.114/AGRO_CANAL/index.m3u8",
         "https://45.190.28.50/AGRO_CANAL/index.m3u8",
+        "https://45.162.64.114/AGRO_CANAL/index.m3u8",
         "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
       ]
     },
@@ -48,8 +48,7 @@
     "name": "ARD-alpha",
     "sources": {
       "streams": [
-        "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8",
-        "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8"
+        "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8"
       ]
     },
     "languages": [
@@ -187,26 +186,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pOal2u88RSp40P",
-    "name": "Chemodan TV",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/399/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Sb9t7HbJFX4dw4",
     "name": "Ciftci TV",
     "sources": {
       "streams": [
         "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/l_Ia7Bl4uso"
       ]
     },
     "languages": [
@@ -712,20 +699,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sJtHUQ2FEosClO",
-    "name": "Educa TV",
-    "sources": {
-      "streams": [
-        "https://avm.ecuamedia.net/educatv/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DuJd4u0fDHyZVy",
     "name": "Eduvision",
     "sources": {
@@ -755,21 +728,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "w2VyWhdboy9Con",
-    "name": "Fauna",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/401/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus",
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "M1xHzWMuYZ3C7M",
     "name": "FGN Channel",
     "sources": {
@@ -781,6 +739,20 @@
       "urd"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xZPdiS2AIsXbXV",
+    "name": "GVision",
+    "sources": {
+      "streams": [
+        "https://videostream.chileservidores.com:8081/tome/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -851,20 +823,6 @@
       "spa"
     ],
     "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sxcOVBdgNZ3j3j",
-    "name": "Kan Educational",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/378/index.m3u8"
-      ]
-    },
-    "languages": [
-      "heb"
-    ],
-    "country": "il",
     "isGeoBlocked": false
   },
   {
@@ -949,20 +907,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vGCm6ufhO0hHv0",
-    "name": "MediBizTV",
-    "sources": {
-      "streams": [
-        "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1061,20 +1005,6 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "n4MkAIlXwdSE8X",
-    "name": "OUN",
-    "sources": {
-      "streams": [
-        "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -1319,20 +1249,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GyYMyUUtPptNeI",
-    "name": "Rinjani TV",
-    "sources": {
-      "streams": [
-        "https://rinjanitv.cloud/hls/tvkabel.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xT4SS5ryo4F6PC",
     "name": "SMCTV Channel 24",
     "sources": {
@@ -1498,6 +1414,20 @@
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g7YtvRUN199O67",
+    "name": "TV UG",
+    "sources": {
+      "streams": [
+        "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -1763,20 +1693,6 @@
     "sources": {
       "streams": [
         "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MvxVdnZ8G06Wbd",
-    "name": "XHPBZC-TDT2",
-    "sources": {
-      "streams": [
-        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
       ]
     },
     "languages": [

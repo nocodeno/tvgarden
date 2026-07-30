@@ -31,20 +31,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sPGmyALtlBkjD3",
-    "name": "Ameritrade",
-    "sources": {
-      "streams": [
-        "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
     "sources": {
@@ -271,27 +257,13 @@
         "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ydwU3W3Gmnk"
+        "https://www.youtube-nocookie.com/embed/SDG-NDDFQQY"
       ]
     },
     "languages": [
       "spa"
     ],
     "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0w7Ai7GtLMZNLS",
-    "name": "Canal Pro",
-    "sources": {
-      "streams": [
-        "https://www.desde-paraguay.com/pro.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
     "isGeoBlocked": false
   },
   {
@@ -321,6 +293,20 @@
       "zho"
     ],
     "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9pIQ8aGJ6RFrBk",
+    "name": "Champion TV",
+    "sources": {
+      "streams": [
+        "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ci",
     "isGeoBlocked": false
   },
   {
@@ -502,27 +488,13 @@
     "name": "Ekhon TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/hPRDXiXdKVs"
+        "https://www.youtube-nocookie.com/embed/jehDZOcmk4Q"
       ]
     },
     "languages": [
       "ben"
     ],
     "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Vlv7oVLxod7s5c",
-    "name": "ET Now Swadesh",
-    "sources": {
-      "streams": [
-        "https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -598,20 +570,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hNA8RP7NoiPpEi",
-    "name": "Le Nouveau Manager TV",
-    "sources": {
-      "streams": [
-        "https://lnmlive.com/live/lnmtv.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "bj",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PrbGgJSVKuINgQ",
     "name": "NDTV Profit",
     "sources": {
@@ -641,20 +599,6 @@
       "spa"
     ],
     "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fEhuSbh6UZiVWk",
-    "name": "NW Economie",
-    "sources": {
-      "streams": [
-        "https://hls.newworldtv.com/nw-economie/video/live.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "tg",
     "isGeoBlocked": false
   },
   {
@@ -691,7 +635,8 @@
     "name": "RBK-TV",
     "sources": {
       "streams": [
-        "https://online-video.rbc.ru/online2/rbctv.m3u8"
+        "https://online-video.rbc.ru/online2/rbctv.m3u8",
+        "https://online-video.rbc.ru/spb/rbctv_spb.m3u8"
       ]
     },
     "languages": [
@@ -749,9 +694,9 @@
     "name": "Yahoo! Finance",
     "sources": {
       "streams": [
+        "https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8",
         "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
-        "https://yahoo-plex.amagi.tv/playlist.m3u8",
-        "https://yahoo-vizio.amagi.tv/playlist.m3u8"
+        "https://yahoo-plex.amagi.tv/playlist.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/KQp-e_XQnDE"

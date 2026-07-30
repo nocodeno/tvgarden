@@ -211,6 +211,7 @@
     "name": "QazSport",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/72/index.m3u8",
         "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8"
       ]
     },
@@ -266,19 +267,5 @@
     ],
     "country": "kz",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "if2kwrLRFc4oRC",
-    "name": "Телеканал 24kz",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/N5FkSOzmBHw"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "kz",
-    "isGeoBlocked": false
   }
 ]

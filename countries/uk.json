@@ -223,8 +223,8 @@
     "name": "BBC News North America",
     "sources": {
       "streams": [
-        "https://gpuserver3.tier1streams.com/BBC_WORLD_NEWS/index.m3u8",
-        "https://206.212.244.63/14/index.m3u8"
+        "https://206.212.244.63/14/index.m3u8",
+        "https://gpuserver3.tier1streams.com/BBC_WORLD_NEWS/index.m3u8"
       ]
     },
     "languages": [
@@ -554,7 +554,7 @@
     "name": "Crafter's TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Tj7Vr4lCkxI"
+        "https://www.youtube-nocookie.com/embed/ZG7f3hN4B3g"
       ]
     },
     "languages": [
@@ -1154,7 +1154,6 @@
     "name": "Inside Crime UK",
     "sources": {
       "streams": [
-        "https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8",
         "https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8"
       ]
@@ -1164,18 +1163,6 @@
     ],
     "country": "uk",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "eaLExqWZXvp5pC",
-    "name": "INTER 24/7",
-    "sources": {
-      "streams": [
-        "https://amg27604-amg27604c1-amgplt0002.playout.now3.amagi.tv/playlist/amg27604-amg27604c1-amgplt0002/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "tOgrmVxWlQxOPo",
@@ -1417,20 +1404,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LbTx61exNziTLe",
-    "name": "Miracle TV",
-    "sources": {
-      "streams": [
-        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
     "sources": {
@@ -1617,7 +1590,6 @@
     "name": "Mystery TV UK",
     "sources": {
       "streams": [
-        "https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8",
         "https://blaze-fast-mystery-tv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-mystery-tv-amagi/playlist.m3u8"
       ]
@@ -2015,6 +1987,18 @@
     "sources": {
       "streams": [
         "https://dikkyk1ckkhzq.cloudfront.net/RabiddsInvasion_GB.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pCghkk05sIwmT1",
+    "name": "Rakuten TV Reality UK",
+    "sources": {
+      "streams": [
+        "https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8"
       ]
     },
     "languages": [],
