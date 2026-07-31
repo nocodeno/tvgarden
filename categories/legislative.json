@@ -42,20 +42,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1q3kaCpiJgYIgc",
-    "name": "Assembleia SC: AO VIVO",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/mA0MMvmshLA"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "I5etK19ZRT3eHn",
     "name": "ATXN1",
     "sources": {
@@ -154,12 +140,23 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mCYSTDjXapnUpp",
+    "name": "Canal del Congreso 45.1",
+    "sources": {
+      "streams": [
+        "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nvi12xPQhPg1F5",
     "name": "Canal Gov",
     "sources": {
-      "streams": [
-        "https://canalgov-stream.ebc.com.br/index.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/nqfph9USEYA"
       ]
@@ -238,21 +235,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "udSOaNy3d31JFB",
-    "name": "Chamber TV",
-    "sources": {
-      "streams": [
-        "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra",
-      "ltz"
-    ],
-    "country": "lu",
     "isGeoBlocked": false
   },
   {
@@ -1223,7 +1205,6 @@
     "sources": {
       "streams": [
         "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
-        "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8",
         "https://cdn-2.pishow.tv/live/39/master.m3u8"
       ]
     },
@@ -1353,7 +1334,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SKg2lQOm0gk"
+        "https://www.youtube-nocookie.com/embed/FCt09B87d2c"
       ]
     },
     "languages": [
@@ -1382,8 +1363,8 @@
     "sources": {
       "streams": [
         "https://stream3.camara.gov.br/tv1/manifest.m3u8",
-        "https://45.162.64.114/TV_CAMARA/index.m3u8",
-        "https://45.190.28.50/TV_CAMARA/index.m3u8"
+        "https://45.190.28.50/TV_CAMARA/index.m3u8",
+        "https://45.162.64.114/TV_CAMARA/index.m3u8"
       ]
     },
     "languages": [
@@ -1433,6 +1414,20 @@
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "veywE9r1ITeufF",
+    "name": "TV Legislativa",
+    "sources": {
+      "streams": [
+        "https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
     "isGeoBlocked": false
   },
   {

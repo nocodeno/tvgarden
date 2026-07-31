@@ -62,9 +62,9 @@
     "name": "Arirang TV",
     "sources": {
       "streams": [
+        "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
         "https://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-        "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-        "https://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+        "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/hvVlyZ5GiE8"
@@ -363,6 +363,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LeEKq1Wp81fOe3",
+    "name": "HLAN-DTV",
+    "sources": {
+      "streams": [
+        "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pnA1ESNuQBhdp0",
     "name": "HLAT-DTV",
     "sources": {
@@ -396,6 +410,20 @@
     "sources": {
       "streams": [
         "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pl6NNNGCvJKobd",
+    "name": "HLDH-DTV",
+    "sources": {
+      "streams": [
+        "https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -479,7 +507,7 @@
     "name": "JTBC News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/3-Y5bzgLwWk"
+        "https://www.youtube-nocookie.com/embed/PatKAT4YO90"
       ]
     },
     "languages": [
@@ -493,7 +521,7 @@
     "name": "KBS News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/3JHVPTv2EDs"
+        "https://www.youtube-nocookie.com/embed/0nfAKGoW-u8"
       ]
     },
     "languages": [
@@ -602,6 +630,48 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oNnWdV2miCH9OF",
+    "name": "NS Home Shopping",
+    "sources": {
+      "streams": [
+        "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GPfN3XUpvverSy",
+    "name": "NS Shop+",
+    "sources": {
+      "streams": [
+        "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n4MkAIlXwdSE8X",
+    "name": "OUN",
+    "sources": {
+      "streams": [
+        "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LaJUiyDd3qErb2",
     "name": "Pororo 뽀로로",
     "sources": {
@@ -634,7 +704,7 @@
     "name": "SBS",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Yr5LIEN5Ilk"
+        "https://www.youtube-nocookie.com/embed/rPgpcOCQImk"
       ]
     },
     "languages": [

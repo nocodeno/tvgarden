@@ -42,20 +42,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ub8JrS0E2NV4BX",
-    "name": "Hubble",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/zK3CwmImkrw"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ioi3DtFwnFosJO",
     "name": "InWonder",
     "sources": {
@@ -69,6 +55,34 @@
     ],
     "country": "nl",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "vGCm6ufhO0hHv0",
+    "name": "MediBizTV",
+    "sources": {
+      "streams": [
+        "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uPBnVmprz4lcyz",
+    "name": "NASA: ISS",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/M3HKLzjvKPc"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "9Lv6gyQaWTeTvh",
@@ -148,9 +162,9 @@
     "name": "Wonder",
     "sources": {
       "streams": [
-        "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8",
-        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8"
+        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
+        "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [

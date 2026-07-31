@@ -431,9 +431,9 @@
     "name": "Carousel",
     "sources": {
       "streams": [
+        "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
         "https://stream.mcquack.net/120/index.m3u8",
-        "https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8",
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
+        "https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8"
       ]
     },
     "languages": [
@@ -650,6 +650,34 @@
       "tam"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hboH9AkWIrBLT1",
+    "name": "Clifford the Big Red Dog: Classic",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/C-cpAHp-Ct0"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DWHNlPkSNnnnSG",
+    "name": "Clifford the Big Red Dog: Clifford's Puppy Days",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/abT-x1WP3Pw"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1084,6 +1112,62 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IGkGdoXwnCTsO2",
+    "name": "God Stands Kids Club TV Arabic",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "X2mzfNA1EyPeME",
+    "name": "God Stands Kids Club TV Chinese",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "97TDYmlPdbsepe",
+    "name": "God Stands Kids Club TV English",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oXC3NCXK3UzLO5",
+    "name": "God Stands Kids Club TV Urdu",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KFnZBS7uvG9E90",
     "name": "Gulli Girl",
     "sources": {
@@ -1233,6 +1317,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
+    "sources": {
+      "streams": [
+        "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "X98dZJpeNVSZmP",
     "name": "KidsFlix",
     "sources": {
@@ -1302,20 +1400,6 @@
       "ara"
     ],
     "country": "eg",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Mi17BkbSFMtULi",
-    "name": "Kuriakos Kids",
-    "sources": {
-      "streams": [
-        "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "pt",
     "isGeoBlocked": false
   },
   {
@@ -1621,8 +1705,8 @@
     "name": "Nick Jr. East",
     "sources": {
       "streams": [
-        "https://206.212.244.63/3150/index.m3u8",
-        "https://40.160.24.55/NICK_JR/index.m3u8"
+        "https://40.160.24.55/NICK_JR/index.m3u8",
+        "https://206.212.244.63/3150/index.m3u8"
       ]
     },
     "languages": [
@@ -1679,8 +1763,8 @@
     "name": "Nickelodeon East",
     "sources": {
       "streams": [
-        "https://206.212.244.63/666/index.m3u8",
-        "https://40.160.24.55/NICKELODEON/index.m3u8"
+        "https://40.160.24.55/NICKELODEON/index.m3u8",
+        "https://206.212.244.63/666/index.m3u8"
       ]
     },
     "languages": [
@@ -1751,14 +1835,15 @@
     "sources": {
       "streams": [
         "https://206.212.244.63/3151/index.m3u8",
-        "https://40.160.24.55/NICKTOONS/index.m3u8"
+        "https://40.160.24.55/NICKTOONS/index.m3u8",
+        "https://messi.damitv.st/papi/ts/nicktoons-usa/playlist.m3u8"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "YICMX95ApmM2qM",
@@ -2141,17 +2226,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uG8pl3LEpu9YZr",
-    "name": "Rainbow Junior: 44 Cats",
+    "nanoid": "GzjkBwRPP1x8dy",
+    "name": "Reino Infantil",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/boZX-njiGNI"
+      "streams": [
+        "https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "por"
     ],
-    "country": "us",
+    "country": "mz",
     "isGeoBlocked": false
   },
   {
@@ -2282,6 +2367,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JIPUpjryYJZoMO",
+    "name": "Smile TV",
+    "sources": {
+      "streams": [
+        "https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8",
+        "https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rzeNGQqOs9ouwZ",
     "name": "Smotrim 100% Detskoe",
     "sources": {
@@ -2358,7 +2458,7 @@
     "name": "Sunny Bunnies",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/TDood6A_Ma8"
+        "https://www.youtube-nocookie.com/embed/qp5Km8sujJ8"
       ]
     },
     "languages": [
@@ -2372,7 +2472,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/T_yH_5p_gt4"
+        "https://www.youtube-nocookie.com/embed/CjPJKbRnUpg"
       ]
     },
     "languages": [
@@ -2386,7 +2486,7 @@
     "name": "Super Simple: Noodle and Pals",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/J_nqOCBqTww"
+        "https://www.youtube-nocookie.com/embed/4cdYOm7dPfo"
       ]
     },
     "languages": [
@@ -2400,7 +2500,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Mv3LipsIwG4"
+        "https://www.youtube-nocookie.com/embed/lFunrP2n0Zk"
       ]
     },
     "languages": [
@@ -2789,7 +2889,8 @@
     "sources": {
       "streams": [
         "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
-        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8"
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+        "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2817,7 +2918,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Vg9fW2MS8wA"
+        "https://www.youtube-nocookie.com/embed/X0X6Eo5dWSQ"
       ]
     },
     "languages": [

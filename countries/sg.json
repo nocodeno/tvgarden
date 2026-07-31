@@ -85,12 +85,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "G00HUpBKHxckzh",
+    "name": "CNBC Asia",
+    "sources": {
+      "streams": [
+        "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "sg",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "y1OGn4C9pf6ycf",
     "name": "ZooMoo",
     "sources": {
       "streams": [
         "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
-        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8"
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+        "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [

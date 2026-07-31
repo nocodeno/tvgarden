@@ -120,8 +120,8 @@
     "name": "FETV",
     "sources": {
       "streams": [
-        "https://gpuserver3.tier1streams.com/FETV/index.m3u8",
-        "https://206.212.244.63/60/index.m3u8"
+        "https://206.212.244.63/60/index.m3u8",
+        "https://gpuserver3.tier1streams.com/FETV/index.m3u8"
       ]
     },
     "languages": [
@@ -144,7 +144,7 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "pBc315uh5BofsA",
@@ -165,9 +165,9 @@
     "name": "Great American Family",
     "sources": {
       "streams": [
-        "https://gpuserver3.tier1streams.com/GREAT_AMERICAN_COUNTRY/index.m3u8",
+        "https://40.160.24.58/GAC_FAMILY/index.m3u8",
         "https://206.212.244.63/81/index.m3u8",
-        "https://40.160.24.58/GAC_FAMILY/index.m3u8"
+        "https://gpuserver3.tier1streams.com/GREAT_AMERICAN_COUNTRY/index.m3u8"
       ]
     },
     "languages": [
@@ -249,6 +249,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MC61m9CVuBlcBk",
+    "name": "Rakuten TV Family Movies Finland",
+    "sources": {
+      "streams": [
+        "https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "50AOLuz78mWfKm",
     "name": "RiC",
     "sources": {
@@ -275,20 +290,6 @@
       "uzb"
     ],
     "country": "uz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oLnLTQ4nnHeCAZ",
-    "name": "Soweto TV",
-    "sources": {
-      "streams": [
-        "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "za",
     "isGeoBlocked": false
   },
   {
