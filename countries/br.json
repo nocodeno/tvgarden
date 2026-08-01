@@ -48,8 +48,8 @@
     "name": "AgroMais",
     "sources": {
       "streams": [
-        "https://45.162.64.114/AGROMAIS/index.m3u8",
-        "https://45.190.28.50/AGROMAIS_HD/index.m3u8"
+        "https://45.190.28.50/AGROMAIS_HD/index.m3u8",
+        "https://45.162.64.114/AGROMAIS/index.m3u8"
       ]
     },
     "languages": [
@@ -107,6 +107,34 @@
       "streams": [
         "https://45.162.64.114/ARTE1/index.m3u8",
         "https://45.190.28.50/ARTE_1/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1q3kaCpiJgYIgc",
+    "name": "Assembleia SC: AO VIVO",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/A-MJ8liNUNQ"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aBeSgu0TnhF49u",
+    "name": "Auge TV",
+    "sources": {
+      "streams": [
+        "https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -350,6 +378,9 @@
     "nanoid": "nvi12xPQhPg1F5",
     "name": "Canal Gov",
     "sources": {
+      "streams": [
+        "https://canalgov-stream.ebc.com.br/index.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/nqfph9USEYA"
       ]
@@ -490,20 +521,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DqexB6yaP4LscU",
-    "name": "CNN Brasil",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/uV2lihgLJZg"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DNa7AQHZDPi0it",
     "name": "COM Brasil",
     "sources": {
@@ -622,6 +639,20 @@
     "sources": {
       "streams": [
         "https://45.162.64.114/ZOOMOO_KIDS/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uBGBZ1tmmDfH55",
+    "name": "Elemental Channel",
+    "sources": {
+      "streams": [
+        "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1205,7 +1236,7 @@
         "https://45.190.28.50/RECORD_NEWS_HD/index.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/x5_05NbCzDA"
+        "https://www.youtube-nocookie.com/embed/dsMoHQ_4GTA"
       ]
     },
     "languages": [
@@ -1233,8 +1264,8 @@
     "name": "Rede Brasil",
     "sources": {
       "streams": [
-        "https://45.190.28.50/REDE_BRASIL_HD/index.m3u8",
         "https://cdn-tiva-video09-logicahost-com-br.smartbit.co/redebrasiloficial/redebrasiloficial/playlist.m3u8",
+        "https://45.190.28.50/REDE_BRASIL_HD/index.m3u8",
         "https://redebrasil.nuvemplay.live/hls/stream.m3u8"
       ]
     },
@@ -1309,6 +1340,20 @@
     "sources": {
       "streams": [
         "https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Po4Shf4tXLTh89",
+    "name": "Rede Minas",
+    "sources": {
+      "streams": [
+        "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1487,20 +1532,6 @@
     ],
     "country": "br",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "pqj11LkViqg7gn",
-    "name": "SBT RIBEIRÃO PRETO",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/Hs1GVIuNiyA"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "aRFi5tYztwXALW",
@@ -1806,7 +1837,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/FCt09B87d2c"
+        "https://www.youtube-nocookie.com/embed/iE-_NnyEo94"
       ]
     },
     "languages": [
@@ -1835,8 +1866,8 @@
     "sources": {
       "streams": [
         "https://tvbrasil-stream.ebc.com.br/index.m3u8",
-        "https://45.162.64.114/TV_BRASIL/index.m3u8",
-        "https://45.190.28.50/TV_BRASIL/index.m3u8"
+        "https://45.190.28.50/TV_BRASIL/index.m3u8",
+        "https://45.162.64.114/TV_BRASIL/index.m3u8"
       ]
     },
     "languages": [
@@ -1908,8 +1939,8 @@
     "name": "TV Cancao Nova",
     "sources": {
       "streams": [
-        "https://45.190.28.50/CANCAO_NOVA_HD/index.m3u8",
         "https://45.162.64.114/CANCAO_NOVA/index.m3u8",
+        "https://45.190.28.50/CANCAO_NOVA_HD/index.m3u8",
         "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8"
       ],
       "youtube": [
@@ -1984,8 +2015,8 @@
     "sources": {
       "streams": [
         "https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8",
-        "https://45.190.28.50/TV_CULTURA_HD/index.m3u8",
-        "https://45.162.64.114/TV_CULTURA/index.m3u8"
+        "https://45.162.64.114/TV_CULTURA/index.m3u8",
+        "https://45.190.28.50/TV_CULTURA_HD/index.m3u8"
       ]
     },
     "languages": [
@@ -2055,9 +2086,23 @@
     "name": "TV Evangelizar",
     "sources": {
       "streams": [
-        "https://45.162.64.114/EVANGELIZAR/index.m3u8",
         "https://45.190.28.50/TV_EVANGELIZAR/index.m3u8",
+        "https://45.162.64.114/EVANGELIZAR/index.m3u8",
         "https://cdn-tiva-tvevangelizar-brasilstream-com-br.smartbit.co/hls/tvevangelizar/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wn9zTtCDWftvkD",
+    "name": "TV Fronteira",
+    "sources": {
+      "streams": [
+        "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
       ]
     },
     "languages": [
@@ -2097,11 +2142,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oH3WEnD6QKHZwa",
-    "name": "TV Globo Rio de Janeiro",
+    "nanoid": "QGZX5mZ7t6VQlN",
+    "name": "TV Gazin",
     "sources": {
       "streams": [
-        "https://45.190.28.50/GLOBO_HD/index.m3u8"
+        "https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvgazin/tvgazin/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2111,11 +2156,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OXfFnCDtrQdqyq",
-    "name": "TV Guara",
+    "nanoid": "oH3WEnD6QKHZwa",
+    "name": "TV Globo Rio de Janeiro",
     "sources": {
       "streams": [
-        "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
+        "https://45.190.28.50/GLOBO_HD/index.m3u8"
       ]
     },
     "languages": [
@@ -2284,7 +2329,7 @@
     "name": "TV Notícia",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/1CkR1173vGg"
+        "https://www.youtube-nocookie.com/embed/BzYlgtEQEdE"
       ]
     },
     "languages": [
@@ -2312,9 +2357,9 @@
     "name": "TV Pai Eterno",
     "sources": {
       "streams": [
-        "https://45.190.28.50/PAI_ETERNO/index.m3u8",
         "https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8",
-        "https://45.162.64.114/TV_PAI_ETERNO/index.m3u8"
+        "https://45.162.64.114/TV_PAI_ETERNO/index.m3u8",
+        "https://45.190.28.50/PAI_ETERNO/index.m3u8"
       ]
     },
     "languages": [

@@ -85,20 +85,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8qbHNd2Zc2MjWY",
-    "name": "CCTV-9",
-    "sources": {
-      "streams": [
-        "https://xykt-fix.github.io/Y77.m3u8"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Re5Rs60C2x03XD",
     "name": "CCTV+ 1",
     "sources": {
@@ -539,6 +525,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VzepbqP86gbVbt",
+    "name": "Xinjiang TV 3",
+    "sources": {
+      "streams": [
+        "https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8"
+      ]
+    },
+    "languages": [
+      "kaz"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qhvw7nkIuV1cQ9",
     "name": "Zhejiang International Channel",
     "sources": {
@@ -677,7 +677,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/X0X6Eo5dWSQ"
+        "https://www.youtube-nocookie.com/embed/MkwtLFWlTnc"
       ]
     },
     "languages": [
@@ -932,6 +932,18 @@
     "sources": {
       "streams": [
         "https://stream2.jlntv.cn/jlcc/sd/live.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "0pqCht0rSXqoPv",
+    "name": "集安综合",
+    "sources": {
+      "streams": [
+        "https://stream2.jlntv.cn/ja/sd/live.m3u8"
       ]
     },
     "languages": [],
