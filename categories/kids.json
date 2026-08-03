@@ -227,20 +227,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JCokef05ozWI8Y",
-    "name": "Balapan International",
-    "sources": {
-      "streams": [
-        "https://live-3.otcnet.ru/Balapan/index.m3u8"
-      ]
-    },
-    "languages": [
-      "kaz"
-    ],
-    "country": "kz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cGjSaev20uBBta",
     "name": "Banijay Mr Bean Animé",
     "sources": {
@@ -1123,17 +1109,61 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "X2mzfNA1EyPeME",
-    "name": "God Stands Kids Club TV Chinese",
+    "nanoid": "IGkGdoXwnCTsO2",
+    "name": "God Stands Kids Club TV Arabic",
     "sources": {
       "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8"
+        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8"
       ]
     },
     "languages": [
-      "zho"
+      "ara"
     ],
     "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "97TDYmlPdbsepe",
+    "name": "God Stands Kids Club TV English",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oXC3NCXK3UzLO5",
+    "name": "God Stands Kids Club TV Urdu",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZmDRMCQnO0fBdl",
+    "name": "Green Gold TV",
+    "sources": {
+      "streams": [
+        "https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8"
+      ]
+    },
+    "languages": [
+      "hin",
+      "mai",
+      "nep"
+    ],
+    "country": "np",
     "isGeoBlocked": false
   },
   {
@@ -1261,8 +1291,8 @@
     "sources": {
       "streams": [
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8",
-        "https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8",
-        "https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8"
+        "https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8",
+        "https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8"
       ]
     },
     "languages": [
@@ -2111,6 +2141,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4NyFCBjkWuIpW6",
+    "name": "Pocoyo",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/n5lS0-MCgqc"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "scDZ3wRq1kFeHG",
     "name": "Pokémon",
     "sources": {
@@ -2442,7 +2486,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/CjPJKbRnUpg"
+        "https://www.youtube-nocookie.com/embed/biJg4Ee3ONk"
       ]
     },
     "languages": [
@@ -2456,7 +2500,7 @@
     "name": "Super Simple: Noodle and Pals",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/4cdYOm7dPfo"
+        "https://www.youtube-nocookie.com/embed/V097orJA-IE"
       ]
     },
     "languages": [
@@ -2470,7 +2514,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/lFunrP2n0Zk"
+        "https://www.youtube-nocookie.com/embed/kaljT_xhDXo"
       ]
     },
     "languages": [
@@ -2685,6 +2729,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eJ6LajESBOIbZe",
+    "name": "TV Bahoriston",
+    "sources": {
+      "streams": [
+        "https://live.teleradiocom.tj/3/3m.m3u8"
+      ]
+    },
+    "languages": [
+      "tgk"
+    ],
+    "country": "tj",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "G5MvNhKDTwrAEa",
     "name": "TVCARiB Kids & Teens",
     "sources": {
@@ -2888,7 +2946,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/MkwtLFWlTnc"
+        "https://www.youtube-nocookie.com/embed/L-C5flu_6JI"
       ]
     },
     "languages": [

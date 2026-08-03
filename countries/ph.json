@@ -253,8 +253,8 @@
     "name": "Mindanow Network TV",
     "sources": {
       "streams": [
-        "https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8",
-        "https://streams.comclark.com/overlay/mindanow/playlist.m3u8"
+        "https://streams.comclark.com/overlay/mindanow/playlist.m3u8",
+        "https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8"
       ]
     },
     "languages": [
@@ -340,6 +340,20 @@
     "sources": {
       "streams": [
         "https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iy4DzSWvO3GYHT",
+    "name": "Teleradyo Serbisyo",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/XTCrScHbU_s"
       ]
     },
     "languages": [
