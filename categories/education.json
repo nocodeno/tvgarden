@@ -106,8 +106,8 @@
     "name": "Canal Educacao",
     "sources": {
       "streams": [
-        "https://canaleducacao-stream.ebc.com.br/index.m3u8",
-        "https://45.162.64.114/CANAL_EDUCACAO/index.m3u8"
+        "https://45.162.64.114/CANAL_EDUCACAO/index.m3u8",
+        "https://canaleducacao-stream.ebc.com.br/index.m3u8"
       ]
     },
     "languages": [
@@ -156,6 +156,20 @@
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TAS6xjp5V4DYwH",
+    "name": "Canal Universidad",
+    "sources": {
+      "streams": [
+        "https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -611,20 +625,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kYQnPKKVLeV7yp",
-    "name": "Dog TV",
-    "sources": {
-      "streams": [
-        "https://206.212.244.63/56/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IvsuFrM7fgKeFe",
     "name": "EBS 1TV",
     "sources": {
@@ -712,6 +712,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DuJd4u0fDHyZVy",
+    "name": "Eduvision",
+    "sources": {
+      "streams": [
+        "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "b9z8Esreszehk1",
     "name": "English Club TV",
     "sources": {
@@ -781,6 +795,20 @@
       "hin"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SMcMieKuG80CNx",
+    "name": "HCTV Educational Access Channel",
+    "sources": {
+      "streams": [
+        "https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -938,20 +966,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tqCNZa0HLCee0u",
-    "name": "Midpen Media Center Channel 28",
-    "sources": {
-      "streams": [
-        "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZPgJUziKYvsqXI",
     "name": "Monroe Community Media Education Channel",
     "sources": {
@@ -1082,22 +1096,7 @@
     "name": "PBS Kids",
     "sources": {
       "streams": [
-        "https://206.212.244.63/669/index.m3u8",
         "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IDUBNLTYka9iGY",
-    "name": "PBS Kids 24/7",
-    "sources": {
-      "streams": [
-        "https://206.212.244.63/672/index.m3u8"
       ]
     },
     "languages": [
@@ -1330,20 +1329,6 @@
       "fra"
     ],
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sJBxRr1Fg3I5q3",
-    "name": "St Lucie Public Schools",
-    "sources": {
-      "streams": [
-        "https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1644,6 +1629,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JvGEcuMecAcih8",
+    "name": "Unison TV",
+    "sources": {
+      "streams": [
+        "https://stream.unison.mx/hls/unisontvatem.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7UeLUueVRqvHR1",
     "name": "Unisul TV",
     "sources": {
@@ -1727,20 +1726,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5X15DRPWWS1LoX",
-    "name": "XHMNL-TDT",
-    "sources": {
-      "streams": [
-        "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {

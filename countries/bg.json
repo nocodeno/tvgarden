@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "aYAhxfge3884Ci",
-    "name": "Agro TV",
-    "sources": {
-      "streams": [
-        "https://restr2.bgtv.bg/agro/hls/agro.m3u8"
-      ]
-    },
-    "languages": [
-      "bul"
-    ],
-    "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "S1ZYN7hADGka8A",
     "name": "City TV",
     "sources": {
@@ -159,6 +145,20 @@
     "sources": {
       "streams": [
         "https://streamer103.neterra.tv/travel/live.m3u8"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NKuKjDs9z9rYim",
+    "name": "TV Spravedliva Bulgariya",
+    "sources": {
+      "streams": [
+        "https://tv.tvsb.bg/112.m3u8"
       ]
     },
     "languages": [

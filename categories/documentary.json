@@ -469,18 +469,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Dsvkj5Ex7UWMgQ",
-    "name": "Heroes & Icons",
-    "sources": {
-      "streams": [
-        "https://206.212.244.63/88/index.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pwNSvcC8tmy7wH",
     "name": "History",
     "sources": {
@@ -513,8 +501,7 @@
     "name": "History East",
     "sources": {
       "streams": [
-        "https://40.160.24.53/HISTORY_CHANNEL/index.m3u8",
-        "https://206.212.244.63/91/index.m3u8"
+        "https://40.160.24.53/HISTORY_CHANNEL/index.m3u8"
       ]
     },
     "languages": [
@@ -528,9 +515,9 @@
     "name": "History Hit",
     "sources": {
       "streams": [
+        "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8",
-        "https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8",
-        "https://timeline-samsung-uk.amagi.tv/playlist.m3u8"
+        "https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8"
       ]
     },
     "languages": [
@@ -715,20 +702,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "AQcwe6Z9P7sz9G",
-    "name": "MRTV Farmer",
-    "sources": {
-      "streams": [
-        "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8"
-      ]
-    },
-    "languages": [
-      "mya"
-    ],
-    "country": "mm",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yWqRPjIHcgYftM",
     "name": "Nano",
     "sources": {
@@ -800,25 +773,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "P3rtGhMl7lNWwt",
-    "name": "National Geographic West",
-    "sources": {
-      "streams": [
-        "https://206.212.244.63/122/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pfvOjTL0SzRiOd",
     "name": "National Geographic Wild East",
     "sources": {
       "streams": [
-        "https://206.212.244.63/123/index.m3u8",
         "https://40.160.24.53/NAT_GEO_WILD/index.m3u8"
       ]
     },
@@ -947,7 +905,6 @@
     "name": "Reelz",
     "sources": {
       "streams": [
-        "https://206.212.244.63/144/index.m3u8",
         "https://40.160.24.55/REELZ/index.m3u8"
       ]
     },
@@ -999,6 +956,20 @@
       "mal"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "M2QygmPlR8J2Gq",
+    "name": "Sky Nature",
+    "sources": {
+      "streams": [
+        "https://tvsen6.aynaott.com/skynature/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
     "isGeoBlocked": false
   },
   {

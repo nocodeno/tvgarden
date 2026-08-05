@@ -237,7 +237,6 @@
     "name": "BBC News North America",
     "sources": {
       "streams": [
-        "https://206.212.244.63/14/index.m3u8",
         "https://gpuserver3.tier1streams.com/BBC_WORLD_NEWS/index.m3u8"
       ]
     },
@@ -285,9 +284,6 @@
         "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_hd_abr_v2.m3u8",
         "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8",
         "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/XRHV-9m_WO4"
       ]
     },
     "languages": [
@@ -560,20 +556,6 @@
       ]
     },
     "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/eiIZtHXR0iY"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1112,6 +1094,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gfaamDst89W7kn",
+    "name": "Horrid Henry",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Fw16joHIp8k"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "76K2wwPMkCskeK",
     "name": "Hot Ones",
     "sources": {
@@ -1462,7 +1458,8 @@
     "name": "Moonbug Kids",
     "sources": {
       "streams": [
-        "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
+        "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8",
+        "https://tvsen6.aynaott.com/MoonbugKids/index.m3u8"
       ]
     },
     "languages": [
@@ -2049,32 +2046,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DqKr2u3T1rmLql",
-    "name": "Rakuten Top Movies UK",
-    "sources": {
-      "streams": [
-        "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mN7jjbfyCCrHDM",
-    "name": "Rakuten TV Romance Movies UK",
-    "sources": {
-      "streams": [
-        "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6OObHoCz5T6mVt",
     "name": "Rakuten TV Sci-Fi UK",
     "sources": {
@@ -2161,21 +2132,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "NegCVOJcL5pipg",
-    "name": "S4C",
-    "sources": {
-      "streams": [
-        "https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8"
-      ]
-    },
-    "languages": [
-      "cym",
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "WQqSZQl27UG0sD",
     "name": "Safeer TV",
     "sources": {
@@ -2213,6 +2169,20 @@
       ]
     },
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "M2QygmPlR8J2Gq",
+    "name": "Sky Nature",
+    "sources": {
+      "streams": [
+        "https://tvsen6.aynaott.com/skynature/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -2875,13 +2845,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MbPIxYg8e29Ojj",
+    "name": "WildBrain: Inspector Gadget",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/n1QXuDJV55k"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "M9HwvmHmrMZElD",
     "name": "Wonder",
     "sources": {
       "streams": [
         "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8",
-        "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
+        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
