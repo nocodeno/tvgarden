@@ -696,9 +696,9 @@
     "name": "France 24 English",
     "sources": {
       "streams": [
+        "https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8",
-        "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8",
-        "https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8"
+        "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/HvZt-nh9sGg"
@@ -1103,7 +1103,8 @@
     "name": "MyZen TV",
     "sources": {
       "streams": [
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8",
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1244,23 +1245,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "3UupDDnNXaxwcR",
-    "name": "Rakuten TV Films Comédie",
+    "nanoid": "kVuXOdBXr2x3dW",
+    "name": "Rakuten TV Alerte Cobra",
     "sources": {
       "streams": [
-        "https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4ukW3AXj5x20Zs",
-    "name": "Rakuten TV Films Famille",
-    "sources": {
-      "streams": [
-        "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8"
+        "https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8"
       ]
     },
     "languages": [],
@@ -1514,6 +1503,7 @@
     "name": "Trace Brazuca",
     "sources": {
       "streams": [
+        "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8",
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8",
         "https://channels.trace.plus/Traceprod/BRAZIL_hd/index.m3u8"
       ]
@@ -1613,9 +1603,9 @@
     "name": "Trace Latina",
     "sources": {
       "streams": [
+        "https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8",
-        "https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8",
-        "https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1699,8 +1689,9 @@
     "name": "Trace Sport Stars",
     "sources": {
       "streams": [
-        "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8",
-        "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8"
+        "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8",
+        "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
+        "https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1730,8 +1721,8 @@
     "sources": {
       "streams": [
         "https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8",
-        "https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8",
-        "https://amg01131-tracetv-traceurbanse-samsungse-ov22d.amagi.tv/playlist/amg01131-tracetv-traceurbanse-samsungse/playlist.m3u8"
+        "https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [

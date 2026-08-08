@@ -116,53 +116,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CoLNv7PVyg2gxD",
-    "name": "Canal 4",
-    "sources": {
-      "streams": [
-        "https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "LzDCMK6w2Gbji4",
-    "name": "Canal 6",
-    "sources": {
-      "streams": [
-        "https://d3xpfoln9sj56.cloudfront.net/ts:abr.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "lhFBUBQYMx1tnO",
     "name": "Canal 10",
     "sources": {
       "streams": [
         "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "f6C3TFfO0WUIqi",
-    "name": "Canal 11",
-    "sources": {
-      "streams": [
-        "https://d3mstgwjcwqz1y.cloudfront.net/ts:abr.m3u8"
       ]
     },
     "languages": [
@@ -282,6 +240,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xMyWNZNLNYysjq",
+    "name": "Enlace",
+    "sources": {
+      "streams": [
+        "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XI0tj0hHgDA4kn",
     "name": "Extra TV 42",
     "sources": {
@@ -366,21 +339,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vPLx0tYa5CbY79",
-    "name": "Gex TV",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "no0bNa1IOmbWsV",
     "name": "Guatuso TV",
     "sources": {
@@ -442,6 +400,20 @@
     "sources": {
       "streams": [
         "https://k4.usastreams.com/limontv1/limontv1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L0Xj3EMr6sq9Oz",
+    "name": "Los Santos TV",
+    "sources": {
+      "streams": [
+        "https://lstv.duckdns.org:449/hls/lstv.m3u8"
       ]
     },
     "languages": [
@@ -575,6 +547,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RYVkiPv8DNw6UC",
+    "name": "Sarapiqui TV",
+    "sources": {
+      "streams": [
+        "https://lstv.duckdns.org:449/hls/stv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2ogrHzPUOLVEgc",
     "name": "SOY Plancha TV",
     "sources": {
@@ -692,7 +678,6 @@
     "name": "TV Cartago Digital",
     "sources": {
       "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/tvcartagodigital/chunks.m3u8?lb_backend_hint=6",
         "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
       ]
     },
@@ -729,20 +714,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TwudAaXIbWS0C2",
-    "name": "TV8",
-    "sources": {
-      "streams": [
-        "https://k20.usastreams.com:8081/tv8/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sue3ShLLkmrNlc",
     "name": "Urbano TV",
     "sources": {
@@ -763,20 +734,6 @@
       "streams": [
         "https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8",
         "https://k4.usastreams.com/videotour/videotour/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tTy2o9iN37Hvi8",
-    "name": "Vintage Music",
-    "sources": {
-      "streams": [
-        "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
       ]
     },
     "languages": [

@@ -31,6 +31,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sPGmyALtlBkjD3",
+    "name": "Ameritrade",
+    "sources": {
+      "streams": [
+        "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
     "sources": {
@@ -150,7 +164,6 @@
     "name": "Bloomberg Originals US",
     "sources": {
       "streams": [
-        "https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8",
         "https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8",
         "https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8"
       ],
@@ -254,6 +267,9 @@
     "sources": {
       "streams": [
         "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/svekeJWi27o"
       ]
     },
     "languages": [
@@ -274,20 +290,6 @@
       "spa"
     ],
     "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v8hzHLNa329Qxl",
-    "name": "Canal Z",
-    "sources": {
-      "streams": [
-        "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "be",
     "isGeoBlocked": false
   },
   {
@@ -532,34 +534,6 @@
       "kor"
     ],
     "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "E9smyEh0BaQpif",
-    "name": "JOB TV",
-    "sources": {
-      "streams": [
-        "https://jobtvserver.eu/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eJyaKdO16IOPE0",
-    "name": "Kanaal Z",
-    "sources": {
-      "streams": [
-        "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "be",
     "isGeoBlocked": false
   },
   {

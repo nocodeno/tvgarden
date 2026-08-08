@@ -140,11 +140,53 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GYpj19hD6m2qFh",
+    "name": "California Medios TV",
+    "sources": {
+      "streams": [
+        "https://s5.mexside.net:1936/medios/medios/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xyJyUeE9SZM9fy",
+    "name": "Canal 5",
+    "sources": {
+      "streams": [
+        "https://45.181.87.106/CANAL5HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "qhvLdupfMqmZsq",
     "name": "Canal 5 TV Cozumel",
     "sources": {
       "streams": [
         "https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "om7GIuOIZrQShy",
+    "name": "Canal 10 Durango",
+    "sources": {
+      "streams": [
+        "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8"
       ]
     },
     "languages": [
@@ -224,39 +266,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mCYSTDjXapnUpp",
-    "name": "Canal del Congreso 45.1",
-    "sources": {
-      "streams": [
-        "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zjs8fScsFVoj7q",
     "name": "Canal Parlamento del Congreso de Jalisco",
     "sources": {
       "streams": [
         "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kcUlTpEd2EjJLo",
-    "name": "Capital 21",
-    "sources": {
-      "streams": [
-        "https://video.cdmx.gob.mx/redes/stream.m3u8"
       ]
     },
     "languages": [
@@ -365,6 +379,34 @@
     ],
     "country": "mx",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FmWRIKhG72Bl7Q",
+    "name": "Filmex",
+    "sources": {
+      "streams": [
+        "https://filmex-filmex-xumo.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "57x1qIQqd5IFIt",
+    "name": "Filmex Clasico",
+    "sources": {
+      "streams": [
+        "https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "duaSLomE9AQYzs",
@@ -493,20 +535,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hSjFJVIKV0TRAc",
-    "name": "Las Estrellas",
-    "sources": {
-      "streams": [
-        "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sGZGN77ULu3I6y",
     "name": "Lobo TV",
     "sources": {
@@ -552,9 +580,6 @@
     "nanoid": "Q8QxpvIPg5iVsc",
     "name": "Milenio Television",
     "sources": {
-      "streams": [
-        "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/oPy8a-TCjzA"
       ]
@@ -613,6 +638,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/p2AzyIEuFak"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "esFtoFYJpw3jIu",
+    "name": "Nueve TV",
+    "sources": {
+      "streams": [
+        "https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8"
       ]
     },
     "languages": [
@@ -734,20 +773,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bqZG2nHHXJFyOO",
-    "name": "SIPSE TVCUN 8.1",
-    "sources": {
-      "streams": [
-        "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zMvnkO0BSIigRy",
     "name": "Sistema Michoacano de TV",
     "sources": {
@@ -804,6 +829,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "c0t3w9rs29fRKj",
+    "name": "Tele UV",
+    "sources": {
+      "streams": [
+        "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "arUwONnDyiIo6o",
     "name": "Tele Yucatan",
     "sources": {
@@ -823,20 +862,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/XDo_FvBYvUI"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RQdKojhpW5FTMJ",
-    "name": "TeleFormula",
-    "sources": {
-      "streams": [
-        "https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8"
       ]
     },
     "languages": [
@@ -917,6 +942,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "V9bf7FdY5Rbg5t",
+    "name": "Televisa Guerrero",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/U1pgu_HKBFk"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pTFEVIhFVG7hq3",
     "name": "Televisa Laguna",
     "sources": {
@@ -945,11 +984,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OqUk1Slt9fsdYN",
+    "name": "Televisa Monterrey",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/_xpSn0p_X4Y"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Jiv0dDh9RrbAvZ",
     "name": "Televisa Piedras Negras",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/5UCPrWCFh-0"
+        "https://www.youtube-nocookie.com/embed/eLYKXcQm3yg"
       ]
     },
     "languages": [
@@ -1057,11 +1110,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nvgVlQtD4CwYJb",
-    "name": "Televisa Zacatecas",
+    "nanoid": "OI8K21MAbP4kpP",
+    "name": "Televisión de Galicia",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/M2Hpbw8Ms2s"
+        "https://www.youtube-nocookie.com/embed/aw8t8b1rN8c"
       ]
     },
     "languages": [
@@ -1071,11 +1124,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OI8K21MAbP4kpP",
-    "name": "Televisión de Galicia",
+    "nanoid": "vw5YOQQ6YZDvZh",
+    "name": "Tlaxcala TV",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/aw8t8b1rN8c"
+      "streams": [
+        "https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8"
       ]
     },
     "languages": [
@@ -1099,11 +1152,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ufquGR4ncw7ZpB",
-    "name": "TV BUAP",
+    "nanoid": "gc9aeOkbQG1vYx",
+    "name": "Turistik TV",
     "sources": {
       "streams": [
-        "https://tvenvivo.buap.mx/livestream/stream/index.m3u8"
+        "https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1189,6 +1242,20 @@
     "sources": {
       "streams": [
         "https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z8y7pyWQF00bRD",
+    "name": "TV Mar Los Cabos",
+    "sources": {
+      "streams": [
+        "https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1422,11 +1489,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1eJU4mPC18iVYo",
+    "name": "XHGV-TDT",
+    "sources": {
+      "streams": [
+        "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PgWHL7lZbyEg7S",
     "name": "XHIJ-TDT",
     "sources": {
       "streams": [
         "https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5X15DRPWWS1LoX",
+    "name": "XHMNL-TDT",
+    "sources": {
+      "streams": [
+        "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
       ]
     },
     "languages": [

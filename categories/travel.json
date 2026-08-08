@@ -190,6 +190,7 @@
     "name": "INTRAVEL Philippines",
     "sources": {
       "streams": [
+        "https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8"
       ]
@@ -273,6 +274,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "goNrMuzefDwskd",
+    "name": "Maldives TV",
+    "sources": {
+      "streams": [
+        "https://lana.psm.mv/live/mtv.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "mv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1sylSgieonAaR5",
     "name": "Moya stikhiya",
     "sources": {
@@ -315,17 +330,45 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2SO49MQT0NpYBk",
-    "name": "Pocono Television Network",
+    "nanoid": "XVHhDeQHjuS3Dt",
+    "name": "Peer TV Alto Adige",
     "sources": {
       "streams": [
-        "https://dfoiz3dv1euv7.cloudfront.net/ptnlive-s3/live1.m3u8"
+        "https://iptv.peer.biz/live/peertv-it.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "N6SFUaTsOKbZm2",
+    "name": "Peer TV South Tyrol",
+    "sources": {
+      "streams": [
+        "https://iptv.peer.biz/live/peertv-en.m3u8"
       ]
     },
     "languages": [
       "eng"
     ],
-    "country": "us",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6qAfF0Ciz7BFIk",
+    "name": "Peer TV Sudtirol",
+    "sources": {
+      "streams": [
+        "https://iptv.peer.biz/live/peertv.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -424,6 +467,34 @@
       "spa"
     ],
     "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gc9aeOkbQG1vYx",
+    "name": "Turistik TV",
+    "sources": {
+      "streams": [
+        "https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ztTWlTaxLQDSi1",
+    "name": "TV OFF",
+    "sources": {
+      "streams": [
+        "https://edge.enhdtv.com/tvoff/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
     "isGeoBlocked": false
   },
   {

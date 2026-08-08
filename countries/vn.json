@@ -28,11 +28,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9mkVX2EDgu3ZHf",
-    "name": "Can Tho TV 3",
+    "nanoid": "w9iKnoeRBQ99pR",
+    "name": "Can Tho TV 2",
     "sources": {
       "streams": [
-        "https://live.canthotv.vn/cs3/tv/chunklist.m3u8"
+        "https://live.canthotv.vn/cs2/live.stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -68,11 +68,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YbJKFpPbkRwCoQ",
-    "name": "Dien Bien TV",
+    "nanoid": "VCFZo6dbs3n20W",
+    "name": "DGV",
     "sources": {
-      "streams": [
-        "https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/XFJrFMHRYiI"
       ]
     },
     "languages": [
@@ -96,20 +96,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "exPdjFAwdnd4RU",
-    "name": "Ha Tinh TV",
-    "sources": {
-      "streams": [
-        "https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8"
-      ]
-    },
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QnYbafq8SSO9v0",
     "name": "HanoiTV1",
     "sources": {
@@ -122,6 +108,20 @@
     ],
     "country": "vn",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "sb5v19pRAmTp7P",
+    "name": "HTV Key",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=9"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "YXhIUBVYB9tHBa",
@@ -206,20 +206,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zEnOIJjdfrBmTS",
-    "name": "Ninh Thuan TV",
-    "sources": {
-      "streams": [
-        "https://cdnbaokhanhhoa.com/live/90405a889081.m3u8?vhost=video"
-      ]
-    },
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "n1mpNPkxhPEQcZ",
     "name": "ON Kids",
     "sources": {
@@ -281,6 +267,20 @@
     "sources": {
       "streams": [
         "https://qpvn.vn/live/qpvn/master.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8vEUzLSiPnJXOB",
+    "name": "Quang Lập Official",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/PsjrqBbpEfM"
       ]
     },
     "languages": [
@@ -466,6 +466,21 @@
       ]
     },
     "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ixbj5BMW5hNHQj",
+    "name": "Vietnam Today",
+    "sources": {
+      "streams": [
+        "https://amagi-live.ondemandkorea.com/amgplt0456.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
       "vie"
     ],
     "country": "vn",

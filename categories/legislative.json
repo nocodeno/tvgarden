@@ -154,20 +154,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mCYSTDjXapnUpp",
-    "name": "Canal del Congreso 45.1",
-    "sources": {
-      "streams": [
-        "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nvi12xPQhPg1F5",
     "name": "Canal Gov",
     "sources": {
@@ -340,6 +326,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wsxEmspfNhwYCf",
+    "name": "CityTV 20 Santa Monica",
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CI4BtTpHkRl4IU",
     "name": "CityTV San Diego",
     "sources": {
@@ -407,6 +407,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WscC7Swxpk8hjp",
+    "name": "Congreso del Perú en Vivo",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/XpwgNS0zKlQ"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -580,17 +594,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xnU10BQX3X7Kmm",
-    "name": "Fernandina Beach Channel",
+    "nanoid": "xupLUhlUhMmQst",
+    "name": "Duma TV",
     "sources": {
       "streams": [
-        "https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8"
+        "https://dumatv.iptv2022.com/playlist.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "rus"
     ],
-    "country": "us",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -676,6 +690,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "p69vsxFs98WVu8",
+    "name": "Hluttaw S & D",
+    "sources": {
+      "streams": [
+        "https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8"
+      ]
+    },
+    "languages": [
+      "mya"
+    ],
+    "country": "mm",
     "isGeoBlocked": false
   },
   {
@@ -777,6 +805,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lvIrwQpUaM4Bib",
+    "name": "KTV",
+    "sources": {
+      "streams": [
+        "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QCanIPPvtrIdKY",
     "name": "Lake Havasu City 4",
     "sources": {
@@ -816,6 +858,20 @@
     "languages": [
       "eng",
       "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ggVaTzuCKy1JEd",
+    "name": "Legislative Assembly TV Nunavut",
+    "sources": {
+      "streams": [
+        "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -882,6 +938,20 @@
     "sources": {
       "streams": [
         "https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "J49I0cja3V1GVG",
+    "name": "Midpen Media Center Channel 29",
+    "sources": {
+      "streams": [
+        "https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1004,6 +1074,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hKXziqHmvJRVZi",
+    "name": "Parlamentsfernsehen 1",
+    "sources": {
+      "streams": [
+        "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "pGZdS7NMq1FAlR",
     "name": "Parliament TV",
     "sources": {
@@ -1121,7 +1205,7 @@
     "name": "Rio TV Câmara",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/od6uRAxiVPE"
+        "https://www.youtube-nocookie.com/embed/vbBYCCnU9Yc"
       ]
     },
     "languages": [
@@ -1135,8 +1219,7 @@
     "name": "Sansad TV 1",
     "sources": {
       "streams": [
-        "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
-        "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8"
       ]
     },
     "languages": [
@@ -1183,20 +1266,6 @@
     "sources": {
       "streams": [
         "https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RAFoXPaBmLZEF9",
-    "name": "SGTV",
-    "sources": {
-      "streams": [
-        "https://live.seminolecountyfl.gov/live-2/live/stream-1/live.m3u8"
       ]
     },
     "languages": [
@@ -1282,7 +1351,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Ki_I3vIHezc"
+        "https://www.youtube-nocookie.com/embed/el_I5IOr79A"
       ]
     },
     "languages": [
@@ -1326,7 +1395,7 @@
     "name": "TV Câmara Porto Alegre",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/N1PoGceZ8i8"
+        "https://www.youtube-nocookie.com/embed/PlxSAzJXI54"
       ]
     },
     "languages": [
@@ -1418,146 +1487,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yaYUxFsan9hbOE",
-    "name": "Tweede Kamer: Actualiteitenkanaal",
-    "sources": {
-      "streams": [
-        "https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6OQOS7AT6Gma3n",
-    "name": "Tweede Kamer: Aletta Jacobszaal",
-    "sources": {
-      "streams": [
-        "https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5hB4P9nJujh5eA",
-    "name": "Tweede Kamer: Enquetezaal",
-    "sources": {
-      "streams": [
-        "https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PL16C9OHm1Jw0b",
-    "name": "Tweede Kamer: Groen van Prinstererzaal",
-    "sources": {
-      "streams": [
-        "https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BJ3SYF7xMwSu2u",
-    "name": "Tweede Kamer: Max van der Stoelzaal",
-    "sources": {
-      "streams": [
-        "https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MOoTHhVYsb8MlG",
-    "name": "Tweede Kamer: Plenaire zaal",
-    "sources": {
-      "streams": [
-        "https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rB1O4Lh7x5fa2y",
-    "name": "Tweede Kamer: Suze Groenewegzaal",
-    "sources": {
-      "streams": [
-        "https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qHNjpcf1s4YBcD",
-    "name": "Tweede Kamer: Thorbeckezaal",
-    "sources": {
-      "streams": [
-        "https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9j3l55qDqhq9x4",
-    "name": "Tweede Kamer: Troelstrazaal",
-    "sources": {
-      "streams": [
-        "https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xk5ybVwggmYe7A",
-    "name": "Tweede Kamer: Wttewaall van Stoetwegenzaal",
-    "sources": {
-      "streams": [
-        "https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
     "isGeoBlocked": false
   },
   {

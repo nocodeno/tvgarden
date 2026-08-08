@@ -59,6 +59,37 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "7UHEij0gHfh2GK",
+    "name": "Animax Asia India",
+    "sources": {
+      "streams": [
+        "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "jpn"
+    ],
+    "country": "in",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "TAT3BKYZvEYwjh",
+    "name": "Animax Asia Philippines",
+    "sources": {
+      "streams": [
+        "https://thinkkast.dpdns.org/thinkkast/cg_animax_sd_new/versiglia/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fil",
+      "jpn"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6jwIdmT15n1Yze",
     "name": "Anime x HIDIVE",
     "sources": {
@@ -71,6 +102,20 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "u2iS7uczBAriSJ",
+    "name": "Aniplus Asia",
+    "sources": {
+      "streams": [
+        "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "sg",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "724JcFRQ3UIDmr",
@@ -112,20 +157,6 @@
       "fra"
     ],
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lSTW1dzY0A0GTW",
-    "name": "Cartoon Classics FAST",
-    "sources": {
-      "streams": [
-        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "pl",
     "isGeoBlocked": false
   },
   {
@@ -199,6 +230,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TfgzcLtt0wtiUe",
+    "name": "DreamWorks Channel Asia",
+    "sources": {
+      "streams": [
+        "https://thinkkast.dpdns.org/thinkkast/cg_dreamworks_hd1/versiglia/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "VCUvM2AMC0JyGp",
     "name": "DreamWorks Channel Latin America",
     "sources": {
@@ -208,6 +253,34 @@
     },
     "languages": [],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LRgPxcQZ9T6wh6",
+    "name": "EnerGeek",
+    "sources": {
+      "streams": [
+        "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Fho666tDNHtuPI",
+    "name": "EnerGeek FAN",
+    "sources": {
+      "streams": [
+        "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -408,20 +481,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0KHOlcS3CSZQO6",
-    "name": "JapanimTV",
-    "sources": {
-      "streams": [
-        "https://foxkidstv.be:3369/stream/play.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KFX8r91Rf69oJB",
     "name": "Kapitan Bomba",
     "sources": {
@@ -539,8 +598,8 @@
     "sources": {
       "streams": [
         "https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8",
-        "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg00627-amg00627c23-samsung-gb-3927.playouts.now.amagi.tv/playlist.m3u8"
+        "https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8",
+        "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -806,26 +865,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pIMH6WPwb6VNHf",
-    "name": "SX3",
-    "sources": {
-      "streams": [
-        "https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8",
-        "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8"
-      ]
-    },
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "yua0MMLiJjjDoi",
     "name": "Talking Tom & Friends TV: Garfield",
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/2Vf5RcQ84z0"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ul1MxG7pzChnBN",
+    "name": "Teenage Mutant Ninja Turtles: TMNT",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/9EdqbWHXOPw"
       ]
     },
     "languages": [
@@ -846,6 +904,20 @@
       "spa"
     ],
     "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Lif7wI9SEZFwXL",
+    "name": "TokuSHOUTsu: ReBoot",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Ovfekp_5nYU"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {

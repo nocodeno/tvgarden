@@ -220,7 +220,8 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8",
-        "https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8"
+        "https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8",
+        "https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/5vfaDsMhCF4"
@@ -394,20 +395,6 @@
     },
     "languages": [
       "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "vN4KxpB8RBfII1",
-    "name": "CBXFT-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": true
@@ -819,6 +806,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3PWIwG9FFIlO5Y",
+    "name": "Game+",
+    "sources": {
+      "streams": [
+        "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hTAa42S6ckdNs5",
     "name": "Garfield & Friends",
     "sources": {
@@ -989,6 +990,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "0bMKdIaIAwnMdw",
+    "name": "Kidoodle.TV",
+    "sources": {
+      "streams": [
+        "https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mh8ffIuQVJBAom",
     "name": "Knowledge Network",
     "sources": {
@@ -1069,11 +1084,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ggVaTzuCKy1JEd",
+    "name": "Legislative Assembly TV Nunavut",
+    "sources": {
+      "streams": [
+        "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lQWrqWxPSBgWUI",
     "name": "Love Nature",
     "sources": {
       "streams": [
-        "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8"
+        "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
+        "https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8",
+        "https://bamus-klowdtv.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1272,6 +1303,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZegDKx8OsbVOFA",
+    "name": "PTC Punjabi Canada",
+    "sources": {
+      "streams": [
+        "https://stream.ottlive.co.in/ptccanada/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pan"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VMIbt20f2NiiTt",
     "name": "Qello Concerts by Stingray",
     "sources": {
@@ -1352,20 +1397,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jVntXYmn9juMuc",
-    "name": "Slice",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/SLICE/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mmZjHuy87LmO4O",
     "name": "Sooriyan TV",
     "sources": {
@@ -1418,6 +1449,23 @@
     ],
     "country": "ca",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5t53vL5oPCm3CM",
+    "name": "Stingray Classica",
+    "sources": {
+      "streams": [
+        "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu",
+      "eng",
+      "fra",
+      "spa"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "LuDNPxab0f0pCa",
@@ -2103,7 +2151,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ocEDpkzZXMY"
+        "https://www.youtube-nocookie.com/embed/N4r5TtmElHk"
       ]
     },
     "languages": [
@@ -2117,7 +2165,7 @@
     "name": "Super Simple: Noodle and Pals",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/tPzfivXmRgU"
+        "https://www.youtube-nocookie.com/embed/W1dfqgezcds"
       ]
     },
     "languages": [
@@ -2131,7 +2179,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Z52BteE-XKg"
+        "https://www.youtube-nocookie.com/embed/jGiamrhQ9rg"
       ]
     },
     "languages": [
@@ -2308,62 +2356,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ai9BqwKChqqER5",
-    "name": "TSN2",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/TSN_2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wb9D3FYsHIR9Dd",
-    "name": "TSN3",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/TSN_3/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5ikJPlxT4rSlki",
-    "name": "TSN4",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/TSN_4/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WWeaDyjDDgcRDS",
-    "name": "TSN5",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/TSN_5/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "26wbYyZD2WNH5P",
     "name": "TV Punjab",
     "sources": {
@@ -2382,7 +2374,7 @@
     "name": "TV Témis",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/YH5-XnEA2WQ"
+        "https://www.youtube-nocookie.com/embed/fEey7L7ggbU"
       ]
     },
     "languages": [

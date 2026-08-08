@@ -42,6 +42,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qRQX6zHTSR3gUI",
+    "name": "FUEL TV",
+    "sources": {
+      "streams": [
+        "https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Iuaewjg35O2O7W",
     "name": "FUEL TV APAC",
     "sources": {
@@ -69,6 +81,20 @@
     ],
     "country": "pt",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nbBlXP4f3cSDbo",
+    "name": "FUEL TV US",
+    "sources": {
+      "streams": [
+        "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pt",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "b7x9FsdKa3CXRR",
@@ -192,20 +218,6 @@
     },
     "languages": [
       "rus"
-    ],
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IowNjd0p51Ov4o",
-    "name": "NPC Radio e TV",
-    "sources": {
-      "streams": [
-        "https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
     ],
     "country": "pt",
     "isGeoBlocked": false
