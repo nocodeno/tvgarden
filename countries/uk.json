@@ -203,20 +203,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ky7r3wRW2Qx47d",
-    "name": "BBC Earth Asia",
-    "sources": {
-      "streams": [
-        "https://thinkkast.dpdns.org/thinkkast/cg_bbcearth_hd1/versiglia/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "31U63I8METsDXI",
     "name": "BBC News (HEVC)",
     "sources": {
@@ -230,21 +216,6 @@
     ],
     "country": "uk",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "wvvkyIU9qYb62n",
-    "name": "BBC News Asia Pacific",
-    "sources": {
-      "streams": [
-        "https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "jpn"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "A7FjWEoxfZfQRg",
@@ -261,20 +232,6 @@
     ],
     "country": "uk",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "BUsm8kgtVtmneU",
-    "name": "BBC News North America",
-    "sources": {
-      "streams": [
-        "https://gpuserver3.tier1streams.com/BBC_WORLD_NEWS/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "JhHpiYec647IOL",
@@ -486,20 +443,6 @@
       ]
     },
     "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "K1Rki2QXOUbCd5",
-    "name": "Classic Mr Bean",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/XQLEvieRMj4"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1202,7 +1145,6 @@
     "name": "Inside Crime UK",
     "sources": {
       "streams": [
-        "https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8",
         "https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8"
       ]
@@ -1564,25 +1506,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uUyFGrfi3LrrfU",
-    "name": "MTA1 World",
-    "sources": {
-      "streams": [
-        "https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara",
-      "ben",
-      "deu",
-      "eng",
-      "fra",
-      "urd"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "840FgWNafPoU83",
     "name": "MTA2 Europe",
     "sources": {
@@ -1784,7 +1707,8 @@
     "sources": {
       "streams": [
         "https://amg01076-amg01076c1-samsung-gb-6682.playouts.now.amagi.tv/playlist.m3u8",
-        "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8"
+        "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8",
+        "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2058,6 +1982,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DqKr2u3T1rmLql",
+    "name": "Rakuten Top Movies UK",
+    "sources": {
+      "streams": [
+        "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "c4Swg0nm0Rjn8G",
     "name": "Rakuten TV Action Movies UK",
     "sources": {
@@ -2072,30 +2010,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pCghkk05sIwmT1",
-    "name": "Rakuten TV Reality UK",
-    "sources": {
-      "streams": [
-        "https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6OObHoCz5T6mVt",
-    "name": "Rakuten TV Sci-Fi UK",
-    "sources": {
-      "streams": [
-        "https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uHYtTL2fEDHMX0",
     "name": "Rally.TV FAST+",
     "sources": {
@@ -2106,18 +2020,6 @@
     "languages": [],
     "country": "uk",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RekrBPbX5KKpZp",
-    "name": "Real Crime",
-    "sources": {
-      "streams": [
-        "https://lds-realcrime-samsunguk.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "jNN9ef0ljzGJ7E",
@@ -2170,6 +2072,21 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "NegCVOJcL5pipg",
+    "name": "S4C",
+    "sources": {
+      "streams": [
+        "https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-hls.m3u8"
+      ]
+    },
+    "languages": [
+      "cym",
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "WQqSZQl27UG0sD",
     "name": "Safeer TV",
     "sources": {
@@ -2207,6 +2124,20 @@
       ]
     },
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Kfvf3u3DJLtcM5",
+    "name": "Shaun the Sheep Official",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/vvrRqhZZsrU"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },

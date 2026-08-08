@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "79lqDZYF5l4OvA",
-    "name": "An Ninh TV",
-    "sources": {
-      "streams": [
-        "https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8"
-      ]
-    },
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "n5a2vy0RLNr42v",
     "name": "Can Tho TV",
     "sources": {
@@ -33,6 +19,20 @@
     "sources": {
       "streams": [
         "https://live.canthotv.vn/cs2/live.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9mkVX2EDgu3ZHf",
+    "name": "Can Tho TV 3",
+    "sources": {
+      "streams": [
+        "https://live.canthotv.vn/cs3/tv/chunklist.m3u8"
       ]
     },
     "languages": [
@@ -68,11 +68,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VCFZo6dbs3n20W",
-    "name": "DGV",
+    "nanoid": "YbJKFpPbkRwCoQ",
+    "name": "Dien Bien TV",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/XFJrFMHRYiI"
+      "streams": [
+        "https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8"
       ]
     },
     "languages": [
@@ -110,60 +110,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "sb5v19pRAmTp7P",
-    "name": "HTV Key",
-    "sources": {
-      "streams": [
-        "https://freem3u.xyz/api/live/play.m3u8?vid=9"
-      ]
-    },
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YXhIUBVYB9tHBa",
-    "name": "HTV Sports",
-    "sources": {
-      "streams": [
-        "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
-      ]
-    },
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "tZZYFUzbbvaZ5U",
-    "name": "HTV9",
-    "sources": {
-      "streams": [
-        "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "vn",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "mBI5by4rAF4VMT",
-    "name": "Khanh Hoa TV",
-    "sources": {
-      "streams": [
-        "https://cdnbaokhanhhoa.com/live/1332e3a79e27.m3u8?vhost=video"
-      ]
-    },
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nfUMYUgBEhhJaP",
     "name": "Lao SV TV",
     "sources": {
@@ -197,6 +143,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/yQqrnKvp0iM"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zEnOIJjdfrBmTS",
+    "name": "Ninh Thuan TV",
+    "sources": {
+      "streams": [
+        "https://cdnbaokhanhhoa.com/live/90405a889081.m3u8?vhost=video"
       ]
     },
     "languages": [
@@ -318,20 +278,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8kdpWxJQ1i1LcH",
-    "name": "SCTV6",
-    "sources": {
-      "streams": [
-        "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8"
-      ]
-    },
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "Wo8fpFkweOsxrT",
     "name": "SCTV16",
     "sources": {
@@ -400,20 +346,6 @@
     ],
     "country": "vn",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kykLIpB1I5quZw",
-    "name": "Thua Thien Hue TV",
-    "sources": {
-      "streams": [
-        "https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8"
-      ]
-    },
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "3ssQc7PdBXGpNU",
@@ -485,19 +417,5 @@
     ],
     "country": "vn",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rlPI4ZEttqiyTy",
-    "name": "VTV10",
-    "sources": {
-      "streams": [
-        "https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist.m3u8"
-      ]
-    },
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": true
   }
 ]

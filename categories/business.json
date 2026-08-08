@@ -31,20 +31,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sPGmyALtlBkjD3",
-    "name": "Ameritrade",
-    "sources": {
-      "streams": [
-        "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
     "sources": {
@@ -192,20 +178,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TGIxs2mxFIlLmz",
-    "name": "Bloomberg TV US",
-    "sources": {
-      "streams": [
-        "https://gpuserver3.tier1streams.com/BLOOMBERG/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8jSnAgazSmGpyh",
     "name": "BMG TV",
     "sources": {
@@ -308,20 +280,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BrKtlgOZb5CWr8",
-    "name": "Cheddar Business",
-    "sources": {
-      "streams": [
-        "https://gpuserver3.tier1streams.com/CHEDDAR_BUSINESS/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vrlS9LYggqZr3W",
     "name": "Class CNBC",
     "sources": {
@@ -339,9 +297,6 @@
     "nanoid": "7XcP1junyS1aZN",
     "name": "CNBC",
     "sources": {
-      "streams": [
-        "https://gpuserver3.tier1streams.com/CNBC/index.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/9NyxcX3rhQs"
       ]
@@ -365,20 +320,6 @@
     ],
     "country": "ae",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "G00HUpBKHxckzh",
-    "name": "CNBC Asia",
-    "sources": {
-      "streams": [
-        "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "sg",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "MGainK9O6Ki8Pq",
@@ -450,20 +391,6 @@
     ],
     "country": "uk",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "HZSopribXygq7f",
-    "name": "CNBC World",
-    "sources": {
-      "streams": [
-        "https://gpuserver3.tier1streams.com/CNBC_WORLD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "OSKKDWCAHjH9Fa",
@@ -594,6 +521,20 @@
       "spa"
     ],
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fEhuSbh6UZiVWk",
+    "name": "NW Economie",
+    "sources": {
+      "streams": [
+        "https://hls.newworldtv.com/nw-economie/video/live.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "tg",
     "isGeoBlocked": false
   },
   {

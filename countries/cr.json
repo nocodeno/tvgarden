@@ -101,21 +101,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9cN6rSKGfOi3ha",
-    "name": "Canal 3 KMK TV",
-    "sources": {
-      "streams": [
-        "https://cloudvideo.servers10.com:8081/8120/index.m3u8",
-        "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lhFBUBQYMx1tnO",
     "name": "Canal 10",
     "sources": {
@@ -240,21 +225,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xMyWNZNLNYysjq",
-    "name": "Enlace",
-    "sources": {
-      "streams": [
-        "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XI0tj0hHgDA4kn",
     "name": "Extra TV 42",
     "sources": {
@@ -333,6 +303,21 @@
       ]
     },
     "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vPLx0tYa5CbY79",
+    "name": "Gex TV",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
       "spa"
     ],
     "country": "cr",
@@ -734,6 +719,20 @@
       "streams": [
         "https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8",
         "https://k4.usastreams.com/videotour/videotour/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tTy2o9iN37Hvi8",
+    "name": "Vintage Music",
+    "sources": {
+      "streams": [
+        "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
       ]
     },
     "languages": [

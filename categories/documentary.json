@@ -85,20 +85,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "ky7r3wRW2Qx47d",
-    "name": "BBC Earth Asia",
-    "sources": {
-      "streams": [
-        "https://thinkkast.dpdns.org/thinkkast/cg_bbcearth_hd1/versiglia/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eQ0MWZIQb0YBdg",
     "name": "BBC Earth US",
     "sources": {
@@ -270,9 +256,9 @@
     "name": "Court TV",
     "sources": {
       "streams": [
-        "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
         "https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8",
-        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8"
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
+        "https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8"
       ]
     },
     "languages": [
@@ -687,6 +673,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "tE3WIvWTPSPArw",
+    "name": "Love The Planet ES",
+    "sources": {
+      "streams": [
+        "https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
     "isGeoBlocked": true
   },
   {
