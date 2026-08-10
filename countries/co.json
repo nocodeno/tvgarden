@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "b9E07ezUKVar1z",
+    "name": "Alerta Bogota",
+    "sources": {
+      "streams": [
+        "https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "RENB7FpGag5A0S",
     "name": "Amaga Television",
     "sources": {
@@ -19,6 +33,20 @@
     "sources": {
       "streams": [
         "https://live.amelbatv.co:81/anctvlive/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uDJIeJvQnvBamA",
+    "name": "Aupur Television",
+    "sources": {
+      "streams": [
+        "https://canal.aupurtv.co/live/stream/index.m3u8"
       ]
     },
     "languages": [
@@ -128,11 +156,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "t77vURUv4tfKdi",
+    "name": "Canal 9 Cosespu",
+    "sources": {
+      "streams": [
+        "https://video2.lhdserver.es/canal9cosespu/live.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "s64BgUfTafeYF2",
     "name": "Canal 14 Codazzi",
     "sources": {
       "streams": [
         "https://eu1.servers10.com:8081/8056/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dIQhSN2tH9x7qG",
+    "name": "Canal 55 Telemorisco TV",
+    "sources": {
+      "streams": [
+        "https://canal.mediaserver.com.co/live/telemorisco.m3u8"
       ]
     },
     "languages": [
@@ -623,21 +679,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2RNOyGKRiGPXuw",
-    "name": "MasMusica FM",
-    "sources": {
-      "streams": [
-        "https://movil.ejeserver.com/live/masmusica.m3u8",
-        "https://video.ejeserver.com/live/masmusica.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Lzh8NoZwGUGsG2",
     "name": "MCI Television",
     "sources": {
@@ -878,20 +919,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rZfnfgO93XkAdZ",
-    "name": "Soona TV",
-    "sources": {
-      "streams": [
-        "https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RvB0FuQSbeJDr5",
     "name": "Supermusica TV",
     "sources": {
@@ -910,7 +937,8 @@
     "name": "Suram TV",
     "sources": {
       "streams": [
-        "https://us.streaminghd.cl/suramtv/index.m3u8"
+        "https://us.streaminghd.cl/suramtv/index.m3u8",
+        "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8"
       ]
     },
     "languages": [
@@ -920,29 +948,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HgBlAsHZW8C65f",
-    "name": "Tele Mocoa Canal 10",
+    "nanoid": "uxS8FJ2xMmx0S8",
+    "name": "Tele San Jacinto",
     "sources": {
       "streams": [
-        "https://live.amelbatv.co:81/telemocoalive/index.m3u8"
+        "https://vs20.live.opencaster.com/sjradio_4c916ece/index.m3u8"
       ]
     },
     "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NNAoypPSm0OCzN",
-    "name": "Teleislas",
-    "sources": {
-      "streams": [
-        "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "icr",
       "spa"
     ],
     "country": "co",
@@ -961,20 +974,6 @@
     ],
     "country": "co",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "MbGewayZqG9s6Q",
-    "name": "TeleQuindio",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "Clv7XzV3Q51izu",

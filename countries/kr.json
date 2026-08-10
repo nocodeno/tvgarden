@@ -363,20 +363,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hJP0GSnYM15Xax",
-    "name": "HLAJ-DTV",
-    "sources": {
-      "streams": [
-        "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LeEKq1Wp81fOe3",
     "name": "HLAN-DTV",
     "sources": {
@@ -396,6 +382,20 @@
     "sources": {
       "streams": [
         "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GCDtsdmWOrJKEn",
+    "name": "HLCQ-DTV",
+    "sources": {
+      "streams": [
+        "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -493,7 +493,7 @@
     "name": "JTBC News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/FZO8xGjZ58I"
+        "https://www.youtube-nocookie.com/embed/ef2B2PllUAY"
       ]
     },
     "languages": [
@@ -507,7 +507,7 @@
     "name": "KBS News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/RpXLlsVNxos"
+        "https://www.youtube-nocookie.com/embed/j65LoxmxosA"
       ]
     },
     "languages": [
@@ -686,11 +686,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2JjtogNFSDfTsC",
+    "name": "RUTC TV",
+    "sources": {
+      "streams": [
+        "https://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wLvMxnvxZbDm1t",
     "name": "SBS",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/rczodW3cToY"
+        "https://www.youtube-nocookie.com/embed/oGGe_diKFas"
       ]
     },
     "languages": [

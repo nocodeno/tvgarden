@@ -448,6 +448,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3spET73XcwPAv7",
+    "name": "El-Heddaf TV",
+    "sources": {
+      "streams": [
+        "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "dz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9D74wXaGqUWkp2",
     "name": "Equalympic",
     "sources": {
@@ -922,6 +936,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YXhIUBVYB9tHBa",
+    "name": "HTV Sports",
+    "sources": {
+      "streams": [
+        "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "YJ0VLCpIyYcZ5V",
     "name": "InTrouble",
     "sources": {
@@ -1328,8 +1356,8 @@
     "sources": {
       "streams": [
         "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
-        "https://cdn1.ayitistream.com/NBATV/index.m3u8",
-        "https://pb-5pdyic0cu7tri.akamaized.net/NBA.m3u8"
+        "https://pb-5pdyic0cu7tri.akamaized.net/NBA.m3u8",
+        "https://40.160.24.58/NBA_TV/index.m3u8"
       ]
     },
     "languages": [
@@ -1394,7 +1422,7 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "dZNlCzQICHPeq8",
@@ -1540,20 +1568,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "zzEkf9yZmrhUaA",
-    "name": "PK Sports",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "vX2Vm81TXt010f",
@@ -2373,9 +2387,9 @@
     "name": "Tennis Channel",
     "sources": {
       "streams": [
+        "https://40.160.24.55/TENNIS_CHANNEL/index.m3u8",
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
-        "https://40.160.24.55/TENNIS_CHANNEL/index.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2390,9 +2404,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/CoXFRmPe438"
       ]
     },
     "languages": [
@@ -2715,6 +2726,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "so5fgKy39odQZy",
+    "name": "VSBet HD",
+    "sources": {
+      "streams": [
+        "https://live05.meung.app/live/16226575.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
     "isGeoBlocked": false
   },
   {
