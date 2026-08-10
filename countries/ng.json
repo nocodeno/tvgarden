@@ -14,11 +14,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gZ1nRlS0xe1gmU",
-    "name": "AMusic Channel",
+    "nanoid": "D6dxjs1hy0YRqm",
+    "name": "Advocate Broadcasting Network",
     "sources": {
       "streams": [
-        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8"
+        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -28,12 +28,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bH0xAdzXSreOQz",
-    "name": "Approval TV",
+    "nanoid": "mnVBWlVT6nGvWt",
+    "name": "Africa Independent Television",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/aorDt_I-BOo"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gZ1nRlS0xe1gmU",
+    "name": "AMusic Channel",
     "sources": {
       "streams": [
-        "https://live.approvaltv.com/approvaltv/index.m3u8",
-        "https://tv.bigicloud.com/hls/approvaltv/approvaltv.m3u8"
+        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -141,20 +154,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MEPZfCoAwFzTRL",
-    "name": "Fortis TV",
-    "sources": {
-      "streams": [
-        "https://stream.fortistv.com/hls/fortis-news/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FJT1T5Bg3eMVVa",
     "name": "Itage TV",
     "sources": {
@@ -197,20 +196,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8pEfgic6D8bCYA",
-    "name": "LoveWorld Persia",
-    "sources": {
-      "streams": [
-        "https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fas"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TBxSPvQ6n0EnHc",
     "name": "LoveWorld UK",
     "sources": {
@@ -239,11 +224,40 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2lSQKgNTcLT9IY",
+    "name": "LoveworldSAT",
+    "sources": {
+      "streams": [
+        "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8",
+        "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "upoMW9Qmuknc8B",
     "name": "New Vision TV",
     "sources": {
       "streams": [
         "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HUxeirBEJ9XVlF",
+    "name": "News Central",
+    "sources": {
+      "streams": [
+        "https://wf.newscentral.ng:8443/hls/stream.m3u8"
       ]
     },
     "languages": [

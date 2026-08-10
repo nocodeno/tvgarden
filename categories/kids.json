@@ -247,7 +247,7 @@
     "name": "BeJoy.kids",
     "sources": {
       "streams": [
-        "https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8"
+        "https://stream.paroledivita.org/bejoy.m3u8"
       ]
     },
     "languages": [
@@ -418,7 +418,7 @@
       "streams": [
         "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
         "https://stream.mcquack.net/120/index.m3u8",
-        "https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8"
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
       ]
     },
     "languages": [
@@ -426,6 +426,20 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "lSTW1dzY0A0GTW",
+    "name": "Cartoon Classics FAST",
+    "sources": {
+      "streams": [
+        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "QFKHFoExvGyTwt",
@@ -684,7 +698,6 @@
     "name": "Disney Channel East",
     "sources": {
       "streams": [
-        "https://gpuserver3.tier1streams.com/Disney_Channel_HD/index.m3u8",
         "https://tvsen5.aynaott.com/disney/index.m3u8"
       ]
     },
@@ -784,9 +797,9 @@
     "name": "Disney Junior East",
     "sources": {
       "streams": [
-        "https://gpuserver3.tier1streams.com/Disney_JR/index.m3u8",
         "https://tvsen5.aynascope.net/disney/index.m3u8",
-        "https://tvsen7.aynascope.net/disney/index.m3u8"
+        "https://tvsen7.aynascope.net/disney/index.m3u8",
+        "https://tvsen7.aynascope.net/disneyjr/index.m3u8"
       ]
     },
     "languages": [
@@ -932,21 +945,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Fh4EovXVeHABlc",
-    "name": "Disney XD East",
-    "sources": {
-      "streams": [
-        "https://40.160.24.52/DISNEY_XD_HD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -1255,7 +1253,7 @@
     "name": "Jetix",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ISZKW-UkJRo"
+        "https://www.youtube-nocookie.com/embed/2duQQ7d9Bqs"
       ]
     },
     "languages": [
@@ -1324,6 +1322,34 @@
       "eng"
     ],
     "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yQPdPKGvAyjQ79",
+    "name": "Kids Land: Urdu",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/l7pEDJLorrg"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
+    "sources": {
+      "streams": [
+        "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -1799,6 +1825,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dlSxOcHpkY3viD",
+    "name": "NickOnline Bob Esponja",
+    "sources": {
+      "streams": [
+        "https://bob.x1colegal.com/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eyL4xvR1sE1phq",
     "name": "Nicktoons",
     "sources": {
@@ -1874,7 +1914,7 @@
     "name": "Oddbods",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/hWTYDil8JB8"
+        "https://www.youtube-nocookie.com/embed/eyu0xKdQB2I"
       ]
     },
     "languages": [
@@ -2524,8 +2564,8 @@
     "name": "TeenNick East",
     "sources": {
       "streams": [
-        "https://gpuserver5.tier1streams.com/TEEN_NICK/index.m3u8",
         "https://40.160.24.55/TEEN_NICK/index.m3u8",
+        "https://gpuserver5.tier1streams.com/TEEN_NICK/index.m3u8",
         "https://tvsen7.aynascope.net/teennick/index.m3u8"
       ]
     },
@@ -2739,20 +2779,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KGfXY9EKgCoeEb",
-    "name": "Universal Jr: Curious George",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/dVcYKgFrzs8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QCJumJIeWNNAUV",
     "name": "V gostyakh u skazki",
     "sources": {
@@ -2851,17 +2877,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5tnyJyKLhuRZfm",
-    "name": "ZB Cartoon",
+    "nanoid": "kz1QrxbntvR2ns",
+    "name": "Zig & Sharko",
     "sources": {
-      "streams": [
-        "https://server.zillarbarta.com/zbcatun/video.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/0flIX2kXnZs"
       ]
     },
     "languages": [
-      "ben"
+      "fra"
     ],
-    "country": "in",
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -2913,7 +2939,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/MFDjU2LUFcM"
+        "https://www.youtube-nocookie.com/embed/8aQRinLcHLg"
       ]
     },
     "languages": [
