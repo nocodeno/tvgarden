@@ -76,6 +76,7 @@
     "name": "Chef TV",
     "sources": {
       "streams": [
+        "https://168.197.104.22/CHEF_TV/index.m3u8",
         "https://45.190.28.50/CHEF_TV/index.m3u8"
       ]
     },
@@ -83,20 +84,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rt3pDKAk1yMoRc",
-    "name": "City Eden Recepty Gurmana",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/47516/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -176,7 +163,7 @@
       "streams": [
         "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
+        "https://gusto-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -298,13 +285,13 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "hAcFI08ZNbAHCM",
-    "name": "Tastemade International",
+    "nanoid": "YllG7rP25m7zOt",
+    "name": "Tastemade Travel",
     "sources": {
       "streams": [
-        "https://pb-rlo4if9lnjthw.akamaized.net/Tastemade.m3u8",
-        "https://amg00047-tastemade-amg00047c4-cineverse-us-1361.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadefreetv16-cineverseus/playlist.m3u8",
-        "https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8"
+        "https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8",
+        "https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8",
+        "https://tm-tmtar-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -314,13 +301,13 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "YllG7rP25m7zOt",
-    "name": "Tastemade Travel",
+    "nanoid": "hAcFI08ZNbAHCM",
+    "name": "Tastemade US",
     "sources": {
       "streams": [
-        "https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8",
-        "https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8",
-        "https://tm-tmtar-xumo.amagi.tv/playlist.m3u8"
+        "https://pb-rlo4if9lnjthw.akamaized.net/Tastemade.m3u8",
+        "https://amg00047-tastemade-amg00047c4-cineverse-us-1361.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadefreetv16-cineverseus/playlist.m3u8",
+        "https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8"
       ]
     },
     "languages": [

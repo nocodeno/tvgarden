@@ -28,20 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aMfHfOa13YZ4ZC",
-    "name": "ARTV",
-    "sources": {
-      "streams": [
-        "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1q3kaCpiJgYIgc",
     "name": "Assembleia SC: AO VIVO",
     "sources": {
@@ -130,7 +116,9 @@
     "name": "Canal Gov",
     "sources": {
       "streams": [
-        "https://canalgov-stream.ebc.com.br/index.m3u8"
+        "https://45.177.114.115/TV_BRASIL_2/index.m3u8",
+        "https://canalgov-stream.ebc.com.br/index.m3u8",
+        "https://168.197.104.22/TV_BRASIL_2/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/nqfph9USEYA"
@@ -246,6 +234,20 @@
     "sources": {
       "streams": [
         "https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "p9TPCkNNGjcV0i",
+    "name": "City of Monroe Government Channel",
+    "sources": {
+      "streams": [
+        "https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8"
       ]
     },
     "languages": [
@@ -1032,20 +1034,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C4WEiFY5k9mJhz",
-    "name": "Orszaggyules: OGY plenaris",
-    "sources": {
-      "streams": [
-        "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "sources": {
@@ -1177,7 +1165,7 @@
     "name": "Rio TV Câmara",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/vbBYCCnU9Yc"
+        "https://www.youtube-nocookie.com/embed/AA3KjMwL2bs"
       ]
     },
     "languages": [
@@ -1238,20 +1226,6 @@
     "sources": {
       "streams": [
         "https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yjgN99uo0EpNFd",
-    "name": "SMCTV Channel 23",
-    "sources": {
-      "streams": [
-        "https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1323,7 +1297,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/IH6lL7Gn-N4"
+        "https://www.youtube-nocookie.com/embed/AXqkh3acVaw"
       ]
     },
     "languages": [
@@ -1353,7 +1327,7 @@
       "streams": [
         "https://stream3.camara.gov.br/tv1/manifest.m3u8",
         "https://45.190.28.50/TV_CAMARA/index.m3u8",
-        "https://45.162.64.114/TV_CAMARA/index.m3u8"
+        "https://186.219.52.187/tv_camara/index.m3u8"
       ]
     },
     "languages": [

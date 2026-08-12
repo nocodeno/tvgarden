@@ -32,9 +32,9 @@
     "name": "AgroCanal",
     "sources": {
       "streams": [
-        "https://45.162.64.114/AGRO_CANAL/index.m3u8",
-        "https://45.190.28.50/AGRO_CANAL/index.m3u8",
-        "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
+        "https://186.219.52.187/agro_canal/index.m3u8",
+        "https://168.197.104.22/AGRO_CANAL/index.m3u8",
+        "https://45.162.64.114/AGRO_CANAL/index.m3u8"
       ]
     },
     "languages": [
@@ -101,17 +101,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sPitwPVtngUuVb",
-    "name": "ARDB TV",
+    "nanoid": "AOcIh9UUF5nbfq",
+    "name": "Canal Rural",
     "sources": {
       "streams": [
-        "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8"
+        "https://186.219.52.187/canal_rural/index.m3u8"
       ]
     },
     "languages": [
-      "khm"
+      "por"
     ],
-    "country": "kh",
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -219,7 +219,8 @@
     "sources": {
       "streams": [
         "https://45.162.64.114/FISH_TV/index.m3u8",
-        "https://45.190.28.50/FISH_TV_HD/index.m3u8"
+        "https://45.190.28.50/FISH_TV_HD/index.m3u8",
+        "https://168.197.104.22/FISH_TV/index.m3u8"
       ]
     },
     "languages": [
@@ -345,6 +346,7 @@
     "name": "Okhota i rybalka",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/155/index.m3u8",
         "https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -376,7 +378,7 @@
     "sources": {
       "streams": [
         "https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8",
-        "https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8?ads.vf=z_DyaXIqL6G",
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
         "https://40.160.24.55/OUTDOOR_CHANNEL/index.m3u8"
       ]
     },

@@ -552,20 +552,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UmEJkzAUB1AYQg",
-    "name": "CJBR-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "lvoDUBhVQd9VsC",
     "name": "CJON-DT",
     "sources": {
@@ -632,34 +618,6 @@
     ],
     "country": "ca",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "jqqev1sDHlkMw9",
-    "name": "CKTV-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "ZjrdyB3hSZu0bK",
-    "name": "CP24",
-    "sources": {
-      "streams": [
-        "https://tvsen6.aynaott.com/cp24/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "ZXvLfybRDCi9xD",
@@ -766,7 +724,6 @@
     "name": "FEVA TV",
     "sources": {
       "streams": [
-        "https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=nn5CUAdOxVu",
         "https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8"
       ]
     },
@@ -854,7 +811,7 @@
       "streams": [
         "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
+        "https://gusto-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -882,7 +839,6 @@
     "name": "Hard Knocks",
     "sources": {
       "streams": [
-        "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418",
         "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8"
       ]
     },
@@ -2137,7 +2093,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/N4r5TtmElHk"
+        "https://www.youtube-nocookie.com/embed/KWxH1jYe-PQ"
       ]
     },
     "languages": [
@@ -2151,7 +2107,7 @@
     "name": "Super Simple: Noodle and Pals",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/W1dfqgezcds"
+        "https://www.youtube-nocookie.com/embed/_XHpUH1Ohjo"
       ]
     },
     "languages": [
@@ -2165,7 +2121,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/jGiamrhQ9rg"
+        "https://www.youtube-nocookie.com/embed/xZtEr3V4ktI"
       ]
     },
     "languages": [
@@ -2360,7 +2316,7 @@
     "name": "TV Témis",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/fEey7L7ggbU"
+        "https://www.youtube-nocookie.com/embed/x8ugIIqDwpA"
       ]
     },
     "languages": [
@@ -2411,39 +2367,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7MJcYnhqkdKmZp",
-    "name": "Watan-e-Maa TV",
-    "sources": {
-      "streams": [
-        "https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "prd"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3immFxvjNCicJY",
     "name": "WatchMojo.com",
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/AHa_Uz50sJk"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yfBSi8T77pzJ7v",
-    "name": "WCGtv",
-    "sources": {
-      "streams": [
-        "https://wcgtv.ca/live-10/live/stream-1/live.m3u8"
       ]
     },
     "languages": [

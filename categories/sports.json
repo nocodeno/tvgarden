@@ -48,6 +48,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "o3X437Sp3YUaOq",
+    "name": "ACC Network",
+    "sources": {
+      "streams": [
+        "https://40.160.24.56/ACC_NETWORK_SD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AxkHU8DJYXqb2o",
     "name": "ACI Sport TV",
     "sources": {
@@ -249,6 +263,7 @@
     "sources": {
       "streams": [
         "https://45.162.64.114/BAND_SPORTS/index.m3u8",
+        "https://170.83.16.50/BAND_SPORTS/index.m3u8",
         "https://45.190.28.50/BAND_SPORTS_HD/index.m3u8"
       ]
     },
@@ -270,20 +285,6 @@
       "tur"
     ],
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SxEZ67YPc8yPDE",
-    "name": "BEK TV Sports West",
-    "sources": {
-      "streams": [
-        "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -387,35 +388,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "l2nxmWehcGoZy8",
-    "name": "Cosmote Sport 1",
-    "sources": {
-      "streams": [
-        "https://7nyaler.streamhostingcdn.top/stream/26/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aur32sVqyymLQa",
-    "name": "Cosmote Sport 4",
-    "sources": {
-      "streams": [
-        "https://7nyaler.streamhostingcdn.top/stream/72/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ell",
-      "eng"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wuceitzgHl5DOL",
     "name": "CRTV",
     "sources": {
@@ -513,22 +485,6 @@
     ],
     "country": "vn",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Io7xRK2WVkGiOM",
-    "name": "DP World Tour",
-    "sources": {
-      "streams": [
-        "https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8",
-        "https://pb-41uwb26l8gvwx.akamaized.net/World_Poker_Tour.m3u8",
-        "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "KGBMTUYjkdpD8D",
@@ -739,7 +695,6 @@
     "sources": {
       "streams": [
         "https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8",
-        "https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-DistroTV/263.m3u8?ads.vf=d4xngnNL060",
         "https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8"
       ]
     },
@@ -941,7 +896,6 @@
     "name": "Hard Knocks",
     "sources": {
       "streams": [
-        "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418",
         "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8"
       ]
     },
@@ -1382,20 +1336,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0ofRwsS2VVuLXC",
-    "name": "NESN",
-    "sources": {
-      "streams": [
-        "https://gpuserver3.tier1streams.com/NESN/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tvm8YPiEknLHQu",
     "name": "NFL Channel",
     "sources": {
@@ -1528,6 +1468,7 @@
     "name": "Pac-12 Insider",
     "sources": {
       "streams": [
+        "https://pac12-roku-us.amagi.tv/playlist.m3u8",
         "https://pac12-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -2277,8 +2218,8 @@
     "sources": {
       "streams": [
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
-        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8",
-        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8"
+        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
+        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2306,7 +2247,6 @@
     "name": "SportsGrid",
     "sources": {
       "streams": [
-        "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
         "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -2508,6 +2448,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YEo5pMJhqTVYEQ",
+    "name": "Talent TV",
+    "sources": {
+      "streams": [
+        "https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "lk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RYfMxL6JZWi97a",
     "name": "Teledeporte",
     "sources": {
@@ -2541,8 +2495,8 @@
     "sources": {
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-        "https://40.160.24.55/TENNIS_CHANNEL/index.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
+        "https://40.160.24.55/TENNIS_CHANNEL/index.m3u8"
       ]
     },
     "languages": [
@@ -2557,6 +2511,9 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/hskZ3yVxZqg"
       ]
     },
     "languages": [
@@ -2585,8 +2542,8 @@
     "sources": {
       "streams": [
         "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8",
-        "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
-        "https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8"
+        "https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8",
+        "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8"
       ]
     },
     "languages": [
@@ -2692,6 +2649,20 @@
       "spa"
     ],
     "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1FmkZgcgURnflD",
+    "name": "TVP Sport",
+    "sources": {
+      "streams": [
+        "https://7nyaler.streamhostingcdn.top/stream/28/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
     "isGeoBlocked": false
   },
   {
@@ -2896,41 +2867,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "so5fgKy39odQZy",
-    "name": "VSBet HD",
-    "sources": {
-      "streams": [
-        "https://live05.meung.app/live/16226575.m3u8"
-      ]
-    },
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jZEkpGlt5AGs91",
     "name": "WCW",
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/VHeyKCkErGw"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eiMNDNqakzRMns",
-    "name": "Willow",
-    "sources": {
-      "streams": [
-        "https://tvsen5.aynaott.com/willowhd/index.m3u8",
-        "https://tvsen5.aynascope.net/willowhd/index.m3u8",
-        "https://tvsen7.aynascope.net/rEBp38Ax/index.m3u8"
       ]
     },
     "languages": [
@@ -3038,11 +2979,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Io7xRK2WVkGiOM",
+    "name": "World Poker Tour US",
+    "sources": {
+      "streams": [
+        "https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8",
+        "https://pb-41uwb26l8gvwx.akamaized.net/World_Poker_Tour.m3u8",
+        "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "8Ndns6qOA3E0TP",
     "name": "WWE",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/MyARQyc14I4"
+        "https://www.youtube-nocookie.com/embed/nXXJhT42yUM"
       ]
     },
     "languages": [

@@ -377,21 +377,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RGisQUNDzBMFhg",
-    "name": "Canaf54 TV",
-    "sources": {
-      "streams": [
-        "https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "fra"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qFvRLYDETWTBst",
     "name": "Cartoon Network",
     "sources": {
@@ -636,20 +621,6 @@
       ]
     },
     "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5n1sIDsJoG2CPj",
-    "name": "Der TV",
-    "sources": {
-      "streams": [
-        "https://stream.berosat.live/hls/der-tv/der-tv.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1425,6 +1396,7 @@
     "name": "Moonbug Kids",
     "sources": {
       "streams": [
+        "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
         "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8",
         "https://tvsen6.aynaott.com/MoonbugKids/index.m3u8"
       ]
@@ -1506,25 +1478,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uUyFGrfi3LrrfU",
-    "name": "MTA1 World",
-    "sources": {
-      "streams": [
-        "https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara",
-      "ben",
-      "deu",
-      "eng",
-      "fra",
-      "urd"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "840FgWNafPoU83",
     "name": "MTA2 Europe",
     "sources": {
@@ -1596,6 +1549,7 @@
     "name": "Mystery TV UK",
     "sources": {
       "streams": [
+        "https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8",
         "https://blaze-fast-mystery-tv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-mystery-tv-amagi/playlist.m3u8"
       ]
@@ -1650,24 +1604,10 @@
   },
   {
     "nanoid": "T0TMY0MmpuHlBC",
-    "name": "Nature Time",
+    "name": "NatureTime UK",
     "sources": {
       "streams": [
         "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uU0w6PP1NhQ9xR",
-    "name": "Nickelodeon",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/nicklodean/index.m3u8"
       ]
     },
     "languages": [
@@ -1726,7 +1666,8 @@
     "sources": {
       "streams": [
         "https://amg01076-amg01076c1-samsung-gb-6682.playouts.now.amagi.tv/playlist.m3u8",
-        "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8"
+        "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8",
+        "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2028,25 +1969,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "F2ftHadqxcG2u5",
-    "name": "Rakuten TV Drama Movies UK",
+    "nanoid": "mN7jjbfyCCrHDM",
+    "name": "Rakuten TV Romance Movies UK",
     "sources": {
       "streams": [
-        "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6OObHoCz5T6mVt",
-    "name": "Rakuten TV Sci-Fi UK",
-    "sources": {
-      "streams": [
-        "https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8"
+        "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8"
       ]
     },
     "languages": [],
@@ -2177,20 +2104,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/vvrRqhZZsrU"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "M2QygmPlR8J2Gq",
-    "name": "Sky Nature",
-    "sources": {
-      "streams": [
-        "https://tvsen6.aynaott.com/skynature/index.m3u8"
       ]
     },
     "languages": [

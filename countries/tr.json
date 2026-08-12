@@ -619,20 +619,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZF8u92PVuJI4iM",
-    "name": "EKOTÜRK TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/YDxjyx8B7Vw"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6TzIP2eJ3m8bpX",
     "name": "Elsharq TV",
     "sources": {
@@ -1259,8 +1245,8 @@
     "name": "Kocaeli TV",
     "sources": {
       "streams": [
-        "https://edge2.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8",
-        "https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8"
+        "https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8",
+        "https://edge2.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1667,7 +1653,8 @@
     "name": "PowerTurk TV",
     "sources": {
       "streams": [
-        "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8"
+        "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
+        "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1923,6 +1910,9 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/hskZ3yVxZqg"
       ]
     },
     "languages": [
@@ -1960,20 +1950,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e8zax7Tb0zc8Eu",
-    "name": "TRT 1",
-    "sources": {
-      "streams": [
-        "https://tv-trt1.medya.trt.com.tr/master.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Tsl1TXkC1cdSTl",
     "name": "TRT Arabi",
     "sources": {
@@ -1994,6 +1970,20 @@
     "sources": {
       "streams": [
         "https://tv-trtavaz.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YCPZsdEDhEaJOB",
+    "name": "TRT Cocuk",
+    "sources": {
+      "streams": [
+        "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
       ]
     },
     "languages": [

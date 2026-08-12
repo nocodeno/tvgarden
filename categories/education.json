@@ -4,9 +4,9 @@
     "name": "AgroCanal",
     "sources": {
       "streams": [
-        "https://45.162.64.114/AGRO_CANAL/index.m3u8",
-        "https://45.190.28.50/AGRO_CANAL/index.m3u8",
-        "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
+        "https://186.219.52.187/agro_canal/index.m3u8",
+        "https://168.197.104.22/AGRO_CANAL/index.m3u8",
+        "https://45.162.64.114/AGRO_CANAL/index.m3u8"
       ]
     },
     "languages": [
@@ -120,8 +120,9 @@
     "name": "Canal Educacao",
     "sources": {
       "streams": [
+        "https://45.177.114.115/CANAL_EDUCACAO/index.m3u8",
         "https://canaleducacao-stream.ebc.com.br/index.m3u8",
-        "https://45.162.64.114/CANAL_EDUCACAO/index.m3u8"
+        "https://168.197.104.22/CANAL_EDUCACAO/index.m3u8"
       ]
     },
     "languages": [
@@ -149,6 +150,8 @@
     "name": "Canal Futura",
     "sources": {
       "streams": [
+        "https://170.83.16.50/FUTURA/index.m3u8",
+        "https://186.219.52.187/futura/index.m3u8",
         "https://45.162.64.114/FUTURA/index.m3u8"
       ]
     },
@@ -740,21 +743,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Qo704xbyXZJTCe",
-    "name": "En Lengua de Senas TV",
-    "sources": {
-      "streams": [
-        "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa",
-      "ssp"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "b9z8Esreszehk1",
     "name": "English Club TV",
     "sources": {
@@ -796,6 +784,20 @@
       "urd"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nuezSbylZ8GRsS",
+    "name": "Futura",
+    "sources": {
+      "streams": [
+        "https://168.197.104.22/FUTURA/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -841,20 +843,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sb5v19pRAmTp7P",
-    "name": "HTV Key",
-    "sources": {
-      "streams": [
-        "https://freem3u.xyz/api/live/play.m3u8?vid=9"
-      ]
-    },
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9NYf5msdVIxgC1",
     "name": "ILCE Canal 15 Summa Saberes",
     "sources": {
@@ -880,20 +868,6 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Kqr3JHbCw7DAtR",
-    "name": "ISTV",
-    "sources": {
-      "streams": [
-        "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -1389,20 +1363,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xT4SS5ryo4F6PC",
-    "name": "SMCTV Channel 24",
-    "sources": {
-      "streams": [
-        "https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PNF9zodERQr3Zm",
     "name": "SQOOL TV",
     "sources": {
@@ -1431,17 +1391,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IYaHECLKltBJ5V",
-    "name": "STVE Telebasica",
+    "nanoid": "c0t3w9rs29fRKj",
+    "name": "Tele UV",
     "sources": {
       "streams": [
-        "https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8"
+        "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8"
       ]
     },
     "languages": [
       "spa"
     ],
-    "country": "hn",
+    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -1696,21 +1656,6 @@
       "spa"
     ],
     "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "igJmo5J6YhgXmV",
-    "name": "Unifranz",
-    "sources": {
-      "streams": [
-        "https://edge.enhdtv.com/8192/index.m3u8",
-        "https://live.enhdtv.com:8081/8192/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
     "isGeoBlocked": false
   },
   {

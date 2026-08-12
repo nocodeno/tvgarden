@@ -31,20 +31,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "q9MeF0SCQHRY97",
-    "name": "Aaj TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/hFkmOsQie1g"
-      ]
-    },
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BG3WWAjyFpp31n",
     "name": "ABN News",
     "sources": {
@@ -85,11 +71,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NGPN9Kga0k97A4",
-    "name": "City 21 News",
+    "nanoid": "a149vBZyJi8kYN",
+    "name": "BS Film",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/C2Nbq2NAyec"
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8",
+        "https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8"
       ]
     },
     "languages": [
@@ -99,15 +86,28 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SMZ90GrudLpWdN",
-    "name": "City 41",
+    "nanoid": "zGAV8bRJNSfMxb",
+    "name": "BSTV",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/gwyCximkXZE"
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/bstv/playlist.m3u8"
       ]
     },
     "languages": [
-      "eng",
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NGPN9Kga0k97A4",
+    "name": "City 21 News",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ysjkYurbLek"
+      ]
+    },
+    "languages": [
       "urd"
     ],
     "country": "pk",
@@ -371,20 +371,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "udYM5OktKE92Dh",
-    "name": "God Stands TV Punjabi",
-    "sources": {
-      "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8"
-      ]
-    },
-    "languages": [
-      "pan"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5jBZcISN5C325C",
     "name": "God Stands TV Tagalog",
     "sources": {
@@ -513,6 +499,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0DyoG3XduwwwLj",
+    "name": "King TV",
+    "sources": {
+      "streams": [
+        "https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "C3sLhVrqf1lZz5",
     "name": "KTN News",
     "sources": {
@@ -531,7 +531,7 @@
     "name": "KTN NEWS TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/XrqGZjUoOKw"
+        "https://www.youtube-nocookie.com/embed/QUBbw-V7KIg"
       ]
     },
     "languages": [
@@ -808,7 +808,7 @@
     "name": "Sindh TV News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/7Md0Vcd04D8"
+        "https://www.youtube-nocookie.com/embed/AC7JakuWHWg"
       ]
     },
     "languages": [
