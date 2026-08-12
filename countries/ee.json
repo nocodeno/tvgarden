@@ -98,20 +98,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FYDzTh0N4duFas",
-    "name": "ETV",
-    "sources": {
-      "streams": [
-        "https://sb.err.ee/live/etv.m3u8"
-      ]
-    },
-    "languages": [
-      "est"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "w1TyAWzZva88k1",
     "name": "ETV 2",
     "sources": {
@@ -121,21 +107,6 @@
     },
     "languages": [
       "est"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g3tSCZ3A6RSOUd",
-    "name": "ETV+",
-    "sources": {
-      "streams": [
-        "https://sb.err.ee/live/etvpluss.m3u8"
-      ]
-    },
-    "languages": [
-      "est",
-      "rus"
     ],
     "country": "ee",
     "isGeoBlocked": false
@@ -206,7 +177,6 @@
     "name": "Vantage Classic",
     "sources": {
       "streams": [
-        "https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8",
         "https://hls.vantagetv.ee/vclassic_stream/index.m3u8"
       ]
     },
@@ -221,7 +191,6 @@
     "name": "Vantage Dance",
     "sources": {
       "streams": [
-        "https://cdn-backup.lulzy.eu/vdance_stream/index.m3u8",
         "https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8"
       ]
     },
@@ -236,8 +205,6 @@
     "name": "Vantage Music",
     "sources": {
       "streams": [
-        "https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8",
-        "https://cdn-backup.lulzy.eu/vrock_stream/index.m3u8",
         "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8"
       ]
     },

@@ -240,6 +240,7 @@
     "sources": {
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
       ],
       "youtube": [
@@ -610,6 +611,20 @@
     "sources": {
       "streams": [
         "https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZF8u92PVuJI4iM",
+    "name": "EKOTÜRK TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Xf2YDDCX2rY"
       ]
     },
     "languages": [
@@ -1020,18 +1035,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1YeqEExY1ZHarD",
-    "name": "Kanal 19",
-    "sources": {
-      "streams": [
-        "https://live.euromediacenter.com/kanal19/tracks-v1a1/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XQ5tolf0wDwNTz",
     "name": "Kanal 23",
     "sources": {
@@ -1227,26 +1230,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oNyXUjTAtmHkE7",
-    "name": "Kent Turk",
-    "sources": {
-      "streams": [
-        "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tTuLPLvkfWTeJZ",
     "name": "Kocaeli TV",
     "sources": {
       "streams": [
-        "https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8",
-        "https://edge2.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8"
+        "https://edge2.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8",
+        "https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1910,9 +1899,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/hskZ3yVxZqg"
       ]
     },
     "languages": [
@@ -1950,6 +1936,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "e8zax7Tb0zc8Eu",
+    "name": "TRT 1",
+    "sources": {
+      "streams": [
+        "https://tv-trt1.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Tsl1TXkC1cdSTl",
     "name": "TRT Arabi",
     "sources": {
@@ -1970,20 +1970,6 @@
     "sources": {
       "streams": [
         "https://tv-trtavaz.medya.trt.com.tr/master.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YCPZsdEDhEaJOB",
-    "name": "TRT Cocuk",
-    "sources": {
-      "streams": [
-        "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
       ]
     },
     "languages": [
@@ -2159,20 +2145,6 @@
     "sources": {
       "streams": [
         "https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UjJLXGxInD7yE1",
-    "name": "TV 42",
-    "sources": {
-      "streams": [
-        "https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d.m3u8"
       ]
     },
     "languages": [

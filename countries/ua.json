@@ -60,7 +60,7 @@
     "name": "5 канал",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/TVHq-FvqH8E"
+        "https://www.youtube-nocookie.com/embed/8vOvbf9b5qQ"
       ]
     },
     "languages": [
@@ -1366,6 +1366,22 @@
     },
     "languages": [
       "rus",
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TSbUr1OhqLkxuT",
+    "name": "TVA",
+    "sources": {
+      "streams": [
+        "https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
+        "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8",
+        "https://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
+      ]
+    },
+    "languages": [
       "ukr"
     ],
     "country": "ua",

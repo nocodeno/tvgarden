@@ -77,7 +77,6 @@
     "name": "Bem Mais TV",
     "sources": {
       "streams": [
-        "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8",
         "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
       ]
     },
@@ -150,9 +149,9 @@
     "name": "Canal Futura",
     "sources": {
       "streams": [
+        "https://45.162.64.114/FUTURA/index.m3u8",
         "https://170.83.16.50/FUTURA/index.m3u8",
-        "https://186.219.52.187/futura/index.m3u8",
-        "https://45.162.64.114/FUTURA/index.m3u8"
+        "https://186.219.52.187/futura/index.m3u8"
       ]
     },
     "languages": [
@@ -871,6 +870,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Kqr3JHbCw7DAtR",
+    "name": "ISTV",
+    "sources": {
+      "streams": [
+        "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Pz1CuDeSJYHivR",
     "name": "Jalisco TV",
     "sources": {
@@ -1293,20 +1306,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1Snebdc8j861KM",
-    "name": "Radio Universitaria San Andres",
-    "sources": {
-      "streams": [
-        "https://edge.enhdtv.com/8054/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ilmq7YqEXqJqfJ",
     "name": "Rai Scuola",
     "sources": {
@@ -1363,6 +1362,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sI8hLOEw48l5jP",
+    "name": "Santa Cecilia TV",
+    "sources": {
+      "streams": [
+        "https://video10.logicahost.com.br/unisanta/unisanta/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xT4SS5ryo4F6PC",
+    "name": "SMCTV Channel 24",
+    "sources": {
+      "streams": [
+        "https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PNF9zodERQr3Zm",
     "name": "SQOOL TV",
     "sources": {
@@ -1391,17 +1418,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c0t3w9rs29fRKj",
-    "name": "Tele UV",
+    "nanoid": "IYaHECLKltBJ5V",
+    "name": "STVE Telebasica",
     "sources": {
       "streams": [
-        "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8"
+        "https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8"
       ]
     },
     "languages": [
       "spa"
     ],
-    "country": "mx",
+    "country": "hn",
     "isGeoBlocked": false
   },
   {
@@ -1656,6 +1683,21 @@
       "spa"
     ],
     "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "igJmo5J6YhgXmV",
+    "name": "Unifranz",
+    "sources": {
+      "streams": [
+        "https://edge.enhdtv.com/8192/index.m3u8",
+        "https://live.enhdtv.com:8081/8192/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
     "isGeoBlocked": false
   },
   {

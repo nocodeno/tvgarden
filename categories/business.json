@@ -17,6 +17,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sPGmyALtlBkjD3",
+    "name": "Ameritrade",
+    "sources": {
+      "streams": [
+        "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
     "sources": {
@@ -164,34 +178,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TGIxs2mxFIlLmz",
-    "name": "Bloomberg TV US",
-    "sources": {
-      "streams": [
-        "https://40.160.24.56/BLOOMBERG_SD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8jSnAgazSmGpyh",
-    "name": "BMG TV",
-    "sources": {
-      "streams": [
-        "https://tv.nucast.tv/lb/ge/bmg/index.m3u8"
-      ]
-    },
-    "languages": [
-      "kat"
-    ],
-    "country": "ge",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "18AFI0l147pCm5",
     "name": "BT TV",
     "sources": {
@@ -325,20 +311,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "G00HUpBKHxckzh",
-    "name": "CNBC Asia",
-    "sources": {
-      "streams": [
-        "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "sg",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "MGainK9O6Ki8Pq",
     "name": "CNBC Awaaz",
     "sources": {
@@ -438,11 +410,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2E1QCHJTYwtjGg",
+    "name": "DeFiance Media",
+    "sources": {
+      "streams": [
+        "https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "su2eDwMfYQsEMR",
     "name": "Ekhon TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/fY9eJwH_qeg"
+        "https://www.youtube-nocookie.com/embed/ss9BXe0AEFw"
       ]
     },
     "languages": [
@@ -456,8 +442,8 @@
     "name": "Fox Business Network",
     "sources": {
       "streams": [
-        "https://40.160.24.56/FOX_BUSINESS_SD/index.m3u8",
-        "https://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8"
+        "https://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8",
+        "https://40.160.24.56/FOX_BUSINESS_SD/index.m3u8"
       ]
     },
     "languages": [

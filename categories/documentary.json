@@ -74,7 +74,8 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
+        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -190,21 +191,6 @@
       "ukr"
     ],
     "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OAc1RsWsrgVUky",
-    "name": "China Travel",
-    "sources": {
-      "streams": [
-        "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "zho"
-    ],
-    "country": "cn",
     "isGeoBlocked": false
   },
   {
@@ -336,21 +322,6 @@
       "eng"
     ],
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "86GG55Alt5PoRN",
-    "name": "Discovering China",
-    "sources": {
-      "streams": [
-        "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "zho"
-    ],
-    "country": "cn",
     "isGeoBlocked": false
   },
   {
@@ -768,7 +739,6 @@
     "name": "Nano",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/419/index.m3u8",
         "https://s1.tv-nano.com/Nano_rec/index.m3u8"
       ]
     },
@@ -790,20 +760,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jDb8tgaBS3dpwH",
-    "name": "National Geographic",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/116/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -921,20 +877,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nWF8Imk61O9FuP",
-    "name": "Nauka",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/125/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5dGASmS4TNjspn",
     "name": "O'zbekiston Tarixi",
     "sources": {
@@ -974,20 +916,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "C9r0nQTewOjHW3",
-    "name": "RL PRO TV",
-    "sources": {
-      "streams": [
-        "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "cd",
     "isGeoBlocked": false
   },
   {
@@ -1079,20 +1007,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bEnt0TUe16DLhv",
-    "name": "Tochka RF",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/161/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ExqfRu5vFNM6yj",
     "name": "Total Crime CA",
     "sources": {
@@ -1164,53 +1078,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pZthsgjcG9ZCMb",
-    "name": "viju Explore",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/239/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8XdbeDHcvZuIPU",
-    "name": "viju History",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/101/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lHhrFobodop0gc",
     "name": "viju Nature",
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dod05Sp6xlTtg2",
-    "name": "viju+ Planet",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/240/index.m3u8"
       ]
     },
     "languages": [
