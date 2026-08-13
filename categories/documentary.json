@@ -74,8 +74,7 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
-        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
       ]
     },
     "languages": [
@@ -194,17 +193,19 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UYW2WtzuwJvxrr",
-    "name": "City Eden KinoDok",
+    "nanoid": "OAc1RsWsrgVUky",
+    "name": "China Travel",
     "sources": {
       "streams": [
-        "https://cityeden.catcast.tv/content/38354/index.m3u8"
+        "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
+        "https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8"
       ]
     },
     "languages": [
-      "rus"
+      "eng",
+      "zho"
     ],
-    "country": "ru",
+    "country": "cn",
     "isGeoBlocked": false
   },
   {
@@ -322,6 +323,22 @@
       "eng"
     ],
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "86GG55Alt5PoRN",
+    "name": "Discovering China",
+    "sources": {
+      "streams": [
+        "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8",
+        "https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "zho"
+    ],
+    "country": "cn",
     "isGeoBlocked": false
   },
   {
@@ -472,8 +489,8 @@
     "sources": {
       "streams": [
         "https://45.177.114.114/HISTORY/index.m3u8",
-        "https://170.83.16.50/HISTORY/index.m3u8",
-        "https://45.190.28.50/HISTORY_HD/index.m3u8"
+        "https://45.190.28.50/HISTORY_HD/index.m3u8",
+        "https://170.83.16.50/HISTORY/index.m3u8"
       ]
     },
     "languages": [
@@ -739,6 +756,7 @@
     "name": "Nano",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/419/index.m3u8",
         "https://s1.tv-nano.com/Nano_rec/index.m3u8"
       ]
     },
@@ -763,17 +781,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hLMd0T3SoxEtoM",
-    "name": "National Geographic East",
+    "nanoid": "jDb8tgaBS3dpwH",
+    "name": "National Geographic",
     "sources": {
       "streams": [
-        "https://40.160.24.53/NAT_GEO/index.m3u8"
+        "https://stream.mcquack.net/116/index.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "rus"
     ],
-    "country": "us",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -786,20 +804,6 @@
     },
     "languages": [
       "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pfvOjTL0SzRiOd",
-    "name": "National Geographic Wild East",
-    "sources": {
-      "streams": [
-        "https://40.160.24.53/NAT_GEO_WILD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -877,6 +881,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nWF8Imk61O9FuP",
+    "name": "Nauka",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/125/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5dGASmS4TNjspn",
     "name": "O'zbekiston Tarixi",
     "sources": {
@@ -902,20 +920,6 @@
       "fas"
     ],
     "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mFFUoffryCMwcN",
-    "name": "Reelz",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/REELZ/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1007,6 +1011,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bEnt0TUe16DLhv",
+    "name": "Tochka RF",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/161/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ExqfRu5vFNM6yj",
     "name": "Total Crime CA",
     "sources": {
@@ -1078,11 +1096,53 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pZthsgjcG9ZCMb",
+    "name": "viju Explore",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/239/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8XdbeDHcvZuIPU",
+    "name": "viju History",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/101/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lHhrFobodop0gc",
     "name": "viju Nature",
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dod05Sp6xlTtg2",
+    "name": "viju+ Planet",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/240/index.m3u8"
       ]
     },
     "languages": [

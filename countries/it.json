@@ -42,6 +42,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XwatyYfDCBPOZF",
+    "name": "51 Radio TV",
+    "sources": {
+      "streams": [
+        "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8",
+        "https://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "UnocQxyrv9YNqn",
     "name": "70-80 TV",
     "sources": {
@@ -577,6 +592,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kTsDjvuR5SnaAA",
+    "name": "Gold TV Sat",
+    "sources": {
+      "streams": [
+        "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1xnRIVzGMzHUgY",
     "name": "GRP VERATV",
     "sources": {
@@ -1027,6 +1056,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "goJdBBUxKzhIiT",
+    "name": "Paradise TV",
+    "sources": {
+      "streams": [
+        "https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "rCWYXbGU5lesuk",
     "name": "Parole di Vita",
     "sources": {
@@ -1036,48 +1079,6 @@
     },
     "languages": [
       "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XVHhDeQHjuS3Dt",
-    "name": "Peer TV Alto Adige",
-    "sources": {
-      "streams": [
-        "https://iptv.peer.biz/live/peertv-it.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N6SFUaTsOKbZm2",
-    "name": "Peer TV South Tyrol",
-    "sources": {
-      "streams": [
-        "https://iptv.peer.biz/live/peertv-en.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6qAfF0Ciz7BFIk",
-    "name": "Peer TV Sudtirol",
-    "sources": {
-      "streams": [
-        "https://iptv.peer.biz/live/peertv.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
     ],
     "country": "it",
     "isGeoBlocked": false
@@ -1170,25 +1171,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lWiG0XwXki5OWo",
-    "name": "Radio Birikina TV",
+    "nanoid": "wVDMbHInscruLg",
+    "name": "Radio 51 TV",
     "sources": {
       "streams": [
-        "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8"
+        "https://178.32.140.155/canale51/canale51/playlist.m3u8"
       ]
     },
     "languages": [
       "ita"
     ],
     "country": "it",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
-    "nanoid": "0AeHu53Cy2m0HP",
-    "name": "Radio Capital TiVu",
+    "nanoid": "lWiG0XwXki5OWo",
+    "name": "Radio Birikina TV",
     "sources": {
       "streams": [
-        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8"
+        "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1489,6 +1490,32 @@
     "languages": [
       "deu"
     ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4XypCIgUkqx4tL",
+    "name": "Rakuten TV Action Movies Italy",
+    "sources": {
+      "streams": [
+        "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LEHhe8FljTY3bK",
+    "name": "Rakuten TV Asian Cinema Italy",
+    "sources": {
+      "streams": [
+        "https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "it",
     "isGeoBlocked": false
   },
@@ -1851,8 +1878,8 @@
     "sources": {
       "streams": [
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
-        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8",
-        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8"
+        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
+        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
     "languages": [

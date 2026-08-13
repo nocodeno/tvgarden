@@ -231,8 +231,7 @@
     "name": "Cira TV",
     "sources": {
       "streams": [
-        "https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8",
-        "https://cira-tv.akamaized.net/hls/stream_0.m3u8"
+        "https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8"
       ]
     },
     "languages": [
@@ -284,6 +283,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "E3Fuo7LqwAfWE9",
+    "name": "Deluxe Dance",
+    "sources": {
+      "streams": [
+        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hoEK50b8RIgSOh",
     "name": "Deluxe Music",
     "sources": {
@@ -293,6 +306,21 @@
     },
     "languages": [
       "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kxfwLfpFpzHMm2",
+    "name": "Deluxe Rap",
+    "sources": {
+      "streams": [
+        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8"
+      ]
+    },
+    "languages": [
+      "deu",
+      "eng"
     ],
     "country": "de",
     "isGeoBlocked": false
@@ -481,6 +509,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6ftPsR4C1PTDrI",
+    "name": "Fluss Monster",
+    "sources": {
+      "streams": [
+        "https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8bSuKSVwMMeWf7",
     "name": "Folx Music Television",
     "sources": {
@@ -517,20 +557,6 @@
       ]
     },
     "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xceNg3zrNinnuh",
-    "name": "Glück Auf TV - Mittel Erzgebirgs Fernsehen",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/bRcHwAHbn-w"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -694,20 +720,6 @@
     "sources": {
       "streams": [
         "https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BwAEx0LmqBTmqp",
-    "name": "Kanal 9 Erzgebirge",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/JoQTU0Wf-rs"
       ]
     },
     "languages": [
@@ -886,6 +898,18 @@
     ],
     "country": "de",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "4YOpv1CYox1W50",
+    "name": "Naruto Germany",
+    "sources": {
+      "streams": [
+        "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "9oFKf7u6XNNE0e",
@@ -1102,6 +1126,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "D4nMjd2d15gJap",
+    "name": "OK Kaiserslautern",
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/abr_okkl/webstream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "0ATgctzwJhYRU7",
     "name": "OK Kassel",
     "sources": {
@@ -1160,6 +1198,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WXS0fra9wbJjZY",
+    "name": "OK Rhein-Main",
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "rBGrW8kNGesFFe",
     "name": "OK Salzwedel",
     "sources": {
@@ -1189,6 +1241,20 @@
     ],
     "country": "de",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "F23o0isfrVABPH",
+    "name": "OK Trier",
+    "sources": {
+      "streams": [
+        "https://s.ok54.de/ott/webstream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "iD1O3DGfgUMF59",
@@ -1408,34 +1474,6 @@
       "streams": [
         "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8",
         "https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mMN16NkXBOiZlV",
-    "name": "Rakuten TV Comedy Movies Germany",
-    "sources": {
-      "streams": [
-        "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jrhvPj9Sfa0uyr",
-    "name": "Rakuten TV Family Movies Germany",
-    "sources": {
-      "streams": [
-        "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8"
       ]
     },
     "languages": [

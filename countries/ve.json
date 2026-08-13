@@ -14,11 +14,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ciUS0lRhmTtePT",
-    "name": "Anzoategui TV",
+    "nanoid": "t2xHdunHhK2Qqc",
+    "name": "Aguacate TV",
     "sources": {
       "streams": [
-        "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
+        "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -117,20 +117,6 @@
     "sources": {
       "streams": [
         "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BcpXd12u6A6rk7",
-    "name": "Contactv",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -271,20 +257,6 @@
     "sources": {
       "streams": [
         "https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tbGxevqWx6uLGr",
-    "name": "Maxima TV",
-    "sources": {
-      "streams": [
-        "https://maximatv.net/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -468,6 +440,7 @@
     "sources": {
       "streams": [
         "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+        "https://45.190.28.50/TELESUR_HD/index.m3u8",
         "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
       ]
     },

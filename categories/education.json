@@ -77,6 +77,7 @@
     "name": "Bem Mais TV",
     "sources": {
       "streams": [
+        "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8",
         "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
       ]
     },
@@ -149,9 +150,9 @@
     "name": "Canal Futura",
     "sources": {
       "streams": [
-        "https://45.162.64.114/FUTURA/index.m3u8",
         "https://170.83.16.50/FUTURA/index.m3u8",
-        "https://186.219.52.187/futura/index.m3u8"
+        "https://186.219.52.187/futura/index.m3u8",
+        "https://45.162.64.114/FUTURA/index.m3u8"
       ]
     },
     "languages": [
@@ -417,21 +418,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FH7NvrC8IdGbek",
-    "name": "DLTV 2",
-    "sources": {
-      "streams": [
-        "https://cdn-live.dltv.ac.th/dltv02.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Z2nBboETrkSzIa",
     "name": "DLTV 3",
     "sources": {
@@ -447,101 +433,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "28rjnzXjPjea82",
-    "name": "DLTV 4",
-    "sources": {
-      "streams": [
-        "https://cdn-live.dltv.ac.th/dltv04.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RfFYZpw2B1Tu6O",
-    "name": "DLTV 5",
-    "sources": {
-      "streams": [
-        "https://cdn-live.dltv.ac.th/dltv05.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SBNkYWrTHUHlU6",
-    "name": "DLTV 6",
-    "sources": {
-      "streams": [
-        "https://cdn-live.dltv.ac.th/dltv06.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5n7uTj1v7KJgAK",
     "name": "DLTV 7",
     "sources": {
       "streams": [
         "https://cdn-live.dltv.ac.th/dltv07.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AtqNekEK9bqlpP",
-    "name": "DLTV 8",
-    "sources": {
-      "streams": [
-        "https://cdn-live.dltv.ac.th/dltv08.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ReBKejReML00hL",
-    "name": "DLTV 9",
-    "sources": {
-      "streams": [
-        "https://cdn-live.dltv.ac.th/dltv09.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "J2tWh2yACsVBKq",
-    "name": "DLTV 10",
-    "sources": {
-      "streams": [
-        "https://cdn-live.dltv.ac.th/dltv10.m3u8"
       ]
     },
     "languages": [
@@ -572,21 +468,6 @@
     "sources": {
       "streams": [
         "https://cdn-live.dltv.ac.th/dltv12.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZPUnfb9kCWJfnO",
-    "name": "DLTV 13",
-    "sources": {
-      "streams": [
-        "https://cdn-live.dltv.ac.th/dltv13.m3u8"
       ]
     },
     "languages": [
@@ -938,6 +819,20 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "EYOg6mbwI8lejh",
+    "name": "Knowledge Channel",
+    "sources": {
+      "streams": [
+        "https://streams.comclark.com/pknsd/knowledge/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "mh8ffIuQVJBAom",
@@ -1306,6 +1201,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1Snebdc8j861KM",
+    "name": "Radio Universitaria San Andres",
+    "sources": {
+      "streams": [
+        "https://edge.enhdtv.com/8054/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ilmq7YqEXqJqfJ",
     "name": "Rai Scuola",
     "sources": {
@@ -1359,20 +1268,6 @@
       "ind"
     ],
     "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sI8hLOEw48l5jP",
-    "name": "Santa Cecilia TV",
-    "sources": {
-      "streams": [
-        "https://video10.logicahost.com.br/unisanta/unisanta/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -1806,20 +1701,6 @@
     "sources": {
       "streams": [
         "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "47o1HNzoeOQk95",
-    "name": "XHUNES-TDT",
-    "sources": {
-      "streams": [
-        "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
       ]
     },
     "languages": [

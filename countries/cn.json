@@ -85,20 +85,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fKZLucUhJYe0vc",
-    "name": "CCTV-5+",
-    "sources": {
-      "streams": [
-        "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GrcOSQRyVFsYve",
     "name": "CCTV-6",
     "sources": {
@@ -240,7 +226,8 @@
     "name": "CGTN Global Biz",
     "sources": {
       "streams": [
-        "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8"
+        "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8",
+        "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8"
       ]
     },
     "languages": [
@@ -292,6 +279,38 @@
     "languages": [
       "aho",
       "mon"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OAc1RsWsrgVUky",
+    "name": "China Travel",
+    "sources": {
+      "streams": [
+        "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
+        "https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "86GG55Alt5PoRN",
+    "name": "Discovering China",
+    "sources": {
+      "streams": [
+        "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8",
+        "https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "zho"
     ],
     "country": "cn",
     "isGeoBlocked": false
@@ -401,20 +420,6 @@
     "sources": {
       "streams": [
         "https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sxmEu2IrHYwAmm",
-    "name": "Lanzhou Comprehensive News Channel",
-    "sources": {
-      "streams": [
-        "https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8"
       ]
     },
     "languages": [
@@ -690,7 +695,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ncPqC4CZdcM"
+        "https://www.youtube-nocookie.com/embed/z7E3JYEhXno"
       ]
     },
     "languages": [
@@ -765,6 +770,18 @@
     "sources": {
       "streams": [
         "https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2D80wABwXq6SL0",
+    "name": "浙江 I 绍兴影视",
+    "sources": {
+      "streams": [
+        "https://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8"
       ]
     },
     "languages": [],
@@ -904,11 +921,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HGBni7wKrtguXm",
-    "name": "萧山新闻综合",
+    "nanoid": "hlJLT7eqdRNqcv",
+    "name": "蕭山生活頻道",
     "sources": {
       "streams": [
-        "https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8"
+        "https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8"
       ]
     },
     "languages": [],
@@ -962,17 +979,5 @@
     "languages": [],
     "country": "cn",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "6nQrzZYDFKwB5C",
-    "name": "餘姚姚江文化",
-    "sources": {
-      "streams": [
-        "https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
   }
 ]

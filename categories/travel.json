@@ -86,6 +86,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OAc1RsWsrgVUky",
+    "name": "China Travel",
+    "sources": {
+      "streams": [
+        "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
+        "https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0QTowwNml7pc3D",
     "name": "Costa Rica Channel",
     "sources": {
@@ -245,6 +261,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "goNrMuzefDwskd",
+    "name": "Maldives TV",
+    "sources": {
+      "streams": [
+        "https://lana.psm.mv/live/mtv.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "mv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1sylSgieonAaR5",
+    "name": "Moya stikhiya",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/141/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IG7KP9uOfXV0Z7",
     "name": "OEPM TV",
     "sources": {
@@ -273,45 +317,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XVHhDeQHjuS3Dt",
-    "name": "Peer TV Alto Adige",
+    "nanoid": "p0jnHTBehgm826",
+    "name": "RTG TV",
     "sources": {
       "streams": [
-        "https://iptv.peer.biz/live/peertv-it.m3u8"
+        "https://stream.mcquack.net/164/index.m3u8"
       ]
     },
     "languages": [
-      "ita"
+      "rus"
     ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N6SFUaTsOKbZm2",
-    "name": "Peer TV South Tyrol",
-    "sources": {
-      "streams": [
-        "https://iptv.peer.biz/live/peertv-en.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6qAfF0Ciz7BFIk",
-    "name": "Peer TV Sudtirol",
-    "sources": {
-      "streams": [
-        "https://iptv.peer.biz/live/peertv.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "it",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -340,6 +356,20 @@
       "eng"
     ],
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bEnt0TUe16DLhv",
+    "name": "Tochka RF",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/161/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
