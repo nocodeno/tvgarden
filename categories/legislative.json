@@ -28,6 +28,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "aMfHfOa13YZ4ZC",
+    "name": "ARTV",
+    "sources": {
+      "streams": [
+        "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1q3kaCpiJgYIgc",
     "name": "Assembleia SC: AO VIVO",
     "sources": {
@@ -89,34 +103,6 @@
     "sources": {
       "streams": [
         "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "s7bMJMlkZ9S5PS",
-    "name": "C-SPAN",
-    "sources": {
-      "streams": [
-        "https://40.160.24.56/C-SPAN_HD_SD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Do7oeDT3YviGiQ",
-    "name": "C-SPAN 2",
-    "sources": {
-      "streams": [
-        "https://40.160.24.56/C-SPAN_2_SD/index.m3u8"
       ]
     },
     "languages": [
@@ -397,6 +383,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WscC7Swxpk8hjp",
+    "name": "Congreso del Perú en Vivo",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/uNHXS0OEuKg"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5ymwJKVoGafdCH",
     "name": "COStv",
     "sources": {
@@ -655,7 +655,8 @@
     "name": "Hellenic Parliament TV",
     "sources": {
       "streams": [
-        "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8"
+        "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
+        "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
       ]
     },
     "languages": [
@@ -1177,7 +1178,7 @@
     "name": "Rio TV Câmara",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/iXLUsG50YXc"
+        "https://www.youtube-nocookie.com/embed/vMLDX5Bb9DM"
       ]
     },
     "languages": [
@@ -1323,7 +1324,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Nz68e-eezuA"
+        "https://www.youtube-nocookie.com/embed/2VVArdNwOyY"
       ]
     },
     "languages": [

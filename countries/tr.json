@@ -605,20 +605,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZF8u92PVuJI4iM",
-    "name": "EKOTÜRK TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/rxGWYOqu7JU"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6TzIP2eJ3m8bpX",
     "name": "Elsharq TV",
     "sources": {
@@ -920,22 +906,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9vMtLv0JIYsKG8",
-    "name": "Ilke TV",
-    "sources": {
-      "streams": [
-        "https://stream.ilketv.com.tr/hls/ilkecanli.m3u8"
-      ]
-    },
-    "languages": [
-      "kur",
-      "tur",
-      "zza"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fLm0qdcJhJPt7r",
     "name": "Kanal 3",
     "sources": {
@@ -1205,6 +1175,20 @@
       "streams": [
         "https://edge2.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8",
         "https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "axZRIy6sk182NP",
+    "name": "Konya Olay TV",
+    "sources": {
+      "streams": [
+        "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1854,9 +1838,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/MDwwU_kFvPY"
       ]
     },
     "languages": [
@@ -1928,6 +1909,20 @@
     "sources": {
       "streams": [
         "https://tv-trtavaz.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YCPZsdEDhEaJOB",
+    "name": "TRT Cocuk",
+    "sources": {
+      "streams": [
+        "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
       ]
     },
     "languages": [

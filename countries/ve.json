@@ -98,11 +98,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1GpRDoekUac7eR",
-    "name": "Canal I",
+    "nanoid": "6SYW2B8xTfiTLL",
+    "name": "Catatumbo TV",
     "sources": {
       "streams": [
-        "https://streaming.canal-i.com/canal-i/live/master.m3u8"
+        "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
       ]
     },
     "languages": [
@@ -112,11 +112,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6SYW2B8xTfiTLL",
-    "name": "Catatumbo TV",
+    "nanoid": "BcpXd12u6A6rk7",
+    "name": "Contactv",
     "sources": {
       "streams": [
-        "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
+        "https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -494,20 +494,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rO6eV79GxNqt7n",
-    "name": "TRT",
-    "sources": {
-      "streams": [
-        "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IMxxuZcthSxVVc",
     "name": "Tu TV",
     "sources": {
@@ -541,6 +527,20 @@
     "sources": {
       "streams": [
         "https://servilive.com:3562/live/vav4c8z38live.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XdOMLij5yy08uC",
+    "name": "TVM para ti",
+    "sources": {
+      "streams": [
+        "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8"
       ]
     },
     "languages": [

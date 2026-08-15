@@ -114,6 +114,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "P42ZZXgguOWeVe",
+    "name": "AMC Latin America Panregional",
+    "sources": {
+      "streams": [
+        "https://streamer.metronethn.com/AMC/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "thN5J0xabRBwQr",
     "name": "Amedia Hit",
     "sources": {
@@ -139,20 +153,6 @@
       "hye"
     ],
     "country": "am",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GyD5jgzfEEiUYG",
-    "name": "Asia Flix TV",
-    "sources": {
-      "streams": [
-        "https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl"
-    ],
-    "country": "ph",
     "isGeoBlocked": false
   },
   {
@@ -258,20 +258,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5fPdHbPWBlhNGl",
-    "name": "Boreal",
-    "sources": {
-      "streams": [
-        "https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sM7rYQFLMt6qyU",
     "name": "Bravo Farsi TV",
     "sources": {
@@ -300,18 +286,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GrcOSQRyVFsYve",
-    "name": "CCTV-6",
+    "nanoid": "btEJDr7vMTEkmk",
+    "name": "Canal Cine Dios",
     "sources": {
       "streams": [
-        "https://live.eac-news.com/CCTV/streams/cctv6.m3u8"
+        "https://canal.mediaserver.com.co/live/cinedios.m3u8"
       ]
     },
     "languages": [
-      "zho"
+      "spa"
     ],
-    "country": "cn",
-    "isGeoBlocked": true
+    "country": "co",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "CZQIAk4EUWp6Ag",
@@ -348,8 +334,7 @@
     "name": "Cine Friki",
     "sources": {
       "streams": [
-        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
-        "https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8"
+        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8"
       ]
     },
     "languages": [
@@ -455,6 +440,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hkyMh1FkUqryxv",
+    "name": "Classic Cinema",
+    "sources": {
+      "streams": [
+        "https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1002,20 +1001,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Qrdom171P2J2Tq",
-    "name": "Hallmark Family",
-    "sources": {
-      "streams": [
-        "https://40.160.24.53/HALLMARK_DRAMA/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MFgXSbluyVC307",
     "name": "Hallmark Movies & More",
     "sources": {
@@ -1029,20 +1014,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "L4ZW2ACSc1dIYj",
-    "name": "Hallmark Mystery East",
-    "sources": {
-      "streams": [
-        "https://40.160.24.53/HALLMARK_MOVIES_AND_MYSTERIES/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "7Hsc69UuEllEuA",
@@ -1112,20 +1083,6 @@
       "fas"
     ],
     "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ESBBmYA3NXM7Pi",
-    "name": "IFC East",
-    "sources": {
-      "streams": [
-        "https://40.160.24.53/IFC/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1484,21 +1441,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iH9DzoYTnW5NSy",
-    "name": "Lifetime Movies East",
-    "sources": {
-      "streams": [
-        "https://40.160.24.53/LMN/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sAbR7bvxYpt3dh",
     "name": "Lollywood HD TV",
     "sources": {
@@ -1569,6 +1511,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Lzh8NoZwGUGsG2",
+    "name": "MCI Television",
+    "sources": {
+      "streams": [
+        "https://video.ejeserver.com/live/mcitelevision.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CH0OBldtzqtjEK",
     "name": "Mega Cine TV",
     "sources": {
@@ -1608,6 +1565,21 @@
       "ara"
     ],
     "country": "eg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PNOOrU0hTbwHGd",
+    "name": "MoreMax East",
+    "sources": {
+      "streams": [
+        "https://40.160.24.56/MOREMAX_SD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1958,20 +1930,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "s9YZ1VJSz718zN",
-    "name": "Paramount Network East",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ClrLVtv3nyuxRh",
     "name": "Patriot",
     "sources": {
@@ -2129,6 +2087,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "puttCC33EGjZMn",
+    "name": "Punjabi Shorts",
+    "sources": {
+      "streams": [
+        "https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pan"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xPU4Ep9UnoE2H1",
     "name": "Raj Digital Plus",
     "sources": {
@@ -2140,6 +2112,20 @@
       "tam"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DqKr2u3T1rmLql",
+    "name": "Rakuten Top Movies UK",
+    "sources": {
+      "streams": [
+        "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -2157,39 +2143,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S5iQDEhbXxxIw7",
-    "name": "Rakuten TV Drama Movies Spain",
+    "nanoid": "rW6tKgiQ7jM4rF",
+    "name": "Rakuten TV Comedy Movies Italy",
     "sources": {
       "streams": [
-        "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8"
+        "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
       ]
     },
     "languages": [
-      "spa"
+      "ita"
     ],
-    "country": "es",
+    "country": "it",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "duHgjkhG7rfbm4",
-    "name": "Rakuten TV Family Movies Spain",
+    "nanoid": "F2ftHadqxcG2u5",
+    "name": "Rakuten TV Drama Movies UK",
     "sources": {
       "streams": [
-        "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bM1ajyE0MLR0WL",
-    "name": "Rakuten TV Family Movies UK",
-    "sources": {
-      "streams": [
-        "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8"
+        "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
       ]
     },
     "languages": [
@@ -2199,17 +2171,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9DzDnm8vJPwosX",
-    "name": "Rakuten TV Top Movies Spain",
+    "nanoid": "CECa40HPlHGlAI",
+    "name": "Rakuten TV Top Movies Finland",
     "sources": {
       "streams": [
-        "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
+        "https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8"
       ]
     },
     "languages": [
-      "spa"
+      "eng",
+      "fin"
     ],
-    "country": "es",
+    "country": "fi",
     "isGeoBlocked": false
   },
   {
@@ -2355,20 +2328,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "U4qFQGhb2lylGn",
-    "name": "Sine Plus",
-    "sources": {
-      "streams": [
-        "https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8ASIayZG97M5CC",
     "name": "SL 1",
     "sources": {
@@ -2416,7 +2375,7 @@
     "sources": {
       "streams": [
         "https://45.177.114.115/SONY_MOVIES/index.m3u8",
-        "https://170.83.16.50/SONY_MOVIES/index.m3u8",
+        "https://45.190.28.50/SONY_MOVIES/index.m3u8",
         "https://168.197.104.22/SONY_MOVIES/index.m3u8"
       ]
     },
@@ -2632,35 +2591,6 @@
     "sources": {
       "streams": [
         "https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lKPGETEt2FJ6ge",
-    "name": "USA Network East",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/USA_NETWORK/index.m3u8",
-        "https://gpuserver5.tier1streams.com/USA_NETWORK/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fE02SPfh0IePpn",
-    "name": "USA Network West",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/USA_NETWORK_WEST/index.m3u8"
       ]
     },
     "languages": [

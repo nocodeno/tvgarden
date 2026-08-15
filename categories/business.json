@@ -178,20 +178,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TGIxs2mxFIlLmz",
-    "name": "Bloomberg TV US",
-    "sources": {
-      "streams": [
-        "https://40.160.24.56/BLOOMBERG_SD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "18AFI0l147pCm5",
     "name": "BT TV",
     "sources": {
@@ -298,9 +284,6 @@
     "nanoid": "7XcP1junyS1aZN",
     "name": "CNBC",
     "sources": {
-      "streams": [
-        "https://40.160.24.56/CNBC_SD/index.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/9NyxcX3rhQs"
       ]
@@ -324,6 +307,20 @@
     ],
     "country": "ae",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "G00HUpBKHxckzh",
+    "name": "CNBC Asia",
+    "sources": {
+      "streams": [
+        "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "sg",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "MGainK9O6Ki8Pq",

@@ -214,12 +214,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8MkrJaxHtTluMW",
+    "name": "El Mundo del Campo",
+    "sources": {
+      "streams": [
+        "https://movil.ejeserver.com/live/elmundodelcampo.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KWpkHYxq6dUNah",
     "name": "Fish TV",
     "sources": {
       "streams": [
-        "https://168.197.104.22/FISH_TV/index.m3u8",
         "https://45.162.64.114/FISH_TV/index.m3u8",
+        "https://168.197.104.22/FISH_TV/index.m3u8",
         "https://170.83.16.50/FISH_TV/index.m3u8"
       ]
     },
@@ -379,8 +393,7 @@
     "sources": {
       "streams": [
         "https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8",
-        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
-        "https://40.160.24.55/OUTDOOR_CHANNEL/index.m3u8"
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8"
       ]
     },
     "languages": [
@@ -395,8 +408,7 @@
     "sources": {
       "streams": [
         "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8",
-        "https://desdobebr2wri.cloudfront.net/Outside.m3u8",
-        "https://40.160.24.55/OUTSIDE_TV/index.m3u8"
+        "https://desdobebr2wri.cloudfront.net/Outside.m3u8"
       ]
     },
     "languages": [

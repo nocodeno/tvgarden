@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "FLJTgXx5Ik6ljh",
-    "name": "Angel TV Chinese",
-    "sources": {
-      "streams": [
-        "https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uzMnROBDMiNzKY",
     "name": "Anhui TV",
     "sources": {
@@ -85,18 +71,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GrcOSQRyVFsYve",
-    "name": "CCTV-6",
+    "nanoid": "fKZLucUhJYe0vc",
+    "name": "CCTV-5+",
     "sources": {
       "streams": [
-        "https://live.eac-news.com/CCTV/streams/cctv6.m3u8"
+        "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8"
       ]
     },
     "languages": [
       "zho"
     ],
     "country": "cn",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "8qbHNd2Zc2MjWY",
@@ -258,8 +244,7 @@
     "sources": {
       "streams": [
         "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8",
-        "https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8",
-        "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8"
+        "https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8"
       ]
     },
     "languages": [
@@ -420,6 +405,20 @@
     "sources": {
       "streams": [
         "https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sxmEu2IrHYwAmm",
+    "name": "Lanzhou Comprehensive News Channel",
+    "sources": {
+      "streams": [
+        "https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8"
       ]
     },
     "languages": [
@@ -777,18 +776,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2D80wABwXq6SL0",
-    "name": "浙江 I 绍兴影视",
-    "sources": {
-      "streams": [
-        "https://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tWjSdo4t72dhtd",
     "name": "浙江 I 绍兴综合",
     "sources": {
@@ -921,6 +908,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HGBni7wKrtguXm",
+    "name": "萧山新闻综合",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hlJLT7eqdRNqcv",
     "name": "蕭山生活頻道",
     "sources": {
@@ -979,5 +978,17 @@
     "languages": [],
     "country": "cn",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "6nQrzZYDFKwB5C",
+    "name": "餘姚姚江文化",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
   }
 ]

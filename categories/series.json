@@ -245,6 +245,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CZ0c6ZasjBnZ4w",
+    "name": "City Eden TeleNovella",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/46209/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OSKKDWCAHjH9Fa",
     "name": "CNBC-e",
     "sources": {
@@ -593,27 +607,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "L4ZW2ACSc1dIYj",
-    "name": "Hallmark Mystery East",
-    "sources": {
-      "streams": [
-        "https://40.160.24.53/HALLMARK_MOVIES_AND_MYSTERIES/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1iqAggt1jlZlAx",
     "name": "HauntTV",
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/69da419c-6bb2-473f-98c3-246153fc909b/playlist.m3u8",
         "https://amg01446-blueantmediacan-haunttvaus-samsungnz-xo5xf.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaus-samsungnz/playlist.m3u8",
-        "https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8"
+        "https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8"
       ]
     },
     "languages": [
@@ -900,20 +900,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "s9YZ1VJSz718zN",
-    "name": "Paramount Network East",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EqniGxixO4xx8t",
     "name": "PBS Antiques Roadshow",
     "sources": {
@@ -1085,6 +1071,20 @@
       "spa"
     ],
     "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SZ2cNzXyjIL9do",
+    "name": "Start TV",
+    "sources": {
+      "streams": [
+        "https://40.160.24.55/START_TV/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1320,35 +1320,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lKPGETEt2FJ6ge",
-    "name": "USA Network East",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/USA_NETWORK/index.m3u8",
-        "https://gpuserver5.tier1streams.com/USA_NETWORK/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fE02SPfh0IePpn",
-    "name": "USA Network West",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/USA_NETWORK_WEST/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rbTDCc0BqwXsLy",
     "name": "viju+ Serial",
     "sources": {
@@ -1367,7 +1338,6 @@
     "name": "We TV East",
     "sources": {
       "streams": [
-        "https://40.160.24.55/WE_TV/index.m3u8",
         "https://170.254.17.2/WE_TV/index.m3u8",
         "https://streamer1.nexgen.bz/WE_TV/index.m3u8"
       ]

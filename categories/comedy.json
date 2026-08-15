@@ -255,20 +255,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BuvrzlOygGxrJ9",
-    "name": "Laff",
-    "sources": {
-      "streams": [
-        "https://40.160.24.53/LAFF_TV/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Wta79gtFAih710",
     "name": "LOL Network: Stand-Up 24/7",
     "sources": {
@@ -313,6 +299,7 @@
     "name": "Mystery Science Theater 3000",
     "sources": {
       "streams": [
+        "https://mst3k-vizio.amagi.tv/playlist.m3u8",
         "https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8"
       ]
     },
@@ -376,6 +363,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "O8tFJhKTZ0GylR",
+    "name": "Santa Cruz Feira Digital",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/m-Pj4h7FB-E"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -443,35 +444,6 @@
     "sources": {
       "streams": [
         "https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lKPGETEt2FJ6ge",
-    "name": "USA Network East",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/USA_NETWORK/index.m3u8",
-        "https://gpuserver5.tier1streams.com/USA_NETWORK/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fE02SPfh0IePpn",
-    "name": "USA Network West",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/USA_NETWORK_WEST/index.m3u8"
       ]
     },
     "languages": [
