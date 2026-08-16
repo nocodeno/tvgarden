@@ -323,20 +323,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3hq4NpWZFKw05F",
-    "name": "Kiss TV",
-    "sources": {
-      "streams": [
-        "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NodY8gBnmYHwO8",
     "name": "Magic TV",
     "sources": {
@@ -472,20 +458,6 @@
     },
     "languages": [
       "eng",
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BEYVH24fbdnqEV",
-    "name": "Radio Romania Antena Satelor 720p",
-    "sources": {
-      "streams": [
-        "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8"
-      ]
-    },
-    "languages": [
       "ron"
     ],
     "country": "ro",
@@ -700,6 +672,20 @@
     ],
     "country": "ro",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "QmyDk7u02PWKpA",
+    "name": "TVR Info",
+    "sources": {
+      "streams": [
+        "https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "otbytoTxWQ2OOt",

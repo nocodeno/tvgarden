@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "aYAhxfge3884Ci",
+    "name": "Agro TV",
+    "sources": {
+      "streams": [
+        "https://restr2.bgtv.bg/agro/hls/agro.m3u8"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "g5kkuBi9J5OPSY",
     "name": "Agro TV",
     "sources": {
@@ -232,9 +246,9 @@
     "name": "Fish TV",
     "sources": {
       "streams": [
-        "https://45.162.64.114/FISH_TV/index.m3u8",
         "https://168.197.104.22/FISH_TV/index.m3u8",
-        "https://170.83.16.50/FISH_TV/index.m3u8"
+        "https://170.83.16.50/FISH_TV/index.m3u8",
+        "https://45.162.64.114/FISH_TV/index.m3u8"
       ]
     },
     "languages": [
@@ -346,7 +360,6 @@
     "name": "Ohotnik i rybolov",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/194/index.m3u8",
         "https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -416,6 +429,48 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "XVHhDeQHjuS3Dt",
+    "name": "Peer TV Alto Adige",
+    "sources": {
+      "streams": [
+        "https://iptv.peer.biz/live/peertv-it.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "N6SFUaTsOKbZm2",
+    "name": "Peer TV South Tyrol",
+    "sources": {
+      "streams": [
+        "https://iptv.peer.biz/live/peertv-en.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6qAfF0Ciz7BFIk",
+    "name": "Peer TV Sudtirol",
+    "sources": {
+      "streams": [
+        "https://iptv.peer.biz/live/peertv.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "bcFsomEBowqYIB",

@@ -4,7 +4,7 @@
     "name": "24 News HD",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/p5jVgAbSuzc"
+        "https://www.youtube-nocookie.com/embed/KTd-jhsdygw"
       ]
     },
     "languages": [
@@ -118,7 +118,7 @@
     "name": "City 21 News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/JD_b9-cIHpI"
+        "https://www.youtube-nocookie.com/embed/p25w7bhMR2I"
       ]
     },
     "languages": [
@@ -132,7 +132,7 @@
     "name": "City 41",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/qBD1vbQBpGA"
+        "https://www.youtube-nocookie.com/embed/TSh6DPOdDGE"
       ]
     },
     "languages": [
@@ -189,6 +189,7 @@
     "name": "Dunya News",
     "sources": {
       "streams": [
+        "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
         "https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8"
       ],
       "youtube": [
@@ -356,16 +357,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gmAnyp0vi78tWo",
-    "name": "God Stands TV Main",
+    "nanoid": "udYM5OktKE92Dh",
+    "name": "God Stands TV Punjabi",
     "sources": {
       "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8"
+        "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8"
       ]
     },
     "languages": [
-      "eng",
-      "urd"
+      "pan"
     ],
     "country": "pk",
     "isGeoBlocked": false
@@ -380,6 +380,20 @@
     },
     "languages": [
       "tgl"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MJZCJdg9pFYsCd",
+    "name": "God Stands TV Urdu",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
     ],
     "country": "pk",
     "isGeoBlocked": false
@@ -466,6 +480,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yQPdPKGvAyjQ79",
+    "name": "Kids Land: Urdu",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Jr_sWW86aI0"
+      ]
+    },
+    "languages": [
+      "urd"
     ],
     "country": "pk",
     "isGeoBlocked": false
@@ -776,20 +804,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3iCM6TWrro0iqg",
-    "name": "Sindh TV News",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/fTRqPz7Bqe0"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WXuOh2YwSDNDLT",
     "name": "Sky News Urdu",
     "sources": {
@@ -823,6 +837,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/F6P-BFV6gWM"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LBVPGHScrFCXER",
+    "name": "Zindagi TV",
+    "sources": {
+      "streams": [
+        "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8"
       ]
     },
     "languages": [

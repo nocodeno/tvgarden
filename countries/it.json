@@ -581,6 +581,7 @@
     "name": "Gold TV",
     "sources": {
       "streams": [
+        "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8",
         "https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8"
       ]
     },
@@ -808,6 +809,20 @@
     "sources": {
       "streams": [
         "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ex98n0tFYkUwoo",
+    "name": "Lazio TV",
+    "sources": {
+      "streams": [
+        "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1069,6 +1084,48 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XVHhDeQHjuS3Dt",
+    "name": "Peer TV Alto Adige",
+    "sources": {
+      "streams": [
+        "https://iptv.peer.biz/live/peertv-it.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "N6SFUaTsOKbZm2",
+    "name": "Peer TV South Tyrol",
+    "sources": {
+      "streams": [
+        "https://iptv.peer.biz/live/peertv-en.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6qAfF0Ciz7BFIk",
+    "name": "Peer TV Sudtirol",
+    "sources": {
+      "streams": [
+        "https://iptv.peer.biz/live/peertv.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Bf229RUVr1fA3u",
     "name": "Prima Free",
     "sources": {
@@ -1175,20 +1232,6 @@
     "sources": {
       "streams": [
         "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0AeHu53Cy2m0HP",
-    "name": "Radio Capital TiVu",
-    "sources": {
-      "streams": [
-        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1488,46 +1531,6 @@
     },
     "languages": [
       "deu"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4XypCIgUkqx4tL",
-    "name": "Rakuten TV Action Movies Italy",
-    "sources": {
-      "streams": [
-        "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LEHhe8FljTY3bK",
-    "name": "Rakuten TV Asian Cinema Italy",
-    "sources": {
-      "streams": [
-        "https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rW6tKgiQ7jM4rF",
-    "name": "Rakuten TV Comedy Movies Italy",
-    "sources": {
-      "streams": [
-        "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
     ],
     "country": "it",
     "isGeoBlocked": false
@@ -1890,8 +1893,8 @@
     "name": "Sportitalia Solocalcio",
     "sources": {
       "streams": [
-        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
+        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
         "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
@@ -2078,20 +2081,6 @@
     "sources": {
       "streams": [
         "https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "B0q402GKTLgF9q",
-    "name": "Telegela 647",
-    "sources": {
-      "streams": [
-        "https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8"
       ]
     },
     "languages": [

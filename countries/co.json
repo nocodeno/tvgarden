@@ -226,20 +226,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "btEJDr7vMTEkmk",
-    "name": "Canal Cine Dios",
-    "sources": {
-      "streams": [
-        "https://canal.mediaserver.com.co/live/cinedios.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nZ3VlBbXU9SC9N",
     "name": "Canal Institucional",
     "sources": {
@@ -331,6 +317,20 @@
     "sources": {
       "streams": [
         "https://live.amelbatv.co:81/womtvlive/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "A9tPf7Rzt5ngpc",
+    "name": "Canica TV",
+    "sources": {
+      "streams": [
+        "https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -482,11 +482,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DuJd4u0fDHyZVy",
-    "name": "Eduvision",
+    "nanoid": "8MkrJaxHtTluMW",
+    "name": "El Mundo del Campo",
     "sources": {
       "streams": [
-        "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8"
+        "https://movil.ejeserver.com/live/elmundodelcampo.m3u8"
       ]
     },
     "languages": [
@@ -496,11 +496,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8MkrJaxHtTluMW",
-    "name": "El Mundo del Campo",
+    "nanoid": "mshfkhqs41pHqb",
+    "name": "Fiesta TV",
     "sources": {
       "streams": [
-        "https://movil.ejeserver.com/live/elmundodelcampo.m3u8"
+        "https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8"
       ]
     },
     "languages": [
@@ -680,20 +680,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j5rbGMc3RXFNkA",
-    "name": "Nexo TV",
-    "sources": {
-      "streams": [
-        "https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nlsdaZ2L48vHzM",
     "name": "Nickelodeon Latin America Panregional",
     "sources": {
@@ -750,11 +736,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "q5oTNG0GDKkNGK",
+    "name": "Nuestra Tele Internacional",
+    "sources": {
+      "streams": [
+        "https://170.238.200.199/nuestra-tele/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "p54OBJMG5m0fdl",
     "name": "Oasis TV",
     "sources": {
       "streams": [
         "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CB542USEKKwSaw",
+    "name": "Ondambiental TV",
+    "sources": {
+      "streams": [
+        "https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8"
       ]
     },
     "languages": [
@@ -796,7 +810,8 @@
     "name": "RCN Novelas",
     "sources": {
       "streams": [
-        "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8"
+        "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
+        "https://170.238.200.199/rcn-novelas/index.m3u8"
       ]
     },
     "languages": [
@@ -852,7 +867,6 @@
     "name": "Salsa Gorda Television",
     "sources": {
       "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
         "https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8"
       ]
     },
@@ -974,6 +988,20 @@
     ],
     "country": "co",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "MbGewayZqG9s6Q",
+    "name": "TeleQuindio",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Clv7XzV3Q51izu",
