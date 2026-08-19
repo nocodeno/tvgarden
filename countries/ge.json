@@ -43,6 +43,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8jSnAgazSmGpyh",
+    "name": "BMG TV",
+    "sources": {
+      "streams": [
+        "https://tv.nucast.tv/lb/ge/bmg/index.m3u8"
+      ]
+    },
+    "languages": [
+      "kat"
+    ],
+    "country": "ge",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tB7WZ5Zyx0f84V",
     "name": "Ertsulovneba",
     "sources": {
@@ -61,7 +75,8 @@
     "name": "Formula",
     "sources": {
       "streams": [
-        "https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8"
+        "https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8",
+        "https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8"
       ]
     },
     "languages": [

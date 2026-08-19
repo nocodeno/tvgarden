@@ -963,20 +963,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rOt2GRHARiewoL",
-    "name": "Littoral FM TV",
-    "sources": {
-      "streams": [
-        "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fZyKRU2kHKETIx",
     "name": "Lou!",
     "sources": {
@@ -1000,20 +986,6 @@
     },
     "languages": [
       "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BMUX82mxnWd5Ru",
-    "name": "Mezzo",
-    "sources": {
-      "streams": [
-        "https://live-3.otcnet.ru/Mezzo/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -1233,11 +1205,23 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "9PtGiKgkdbGXR3",
-    "name": "Rakuten TV Films Action",
+    "nanoid": "3UupDDnNXaxwcR",
+    "name": "Rakuten TV Films Comédie",
     "sources": {
       "streams": [
-        "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
+        "https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dK7Tr0arpe0iTb",
+    "name": "Rakuten TV Top Films France",
+    "sources": {
+      "streams": [
+        "https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8"
       ]
     },
     "languages": [],
@@ -1834,6 +1818,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DCLTXwqB1NQz9D",
+    "name": "TV5Monde Asia",
+    "sources": {
+      "streams": [
+        "https://streams.comclark.com/pknsd/tv5monde/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "2gvbHx7OrU70G2",
     "name": "TV5MONDE Chefs",
     "sources": {
@@ -1958,6 +1956,7 @@
     "name": "zenith",
     "sources": {
       "streams": [
+        "https://live.azenagroup.com/zenith/index.ll.m3u8",
         "https://live.azenagroup.com/zenith/index.m3u8"
       ]
     },

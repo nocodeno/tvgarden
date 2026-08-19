@@ -76,8 +76,7 @@
     "name": "BestClasicosTV",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
-        "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
+        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -120,8 +119,7 @@
     "name": "Canal 10",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
-        "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
+        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -241,26 +239,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xMyWNZNLNYysjq",
-    "name": "Enlace",
+    "nanoid": "XI0tj0hHgDA4kn",
+    "name": "Extra TV 42",
     "sources": {
       "streams": [
-        "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
+        "https://d2n1wzrr0aogf5.cloudfront.net/ts:abr.m3u8"
       ]
     },
     "languages": [
-      "eng",
       "spa"
     ],
     "country": "cr",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XI0tj0hHgDA4kn",
-    "name": "Extra TV 42",
+    "nanoid": "ejJZfMgOR7K5m8",
+    "name": "Extrema Kids TV",
     "sources": {
       "streams": [
-        "https://d2n1wzrr0aogf5.cloudfront.net/ts:abr.m3u8"
+        "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8"
       ]
     },
     "languages": [
@@ -340,11 +337,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "puMweHvpz4B7Uc",
-    "name": "Impact Channel",
+    "nanoid": "2TkyCEIMqFLsTQ",
+    "name": "IQ Channel",
     "sources": {
       "streams": [
-        "https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8"
+        "https://rtmp.info/iqtv/envivo/playlist.m3u8"
       ]
     },
     "languages": [
@@ -354,11 +351,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2TkyCEIMqFLsTQ",
-    "name": "IQ Channel",
+    "nanoid": "hWONN4ANlWd0XQ",
+    "name": "La Potente Radio TV",
     "sources": {
       "streams": [
-        "https://rtmp.info/iqtv/envivo/playlist.m3u8"
+        "https://latamvdo.com:3626/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -633,6 +630,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xLJatClo1nNRli",
+    "name": "TicaVision",
+    "sources": {
+      "streams": [
+        "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oFBYYfrHTKyW0r",
     "name": "TV Nosara",
     "sources": {
@@ -702,11 +713,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lyisHWGyNS2hyW",
-    "name": "VoiceOver Radio TV",
+    "nanoid": "KTfqjR2nJysy7l",
+    "name": "VM Latino",
     "sources": {
       "streams": [
-        "https://cloudvideo.servers10.com:8081/8198/index.m3u8"
+        "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
       ]
     },
     "languages": [

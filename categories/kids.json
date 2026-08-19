@@ -5,9 +5,6 @@
     "sources": {
       "streams": [
         "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/X-GOSC1NkRs"
       ]
     },
     "languages": [
@@ -201,20 +198,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JCokef05ozWI8Y",
-    "name": "Balapan International",
-    "sources": {
-      "streams": [
-        "https://live-3.otcnet.ru/Balapan/index.m3u8"
-      ]
-    },
-    "languages": [
-      "kaz"
-    ],
-    "country": "kz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cGjSaev20uBBta",
     "name": "Banijay Mr Bean Animé",
     "sources": {
@@ -381,20 +364,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "z5PHRIy6vPGnG4",
-    "name": "Bravo! Kids TV",
-    "sources": {
-      "streams": [
-        "https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8"
-      ]
-    },
-    "languages": [
-      "hrv"
-    ],
-    "country": "hr",
     "isGeoBlocked": false
   },
   {
@@ -636,6 +605,34 @@
     ],
     "country": "es",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "hboH9AkWIrBLT1",
+    "name": "Clifford the Big Red Dog: Classic",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/t5-_F4tGPnw"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DWHNlPkSNnnnSG",
+    "name": "Clifford the Big Red Dog: Clifford's Puppy Days",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ldbRPSoUFAk"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "DIYFiR27hwM7Fq",
@@ -982,6 +979,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nLjmNpKEQoalYU",
+    "name": "El Chavo TV",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "w1TyAWzZva88k1",
     "name": "ETV 2",
     "sources": {
@@ -993,6 +1004,20 @@
       "est"
     ],
     "country": "ee",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ejJZfMgOR7K5m8",
+    "name": "Extrema Kids TV",
+    "sources": {
+      "streams": [
+        "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -1047,6 +1072,34 @@
     },
     "languages": [
       "zho"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "97TDYmlPdbsepe",
+    "name": "God Stands Kids Club TV English",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oXC3NCXK3UzLO5",
+    "name": "God Stands Kids Club TV Urdu",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
     ],
     "country": "pk",
     "isGeoBlocked": false
@@ -1153,20 +1206,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EDJsRoJArkwgcL",
-    "name": "Jetix",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/GgmhgA34BeQ"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "v5IfXYen2Q01eP",
     "name": "JimJam Europe",
     "sources": {
@@ -1204,8 +1243,8 @@
     "sources": {
       "streams": [
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8",
-        "https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8",
-        "https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8"
+        "https://hlspackager.akamaized.net/live/DB/KARTOON_CHANNEL/HLS/KARTOON_CHANNEL.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8"
       ]
     },
     "languages": [
@@ -1229,17 +1268,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yQPdPKGvAyjQ79",
-    "name": "Kids Land: Urdu",
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/Jr_sWW86aI0"
+      "streams": [
+        "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
       ]
     },
     "languages": [
-      "urd"
+      "ind"
     ],
-    "country": "pk",
+    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -1628,6 +1667,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LY1xeSJMFCjHUF",
+    "name": "Nick Jr. Asia",
+    "sources": {
+      "streams": [
+        "https://streams.comclark.com/pknsd/nickjr/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "sg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ev2uIcLTDA86aM",
+    "name": "Nick Jr. East",
+    "sources": {
+      "streams": [
+        "https://tvsen7.aynascope.net/nickjr/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LhLrzvZ35u0Jdu",
     "name": "Nick Jr. Latin America Panregional",
     "sources": {
@@ -1755,6 +1822,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MSF3m0OZAj6WPP",
+    "name": "Nicktoons East",
+    "sources": {
+      "streams": [
+        "https://tvsen7.aynascope.net/nicktoons/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tqpekqbtzkiahc",
     "name": "O!",
     "sources": {
@@ -1773,7 +1854,7 @@
     "name": "Oddbods",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/chPhiWev0nU"
+        "https://www.youtube-nocookie.com/embed/QxNIrnHbDGA"
       ]
     },
     "languages": [
@@ -2261,6 +2342,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JIPUpjryYJZoMO",
+    "name": "Smile TV",
+    "sources": {
+      "streams": [
+        "https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8",
+        "https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rzeNGQqOs9ouwZ",
     "name": "Smotrim 100% Detskoe",
     "sources": {
@@ -2372,7 +2468,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/1_KHPJJRtSM"
+        "https://www.youtube-nocookie.com/embed/YqvqFbDrjDQ"
       ]
     },
     "languages": [
@@ -2386,7 +2482,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Vdh8HAQLArI"
+        "https://www.youtube-nocookie.com/embed/6nv8A_ElyUs"
       ]
     },
     "languages": [
@@ -2541,6 +2637,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rOQGdTPomjbnWK",
+    "name": "Tooku",
+    "sources": {
+      "streams": [
+        "https://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IZCLwsQd7Wmaiq",
     "name": "ToonGoggles",
     "sources": {
@@ -2582,6 +2692,20 @@
       "fra"
     ],
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YCPZsdEDhEaJOB",
+    "name": "TRT Cocuk",
+    "sources": {
+      "streams": [
+        "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
     "isGeoBlocked": false
   },
   {

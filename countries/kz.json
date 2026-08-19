@@ -70,20 +70,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JCokef05ozWI8Y",
-    "name": "Balapan International",
-    "sources": {
-      "streams": [
-        "https://live-3.otcnet.ru/Balapan/index.m3u8"
-      ]
-    },
-    "languages": [
-      "kaz"
-    ],
-    "country": "kz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SbrDSLg33mlDZZ",
     "name": "Channel 7 Kazakhstan",
     "sources": {
@@ -116,6 +102,7 @@
     "sources": {
       "streams": [
         "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8",
+        "https://89.218.30.37/ktklive/live.hq/playlist.m3u8",
         "https://stream.mcquack.net/26/index.m3u8"
       ]
     },
@@ -151,6 +138,20 @@
     },
     "languages": [
       "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "a3tM5au4kJNioz",
+    "name": "Novoe televidenie",
+    "sources": {
+      "streams": [
+        "https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8"
+      ]
+    },
+    "languages": [
+      "kaz"
     ],
     "country": "kz",
     "isGeoBlocked": false
@@ -270,20 +271,6 @@
     "sources": {
       "streams": [
         "https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "kz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "if2kwrLRFc4oRC",
-    "name": "Телеканал 24kz",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/U7gbYOIg91c"
       ]
     },
     "languages": [

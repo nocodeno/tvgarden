@@ -156,11 +156,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IP3OhGLS9zmwc7",
+    "name": "I24 News English",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ASscwBWEh50"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "il",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ye1tX7fV9TIdI5",
     "name": "i24NEWS Arabic",
     "sources": {
       "streams": [
-        "https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8"
+        "https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8",
+        "https://hlspackager.akamaized.net/live/DB/i24_ARABIC/HLS/i24_ARABIC.m3u8"
       ]
     },
     "languages": [
@@ -174,6 +189,7 @@
     "name": "i24NEWS English World",
     "sources": {
       "streams": [
+        "https://hlspackager.akamaized.net/live/DB/i24_ENGLISH/HLS/i24_ENGLISH.m3u8",
         "https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8"
       ]
     },
@@ -315,7 +331,7 @@
         "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Sg7ix-q5XZw"
+        "https://www.youtube-nocookie.com/embed/W_vWT00as0w"
       ]
     },
     "languages": [

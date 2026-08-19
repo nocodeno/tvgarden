@@ -158,20 +158,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qAN5sBGpkuc0D2",
-    "name": "CEACOM TV",
-    "sources": {
-      "streams": [
-        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7uNjpsoS436Esc",
     "name": "CinePride",
     "sources": {
@@ -380,21 +366,6 @@
       "hin"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WDQpCRq4dLb0NU",
-    "name": "Fortuna TV",
-    "sources": {
-      "streams": [
-        "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
-        "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -754,6 +725,21 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qWijccdHGumaJp",
+    "name": "Salira TV",
+    "sources": {
+      "streams": [
+        "https://live.salira.tv:3870/stream/play.m3u8",
+        "https://live.salira.tv/p/3870/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
     "isGeoBlocked": false
   },
   {

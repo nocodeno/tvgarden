@@ -151,8 +151,8 @@
     "sources": {
       "streams": [
         "https://170.83.16.50/FUTURA/index.m3u8",
-        "https://186.219.52.187/futura/index.m3u8",
-        "https://45.162.64.114/FUTURA/index.m3u8"
+        "https://45.162.64.114/FUTURA/index.m3u8",
+        "https://186.219.52.187/futura/index.m3u8"
       ]
     },
     "languages": [
@@ -418,11 +418,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z2nBboETrkSzIa",
-    "name": "DLTV 3",
+    "nanoid": "FH7NvrC8IdGbek",
+    "name": "DLTV 2",
     "sources": {
       "streams": [
-        "https://cdn-live.dltv.ac.th/dltv03.m3u8"
+        "https://cdn-live.dltv.ac.th/dltv02.m3u8"
       ]
     },
     "languages": [
@@ -448,6 +448,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RfFYZpw2B1Tu6O",
+    "name": "DLTV 5",
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv05.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tha"
+    ],
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SBNkYWrTHUHlU6",
+    "name": "DLTV 6",
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv06.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tha"
+    ],
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5n7uTj1v7KJgAK",
     "name": "DLTV 7",
     "sources": {
@@ -463,11 +493,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1UZOek5lIzCih6",
-    "name": "DLTV 11",
+    "nanoid": "AtqNekEK9bqlpP",
+    "name": "DLTV 8",
     "sources": {
       "streams": [
-        "https://cdn-live.dltv.ac.th/dltv11.m3u8"
+        "https://cdn-live.dltv.ac.th/dltv08.m3u8"
       ]
     },
     "languages": [
@@ -478,11 +508,26 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "i5UXCyXzVkJ6Kf",
-    "name": "DLTV 14",
+    "nanoid": "ReBKejReML00hL",
+    "name": "DLTV 9",
     "sources": {
       "streams": [
-        "https://cdn-live.dltv.ac.th/dltv14.m3u8"
+        "https://cdn-live.dltv.ac.th/dltv09.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tha"
+    ],
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "J2tWh2yACsVBKq",
+    "name": "DLTV 10",
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv10.m3u8"
       ]
     },
     "languages": [
@@ -519,6 +564,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AY9El1RUmBJaPD",
+    "name": "Earthquake Alert Channel",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/I5_vUnu1GN4"
+      ]
+    },
+    "languages": [
+      "jpn"
+    ],
+    "country": "jp",
     "isGeoBlocked": false
   },
   {
@@ -606,6 +665,20 @@
       "spa"
     ],
     "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DuJd4u0fDHyZVy",
+    "name": "Eduvision",
+    "sources": {
+      "streams": [
+        "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
     "isGeoBlocked": false
   },
   {
@@ -1028,20 +1101,6 @@
       "ara"
     ],
     "country": "ps",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VFD90UpkQ7f9Ss",
-    "name": "Payam Javan TV",
-    "sources": {
-      "streams": [
-        "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fas"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1579,20 +1638,6 @@
       "spa"
     ],
     "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JvGEcuMecAcih8",
-    "name": "Unison TV",
-    "sources": {
-      "streams": [
-        "https://stream.unison.mx/hls/unisontvatem.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {
