@@ -158,20 +158,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zjs8fScsFVoj7q",
-    "name": "Canal Parlamento del Congreso de Jalisco",
-    "sources": {
-      "streams": [
-        "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tHu1Wqu4FkVfeh",
     "name": "Capital City Connection Montgomery",
     "sources": {
@@ -567,20 +553,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xupLUhlUhMmQst",
-    "name": "Duma TV",
-    "sources": {
-      "streams": [
-        "https://dumatv.iptv2022.com/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xnU10BQX3X7Kmm",
     "name": "Fernandina Beach Channel",
     "sources": {
@@ -655,8 +627,7 @@
     "name": "Hellenic Parliament TV",
     "sources": {
       "streams": [
-        "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
-        "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
+        "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8"
       ]
     },
     "languages": [
@@ -719,6 +690,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kDus67YWLDmlSH",
+    "name": "JNE TV",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -1145,6 +1130,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TGxMGkMiPXHlY0",
+    "name": "Rio TV Câmara",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Abrh5kYfFfE"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "02FZNtdjYpb1eU",
     "name": "Sansad TV 1",
     "sources": {
@@ -1281,7 +1280,21 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/tdy--p1Oq98"
+        "https://www.youtube-nocookie.com/embed/iqGJTAMGdbs"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QrY7bSr5CSX6dm",
+    "name": "TV Assembleia Piaui",
+    "sources": {
+      "streams": [
+        "https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8"
       ]
     },
     "languages": [

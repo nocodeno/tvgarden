@@ -91,7 +91,8 @@
     "sources": {
       "streams": [
         "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8",
-        "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8"
+        "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8",
+        "https://streaming.thestream.cyou/live/7000.m3u8"
       ]
     },
     "languages": [
@@ -185,6 +186,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3VqJp1fO3TYTIw",
+    "name": "Angel TV Russian",
+    "sources": {
+      "streams": [
+        "https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Jw5WL1s9nrf85x",
     "name": "Ani",
     "sources": {
@@ -260,6 +275,20 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VZhk7cz2JcEXl3",
+    "name": "Avto24",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/78/index.m3u8"
       ]
     },
     "languages": [
@@ -430,9 +459,7 @@
     "name": "Channel 8",
     "sources": {
       "streams": [
-        "https://tshift-1.telecoma.tv/8channel/index.m3u8",
-        "https://v4.proofix.ru/okino-tv/index.m3u8",
-        "https://v4.proofix.ru/8tv-russia/index.m3u8"
+        "https://tshift-1.telecoma.tv/8channel/index.m3u8"
       ]
     },
     "languages": [
@@ -489,9 +516,9 @@
     "name": "Channel One",
     "sources": {
       "streams": [
+        "https://45.153.24.78/1TV/index.m3u8",
         "https://178.217.49.7/1/index.m3u8",
-        "https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8",
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8"
+        "https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -683,20 +710,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "N0XF0zTYtjf6Vc",
-    "name": "City Eden KinoKomediya",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/41331/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rPl77qAXLXht7K",
     "name": "City Eden MedZdrav",
     "sources": {
@@ -716,6 +729,20 @@
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/34100/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rt3pDKAk1yMoRc",
+    "name": "City Eden Recepty Gurmana",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/47516/index.m3u8"
       ]
     },
     "languages": [
@@ -914,20 +941,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xupLUhlUhMmQst",
-    "name": "Duma TV",
-    "sources": {
-      "streams": [
-        "https://dumatv.iptv2022.com/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fxb0OJvQhkIpWc",
     "name": "Dushevnoe",
     "sources": {
@@ -1101,7 +1114,6 @@
     "sources": {
       "streams": [
         "https://stream.mcquack.net/181/index.m3u8",
-        "https://vod.tuva.ru/friday/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8"
       ]
     },
@@ -1173,7 +1185,8 @@
     "name": "Hope Channel Russia",
     "sources": {
       "streams": [
-        "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+        "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+        "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1490,20 +1503,6 @@
       "streams": [
         "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8",
         "https://live-3.otcnet.ru/congresstv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0fhHaRwDLyHBDP",
-    "name": "Krik-TV",
-    "sources": {
-      "streams": [
-        "https://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2002,6 +2001,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YSwqwjWz1Ji3Hg",
+    "name": "Nashe",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/217/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1ozPBYzNAOPuxh",
     "name": "Nashe muzhskoe",
     "sources": {
@@ -2230,6 +2243,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "dEANspwI90Hs8o",
+    "name": "NTV Mir",
+    "sources": {
+      "streams": [
+        "https://streaming.thestream.cyou/live/213.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Yz6QJMfl4vE5w1",
     "name": "NTV Series",
     "sources": {
@@ -2375,20 +2402,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qr9xvBDjARPSP8",
-    "name": "Otkritiy mir. Zdorove",
-    "sources": {
-      "streams": [
-        "https://v4.proofix.ru/0mir/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JlKHz3NWpcFhMg",
     "name": "OTR",
     "sources": {
@@ -2401,6 +2414,20 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "CdPsbXmKIYhFzA",
+    "name": "OTV-Prim",
+    "sources": {
+      "streams": [
+        "https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ClrLVtv3nyuxRh",
@@ -2436,6 +2463,20 @@
     "sources": {
       "streams": [
         "https://live1.1tvcrimea.ru/1tvcrimea.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kCBrKLRK8wKXax",
+    "name": "Pobeda",
+    "sources": {
+      "streams": [
+        "https://streaming.thestream.cyou/live/43.m3u8"
       ]
     },
     "languages": [
@@ -2521,8 +2562,7 @@
     "name": "Prosveshchenie",
     "sources": {
       "streams": [
-        "https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8",
-        "https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8"
+        "https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8"
       ]
     },
     "languages": [
@@ -2771,8 +2811,8 @@
     "name": "RTД",
     "sources": {
       "streams": [
-        "https://streaming.thestream.cyou/live/554.m3u8",
-        "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8"
+        "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
+        "https://streaming.thestream.cyou/live/554.m3u8"
       ]
     },
     "languages": [
@@ -3040,6 +3080,20 @@
     ],
     "country": "ru",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Xmq0ko3zys05Tb",
+    "name": "Shanson TV",
+    "sources": {
+      "streams": [
+        "https://streaming.thestream.cyou/live/7009.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "1Wdb5h5mRaYpAT",
@@ -3533,7 +3587,6 @@
     "name": "TNT",
     "sources": {
       "streams": [
-        "https://45.153.24.78/TNT/index.m3u8",
         "https://stream.mcquack.net/135/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8"
       ]
@@ -4046,7 +4099,8 @@
     "name": "Vmeste-RF",
     "sources": {
       "streams": [
-        "https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8"
+        "https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8",
+        "https://streaming.thestream.cyou/live/7006.m3u8"
       ]
     },
     "languages": [
@@ -4309,6 +4363,18 @@
     "languages": [
       "rus"
     ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MebfmIDc5IgnOG",
+    "name": "Первый канал Европа",
+    "sources": {
+      "streams": [
+        "https://streaming.thestream.cyou/live/210.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "ru",
     "isGeoBlocked": false
   },
