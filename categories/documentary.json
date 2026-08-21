@@ -562,9 +562,9 @@
     "name": "History Hit",
     "sources": {
       "streams": [
+        "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8",
-        "https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8",
-        "https://timeline-samsung-uk.amagi.tv/playlist.m3u8"
+        "https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8"
       ]
     },
     "languages": [
@@ -839,20 +839,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "T6sJd0DONpZMP2",
-    "name": "National Geographic",
-    "sources": {
-      "streams": [
-        "https://nord.ayakkabiparti.lol/natgeo/index.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "g2bTTopTiGfPsS",
     "name": "National Geographic Latin America Panregional",
     "sources": {
@@ -865,20 +851,6 @@
     ],
     "country": "us",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nc1DjS7LywoSFc",
-    "name": "National Geographic Wild",
-    "sources": {
-      "streams": [
-        "https://nord.ayakkabiparti.lol/natgeowild/index.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "AbcJxYxf3cyf3H",
@@ -992,6 +964,20 @@
       "fas"
     ],
     "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "C9r0nQTewOjHW3",
+    "name": "RL PRO TV",
+    "sources": {
+      "streams": [
+        "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "cd",
     "isGeoBlocked": false
   },
   {

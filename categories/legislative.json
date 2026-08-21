@@ -130,6 +130,7 @@
     "name": "Canal Gov",
     "sources": {
       "streams": [
+        "https://45.177.114.115/TV_BRASIL_2/index.m3u8",
         "https://canalgov-stream.ebc.com.br/index.m3u8",
         "https://168.197.104.22/TV_BRASIL_2/index.m3u8"
       ],
@@ -155,6 +156,20 @@
       "spa"
     ],
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zjs8fScsFVoj7q",
+    "name": "Canal Parlamento del Congreso de Jalisco",
+    "sources": {
+      "streams": [
+        "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -550,6 +565,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xupLUhlUhMmQst",
+    "name": "Duma TV",
+    "sources": {
+      "streams": [
+        "https://dumatv.iptv2022.com/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1134,7 +1163,7 @@
     "name": "Rio TV Câmara",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Abrh5kYfFfE"
+        "https://www.youtube-nocookie.com/embed/epqTHqopADQ"
       ]
     },
     "languages": [
@@ -1280,7 +1309,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/iqGJTAMGdbs"
+        "https://www.youtube-nocookie.com/embed/J0CeSloYehg"
       ]
     },
     "languages": [

@@ -200,8 +200,8 @@
     "sources": {
       "streams": [
         "https://45.177.114.115/BAND_NEWS/index.m3u8",
-        "https://168.197.104.22/BAND_NEWS/index.m3u8",
-        "https://45.162.64.114/BAND_NEWS/index.m3u8"
+        "https://45.190.28.50/BAND_NEWS_HD/index.m3u8",
+        "https://168.197.104.22/BAND_NEWS/index.m3u8"
       ]
     },
     "languages": [
@@ -301,8 +301,8 @@
     "sources": {
       "streams": [
         "https://186.219.52.187/canal_do_boi/index.m3u8",
-        "https://45.190.28.50/CANAL_DO_BOI/index.m3u8",
-        "https://170.83.16.50/CANAL_DO_BOI/index.m3u8"
+        "https://170.83.16.50/CANAL_DO_BOI/index.m3u8",
+        "https://45.190.28.50/CANAL_DO_BOI/index.m3u8"
       ]
     },
     "languages": [
@@ -328,13 +328,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hrsVs9qqIiOboO",
+    "name": "Canal FDR",
+    "sources": {
+      "streams": [
+        "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8yxjHQYdOlErAK",
     "name": "Canal Futura",
     "sources": {
       "streams": [
-        "https://170.83.16.50/FUTURA/index.m3u8",
         "https://186.219.52.187/futura/index.m3u8",
-        "https://45.162.64.114/FUTURA/index.m3u8"
+        "https://45.162.64.114/FUTURA/index.m3u8",
+        "https://170.83.16.50/FUTURA/index.m3u8"
       ]
     },
     "languages": [
@@ -348,6 +362,7 @@
     "name": "Canal Gov",
     "sources": {
       "streams": [
+        "https://45.177.114.115/TV_BRASIL_2/index.m3u8",
         "https://canalgov-stream.ebc.com.br/index.m3u8",
         "https://168.197.104.22/TV_BRASIL_2/index.m3u8"
       ],
@@ -491,25 +506,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DqexB6yaP4LscU",
-    "name": "CNN Brasil",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/7kp_laCZ4sk"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DNa7AQHZDPi0it",
     "name": "COM Brasil",
     "sources": {
       "streams": [
-        "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8"
+        "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8",
+        "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8"
       ]
     },
     "languages": [
@@ -638,6 +640,20 @@
         "https://168.197.104.22/ZOOMOO/index.m3u8",
         "https://45.162.64.114/ZOOMOO_KIDS/index.m3u8",
         "https://186.219.52.187/zoomoo/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uBGBZ1tmmDfH55",
+    "name": "Elemental Channel",
+    "sources": {
+      "streams": [
+        "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1094,9 +1110,9 @@
     "name": "Novo Tempo",
     "sources": {
       "streams": [
+        "https://45.190.28.50/TV_NOVO_TEMPO/index.m3u8",
         "https://186.219.52.187/novo_tempo/index.m3u8",
-        "https://168.197.104.22/NOVO_TEMPO/index.m3u8",
-        "https://45.162.64.114/NOVO_TEMPO/index.m3u8"
+        "https://168.197.104.22/NOVO_TEMPO/index.m3u8"
       ]
     },
     "languages": [
@@ -1273,7 +1289,7 @@
         "https://45.162.64.114/RECORD_NEWS/index.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/u8p7XbGaAQg"
+        "https://www.youtube-nocookie.com/embed/lnYvES6xZVE"
       ]
     },
     "languages": [
@@ -1317,8 +1333,8 @@
     "name": "Rede CNT Rio de Janeiro",
     "sources": {
       "streams": [
-        "https://45.162.64.114/CNT/index.m3u8",
         "https://168.197.104.22/CNT/index.m3u8",
+        "https://45.162.64.114/CNT/index.m3u8",
         "https://45.190.28.50/CNT_HD/index.m3u8"
       ]
     },
@@ -1333,8 +1349,8 @@
     "name": "Rede Familia",
     "sources": {
       "streams": [
-        "https://168.197.104.22/REDE_FAMILIA/index.m3u8",
-        "https://186.219.52.187/rede_familia/index.m3u8"
+        "https://186.219.52.187/rede_familia/index.m3u8",
+        "https://168.197.104.22/REDE_FAMILIA/index.m3u8"
       ]
     },
     "languages": [
@@ -1478,8 +1494,8 @@
     "sources": {
       "streams": [
         "https://170.84.165.204/REDEVIDA_HD/index.m3u8",
-        "https://168.197.104.22/REDE_VIDA/index.m3u8",
-        "https://45.190.28.50/REDE_VIDA_HD/index.m3u8"
+        "https://45.190.28.50/REDE_VIDA_HD/index.m3u8",
+        "https://168.197.104.22/REDE_VIDA/index.m3u8"
       ]
     },
     "languages": [
@@ -1493,7 +1509,7 @@
     "name": "Rio TV Câmara",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Abrh5kYfFfE"
+        "https://www.youtube-nocookie.com/embed/epqTHqopADQ"
       ]
     },
     "languages": [
@@ -1537,7 +1553,7 @@
     "name": "SBT CENTRAL",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/X2QOEl4VOVk"
+        "https://www.youtube-nocookie.com/embed/0mJmdLMDeuY"
       ]
     },
     "languages": [
@@ -1581,7 +1597,7 @@
     "name": "SBT RIBEIRÃO PRETO",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/uOvLt9E-86c"
+        "https://www.youtube-nocookie.com/embed/6O7dxXnSjwY"
       ]
     },
     "languages": [
@@ -1595,7 +1611,7 @@
     "name": "SBT Rio",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/byoiBc_a_AM"
+        "https://www.youtube-nocookie.com/embed/0zqz0f7XBts"
       ]
     },
     "languages": [
@@ -1609,7 +1625,7 @@
     "name": "SBT RS",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/nkokAkHvm0k"
+        "https://www.youtube-nocookie.com/embed/VIvNxaBG2bw"
       ]
     },
     "languages": [
@@ -1626,6 +1642,20 @@
         "https://45.162.64.114/SESC_TV/index.m3u8",
         "https://45.190.28.50/SESC_TV/index.m3u8",
         "https://186.219.52.187/sesc_tv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wQwzJWldq22ymG",
+    "name": "SIC TV",
+    "sources": {
+      "streams": [
+        "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
       ]
     },
     "languages": [
@@ -1655,8 +1685,8 @@
     "sources": {
       "streams": [
         "https://45.177.114.115/SONY_MOVIES/index.m3u8",
-        "https://170.83.16.50/SONY_MOVIES/index.m3u8",
-        "https://168.197.104.22/SONY_MOVIES/index.m3u8"
+        "https://168.197.104.22/SONY_MOVIES/index.m3u8",
+        "https://170.83.16.50/SONY_MOVIES/index.m3u8"
       ]
     },
     "languages": [
@@ -1870,7 +1900,7 @@
       "streams": [
         "https://45.177.114.115/TV_APARECIDA_HD/index.m3u8",
         "https://168.197.104.22/TV_APARECIDA/index.m3u8",
-        "https://45.162.64.114/TV_APARECIDA/index.m3u8"
+        "https://170.83.16.50/TV_APARECIDA/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/4CAmwaFJo6k"
@@ -1901,7 +1931,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/iqGJTAMGdbs"
+        "https://www.youtube-nocookie.com/embed/J0CeSloYehg"
       ]
     },
     "languages": [
@@ -1932,6 +1962,20 @@
         "https://45.177.114.115/TV_BRASIL/index.m3u8",
         "https://tvbrasil-stream.ebc.com.br/index.m3u8",
         "https://168.197.104.22/TV_BRASIL/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2bhXPviPJO5yGg",
+    "name": "TV Brasil Oeste",
+    "sources": {
+      "streams": [
+        "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2003,9 +2047,9 @@
     "name": "TV Cancao Nova",
     "sources": {
       "streams": [
-        "https://168.197.104.22/CANCAO_NOVA/index.m3u8",
+        "https://170.83.16.50/CANCAO_NOVA/index.m3u8",
         "https://45.162.64.114/CANCAO_NOVA/index.m3u8",
-        "https://170.83.16.50/CANCAO_NOVA/index.m3u8"
+        "https://168.197.104.22/CANCAO_NOVA/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/eKx2CpI4ydI"
@@ -2065,8 +2109,8 @@
     "sources": {
       "streams": [
         "https://45.177.114.115/TV_CULTURA/index.m3u8",
-        "https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8",
-        "https://168.197.104.22/TV_CULTURA/index.m3u8"
+        "https://168.197.104.22/TV_CULTURA/index.m3u8",
+        "https://170.83.16.50/CULTURA/index.m3u8"
       ]
     },
     "languages": [
@@ -2122,9 +2166,9 @@
     "name": "TV Evangelizar",
     "sources": {
       "streams": [
+        "https://45.190.28.50/TV_EVANGELIZAR/index.m3u8",
         "https://168.197.104.22/EVANGELIZAR/index.m3u8",
-        "https://170.83.16.50/TV_EVANGELIZAR/index.m3u8",
-        "https://45.162.64.114/EVANGELIZAR/index.m3u8"
+        "https://170.83.16.50/TV_EVANGELIZAR/index.m3u8"
       ]
     },
     "languages": [
@@ -2238,9 +2282,9 @@
     "name": "TV Justica",
     "sources": {
       "streams": [
+        "https://45.190.28.50/TV_JUSTICA/index.m3u8",
         "https://168.197.104.22/TV_JUSTICA/index.m3u8",
-        "https://45.162.64.114/TV_JUSTICA/index.m3u8",
-        "https://170.83.16.50/TV_JUSTICA/index.m3u8"
+        "https://45.162.64.114/TV_JUSTICA/index.m3u8"
       ]
     },
     "languages": [
@@ -2366,9 +2410,9 @@
     "name": "TV Pai Eterno",
     "sources": {
       "streams": [
+        "https://45.190.28.50/PAI_ETERNO/index.m3u8",
         "https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8",
-        "https://168.197.104.22/TV_PAI_ETERNO/index.m3u8",
-        "https://45.162.64.114/TV_PAI_ETERNO/index.m3u8"
+        "https://168.197.104.22/TV_PAI_ETERNO/index.m3u8"
       ]
     },
     "languages": [
@@ -2453,9 +2497,9 @@
     "name": "TV Ra Tim Bum",
     "sources": {
       "streams": [
+        "https://45.190.28.50/RATIMBUM/index.m3u8",
         "https://45.177.114.115/TV_RA_TIM_BUM/index.m3u8",
-        "https://168.197.104.22/RA_TIM_BUM/index.m3u8",
-        "https://45.162.64.114/RA_TIM_BUM/index.m3u8"
+        "https://168.197.104.22/RA_TIM_BUM/index.m3u8"
       ]
     },
     "languages": [
@@ -2569,7 +2613,7 @@
     "name": "TV Tambaú",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/tkyqdFONM7k"
+        "https://www.youtube-nocookie.com/embed/F1kNBgO0CkY"
       ]
     },
     "languages": [
@@ -2808,7 +2852,7 @@
     "name": "WooHoo",
     "sources": {
       "streams": [
-        "https://45.190.28.50/WOOHOO/index.m3u8",
+        "https://170.83.16.50/WOOHOO/index.m3u8",
         "https://168.197.104.22/WOOHOO/index.m3u8",
         "https://45.162.64.114/WOOHOO/index.m3u8"
       ]

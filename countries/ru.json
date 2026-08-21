@@ -459,7 +459,8 @@
     "name": "Channel 8",
     "sources": {
       "streams": [
-        "https://tshift-1.telecoma.tv/8channel/index.m3u8"
+        "https://tshift-1.telecoma.tv/8channel/index.m3u8",
+        "https://v4.proofix.ru/8tv-russia/index.m3u8"
       ]
     },
     "languages": [
@@ -710,6 +711,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "N0XF0zTYtjf6Vc",
+    "name": "City Eden KinoKomediya",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/41331/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hYJqIp24qMnNqd",
+    "name": "City Eden KinoMistika",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/40783/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rPl77qAXLXht7K",
     "name": "City Eden MedZdrav",
     "sources": {
@@ -941,6 +970,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xupLUhlUhMmQst",
+    "name": "Duma TV",
+    "sources": {
+      "streams": [
+        "https://dumatv.iptv2022.com/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fxb0OJvQhkIpWc",
     "name": "Dushevnoe",
     "sources": {
@@ -1114,6 +1157,7 @@
     "sources": {
       "streams": [
         "https://stream.mcquack.net/181/index.m3u8",
+        "https://vod.tuva.ru/friday/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8"
       ]
     },
@@ -1512,6 +1556,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0fhHaRwDLyHBDP",
+    "name": "Krik-TV",
+    "sources": {
+      "streams": [
+        "https://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ikWCW6GqvchRKk",
     "name": "Kuban 24",
     "sources": {
@@ -1559,6 +1617,20 @@
     "sources": {
       "streams": [
         "https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nTIR26728Xpjfo",
+    "name": "Legendarnyy 24",
+    "sources": {
+      "streams": [
+        "https://sevas.1tvcrimea.ru/legendarniy24.m3u8"
       ]
     },
     "languages": [
@@ -2402,6 +2474,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qr9xvBDjARPSP8",
+    "name": "Otkritiy mir. Zdorove",
+    "sources": {
+      "streams": [
+        "https://v4.proofix.ru/0mir/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JlKHz3NWpcFhMg",
     "name": "OTR",
     "sources": {
@@ -2562,7 +2648,8 @@
     "name": "Prosveshchenie",
     "sources": {
       "streams": [
-        "https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8"
+        "https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8",
+        "https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2707,9 +2794,9 @@
     "name": "RT",
     "sources": {
       "streams": [
-        "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8",
         "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
-        "https://wisewatchoott.wiseplayout.com/RT/master.m3u8"
+        "https://wisewatchoott.wiseplayout.com/RT/master.m3u8",
+        "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"
       ]
     },
     "languages": [
@@ -3115,6 +3202,20 @@
     "sources": {
       "streams": [
         "https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OU8aCzJR3XgtbJ",
+    "name": "Simferopol 24",
+    "sources": {
+      "streams": [
+        "https://simf.1tvcrimea.ru/simferopol24.m3u8"
       ]
     },
     "languages": [
@@ -3816,6 +3917,21 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3OOeiozk8ilduN",
+    "name": "Univer TV",
+    "sources": {
+      "streams": [
+        "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
+        "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8"
       ]
     },
     "languages": [
