@@ -274,20 +274,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SxEZ67YPc8yPDE",
-    "name": "BEK TV Sports West",
-    "sources": {
-      "streams": [
-        "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yxXfCHd5uHQMJD",
     "name": "Belarus-5",
     "sources": {
@@ -572,6 +558,21 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
+    "sources": {
+      "streams": [
+        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Ps5SHG9loIy0eR",
     "name": "F1 Channel US",
     "sources": {
@@ -745,6 +746,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1jYy0MieRH4RsH",
+    "name": "FOX Sports YT",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/pv2lTV1IZ74"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KKtmG6U0zua4oT",
     "name": "FTF Sports",
     "sources": {
@@ -843,20 +858,6 @@
     ],
     "country": "pt",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "zSqcM4N6tJjo6K",
-    "name": "Futbol TV",
-    "sources": {
-      "streams": [
-        "https://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "uzb"
-    ],
-    "country": "uz",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "3PWIwG9FFIlO5Y",
@@ -1467,8 +1468,7 @@
     "sources": {
       "streams": [
         "https://pac12-roku-us.amagi.tv/playlist.m3u8",
-        "https://pac12-samsungus.amagi.tv/playlist.m3u8",
-        "https://pac12-vizio.amagi.tv/playlist.m3u8"
+        "https://pac12-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1574,6 +1574,20 @@
       "eng"
     ],
     "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "A7KiTJBJvkHgIp",
+    "name": "Prime",
+    "sources": {
+      "streams": [
+        "https://mn-nl.mncdn.com/primetv/live/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "sy",
     "isGeoBlocked": false
   },
   {
@@ -2067,6 +2081,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wMuz0OmtIOue4j",
+    "name": "Sky Sports News",
+    "sources": {
+      "streams": [
+        "https://7nyaler.streamhostingcdn.top/stream/38/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GBdQuoGvD5p6Ys",
+    "name": "Sky Sports NFL",
+    "sources": {
+      "streams": [
+        "https://7nyaler.streamhostingcdn.top/stream/12/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kYyFOC5D4jKYMW",
     "name": "Slopes TV",
     "sources": {
@@ -2246,7 +2288,6 @@
     "name": "SportsGrid",
     "sources": {
       "streams": [
-        "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8",
         "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
         "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
       ]
@@ -2467,9 +2508,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/PK6KVvcYhSA"
       ]
     },
     "languages": [
@@ -2755,6 +2793,20 @@
       "streams": [
         "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports/playlist.m3u8",
         "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lKPGETEt2FJ6ge",
+    "name": "USA Network East",
+    "sources": {
+      "streams": [
+        "https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8"
       ]
     },
     "languages": [

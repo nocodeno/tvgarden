@@ -56,20 +56,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "qF4K7YKWjkSybG",
-    "name": "Bread TV",
-    "sources": {
-      "streams": [
-        "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"
-      ]
-    },
-    "languages": [
-      "cmn"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jPny5x45PjO9YA",
     "name": "CCTV-1",
     "sources": {
@@ -225,6 +211,9 @@
       "streams": [
         "https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8",
         "https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/gbsoYH97SFs"
       ]
     },
     "languages": [
@@ -270,9 +259,6 @@
       "streams": [
         "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8",
         "https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/0dJ2dEcrboo"
       ]
     },
     "languages": [
@@ -797,30 +783,6 @@
     "sources": {
       "streams": [
         "https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2D80wABwXq6SL0",
-    "name": "浙江 I 绍兴影视",
-    "sources": {
-      "streams": [
-        "https://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tWjSdo4t72dhtd",
-    "name": "浙江 I 绍兴综合",
-    "sources": {
-      "streams": [
-        "https://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8"
       ]
     },
     "languages": [],
