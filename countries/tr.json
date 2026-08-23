@@ -207,6 +207,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Zzw5XdFQULzoOQ",
+    "name": "Aras TV",
+    "sources": {
+      "streams": [
+        "https://2.rtmp.org/tv217/yayin.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "laMNKAVyTuHniN",
     "name": "AS TV",
     "sources": {
@@ -240,10 +254,11 @@
     "sources": {
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/3KDIc6uzb5E"
+        "https://www.youtube-nocookie.com/embed/Kjg1HulXQfw"
       ]
     },
     "languages": [
@@ -258,104 +273,6 @@
     "sources": {
       "streams": [
         "https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nMakM6G0sKUXTn",
-    "name": "ATV Avrupa",
-    "sources": {
-      "streams": [
-        "https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OULTM0gM1sr5Ul",
-    "name": "BBC Earth Turkiye",
-    "sources": {
-      "streams": [
-        "https://nord.ayakkabiparti.lol/bbc/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Lp2HSyk6TUB8Wd",
-    "name": "beIN Box Office 1",
-    "sources": {
-      "streams": [
-        "https://nord.ayakkabiparti.lol/box1/index.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rBWQKggGNEhC62",
-    "name": "beIN Box Office 2",
-    "sources": {
-      "streams": [
-        "https://nord.ayakkabiparti.lol/box2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wkMHuYhE60CfLP",
-    "name": "beIN Box Office 3",
-    "sources": {
-      "streams": [
-        "https://nord.ayakkabiparti.lol/box3/index.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gcitZzRCddaZzJ",
-    "name": "beIN Movies Stars",
-    "sources": {
-      "streams": [
-        "https://nord.ayakkabiparti.lol/bsaction1/index.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7vDbUXN6wMyfUG",
-    "name": "beIN Movies Turk",
-    "sources": {
-      "streams": [
-        "https://nord.ayakkabiparti.lol/bsturk/index.m3u8"
       ]
     },
     "languages": [
@@ -746,20 +663,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NaLDKK2n9zWTIs",
-    "name": "Erciyes TV",
-    "sources": {
-      "streams": [
-        "https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GJHn2TfHunPgwd",
     "name": "ERTV",
     "sources": {
@@ -836,6 +739,21 @@
     "sources": {
       "streams": [
         "https://yayin30.haber100.com/live/finansturk/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WDQpCRq4dLb0NU",
+    "name": "Fortuna TV",
+    "sources": {
+      "streams": [
+        "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
+        "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1131,6 +1049,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "F2Mb6ARE1l9qx2",
+    "name": "Kanal 33",
+    "sources": {
+      "streams": [
+        "https://edge2.taksimbilisim.com/kanal33/bant1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WlWPbkUSbOHRgd",
     "name": "Kanal 34",
     "sources": {
@@ -1315,8 +1247,8 @@
     "name": "Kocaeli TV",
     "sources": {
       "streams": [
-        "https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8",
-        "https://edge2.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8"
+        "https://edge2.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8",
+        "https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1344,21 +1276,7 @@
     "name": "KRT TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/y1cqEixZ4bU"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eyeIgnMcJ3ssi7",
-    "name": "KRT TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/dU3wXdb5GT0"
+        "https://www.youtube-nocookie.com/embed/_k0wG2Qah1g"
       ]
     },
     "languages": [
@@ -1980,6 +1898,9 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/eiHJs60NoXc"
       ]
     },
     "languages": [
@@ -2017,6 +1938,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "e8zax7Tb0zc8Eu",
+    "name": "TRT 1",
+    "sources": {
+      "streams": [
+        "https://tv-trt1.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Tsl1TXkC1cdSTl",
     "name": "TRT Arabi",
     "sources": {
@@ -2037,6 +1972,20 @@
     "sources": {
       "streams": [
         "https://tv-trtavaz.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YCPZsdEDhEaJOB",
+    "name": "TRT Cocuk",
+    "sources": {
+      "streams": [
+        "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
       ]
     },
     "languages": [
@@ -2375,20 +2324,6 @@
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/Y_vdhq00egc"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HU7t21P03xeEXV",
-    "name": "Viasat History",
-    "sources": {
-      "streams": [
-        "https://nord.ayakkabiparti.lol/viasathistory/index.m3u8"
       ]
     },
     "languages": [

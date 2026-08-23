@@ -113,6 +113,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uOcj7SNsYLGnvO",
+    "name": "Dit is Helmond",
+    "sources": {
+      "streams": [
+        "https://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uC0jraL1VNPnXr",
     "name": "DocuBox",
     "sources": {
@@ -281,11 +295,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "A3vCuoFXBOegkR",
-    "name": "Gigant FM",
+    "nanoid": "UX0UsvdjEFFpay",
+    "name": "Haarlem105 TV",
     "sources": {
       "streams": [
-        "https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8"
+        "https://d2qm50imcbcfqx.cloudfront.net/nlpo/clr-nlpo/haarlem105/index.m3u8"
       ]
     },
     "languages": [
@@ -295,14 +309,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UX0UsvdjEFFpay",
-    "name": "Haarlem105 TV",
+    "nanoid": "XeTMX0KNRpyXnL",
+    "name": "Hype Visual Radio",
     "sources": {
       "streams": [
-        "https://d2qm50imcbcfqx.cloudfront.net/nlpo/clr-nlpo/haarlem105/index.m3u8"
+        "https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8"
       ]
     },
     "languages": [
+      "eng",
       "nld"
     ],
     "country": "nl",
@@ -374,6 +389,20 @@
     "sources": {
       "streams": [
         "https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "43nlqCsPfKQWwb",
+    "name": "Lansingerland TV",
+    "sources": {
+      "streams": [
+        "https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -535,20 +564,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hk7PXKEYotjuny",
-    "name": "Omroep Hoeksche Waard",
-    "sources": {
-      "streams": [
-        "https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Es6l1ExFTcGD0U",
     "name": "Omroep Land van Cuijk",
     "sources": {
@@ -582,20 +597,6 @@
     "sources": {
       "streams": [
         "https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aoSCyrpFifrtBu",
-    "name": "Omroep Tilburg",
-    "sources": {
-      "streams": [
-        "https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1126,6 +1127,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dAXeuFzPs6OaT0",
+    "name": "StreekTV",
+    "sources": {
+      "streams": [
+        "https://61ae39677a1ab.streamlock.net/streektv/streektv/playlist.m3u8",
+        "https://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vO7ItMw9qBUGew",
     "name": "Studio Rheden",
     "sources": {
@@ -1232,6 +1248,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T6K1OzxVu2js0L",
+    "name": "ZFM Zoetermeer TV",
+    "sources": {
+      "streams": [
+        "https://zfmzoetermeer.nl/live/master.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
     ],
     "country": "nl",
     "isGeoBlocked": false
