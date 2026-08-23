@@ -523,6 +523,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Rk7MjjMU4jW3Hu",
+    "name": "Central TV",
+    "sources": {
+      "streams": [
+        "https://freya.mivideo.pro/centraltv/video.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eko7uFhNP2g6vo",
     "name": "Chile Channel",
     "sources": {
@@ -584,7 +598,7 @@
     "name": "CHV Noticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/WxdhpQLxpQs"
+        "https://www.youtube-nocookie.com/embed/Io_2GbwNGBI"
       ]
     },
     "languages": [
@@ -1057,20 +1071,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HZTvc09dQotF6t",
-    "name": "ISA TV",
-    "sources": {
-      "streams": [
-        "https://scl.edge.grupoz.cl/isatv/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KSt72TrfiNqRpX",
     "name": "Islita TV",
     "sources": {
@@ -1343,7 +1343,7 @@
     "name": "Meganoticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/4u2AfOGUOtU"
+        "https://www.youtube-nocookie.com/embed/bqtvb2x6mVE"
       ]
     },
     "languages": [],
@@ -1660,34 +1660,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UixZ2uLadHocWN",
-    "name": "Radio Armonia TV",
-    "sources": {
-      "streams": [
-        "https://v2.tustreaming.cl/armoniamovil/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7IC0cvXaDlKDt4",
-    "name": "Radio Chiloe",
-    "sources": {
-      "streams": [
-        "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sjsYRr3aXMHdip",
     "name": "Radio Contemporanea Coihueco",
     "sources": {
@@ -1707,6 +1679,20 @@
     "sources": {
       "streams": [
         "https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0ORE7ihrMrdlAa",
+    "name": "Radio Edelweiss",
+    "sources": {
+      "streams": [
+        "https://vmix.dyndns.biz/Edelweiss/index.m3u8"
       ]
     },
     "languages": [
@@ -1898,20 +1884,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Fo7DN1X7oyXYal",
-    "name": "Radio Universal",
-    "sources": {
-      "streams": [
-        "https://videostream.chileservidores.com:8081/universal/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3cleB86oNnPmCR",
     "name": "Radio USACH",
     "sources": {
@@ -2044,20 +2016,6 @@
     "sources": {
       "streams": [
         "https://5ff3d9babae13.streamlock.net/wympnqeqts/wympnqeqts/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7RmFyrjQEfTQLH",
-    "name": "RTC Television",
-    "sources": {
-      "streams": [
-        "https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2492,6 +2450,7 @@
     "name": "TV+",
     "sources": {
       "streams": [
+        "https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8",
         "https://cdn1tlinkgo.tlink.cl/tvmashd/mono.m3u8"
       ]
     },
@@ -2536,8 +2495,7 @@
     "name": "TVN3",
     "sources": {
       "streams": [
-        "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
-        "https://cdn1tlinkgo.tlink.cl/tvn3/mono.m3u8"
+        "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8"
       ]
     },
     "languages": [
@@ -2596,21 +2554,6 @@
     "sources": {
       "streams": [
         "https://tv.ulagos.cl/web/live.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kTSEb5mta8wgr6",
-    "name": "UATV",
-    "sources": {
-      "streams": [
-        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
-        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
       ]
     },
     "languages": [

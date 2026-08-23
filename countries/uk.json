@@ -848,6 +848,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZsfTQFg0CGnALp",
+    "name": "Faith UK",
+    "sources": {
+      "streams": [
+        "https://faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sXCWXmslpxdRqM",
     "name": "Faith World TV",
     "sources": {
@@ -2037,18 +2051,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RekrBPbX5KKpZp",
-    "name": "Real Crime",
-    "sources": {
-      "streams": [
-        "https://lds-realcrime-samsunguk.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "jNN9ef0ljzGJ7E",
     "name": "Real Crime Beta",
     "sources": {
@@ -2198,11 +2200,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "M2QygmPlR8J2Gq",
+    "name": "Sky Nature",
+    "sources": {
+      "streams": [
+        "https://tvsen6.aynaott.com/skynature/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2UurVFYPvprdL8",
     "name": "Sky News",
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/YDvsBbKfLPA"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "phsubU1bC3E8Bv",
+    "name": "Sky Sports Cricket",
+    "sources": {
+      "streams": [
+        "https://7nyaler.streamhostingcdn.top/stream/10/index.m3u8"
       ]
     },
     "languages": [
@@ -2273,6 +2303,21 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nUIhrbSOF3kafa",
+    "name": "Star Vijay UK",
+    "sources": {
+      "streams": [
+        "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tam"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -2905,7 +2950,6 @@
     "name": "World War TV",
     "sources": {
       "streams": [
-        "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8"
       ]
     },

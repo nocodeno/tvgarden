@@ -255,20 +255,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mbc3tMycOFDjGt",
-    "name": "Canal 2 de Ushuaia",
-    "sources": {
-      "streams": [
-        "https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DpnzXicEKSJJa1",
     "name": "Canal 2 Gualeguay",
     "sources": {
@@ -316,20 +302,6 @@
     "sources": {
       "streams": [
         "https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MH4oTx0ElnuqXt",
-    "name": "Canal 3 La Pampa",
-    "sources": {
-      "streams": [
-        "https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8"
       ]
     },
     "languages": [
@@ -395,11 +367,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "j1Mx0NYk5KtzPX",
+    "name": "Canal 4 San Juan",
+    "sources": {
+      "streams": [
+        "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5VJcSR2emAtR9y",
     "name": "Canal 4 Teleaire",
     "sources": {
       "streams": [
         "https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UDMd7kyyZOsiGV",
+    "name": "Canal 4 Villa Dolores",
+    "sources": {
+      "streams": [
+        "https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8"
       ]
     },
     "languages": [
@@ -423,11 +423,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IMtD1PHBND4aSz",
-    "name": "Canal 6 ERTV",
+    "nanoid": "Lp6abhRcVXYInw",
+    "name": "Canal 5 TV Chepes",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/NOF5STLSdXY"
+      "streams": [
+        "https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8"
       ]
     },
     "languages": [
@@ -437,11 +437,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RjGzeK99LgjrbF",
-    "name": "Canal 6 Posadas",
+    "nanoid": "IMtD1PHBND4aSz",
+    "name": "Canal 6 ERTV",
     "sources": {
-      "streams": [
-        "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/NOF5STLSdXY"
       ]
     },
     "languages": [
@@ -684,20 +684,6 @@
     "sources": {
       "streams": [
         "https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dsRy8tOTgBsAJD",
-    "name": "Canal 79 Villa Maza",
-    "sources": {
-      "streams": [
-        "https://streamconex.com:19360/villamaza/villamaza.m3u8"
       ]
     },
     "languages": [
@@ -994,8 +980,7 @@
     "name": "Cosmos Tv",
     "sources": {
       "streams": [
-        "https://canaletaplus.com:3922/live/cosmoslive.m3u8",
-        "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8"
+        "https://canaletaplus.com:3922/live/cosmoslive.m3u8"
       ]
     },
     "languages": [
@@ -1166,7 +1151,7 @@
     "name": "El Once TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/BKM0uB463mM"
+        "https://www.youtube-nocookie.com/embed/gPXFcQJdPys"
       ]
     },
     "languages": [
@@ -1587,11 +1572,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qtaPOAnUqcYU1F",
-    "name": "Radio Yguazu TV",
+    "nanoid": "Hx90u1anKdO6J6",
+    "name": "Radio UP",
     "sources": {
       "streams": [
-        "https://live.enhdtv.com:8081/radioiguazutv/index.m3u8"
+        "https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1784,11 +1769,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0RDZ86LiXSDIjn",
-    "name": "TIV Television",
+    "nanoid": "KqdPHNGkrFTBeG",
+    "name": "Telesol",
     "sources": {
       "streams": [
-        "https://videohd.live:19360/8008/8008.m3u8"
+        "https://cdn1.tvlin.net/open/telesol/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "C4INN3f93tsfyG",
+    "name": "Televisión Pública",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/zOCZ8Bj5nJ4"
       ]
     },
     "languages": [
