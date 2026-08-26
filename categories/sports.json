@@ -192,8 +192,8 @@
     "name": "Band Sports",
     "sources": {
       "streams": [
-        "https://170.83.16.50/BAND_SPORTS/index.m3u8",
         "https://45.162.64.114/BAND_SPORTS/index.m3u8",
+        "https://170.83.16.50/BAND_SPORTS/index.m3u8",
         "https://45.190.28.50/BAND_SPORTS_HD/index.m3u8"
       ]
     },
@@ -218,25 +218,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SxEZ67YPc8yPDE",
-    "name": "BEK TV Sports West",
-    "sources": {
-      "streams": [
-        "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yxXfCHd5uHQMJD",
     "name": "Belarus-5",
     "sources": {
       "streams": [
-        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
         "https://stream.mcquack.net/33/index.m3u8",
         "https://streaming.thestream.cyou/live/7001.m3u8"
       ]
@@ -287,20 +272,6 @@
       "spa"
     ],
     "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "haAQVTXfQJECVE",
-    "name": "CazeTV",
-    "sources": {
-      "streams": [
-        "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -446,6 +417,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3spET73XcwPAv7",
+    "name": "El-Heddaf TV",
+    "sources": {
+      "streams": [
+        "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "dz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9D74wXaGqUWkp2",
     "name": "Equalympic",
     "sources": {
@@ -487,6 +472,21 @@
     ],
     "country": "es",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
+    "sources": {
+      "streams": [
+        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Ps5SHG9loIy0eR",
@@ -760,20 +760,6 @@
     ],
     "country": "pt",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "3PWIwG9FFIlO5Y",
-    "name": "Game+",
-    "sources": {
-      "streams": [
-        "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "lagHJficp6nYbz",
@@ -1469,8 +1455,7 @@
     "name": "QazSport",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/72/index.m3u8",
-        "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8"
+        "https://stream.mcquack.net/72/index.m3u8"
       ]
     },
     "languages": [
@@ -1694,36 +1679,6 @@
       "pus"
     ],
     "country": "af",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oQ5AK419QlFTfh",
-    "name": "S Sport",
-    "sources": {
-      "streams": [
-        "https://corestream.siteyaptim.live/s-sport/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tBhHjWUW81vL3u",
-    "name": "S Sport 2",
-    "sources": {
-      "streams": [
-        "https://corestream.siteyaptim.live/s-sport2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tur"
-    ],
-    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -2096,9 +2051,9 @@
     "name": "Swerve Combat",
     "sources": {
       "streams": [
+        "https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8",
         "https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8",
-        "https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8",
-        "https://a-cdn.klowdtv.com/live3/swervecombat_720p/playlist.m3u8"
+        "https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2112,7 +2067,6 @@
     "name": "Swerve Sports",
     "sources": {
       "streams": [
-        "https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8",
         "https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8"
       ]
     },
@@ -2209,28 +2163,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "b3mt6RVBhhnDwq",
-    "name": "Tigo Sports+",
-    "sources": {
-      "streams": [
-        "https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vtSycR8Kbn52EY",
     "name": "TJK TV",
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/H1XXFHcv_qA"
       ]
     },
     "languages": [
@@ -2282,20 +2219,6 @@
       "rus"
     ],
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "soJFcTUgH4WD3b",
-    "name": "TRT Spor",
-    "sources": {
-      "streams": [
-        "https://corestream.siteyaptim.live/trt-spor/index.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
     "isGeoBlocked": false
   },
   {

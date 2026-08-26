@@ -254,7 +254,6 @@
     "sources": {
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
-        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
       ],
       "youtube": [
@@ -639,7 +638,7 @@
     "name": "EKOTÜRK TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/CjhXxGNhloM"
+        "https://www.youtube-nocookie.com/embed/qIdbaMBTx8g"
       ]
     },
     "languages": [
@@ -689,6 +688,20 @@
     ],
     "country": "tr",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GJHn2TfHunPgwd",
+    "name": "ERTV",
+    "sources": {
+      "streams": [
+        "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "WHkVQZYPgkweaG",
@@ -1482,20 +1495,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BO4YypoB7kcaVn",
-    "name": "Neo Haber",
-    "sources": {
-      "streams": [
-        "https://edge2.taksimbilisim.com/neohaber/bant1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GIntzeUgHcQOIa",
     "name": "Number 1 Ask",
     "sources": {
@@ -1692,36 +1691,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oQ5AK419QlFTfh",
-    "name": "S Sport",
-    "sources": {
-      "streams": [
-        "https://corestream.siteyaptim.live/s-sport/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tBhHjWUW81vL3u",
-    "name": "S Sport 2",
-    "sources": {
-      "streams": [
-        "https://corestream.siteyaptim.live/s-sport2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "73xSFKpT68qZuL",
     "name": "Semerkand TV",
     "sources": {
@@ -1912,9 +1881,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/H1XXFHcv_qA"
       ]
     },
     "languages": [
@@ -2075,20 +2041,6 @@
       "streams": [
         "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
         "https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "soJFcTUgH4WD3b",
-    "name": "TRT Spor",
-    "sources": {
-      "streams": [
-        "https://corestream.siteyaptim.live/trt-spor/index.m3u8"
       ]
     },
     "languages": [

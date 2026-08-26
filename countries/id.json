@@ -282,6 +282,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KTv1lAQngiwpQF",
+    "name": "dTVi",
+    "sources": {
+      "streams": [
+        "https://e.siar.us/live/dtvi.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QsUhnT0pi51wcj",
     "name": "Duta TV",
     "sources": {
@@ -523,18 +537,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zrn3dK1AY8AcF8",
-    "name": "Marhaban TV",
+    "nanoid": "ayjkn7ZDTaMfjh",
+    "name": "Magna Channel",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/9lT9sk4PoAc"
+      "streams": [
+        "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8"
       ]
     },
     "languages": [
       "ind"
     ],
     "country": "id",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "6Oy6l4nSQLXeVV",
@@ -569,6 +583,9 @@
     "nanoid": "NTyXj8xoKlplvb",
     "name": "Metro TV",
     "sources": {
+      "streams": [
+        "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/hjNOqYN6UJo"
       ]
@@ -613,6 +630,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/j-cz1y6tL9o"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L5BvWuf8rlqBr4",
+    "name": "Music Information Channel",
+    "sources": {
+      "streams": [
+        "https://mic.siar.us/mic/live/mic.m3u8"
       ]
     },
     "languages": [
@@ -718,6 +749,20 @@
     ],
     "country": "id",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "2osdXOCanj9JNQ",
+    "name": "RCTV",
+    "sources": {
+      "streams": [
+        "https://v10.siar.us/rctv/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "GyYMyUUtPptNeI",
@@ -833,11 +878,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pJu6TwMXSbyJfF",
-    "name": "SMTV",
+    "nanoid": "eQt3qfpQWLo9FO",
+    "name": "Serambinews",
     "sources": {
-      "streams": [
-        "https://e.siar.us/live/smtv.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/JV6wnqsT9us"
       ]
     },
     "languages": [
@@ -988,20 +1033,6 @@
     },
     "languages": [
       "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "x4lyf4pNwLJhfT",
-    "name": "The Indonesia Channel",
-    "sources": {
-      "streams": [
-        "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "id",
     "isGeoBlocked": false
@@ -1540,11 +1571,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PEvAzPEqyCSHPP",
-    "name": "UFA Live 24",
+    "nanoid": "SlDXX35NImvk2c",
+    "name": "UGTV",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/6ysty72wl34"
+      "streams": [
+        "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8"
       ]
     },
     "languages": [

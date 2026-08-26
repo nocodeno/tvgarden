@@ -16,6 +16,49 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LtcQ5PJJh1xGaz",
+    "name": "NRK Super",
+    "sources": {
+      "streams": [
+        "https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8"
+      ]
+    },
+    "languages": [
+      "nor"
+    ],
+    "country": "no",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "E2OFYhWuscbmST",
+    "name": "NRK Tegnsprak",
+    "sources": {
+      "streams": [
+        "https://nrk-live-no.akamaized.net/nrk_tegnspraak/muxed.m3u8"
+      ]
+    },
+    "languages": [
+      "nor"
+    ],
+    "country": "no",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "tcPJcj402bdXXm",
+    "name": "NRK1",
+    "sources": {
+      "streams": [
+        "https://nrk-live-no.akamaized.net/nrk1_dk7/muxed.m3u8",
+        "https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8"
+      ]
+    },
+    "languages": [
+      "nor"
+    ],
+    "country": "no",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "e3NUApkCSGAi5K",
     "name": "TV Ostfold",
     "sources": {

@@ -144,6 +144,7 @@
     "name": "Canal Gov",
     "sources": {
       "streams": [
+        "https://45.177.114.115/TV_BRASIL_2/index.m3u8",
         "https://canalgov-stream.ebc.com.br/index.m3u8",
         "https://168.197.104.22/TV_BRASIL_2/index.m3u8"
       ],
@@ -228,20 +229,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zzIInP1RoY4ur6",
-    "name": "Channel 10",
-    "sources": {
-      "streams": [
-        "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "F4Y1TAup8OeQyO",
     "name": "Channel 18 GAC",
     "sources": {
@@ -261,6 +248,20 @@
     "sources": {
       "streams": [
         "https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "p9TPCkNNGjcV0i",
+    "name": "City of Monroe Government Channel",
+    "sources": {
+      "streams": [
+        "https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8"
       ]
     },
     "languages": [
@@ -567,6 +568,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xupLUhlUhMmQst",
+    "name": "Duma TV",
+    "sources": {
+      "streams": [
+        "https://dumatv.iptv2022.com/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xnU10BQX3X7Kmm",
     "name": "Fernandina Beach Channel",
     "sources": {
@@ -627,6 +642,7 @@
     "name": "Hellenic Parliament TV",
     "sources": {
       "streams": [
+        "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
         "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
       ]
     },
@@ -732,6 +748,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pXFYh4j5PohrH6",
+    "name": "Knesset Channel",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/48/index.m3u8"
+      ]
+    },
+    "languages": [
+      "heb"
+    ],
+    "country": "il",
     "isGeoBlocked": false
   },
   {
@@ -1105,7 +1135,7 @@
     "name": "Rio TV Câmara",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/epqTHqopADQ"
+        "https://www.youtube-nocookie.com/embed/LY-1ageXleQ"
       ]
     },
     "languages": [
@@ -1251,7 +1281,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/fD3kkLypHVc"
+        "https://www.youtube-nocookie.com/embed/3RLAip0DbPE"
       ]
     },
     "languages": [
