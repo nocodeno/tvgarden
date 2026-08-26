@@ -338,20 +338,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PznIKu7D3Y7mgQ",
-    "name": "Doble C Television",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XzRqOxUzNRtPhH",
     "name": "ECO Television",
     "sources": {
@@ -409,11 +395,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mHRulAqsRUqjO2",
-    "name": "Genios TV",
+    "nanoid": "IJ7gZA2UwesadP",
+    "name": "Galactica TV",
     "sources": {
       "streams": [
-        "https://sc3.wasidata.com/Genios2_1902/video.m3u8"
+        "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8"
       ]
     },
     "languages": [
@@ -423,11 +409,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tuNSJmr0wEebhR",
-    "name": "Huacho Peru TV",
+    "nanoid": "mHRulAqsRUqjO2",
+    "name": "Genios TV",
     "sources": {
       "streams": [
-        "https://tv.huachotv.com/stream.m3u8"
+        "https://sc3.wasidata.com/Genios2_1902/video.m3u8"
       ]
     },
     "languages": [
@@ -525,6 +511,7 @@
     "name": "Latina Noticias 24/7",
     "sources": {
       "streams": [
+        "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8",
         "https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8"
       ]
     },
@@ -869,6 +856,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ugS1SgctKn6QTp",
+    "name": "Riku TV",
+    "sources": {
+      "streams": [
+        "https://amixtv.com:8081/rikutv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ygSClri36pKd9x",
     "name": "RN Television",
     "sources": {
@@ -901,8 +902,8 @@
     "name": "RSelvaTV",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8",
-        "https://live.obslivestream.com/selvatv/index.m3u8"
+        "https://live.obslivestream.com/selvatv/index.m3u8",
+        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8"
       ]
     },
     "languages": [
@@ -944,8 +945,7 @@
     "name": "Solar Television",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8",
-        "https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8"
+        "https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8"
       ]
     },
     "languages": [
@@ -959,7 +959,6 @@
     "name": "Star Channel Latin America Panregional",
     "sources": {
       "streams": [
-        "https://cdn1tlinkgo.tlink.cl/starchannelhd/index.m3u8",
         "https://45.162.193.35/STAR_CHANNEL/index.m3u8"
       ]
     },
@@ -974,7 +973,6 @@
     "name": "Studio Universal Latin America Panregional",
     "sources": {
       "streams": [
-        "https://cdn1tlinkgo.tlink.cl/studiouniversalhd/index.m3u8",
         "https://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8"
       ]
     },

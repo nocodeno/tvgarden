@@ -155,20 +155,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VMCmeG0FLaHmw1",
-    "name": "arte",
-    "sources": {
-      "streams": [
-        "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "SFsrKozwjoLj8R",
     "name": "B SMART",
     "sources": {
@@ -536,8 +522,7 @@
     "name": "Euronews Spanish",
     "sources": {
       "streams": [
-        "https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8",
-        "https://cdn1tlinkgo.tlink.cl/euronews/index.m3u8"
+        "https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8"
       ]
     },
     "languages": [
@@ -978,6 +963,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rOt2GRHARiewoL",
+    "name": "Littoral FM TV",
+    "sources": {
+      "streams": [
+        "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fZyKRU2kHKETIx",
     "name": "Lou!",
     "sources": {
@@ -1220,23 +1219,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "9PtGiKgkdbGXR3",
-    "name": "Rakuten TV Films Action",
+    "nanoid": "phice2bsfFKDLs",
+    "name": "Rakuten TV Séries Crime",
     "sources": {
       "streams": [
-        "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dK7Tr0arpe0iTb",
-    "name": "Rakuten TV Top Films France",
-    "sources": {
-      "streams": [
-        "https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8"
+        "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8"
       ]
     },
     "languages": [],
@@ -1313,6 +1300,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "e2QKMdwgfK4Vxo",
+    "name": "Simon Super Lapin",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/0bPyiYjhf_U"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "f1Z2REVZIJr4vr",
     "name": "Sony One Blacklist",
     "sources": {
@@ -1377,7 +1378,7 @@
     "name": "SQOOL TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/IMSgJ7WQB6o"
+        "https://www.youtube-nocookie.com/embed/UmrFDfwSl4Q"
       ]
     },
     "languages": [
@@ -1777,20 +1778,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "inGlxKW8S2QpWf",
-    "name": "TV3V",
-    "sources": {
-      "streams": [
-        "https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4t9nyKLy4BlsIu",
     "name": "TV5Monde Africa",
     "sources": {
@@ -1873,6 +1860,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4iaZvz0DlRN5Ya",
+    "name": "ViaMatele",
+    "sources": {
+      "streams": [
+        "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Vfl8587p5Rbn09",
     "name": "viaTelePaese",
     "sources": {
@@ -1929,7 +1930,6 @@
     "name": "zenith",
     "sources": {
       "streams": [
-        "https://live.azenagroup.com/zenith/index.ll.m3u8",
         "https://live.azenagroup.com/zenith/index.m3u8"
       ]
     },

@@ -494,8 +494,7 @@
     "name": "Europa Europa",
     "sources": {
       "streams": [
-        "https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8",
-        "https://cdn1tlinkgo.tlink.cl/europaeuropa/index.m3u8"
+        "https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8"
       ]
     },
     "languages": [
@@ -688,7 +687,9 @@
     "name": "Inside Crime UK",
     "sources": {
       "streams": [
-        "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8"
+        "https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8",
+        "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8",
+        "https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8"
       ]
     },
     "languages": [
@@ -765,20 +766,6 @@
       "eng"
     ],
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sJ8ODiRHG7k4yH",
-    "name": "Mega Ficcion",
-    "sources": {
-      "streams": [
-        "https://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -1122,7 +1109,6 @@
     "name": "Star Channel Latin America Panregional",
     "sources": {
       "streams": [
-        "https://cdn1tlinkgo.tlink.cl/starchannelhd/index.m3u8",
         "https://45.162.193.35/STAR_CHANNEL/index.m3u8"
       ]
     },

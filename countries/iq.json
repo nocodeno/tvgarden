@@ -14,21 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FTvSSHqDu7zXUY",
-    "name": "Afaq TV",
-    "sources": {
-      "streams": [
-        "https://stream.afaq.iq/live/channel/afaqtv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara",
-      "eng"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ddrr8smWgDPaNo",
     "name": "Afarin Baxcha",
     "sources": {
@@ -169,11 +154,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "R7SX5bbq2ADuZ9",
-    "name": "Alawla TV",
+    "nanoid": "sNovQ9z7x1J0Qw",
+    "name": "Alabbassia TV",
     "sources": {
       "streams": [
-        "https://live.alawla.tv/hls/stream.m3u8"
+        "https://stream.alabbassia.com/live/alabbassia/index.m3u8"
       ]
     },
     "languages": [
@@ -183,11 +168,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "btizWb8V9F8EOG",
-    "name": "Alghadeer TV",
+    "nanoid": "R7SX5bbq2ADuZ9",
+    "name": "Alawla TV",
     "sources": {
       "streams": [
-        "https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8"
+        "https://live.alawla.tv/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -412,6 +397,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9RdvwjYBwgdvbP",
+    "name": "Kurdistan TV",
+    "sources": {
+      "streams": [
+        "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara",
+      "kur",
+      "tur"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8YNFXXuZHnJiGA",
     "name": "Kurdsat",
     "sources": {
@@ -517,8 +518,7 @@
     "name": "Payam TV",
     "sources": {
       "streams": [
-        "https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
-        "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8"
+        "https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8"
       ]
     },
     "languages": [

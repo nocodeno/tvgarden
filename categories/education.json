@@ -151,8 +151,8 @@
     "sources": {
       "streams": [
         "https://170.83.16.50/FUTURA/index.m3u8",
-        "https://45.162.64.114/FUTURA/index.m3u8",
-        "https://186.219.52.187/futura/index.m3u8"
+        "https://186.219.52.187/futura/index.m3u8",
+        "https://45.162.64.114/FUTURA/index.m3u8"
       ]
     },
     "languages": [
@@ -523,6 +523,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9tRf46L4LZNOGa",
+    "name": "DLTV 12",
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv12.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tha"
+    ],
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sfr4boA9nNaI9M",
     "name": "DLTV 15",
     "sources": {
@@ -767,17 +782,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Kqr3JHbCw7DAtR",
-    "name": "ISTV",
+    "nanoid": "wBMPZbYU5rhwEy",
+    "name": "iSTUFF",
     "sources": {
       "streams": [
-        "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
+        "https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8"
       ]
     },
     "languages": [
-      "por"
+      "deu"
     ],
-    "country": "br",
+    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -907,20 +922,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vGCm6ufhO0hHv0",
-    "name": "MediBizTV",
-    "sources": {
-      "streams": [
-        "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tqCNZa0HLCee0u",
     "name": "Midpen Media Center Channel 28",
     "sources": {
@@ -1016,20 +1017,6 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zC122EumNWdtHL",
-    "name": "NTV",
-    "sources": {
-      "streams": [
-        "https://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -1305,7 +1292,7 @@
     "name": "SQOOL TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/IMSgJ7WQB6o"
+        "https://www.youtube-nocookie.com/embed/UmrFDfwSl4Q"
       ]
     },
     "languages": [

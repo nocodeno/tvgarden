@@ -187,20 +187,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sHhwCQ0IKHJpCf",
-    "name": "BabyTV Latin America",
-    "sources": {
-      "streams": [
-        "https://cdn1tlinkgo.tlink.cl/babytv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NsRP1rTNLBH991",
     "name": "Balapan",
     "sources": {
@@ -698,8 +684,7 @@
     "name": "Disney Channel Latin America Panregional HD",
     "sources": {
       "streams": [
-        "https://streamer.metronethn.com/DisneyChannel/index.m3u8",
-        "https://cdn1tlinkgo.tlink.cl/disneychannelhd/mono.m3u8"
+        "https://streamer.metronethn.com/DisneyChannel/index.m3u8"
       ]
     },
     "languages": [
@@ -784,8 +769,7 @@
     "name": "Disney Jr. Latin America South",
     "sources": {
       "streams": [
-        "https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-        "https://cdn1tlinkgo.tlink.cl/disneyjr/index.m3u8"
+        "https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
       ]
     },
     "languages": [
@@ -1096,20 +1080,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "om7BmUoJgT4HTe",
-    "name": "FMH Kids",
-    "sources": {
-      "streams": [
-        "https://cdn1tlinkgo.tlink.cl/fmhkidshd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "N30oZ2jCGyvzjZ",
     "name": "Giggle Mug",
     "sources": {
@@ -1224,20 +1194,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "58jHrtymUKNGYs",
-    "name": "Hop!",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/44/index.m3u8"
-      ]
-    },
-    "languages": [
-      "heb"
-    ],
-    "country": "il",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gfaamDst89W7kn",
     "name": "Horrid Henry",
     "sources": {
@@ -1265,6 +1221,20 @@
       "ita"
     ],
     "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0KHOlcS3CSZQO6",
+    "name": "JapanimTV",
+    "sources": {
+      "streams": [
+        "https://foxkidstv.be:3369/stream/play.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
     "isGeoBlocked": false
   },
   {
@@ -1348,13 +1318,27 @@
     "name": "Kids Land: Urdu",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/5j3__3cNt7Q"
+        "https://www.youtube-nocookie.com/embed/Qs_5lRoty1E"
       ]
     },
     "languages": [
       "urd"
     ],
     "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
+    "sources": {
+      "streams": [
+        "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -1376,7 +1360,6 @@
     "name": "KiKA",
     "sources": {
       "streams": [
-        "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8",
         "https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8",
         "https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8"
       ]
@@ -1604,6 +1587,7 @@
     "name": "Moonbug Kids",
     "sources": {
       "streams": [
+        "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
         "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8",
         "https://tvsen6.aynaott.com/MoonbugKids/index.m3u8"
       ]
@@ -1896,20 +1880,6 @@
     ],
     "country": "us",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LtcQ5PJJh1xGaz",
-    "name": "NRK Super",
-    "sources": {
-      "streams": [
-        "https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8"
-      ]
-    },
-    "languages": [
-      "nor"
-    ],
-    "country": "no",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "tqpekqbtzkiahc",
@@ -2565,21 +2535,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/nc55lzPhkw0"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GdyuPfPjDfUi5s",
-    "name": "Super Simple: Counting and Alphabet Songs",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/6CxZcozy9DI"
+        "https://www.youtube-nocookie.com/embed/Ia9khlglk1M"
       ]
     },
     "languages": [
@@ -2593,7 +2549,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/xpejGKzChQo"
+        "https://www.youtube-nocookie.com/embed/nCya1w0nt0Y"
       ]
     },
     "languages": [
@@ -2877,6 +2833,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KGfXY9EKgCoeEb",
+    "name": "Universal Jr: Curious George",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/SAC5ib0DDOk"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QCJumJIeWNNAUV",
     "name": "V gostyakh u skazki",
     "sources": {
@@ -2986,20 +2956,6 @@
       "fra"
     ],
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zUBU1oLKMpdsiQ",
-    "name": "Zoom",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/377/index.m3u8"
-      ]
-    },
-    "languages": [
-      "heb"
-    ],
-    "country": "il",
     "isGeoBlocked": false
   },
   {

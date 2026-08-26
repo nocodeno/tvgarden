@@ -98,20 +98,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1GpRDoekUac7eR",
-    "name": "Canal I",
-    "sources": {
-      "streams": [
-        "https://streaming.canal-i.com/canal-i/live/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6SYW2B8xTfiTLL",
     "name": "Catatumbo TV",
     "sources": {
@@ -323,6 +309,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kE8N5CkT9Xc9Iu",
+    "name": "Nortena Tv",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dJh7EB1lQFwOCd",
     "name": "Plous TV",
     "sources": {
@@ -422,6 +422,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LkfWLnGLDxyqrs",
+    "name": "Telebocono",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hWg7qzmsLufJ67",
     "name": "Telecentro",
     "sources": {
@@ -440,9 +454,7 @@
     "name": "Telesur",
     "sources": {
       "streams": [
-        "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
-        "https://45.190.28.50/TELESUR_HD/index.m3u8",
-        "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
+        "https://45.190.28.50/TELESUR_HD/index.m3u8"
       ]
     },
     "languages": [
@@ -472,34 +484,6 @@
     "sources": {
       "streams": [
         "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iQsTa6Z2cWc5Ch",
-    "name": "Torococo TV",
-    "sources": {
-      "streams": [
-        "https://us.streaminghd.cl/torococotelevision/video.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rO6eV79GxNqt7n",
-    "name": "TRT",
-    "sources": {
-      "streams": [
-        "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
       ]
     },
     "languages": [

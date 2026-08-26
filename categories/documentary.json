@@ -155,7 +155,7 @@
       "streams": [
         "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
         "https://english-livebkali.cgtn.com/live/doccgtn.m3u8",
-        "https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8"
+        "https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8"
       ]
     },
     "languages": [
@@ -193,6 +193,20 @@
       "zho"
     ],
     "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GDeVF43cbBphiD",
+    "name": "ClickTV Chile",
+    "sources": {
+      "streams": [
+        "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -491,7 +505,6 @@
     "name": "History 2 Latin America Brazil",
     "sources": {
       "streams": [
-        "https://45.177.114.114/HISTORY_2/index.m3u8",
         "https://45.190.28.50/H2_HD/index.m3u8"
       ]
     },
@@ -829,8 +842,7 @@
     "name": "National Geographic Latin America Panregional",
     "sources": {
       "streams": [
-        "https://45.162.193.35/NATGEO/index.m3u8",
-        "https://cdn1tlinkgo.tlink.cl/natgeohd/index.m3u8"
+        "https://45.162.193.35/NATGEO/index.m3u8"
       ]
     },
     "languages": [
