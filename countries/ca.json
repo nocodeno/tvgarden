@@ -302,34 +302,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mIGdPVCQ0ktnig",
-    "name": "CBFT-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "C2IpSsj3CjIb2e",
-    "name": "CBKFT-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "1yLst6OvN4IiS8",
     "name": "CBLFT-DT",
     "sources": {
@@ -372,20 +344,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "lxLCWtpDfYneS1",
-    "name": "CBVT-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "tYCltkBmbBXWFA",
     "name": "CBWFT-DT",
     "sources": {
@@ -395,20 +353,6 @@
     },
     "languages": [
       "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "vN4KxpB8RBfII1",
-    "name": "CBXFT-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": true
@@ -597,20 +541,6 @@
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "UMIWvF117w8y9j",
-    "name": "CKTM-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8"
       ]
     },
     "languages": [
@@ -822,8 +752,8 @@
     "name": "Gusto TV",
     "sources": {
       "streams": [
-        "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
+        "https://gusto-xumo.amagi.tv/playlist.m3u8",
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
       ]
     },
@@ -902,20 +832,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j79baqwQIoh0JH",
-    "name": "ICnet 1",
-    "sources": {
-      "streams": [
-        "https://icnet1hls.wns.live/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "fas"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Mv6EQSLomOzZH0",
     "name": "IIPC TV",
     "sources": {
@@ -954,6 +870,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "tHnMhw9wheLA87",
+    "name": "LCN",
+    "sources": {
+      "streams": [
+        "https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
     ],
     "country": "ca",
     "isGeoBlocked": true
@@ -1999,20 +1929,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/Ia9khlglk1M"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GdyuPfPjDfUi5s",
-    "name": "Super Simple: Counting and Alphabet Songs",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/cqtQn12HujA"
       ]
     },
     "languages": [

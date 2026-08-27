@@ -235,20 +235,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0w7Ai7GtLMZNLS",
-    "name": "Canal Pro",
-    "sources": {
-      "streams": [
-        "https://www.desde-paraguay.com/pro.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vxtY5UyNAjZlYv",
     "name": "CGTN Global Biz",
     "sources": {
@@ -262,6 +248,20 @@
       "zho"
     ],
     "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9pIQ8aGJ6RFrBk",
+    "name": "Champion TV",
+    "sources": {
+      "streams": [
+        "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ci",
     "isGeoBlocked": false
   },
   {
@@ -434,6 +434,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "E9smyEh0BaQpif",
+    "name": "JOB TV",
+    "sources": {
+      "streams": [
+        "https://jobtvserver.eu/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tfa0ZY73SpNnku",
     "name": "Laboral TV",
     "sources": {
@@ -556,7 +570,6 @@
     "name": "Schwab Network",
     "sources": {
       "streams": [
-        "https://tdameritrade-distro.amagi.tv/playlist.m3u8",
         "https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8"
       ]
     },

@@ -42,20 +42,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jhyn7Gf0kasCsu",
-    "name": "Al-Iman TV",
-    "sources": {
-      "streams": [
-        "https://tv.aliman.id/aliman/live.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "o2PfBDwt7tySj4",
     "name": "Angel TV Indonesia",
     "sources": {
@@ -331,20 +317,6 @@
       "streams": [
         "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp410.310.578:2020.m3u8",
         "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Eg0R1qmDu85lEs",
-    "name": "Efarina TV",
-    "sources": {
-      "streams": [
-        "https://live.efarinatv.com/hls/bgtaufikganteng.m3u8"
       ]
     },
     "languages": [
@@ -639,20 +611,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "L5BvWuf8rlqBr4",
-    "name": "Music Information Channel",
-    "sources": {
-      "streams": [
-        "https://mic.siar.us/mic/live/mic.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "D6GBQhdMfQr39B",
     "name": "Naajiya TV",
     "sources": {
@@ -882,7 +840,21 @@
     "name": "Serambinews",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/JV6wnqsT9us"
+        "https://www.youtube-nocookie.com/embed/CPRklH1scAY"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pJu6TwMXSbyJfF",
+    "name": "SMTV",
+    "sources": {
+      "streams": [
+        "https://e.siar.us/live/smtv.m3u8"
       ]
     },
     "languages": [
@@ -1024,15 +996,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DoFmcYHnbbjDFG",
-    "name": "TATV",
+    "nanoid": "x4lyf4pNwLJhfT",
+    "name": "The Indonesia Channel",
     "sources": {
       "streams": [
-        "https://v2.siar.us/tatv/live.sdp/playlist.m3u8"
+        "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8"
       ]
     },
     "languages": [
-      "ind"
+      "eng"
     ],
     "country": "id",
     "isGeoBlocked": false
@@ -1562,6 +1534,20 @@
     "sources": {
       "streams": [
         "https://srs.u-channel.tv/live/uchannel-tv.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PEvAzPEqyCSHPP",
+    "name": "UFA Live 24",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/GXIxVTUaqNQ"
       ]
     },
     "languages": [

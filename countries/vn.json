@@ -124,6 +124,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "MO8deGVLY2zQ9f",
+    "name": "HanoiTV2",
+    "sources": {
+      "streams": [
+        "https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "mBI5by4rAF4VMT",
     "name": "Khanh Hoa TV",
     "sources": {
@@ -185,6 +199,20 @@
     "sources": {
       "streams": [
         "https://cdnbaokhanhhoa.com/live/90405a889081.m3u8?vhost=video"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n1mpNPkxhPEQcZ",
+    "name": "ON Kids",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=179"
       ]
     },
     "languages": [
@@ -585,20 +613,5 @@
     ],
     "country": "vn",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "caB0xQBH2m9LIA",
-    "name": "VTV1",
-    "sources": {
-      "streams": [
-        "https://vtvgolive-vtv.vtvdigital.vn/livestream/digital_04-1080p.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": true
   }
 ]
