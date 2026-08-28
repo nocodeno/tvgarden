@@ -90,6 +90,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "roeCDcGE1uwKQ6",
+    "name": "Al Iraqia Sport",
+    "sources": {
+      "streams": [
+        "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xNO3EJp4mhTrDD",
     "name": "AS3 Sport TV",
     "sources": {
@@ -222,7 +236,6 @@
     "name": "Belarus-5",
     "sources": {
       "streams": [
-        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
         "https://stream.mcquack.net/33/index.m3u8",
         "https://streaming.thestream.cyou/live/7001.m3u8"
       ]
@@ -489,6 +502,21 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
+    "sources": {
+      "streams": [
+        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Ps5SHG9loIy0eR",
     "name": "F1 Channel US",
     "sources": {
@@ -551,7 +579,8 @@
     "name": "Fight Network",
     "sources": {
       "streams": [
-        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
+        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
+        "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
       ]
     },
     "languages": [
@@ -678,6 +707,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4r0QKfGoGD09Z7",
+    "name": "FTV",
+    "sources": {
+      "streams": [
+        "https://master.tucableip.com/ftvhd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rSbwbBDpFexSew",
     "name": "Fubo Sports Network",
     "sources": {
@@ -746,6 +789,20 @@
     ],
     "country": "pt",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "3PWIwG9FFIlO5Y",
+    "name": "Game+",
+    "sources": {
+      "streams": [
+        "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "lagHJficp6nYbz",
@@ -969,7 +1026,9 @@
     "name": "M Sports",
     "sources": {
       "streams": [
-        "https://cdn.rabta.stream/M-Sports/index.m3u8"
+        "https://cdn.rabta.stream/M-Sports/index.m3u8",
+        "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8",
+        "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8"
       ]
     },
     "languages": [
@@ -1327,9 +1386,9 @@
     "name": "Pac-12 Insider",
     "sources": {
       "streams": [
+        "https://pac12-firetv.amagi.tv/playlist.m3u8",
         "https://pac12-roku-us.amagi.tv/playlist.m3u8",
-        "https://pac12-samsungus.amagi.tv/playlist.m3u8",
-        "https://pac12-vizio.amagi.tv/playlist.m3u8"
+        "https://pac12-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1877,8 +1936,7 @@
     "sources": {
       "streams": [
         "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8",
-        "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8",
-        "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8"
+        "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1892,8 +1950,7 @@
     "name": "Sportitalia Solocalcio",
     "sources": {
       "streams": [
-        "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
-        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
+        "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2150,14 +2207,25 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "b3mt6RVBhhnDwq",
+    "name": "Tigo Sports+",
+    "sources": {
+      "streams": [
+        "https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vtSycR8Kbn52EY",
     "name": "TJK TV",
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/P6zKIZ79DXk"
       ]
     },
     "languages": [

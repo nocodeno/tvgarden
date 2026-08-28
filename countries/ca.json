@@ -302,11 +302,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1yLst6OvN4IiS8",
-    "name": "CBLFT-DT",
+    "nanoid": "mIGdPVCQ0ktnig",
+    "name": "CBFT-DT",
     "sources": {
       "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8"
+        "https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8"
       ]
     },
     "languages": [
@@ -316,11 +316,25 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "qMfxPERIpN5bJn",
-    "name": "CBOFT-DT",
+    "nanoid": "C2IpSsj3CjIb2e",
+    "name": "CBKFT-DT",
     "sources": {
       "streams": [
-        "https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8"
+        "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "1yLst6OvN4IiS8",
+    "name": "CBLFT-DT",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8"
       ]
     },
     "languages": [
@@ -353,6 +367,20 @@
     },
     "languages": [
       "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "vN4KxpB8RBfII1",
+    "name": "CBXFT-DT",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": true
@@ -550,6 +578,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "UMIWvF117w8y9j",
+    "name": "CKTM-DT",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "jqqev1sDHlkMw9",
     "name": "CKTV-DT",
     "sources": {
@@ -696,7 +738,8 @@
     "name": "Fight Network",
     "sources": {
       "streams": [
-        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
+        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
+        "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
       ]
     },
     "languages": [
@@ -711,6 +754,34 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/coPmE-pZDww"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3PWIwG9FFIlO5Y",
+    "name": "Game+",
+    "sources": {
+      "streams": [
+        "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hTAa42S6ckdNs5",
+    "name": "Garfield & Friends",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/c-h3NC7COzs"
       ]
     },
     "languages": [
@@ -827,6 +898,20 @@
     },
     "languages": [
       "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "j79baqwQIoh0JH",
+    "name": "ICnet 1",
+    "sources": {
+      "streams": [
+        "https://icnet1hls.wns.live/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "fas"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -1928,7 +2013,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Ia9khlglk1M"
+        "https://www.youtube-nocookie.com/embed/mCMXi5dFQpE"
       ]
     },
     "languages": [
@@ -1942,7 +2027,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/nCya1w0nt0Y"
+        "https://www.youtube-nocookie.com/embed/3WKq2QdkftU"
       ]
     },
     "languages": [
@@ -2117,20 +2202,6 @@
     ],
     "country": "ca",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "bXKVlszQEGdoup",
-    "name": "TV Témis",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/BocXYuQIvGs"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "XS1GBLfk5lOEUi",

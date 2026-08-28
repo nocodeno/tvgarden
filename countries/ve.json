@@ -70,39 +70,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AS45XKoNM4hcAi",
-    "name": "Canal C del Zulia",
-    "sources": {
-      "streams": [
-        "https://calm-forest-3478.cristianbracho904.workers.dev/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tF5n1NaStHSPlK",
     "name": "Canal Diplomatico",
     "sources": {
       "streams": [
         "https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1GpRDoekUac7eR",
-    "name": "Canal I",
-    "sources": {
-      "streams": [
-        "https://streaming.canal-i.com/canal-i/live/master.m3u8"
       ]
     },
     "languages": [
@@ -145,6 +117,21 @@
     "sources": {
       "streams": [
         "https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gKZyGzv7VMGeI2",
+    "name": "Grande TV",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8",
+        "https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8"
       ]
     },
     "languages": [
@@ -308,6 +295,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kE8N5CkT9Xc9Iu",
+    "name": "Nortena Tv",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dJh7EB1lQFwOCd",
     "name": "Plous TV",
     "sources": {
@@ -421,20 +422,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LkfWLnGLDxyqrs",
-    "name": "Telebocono",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hWg7qzmsLufJ67",
     "name": "Telecentro",
     "sources": {
@@ -453,28 +440,11 @@
     "name": "Telesur",
     "sources": {
       "streams": [
-        "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
-        "https://45.190.28.50/TELESUR_HD/index.m3u8",
-        "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
+        "https://45.190.28.50/TELESUR_HD/index.m3u8"
       ]
     },
     "languages": [
       "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZmbVMIEhvhggWw",
-    "name": "Telesur English",
-    "sources": {
-      "streams": [
-        "https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
-        "https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "ve",
     "isGeoBlocked": false
@@ -555,20 +525,6 @@
     "sources": {
       "streams": [
         "https://servilive.com:3562/live/vav4c8z38live.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XdOMLij5yy08uC",
-    "name": "TVM para ti",
-    "sources": {
-      "streams": [
-        "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8"
       ]
     },
     "languages": [

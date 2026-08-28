@@ -72,12 +72,12 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "X0fe1ozGC5qVsh",
-    "name": "Canal 1",
+    "nanoid": "1LD9fRGKwL67SK",
+    "name": "BestClasicosTV",
     "sources": {
       "streams": [
-        "https://vid.canal1cr.com:3424/multi_live/play.m3u8",
-        "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
+        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
+        "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
       ]
     },
     "languages": [
@@ -87,11 +87,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9cN6rSKGfOi3ha",
-    "name": "Canal 3 KMK TV",
+    "nanoid": "X0fe1ozGC5qVsh",
+    "name": "Canal 1",
     "sources": {
       "streams": [
-        "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
+        "https://vid.canal1cr.com:3424/multi_live/play.m3u8",
+        "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
       ]
     },
     "languages": [
@@ -113,6 +114,18 @@
     ],
     "country": "cr",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Z3J6UkFFEng975",
+    "name": "Canal 17 TV Nosara",
+    "sources": {
+      "streams": [
+        "https://latamvdo.com:3870/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "bK2TlT0v8UWAuh",
@@ -190,20 +203,6 @@
     "sources": {
       "streams": [
         "https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XI0tj0hHgDA4kn",
-    "name": "Extra TV 42",
-    "sources": {
-      "streams": [
-        "https://d2n1wzrr0aogf5.cloudfront.net/ts:abr.m3u8"
       ]
     },
     "languages": [
@@ -316,6 +315,20 @@
     "sources": {
       "streams": [
         "https://rtmp.info/iqtv/envivo/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hWONN4ANlWd0XQ",
+    "name": "La Potente Radio TV",
+    "sources": {
+      "streams": [
+        "https://latamvdo.com:3626/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -600,6 +613,18 @@
     "languages": [
       "spa"
     ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oFBYYfrHTKyW0r",
+    "name": "TV Nosara",
+    "sources": {
+      "streams": [
+        "https://latamvdo.com:3870/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "cr",
     "isGeoBlocked": false
   },
