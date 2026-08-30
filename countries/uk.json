@@ -551,20 +551,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/jtYsq-tnwh4"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SNT2M9ATZsS3tF",
     "name": "Create & Craft TV Extra",
     "sources": {
@@ -1200,7 +1186,6 @@
     "name": "Inside Crime UK",
     "sources": {
       "streams": [
-        "https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8",
         "https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8"
       ]
@@ -1818,21 +1803,8 @@
     "sources": {
       "streams": [
         "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8",
-        "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tC8c3F84BXvXxm",
-    "name": "NTD TV English UK",
-    "sources": {
-      "streams": [
-        "https://ntd02.akamaized.net/NTD-UK/index.m3u8"
+        "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8",
+        "https://lightningnow90-samsungau.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2025,16 +1997,28 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c4Swg0nm0Rjn8G",
-    "name": "Rakuten TV Action Movies UK",
+    "nanoid": "DqKr2u3T1rmLql",
+    "name": "Rakuten Top Movies UK",
     "sources": {
       "streams": [
-        "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
+        "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
       ]
     },
     "languages": [
       "eng"
     ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6OObHoCz5T6mVt",
+    "name": "Rakuten TV Sci-Fi UK",
+    "sources": {
+      "streams": [
+        "https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -2918,9 +2902,9 @@
     "name": "Wonder",
     "sources": {
       "streams": [
+        "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8",
-        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
-        "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
+        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2948,7 +2932,6 @@
     "name": "World War TV",
     "sources": {
       "streams": [
-        "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8"
       ]
     },

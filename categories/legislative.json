@@ -144,7 +144,6 @@
     "name": "Canal Gov",
     "sources": {
       "streams": [
-        "https://45.177.114.115/TV_BRASIL_2/index.m3u8",
         "https://canalgov-stream.ebc.com.br/index.m3u8",
         "https://168.197.104.22/TV_BRASIL_2/index.m3u8"
       ],
@@ -170,6 +169,20 @@
       "spa"
     ],
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zjs8fScsFVoj7q",
+    "name": "Canal Parlamento del Congreso de Jalisco",
+    "sources": {
+      "streams": [
+        "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -432,6 +445,20 @@
     "sources": {
       "streams": [
         "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "54APtzgfl8rhY2",
+    "name": "CT-N Live Stream 2",
+    "sources": {
+      "streams": [
+        "https://video.ct-n.com/live/web2stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -877,20 +904,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "J49I0cja3V1GVG",
-    "name": "Midpen Media Center Channel 29",
-    "sources": {
-      "streams": [
-        "https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "htfvD77W7qLUSn",
     "name": "Monroe County TV",
     "sources": {
@@ -1001,20 +1014,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "C4WEiFY5k9mJhz",
-    "name": "Orszaggyules: OGY plenaris",
-    "sources": {
-      "streams": [
-        "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
     "isGeoBlocked": false
   },
   {
@@ -1295,7 +1294,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/b2Z9FZs8vn8"
+        "https://www.youtube-nocookie.com/embed/laGo2kJTLjQ"
       ]
     },
     "languages": [

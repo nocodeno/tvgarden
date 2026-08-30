@@ -558,7 +558,8 @@
     "name": "Cine Friki",
     "sources": {
       "streams": [
-        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8"
+        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
+        "https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -734,21 +735,6 @@
     ],
     "country": "es",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "pILTgjKOONeKEW",
-    "name": "El 33 Originals",
-    "sources": {
-      "streams": [
-        "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
-        "https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8"
-      ]
-    },
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "IgIhtSlDnhWcsL",
@@ -1040,20 +1026,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "h9YxHU0Ug32YMW",
-    "name": "HOLA! Play",
-    "sources": {
-      "streams": [
-        "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "c53RhFBvJqM5zG",
     "name": "Ideas en 5 minutos",
     "sources": {
@@ -1118,32 +1090,6 @@
     "languages": [
       "spa"
     ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "b0E5tyyObiYQ6m",
-    "name": "LiraTV",
-    "sources": {
-      "streams": [
-        "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yZT8JeLEndYnMC",
-    "name": "Los Gipsy Kings",
-    "sources": {
-      "streams": [
-        "https://gipsy-kings-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6752/master.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1387,76 +1333,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "L0dEIQTJzvEZO6",
-    "name": "PTV Cordoba",
-    "sources": {
-      "streams": [
-        "https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wyi6TV1fm0mxaX",
-    "name": "PTV Granada",
-    "sources": {
-      "streams": [
-        "https://streamer.zapitv.com/PTV-granada/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6Cliy0YRCsxozG",
-    "name": "PTV Linares",
-    "sources": {
-      "streams": [
-        "https://streamer.zapitv.com/ptv-linarez/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "awdi4zyBaZyzdT",
-    "name": "PTV Malaga",
-    "sources": {
-      "streams": [
-        "https://streamer.zapitv.com/PTV-malaga/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dZdJcGwwUlFFBA",
-    "name": "PTV Sevilla",
-    "sources": {
-      "streams": [
-        "https://streamer.zapitv.com/PTV_sevilla/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MUGH45wnKxFBS7",
     "name": "Punt 3",
     "sources": {
@@ -1524,6 +1400,32 @@
     "languages": [
       "spa"
     ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "duHgjkhG7rfbm4",
+    "name": "Rakuten TV Family Movies Spain",
+    "sources": {
+      "streams": [
+        "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yoWnDlFSJLbaIM",
+    "name": "Rakuten TV Thrillers Spain",
+    "sources": {
+      "streams": [
+        "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },

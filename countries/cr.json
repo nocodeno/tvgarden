@@ -76,8 +76,7 @@
     "name": "BestClasicosTV",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
-        "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
+        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -102,11 +101,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9cN6rSKGfOi3ha",
+    "name": "Canal 3 KMK TV",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lhFBUBQYMx1tnO",
     "name": "Canal 10",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
+        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
+        "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
       ]
     },
     "languages": [
@@ -203,6 +217,20 @@
     "sources": {
       "streams": [
         "https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XI0tj0hHgDA4kn",
+    "name": "Extra TV 42",
+    "sources": {
+      "streams": [
+        "https://d2n1wzrr0aogf5.cloudfront.net/ts:abr.m3u8"
       ]
     },
     "languages": [
@@ -448,20 +476,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Oxstp5zvFaS9ZH",
-    "name": "Retrox TV",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HYkbd92n6SC6wf",
     "name": "San Jose TV",
     "sources": {
@@ -538,20 +552,6 @@
       "streams": [
         "https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/playlist.m3u8",
         "https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FY9JMfvI9sWSMw",
-    "name": "TeleBrunca",
-    "sources": {
-      "streams": [
-        "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8"
       ]
     },
     "languages": [

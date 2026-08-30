@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "k5rLNH9bb5U3R9",
-    "name": "AbejalesTV",
-    "sources": {
-      "streams": [
-        "https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "t2xHdunHhK2Qqc",
     "name": "Aguacate TV",
     "sources": {
@@ -42,11 +28,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YWNPX9f8P0Trxq",
-    "name": "BTA TV",
+    "nanoid": "ShvwvF1bv7BYEt",
+    "name": "Canal 21 Tachira",
     "sources": {
       "streams": [
-        "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
+        "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8"
       ]
     },
     "languages": [
@@ -56,11 +42,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ShvwvF1bv7BYEt",
-    "name": "Canal 21 Tachira",
+    "nanoid": "AS45XKoNM4hcAi",
+    "name": "Canal C del Zulia",
     "sources": {
       "streams": [
-        "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8"
+        "https://calm-forest-3478.cristianbracho904.workers.dev/master.m3u8"
       ]
     },
     "languages": [
@@ -126,21 +112,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gKZyGzv7VMGeI2",
-    "name": "Grande TV",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8",
-        "https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "c9vagOs8X6vg6Q",
     "name": "Guaro TV",
     "sources": {
@@ -174,20 +145,6 @@
     "sources": {
       "streams": [
         "https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MIcJy2C1jnLtEJ",
-    "name": "KandelaTV",
-    "sources": {
-      "streams": [
-        "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
       ]
     },
     "languages": [
@@ -295,20 +252,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kE8N5CkT9Xc9Iu",
-    "name": "Nortena Tv",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dJh7EB1lQFwOCd",
     "name": "Plous TV",
     "sources": {
@@ -394,11 +337,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Hf8hQXiCJxWSk6",
-    "name": "Somos TV",
+    "nanoid": "qRZZMGSFXehDnV",
+    "name": "TAM TV",
     "sources": {
       "streams": [
-        "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8"
+        "https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8"
       ]
     },
     "languages": [
@@ -408,11 +351,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qRZZMGSFXehDnV",
-    "name": "TAM TV",
+    "nanoid": "LkfWLnGLDxyqrs",
+    "name": "Telebocono",
     "sources": {
       "streams": [
-        "https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8"
+        "https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8"
       ]
     },
     "languages": [
@@ -440,11 +383,28 @@
     "name": "Telesur",
     "sources": {
       "streams": [
-        "https://45.190.28.50/TELESUR_HD/index.m3u8"
+        "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+        "https://45.190.28.50/TELESUR_HD/index.m3u8",
+        "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
       ]
     },
     "languages": [
       "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZmbVMIEhvhggWw",
+    "name": "Telesur English",
+    "sources": {
+      "streams": [
+        "https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
+        "https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "ve",
     "isGeoBlocked": false
