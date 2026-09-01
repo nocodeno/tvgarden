@@ -76,7 +76,8 @@
     "name": "BestClasicosTV",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
+        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
+        "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
       ]
     },
     "languages": [
@@ -119,8 +120,7 @@
     "name": "Canal 10",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
-        "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
+        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -138,6 +138,20 @@
       ]
     },
     "languages": [],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Rbhi1IeYnyJ3gG",
+    "name": "Cedros TV",
+    "sources": {
+      "streams": [
+        "https://eu1.servers10.com:8081/cedrostv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
     "country": "cr",
     "isGeoBlocked": false
   },
@@ -217,6 +231,20 @@
     "sources": {
       "streams": [
         "https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DfocyeyWMBI6M1",
+    "name": "Enlace Juvenil",
+    "sources": {
+      "streams": [
+        "https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -552,6 +580,20 @@
       "streams": [
         "https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/playlist.m3u8",
         "https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FY9JMfvI9sWSMw",
+    "name": "TeleBrunca",
+    "sources": {
+      "streams": [
+        "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8"
       ]
     },
     "languages": [

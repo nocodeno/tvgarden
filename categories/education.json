@@ -164,7 +164,6 @@
     "name": "Canal Futura",
     "sources": {
       "streams": [
-        "https://170.83.16.50/FUTURA/index.m3u8",
         "https://186.219.52.187/futura/index.m3u8",
         "https://45.162.64.114/FUTURA/index.m3u8"
       ]
@@ -187,20 +186,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TAS6xjp5V4DYwH",
-    "name": "Canal Universidad",
-    "sources": {
-      "streams": [
-        "https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -796,6 +781,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6EdtrtcTzJTHBM",
+    "name": "HTV4",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=9"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9NYf5msdVIxgC1",
     "name": "ILCE Canal 15 Summa Saberes",
     "sources": {
@@ -989,6 +988,20 @@
       "eng"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tqCNZa0HLCee0u",
+    "name": "Midpen Media Center Channel 28",
+    "sources": {
+      "streams": [
+        "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1439,20 +1452,6 @@
       "spa"
     ],
     "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "r1oGqxJA7bXTXS",
-    "name": "TV Maya",
-    "sources": {
-      "streams": [
-        "https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "yua"
-    ],
-    "country": "gt",
     "isGeoBlocked": false
   },
   {

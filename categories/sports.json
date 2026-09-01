@@ -193,7 +193,6 @@
     "sources": {
       "streams": [
         "https://45.162.64.114/BAND_SPORTS/index.m3u8",
-        "https://170.83.16.50/BAND_SPORTS/index.m3u8",
         "https://45.190.28.50/BAND_SPORTS_HD/index.m3u8"
       ]
     },
@@ -222,7 +221,6 @@
     "name": "Belarus-5",
     "sources": {
       "streams": [
-        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
         "https://stream.mcquack.net/33/index.m3u8",
         "https://streaming.thestream.cyou/live/7001.m3u8"
       ]
@@ -259,6 +257,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gIVpxumuFFQfY2",
+    "name": "Canal Showsport",
+    "sources": {
+      "streams": [
+        "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -552,8 +564,7 @@
     "name": "Fight Network",
     "sources": {
       "streams": [
-        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
-        "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
+        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
       ]
     },
     "languages": [
@@ -967,6 +978,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GVTfU86YlWYBhq",
+    "name": "Lazio Style Channel",
+    "sources": {
+      "streams": [
+        "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zUGGz2dbNzhVAw",
     "name": "LRT Plius",
     "sources": {
@@ -1123,6 +1148,21 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Y5ryr3X9r1YZgg",
+    "name": "MMA-TV.com",
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "WjzlJmHsxUPxpZ",
@@ -1345,6 +1385,7 @@
     "name": "Pac-12 Insider",
     "sources": {
       "streams": [
+        "https://pac12-roku-us.amagi.tv/playlist.m3u8",
         "https://pac12-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1978,6 +2019,51 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "O4sDVfeWkHAv9g",
+    "name": "Star Sports 2",
+    "sources": {
+      "streams": [
+        "https://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "hin",
+      "tam",
+      "tel"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "z0s0hbxYbdXRwl",
+    "name": "Star Sports 2 Hindi",
+    "sources": {
+      "streams": [
+        "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8"
+      ]
+    },
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5INojqhvrRt5r6",
+    "name": "Star Sports Select 2",
+    "sources": {
+      "streams": [
+        "https://tvsen7.aynascope.net/ssport2hd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FKwCdU6RG0k0cZ",
     "name": "SuperTennis",
     "sources": {
@@ -2111,8 +2197,7 @@
     "sources": {
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
-        "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2141,9 +2226,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/hpuZXRpbDes"
       ]
     },
     "languages": [
@@ -2602,7 +2684,7 @@
     "name": "WWE",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/8MFPH0lZnBA"
+        "https://www.youtube-nocookie.com/embed/Jy_Nv1GTTbQ"
       ]
     },
     "languages": [

@@ -159,20 +159,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "ogAXUnHzhYQWxD",
-    "name": "ATN Bangla UK",
-    "sources": {
-      "streams": [
-        "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ben"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yqAqfz8NLIipuY",
     "name": "Banijay Bluelight: Emergency",
     "sources": {
@@ -1221,6 +1207,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WNYH3Yw8Ugl7X8",
+    "name": "Iqra Bangla",
+    "sources": {
+      "streams": [
+        "https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5oHHeA42AXWK92",
     "name": "Iran International",
     "sources": {
@@ -1592,7 +1592,8 @@
     "name": "MTV Global",
     "sources": {
       "streams": [
-        "https://shift03.isp.bg/MTVEurope/index.m3u8"
+        "https://shift03.isp.bg/MTVEurope/index.m3u8",
+        "https://dvr2.kablova.tv/MTV/index.m3u8"
       ]
     },
     "languages": [
@@ -1997,11 +1998,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DqKr2u3T1rmLql",
-    "name": "Rakuten Top Movies UK",
+    "nanoid": "Ys9b9lAAuDchCF",
+    "name": "Rakuten TV Comedy Movies UK",
     "sources": {
       "streams": [
-        "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
+        "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8"
       ]
     },
     "languages": [
@@ -2011,11 +2012,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6OObHoCz5T6mVt",
-    "name": "Rakuten TV Sci-Fi UK",
+    "nanoid": "F2ftHadqxcG2u5",
+    "name": "Rakuten TV Drama Movies UK",
     "sources": {
       "streams": [
-        "https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8"
+        "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pCghkk05sIwmT1",
+    "name": "Rakuten TV Reality UK",
+    "sources": {
+      "streams": [
+        "https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8"
       ]
     },
     "languages": [],

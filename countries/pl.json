@@ -18,7 +18,8 @@
     "name": "4 Fun TV",
     "sources": {
       "streams": [
-        "https://stream.4fun.tv:8888/hls/4f.m3u8"
+        "https://stream.4fun.tv:8888/hls/4f.m3u8",
+        "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
       ]
     },
     "languages": [
@@ -98,6 +99,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JwjTtBdIXCgMJP",
+    "name": "BTB",
+    "sources": {
+      "streams": [
+        "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NHCXMxoKr3soBB",
+    "name": "BTB 2",
+    "sources": {
+      "streams": [
+        "https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DHR1El8JiIdfUH",
     "name": "BTB 3",
     "sources": {
@@ -162,20 +191,6 @@
     },
     "languages": [
       "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lSTW1dzY0A0GTW",
-    "name": "Cartoon Classics FAST",
-    "sources": {
-      "streams": [
-        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "pl",
     "isGeoBlocked": false
@@ -508,20 +523,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "coRLnGknftkVsQ",
-    "name": "Sfera TV",
-    "sources": {
-      "streams": [
-        "https://stream.sferatv.pl/sferatvlive/live.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EQEGSe3LlRCr52",
     "name": "Szlagierowo: Biesiadne Radio",
     "sources": {
@@ -790,34 +791,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2SfhuUEazfjthW",
-    "name": "TV Relax",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/V-FWHUjoWjI"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aY6u7qwNMI1Wgm",
-    "name": "TVK Stella",
-    "sources": {
-      "streams": [
-        "https://stream.tvkstella.pl/stella/stella.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Se7x9HGaZbNY8X",
     "name": "TVP Info",
     "sources": {
@@ -858,20 +831,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8fkva1GfM7tM4w",
-    "name": "TVSUDECKA PL",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/y8wVGM18c18"
-      ]
-    },
-    "languages": [
-      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false
