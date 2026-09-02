@@ -503,8 +503,9 @@
     "name": "Channel One",
     "sources": {
       "streams": [
+        "https://45.153.24.78/1TV/index.m3u8",
         "https://178.217.49.7/1/index.m3u8",
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8"
+        "https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -533,48 +534,6 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zzxh5uo44jq1FL",
-    "name": "City Eden KinoFantastika",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/45268/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N0XF0zTYtjf6Vc",
-    "name": "City Eden KinoKomediya",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/41331/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CZ0c6ZasjBnZ4w",
-    "name": "City Eden TeleNovella",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/46209/index.m3u8"
       ]
     },
     "languages": [
@@ -1642,21 +1601,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Y5ryr3X9r1YZgg",
-    "name": "MMA-TV.com",
-    "sources": {
-      "streams": [
-        "https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "M5xMH8eJsKVp5N",
     "name": "Mosfilm Gold Collection",
     "sources": {
@@ -2288,6 +2232,20 @@
     ],
     "country": "ru",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JlKHz3NWpcFhMg",
+    "name": "OTR",
+    "sources": {
+      "streams": [
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "CdPsbXmKIYhFzA",
@@ -4119,7 +4077,7 @@
     "name": "Кино Добряк: Сваты и Байки Митяя",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ozuhPITB_4g"
+        "https://www.youtube-nocookie.com/embed/h3mA6LNHmmI"
       ]
     },
     "languages": [

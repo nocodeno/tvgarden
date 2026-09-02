@@ -106,8 +106,8 @@
     "name": "Biz TV",
     "sources": {
       "streams": [
-        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
-        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
+        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
+        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -142,20 +142,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7uNjpsoS436Esc",
-    "name": "CinePride",
-    "sources": {
-      "streams": [
-        "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2223"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -258,6 +244,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hWjqV9dGq58pYr",
+    "name": "Fashion TV",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/287/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yAWufo7GdMbTbc",
     "name": "Fashion&LifeStyle",
     "sources": {
@@ -346,8 +346,8 @@
     "name": "Fortuna TV",
     "sources": {
       "streams": [
-        "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
-        "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
+        "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
+        "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -361,7 +361,7 @@
     "name": "Friends of Felines Rescue Center",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/3wszKLxaMnI"
+        "https://www.youtube-nocookie.com/embed/CFppLal1YUY"
       ]
     },
     "languages": [
@@ -490,6 +490,7 @@
     "sources": {
       "streams": [
         "https://cdn-3.pishow.tv/live/1123/master.m3u8",
+        "https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8",
         "https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8"
       ]
     },
@@ -497,20 +498,6 @@
       "mal"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0d7AKk0q5cqwkG",
-    "name": "KPVM-LD 25.7",
-    "sources": {
-      "streams": [
-        "https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -813,6 +800,20 @@
       "fra"
     ],
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LmMmHAVWfMTaiO",
+    "name": "Wapp",
+    "sources": {
+      "streams": [
+        "https://stream.wapptv.cl/video/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   }
 ]

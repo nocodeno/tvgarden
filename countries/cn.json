@@ -99,20 +99,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fKZLucUhJYe0vc",
-    "name": "CCTV-5+",
-    "sources": {
-      "streams": [
-        "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8qbHNd2Zc2MjWY",
     "name": "CCTV-9",
     "sources": {
@@ -132,6 +118,20 @@
     "sources": {
       "streams": [
         "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yIwXMwM4XLZjQD",
+    "name": "CCTV+ 2",
+    "sources": {
+      "streams": [
+        "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -702,42 +702,6 @@
     "languages": [],
     "country": "cn",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "G8jMlVl14mEiZk",
-    "name": "宿州公共",
-    "sources": {
-      "streams": [
-        "https://live.ahsz.tv/video/s10001-ggpd/index.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LhzYAfOxktXLl3",
-    "name": "宿州新闻综合",
-    "sources": {
-      "streams": [
-        "https://live.ahsz.tv/video/s10001-szzh/index.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ez5NBYjpiihwmc",
-    "name": "宿州科教",
-    "sources": {
-      "streams": [
-        "https://live.ahsz.tv/video/s10001-kxjy/index.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "0REjP55mYk4y0F",

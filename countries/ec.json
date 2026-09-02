@@ -266,6 +266,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rUmy5ItsraiQ6E",
+    "name": "Gaviota TV",
+    "sources": {
+      "streams": [
+        "https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "c0ayJmoC3gtMTu",
     "name": "Hechos Ecuador",
     "sources": {
@@ -350,20 +364,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y0sG32hXHAVy2Q",
-    "name": "Majestad Television",
-    "sources": {
-      "streams": [
-        "https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "E3rLmWg3JB8sKD",
     "name": "MakroDigital Television",
     "sources": {
@@ -434,20 +434,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ThXcsCjDAJyX7d",
-    "name": "Oromar TV+",
-    "sources": {
-      "streams": [
-        "https://stream.oromar.tv/hls/camriva/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yQP21gjr5nH5Wg",
     "name": "Puruwa TV",
     "sources": {
@@ -490,11 +476,53 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QpaipzMOWMjyyR",
+    "name": "Radio Monumental TV",
+    "sources": {
+      "streams": [
+        "https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xVqW7TFhiaRWy0",
+    "name": "Red TVE Ventanas",
+    "sources": {
+      "streams": [
+        "https://s2.tvdatta.com:3825/live/redtvelive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SaGLTOGoC0bQPx",
     "name": "RTRTV",
     "sources": {
       "streams": [
         "https://tv3ecuador.site/hls/stream/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8GS07KlJ6wtlsy",
+    "name": "RTV",
+    "sources": {
+      "streams": [
+        "https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8"
       ]
     },
     "languages": [
