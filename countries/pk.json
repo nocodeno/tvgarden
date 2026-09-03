@@ -4,7 +4,7 @@
     "name": "24 News HD",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/D5SUP0MIqBA"
+        "https://www.youtube-nocookie.com/embed/VvcFLtRB-Lk"
       ]
     },
     "languages": [
@@ -77,6 +77,7 @@
     "name": "Aik News",
     "sources": {
       "streams": [
+        "https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/live/vsat-84H/chunks.m3u8",
         "https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2"
       ]
     },
@@ -95,6 +96,20 @@
       ]
     },
     "languages": [],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "snzVRw31EQRlDo",
+    "name": "ARY News",
+    "sources": {
+      "streams": [
+        "https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
     "country": "pk",
     "isGeoBlocked": false
   },
@@ -160,7 +175,7 @@
     "name": "City 21 News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/QhwqFWLksNY"
+        "https://www.youtube-nocookie.com/embed/Dh_uFpEkbWA"
       ]
     },
     "languages": [
@@ -174,7 +189,7 @@
     "name": "City 41",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/b0m8a8fcBQg"
+        "https://www.youtube-nocookie.com/embed/MpvruP07XYY"
       ]
     },
     "languages": [
@@ -189,7 +204,7 @@
     "name": "City 42",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/JXmxwfEMc_o"
+        "https://www.youtube-nocookie.com/embed/D38rllx3X6U"
       ]
     },
     "languages": [
@@ -658,7 +673,7 @@
     "name": "KTN NEWS TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/xvM0yofi8GM"
+        "https://www.youtube-nocookie.com/embed/7kvibBGWm1g"
       ]
     },
     "languages": [
@@ -874,6 +889,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eEl9GNsGZ69KhR",
+    "name": "PTV Sports",
+    "sources": {
+      "streams": [
+        "https://tvsen7.aynascope.net/Sports1/index.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2BiD8BBiCEFIXu",
     "name": "PTV World",
     "sources": {
@@ -923,11 +952,25 @@
     "name": "Sindh TV News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/TlDb0o9sCZ4"
+        "https://www.youtube-nocookie.com/embed/T1-K-8R5qLQ"
       ]
     },
     "languages": [
       "eng"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WXuOh2YwSDNDLT",
+    "name": "Sky News Urdu",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
     ],
     "country": "pk",
     "isGeoBlocked": false

@@ -832,6 +832,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "W4BjJOWor1EINM",
+    "name": "ACE Country Radio KPVM-LD",
+    "sources": {
+      "streams": [
+        "https://2-fss-1.streamhoster.com/pl_122/206858-4412960-1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bXq6T4aXVueyBN",
     "name": "Acorn TV Mysteries",
     "sources": {
@@ -1199,20 +1213,6 @@
     },
     "languages": [
       "fas"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wsFPYVG6zxWvST",
-    "name": "Alabama Weather Network",
-    "sources": {
-      "streams": [
-        "https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -1628,11 +1628,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sPGmyALtlBkjD3",
+    "name": "Ameritrade",
+    "sources": {
+      "streams": [
+        "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "et5iR1Oc0qBZ3J",
     "name": "AMG TV",
     "sources": {
       "streams": [
         "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PkfLchoJMaxXxl",
+    "name": "AMGA TV",
+    "sources": {
+      "streams": [
+        "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2081,7 +2109,8 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
+        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2619,8 +2648,8 @@
     "name": "Biz TV",
     "sources": {
       "streams": [
-        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
-        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
+        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
       ]
     },
     "languages": [
@@ -3595,7 +3624,7 @@
         "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/N1t9Kjsgbyk"
+        "https://www.youtube-nocookie.com/embed/eB0kF1ZiZF0"
       ]
     },
     "languages": [
@@ -3846,6 +3875,9 @@
     "sources": {
       "streams": [
         "https://pemirateshls.persiana.live/hls/stream.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/KAoRrFHQ4pc"
       ]
     },
     "languages": [
@@ -3995,8 +4027,8 @@
     "sources": {
       "streams": [
         "https://amg00432-circletvfast-amg00432c1-cineverse-us-1112.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-cineverseus/playlist.m3u8",
-        "https://circle-roku.amagi.tv/playlist.m3u8",
-        "https://circle-xumo.amagi.tv/playlist.m3u8"
+        "https://circle-xumo.amagi.tv/playlist.m3u8",
+        "https://circle-samsung.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -4366,14 +4398,14 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "BMO0FRe0mBVXUu",
     "name": "CoinVaultTV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/RDgUpZmLab4"
+        "https://www.youtube-nocookie.com/embed/baggQWvr-aA"
       ]
     },
     "languages": [
@@ -5748,7 +5780,6 @@
     "name": "Don't Tell The Bride",
     "sources": {
       "streams": [
-        "https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg00426-lds-amg00426c15-samsung-nz-3685.playouts.now.amagi.tv/playlist.m3u8"
       ]
@@ -6723,6 +6754,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eNOYZvW4v10TNt",
+    "name": "Fox Business Network",
+    "sources": {
+      "streams": [
+        "https://tvsen6.aynaott.com/foxbusiness/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vJVb5mO9wEX9a8",
     "name": "Fox Deportes",
     "sources": {
@@ -6742,7 +6787,8 @@
     "name": "Fox News Channel",
     "sources": {
       "streams": [
-        "https://45.190.28.50/FOX_NEWS/index.m3u8"
+        "https://45.190.28.50/FOX_NEWS/index.m3u8",
+        "https://tvsen6.aynaott.com/foxnews/index.m3u8"
       ]
     },
     "languages": [
@@ -7650,9 +7696,9 @@
     "name": "History Hit",
     "sources": {
       "streams": [
+        "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8",
-        "https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8",
-        "https://timeline-samsung-uk.amagi.tv/playlist.m3u8"
+        "https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8"
       ]
     },
     "languages": [
@@ -8027,18 +8073,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "As1a59LBPcbNCx",
-    "name": "In Touch+",
-    "sources": {
-      "streams": [
-        "https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CRZbysFo83yVVC",
     "name": "INFAST",
     "sources": {
@@ -8060,18 +8094,6 @@
     "sources": {
       "streams": [
         "https://pb-5kduxc2en4kdz.akamaized.net/Intervention_by_AE.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "JsEDLn39TTIoIZ",
-    "name": "InTouch+",
-    "sources": {
-      "streams": [
-        "https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [],
@@ -8648,18 +8670,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tRKfkssN3eWqUD",
-    "name": "KPVM Ace Country Radio",
-    "sources": {
-      "streams": [
-        "https://2-fss-1.streamhoster.com/pl_122/206858-4412960-1/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0d7AKk0q5cqwkG",
     "name": "KPVM AWE Plus",
     "sources": {
@@ -8672,59 +8682,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vNsAABCxnjxlTH",
-    "name": "KPVM Movies!",
-    "sources": {
-      "streams": [
-        "https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XWQWc4Dv3IvaI0",
     "name": "KPVM Newsmax 2",
     "sources": {
       "streams": [
         "https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mxAQ0C1BvHbeDi",
-    "name": "KPVM OAN Plus",
-    "sources": {
-      "streams": [
-        "https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QvcmdA1EvJPBz4",
-    "name": "KPVM Real America's Voice",
-    "sources": {
-      "streams": [
-        "https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ovqg1va2O0hkqi",
-    "name": "KPVM Story Television",
-    "sources": {
-      "streams": [
-        "https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8"
       ]
     },
     "languages": [],
@@ -8991,6 +8953,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9DogyLeIADAgPf",
+    "name": "La Que Buena Atlanta",
+    "sources": {
+      "streams": [
+        "https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yWnEzjOYxq0cOc",
     "name": "LA Times Studios",
     "sources": {
@@ -9183,20 +9159,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iPsaC1DdWKDd90",
-    "name": "LBC International",
-    "sources": {
-      "streams": [
-        "https://185.9.2.18/chid_521/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -9417,7 +9379,6 @@
     "sources": {
       "streams": [
         "https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8",
-        "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8"
       ],
       "youtube": [
@@ -9783,6 +9744,20 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "5UAjqF3w6vHQFH",
+    "name": "Magnificent Movies Network",
+    "sources": {
+      "streams": [
+        "https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "gbFP1BkGFCq4C6",
@@ -10326,6 +10301,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "6VfdM1XJEcjloD",
+    "name": "Movies! KPVM-LD",
+    "sources": {
+      "streams": [
+        "https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Bp0NPXMkwMRSoG",
     "name": "MovieSphere by Lionsgate",
     "sources": {
@@ -10405,7 +10394,7 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "eD7pY7pmACLEBN",
@@ -10530,7 +10519,6 @@
     "name": "Mystery Science Theater 3000",
     "sources": {
       "streams": [
-        "https://mst3k-vizio.amagi.tv/playlist.m3u8",
         "https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8"
       ]
     },
@@ -11085,7 +11073,7 @@
         "https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/M4rwsuafIps"
+        "https://www.youtube-nocookie.com/embed/-j8mXdFZLKs"
       ]
     },
     "languages": [
@@ -11219,8 +11207,8 @@
     "name": "NEW K.MOVIES",
     "sources": {
       "streams": [
-        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ30000122O&channel_id=newid_342&tp=samsung_tvplus",
-        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus"
+        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus",
+        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ30000122O&channel_id=newid_342&tp=samsung_tvplus"
       ]
     },
     "languages": [
@@ -11249,6 +11237,48 @@
     "sources": {
       "streams": [
         "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "EmHOTWEORpvSsZ",
+    "name": "News12 Brooklyn",
+    "sources": {
+      "streams": [
+        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "EtiKHivASIxm20",
+    "name": "News12 Conneticut",
+    "sources": {
+      "streams": [
+        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "kStaIms86sY53l",
+    "name": "News12 Hudson Valley",
+    "sources": {
+      "streams": [
+        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https"
       ]
     },
     "languages": [
@@ -11333,7 +11363,7 @@
     "sources": {
       "streams": [
         "https://amg00217-newsmax-newsmax-rokuus-dur76.amagi.tv/playlist.m3u8",
-        "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+        "https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8",
         "https://newsmax-klowdtv.amagi.tv/playlist.m3u8"
       ]
     },
@@ -11719,6 +11749,20 @@
       "streams": [
         "https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8",
         "https://a-cdn.klowdtv.com/live1/oane/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dWVhjI6jTHMbd9",
+    "name": "OAN Plus KPVM-LD",
+    "sources": {
+      "streams": [
+        "https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -12169,20 +12213,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5DO8ONOyVLghIc",
-    "name": "PBC Tapesh TV",
-    "sources": {
-      "streams": [
-        "https://iptv.tapesh.tv/tapesh/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fas"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -13133,6 +13163,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C0TQLEpLkF4udc",
+    "name": "Real America's Voice KPVM-LD",
+    "sources": {
+      "streams": [
+        "https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3Tx5kMogcxLoh3",
     "name": "Real Crime",
     "sources": {
@@ -13730,26 +13774,30 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ESo98em1OrD8La",
-    "name": "Scientology Network KSCN-DT1",
+    "nanoid": "nJvu9Wo8flfgSr",
+    "name": "Scientology Network KSCN-TV",
     "sources": {
       "streams": [
         "https://stream-losangeles.scientology.org/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "us",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2dBsVuDKaeM8qH",
-    "name": "Scientology Network WFTT-DT1",
+    "nanoid": "1kVMN9r74Uegrw",
+    "name": "Scientology Network WFTT-TV",
     "sources": {
       "streams": [
         "https://stream-tampa.scientology.org/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -14433,6 +14481,7 @@
     "name": "SportsGrid",
     "sources": {
       "streams": [
+        "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8",
         "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
         "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
       ]
@@ -14572,6 +14621,20 @@
       ]
     },
     "languages": [],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zpLO4gTUuVtfkO",
+    "name": "Story Television KPVM-LD",
+    "sources": {
+      "streams": [
+        "https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -15231,8 +15294,7 @@
     "sources": {
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
-        "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
       ]
     },
     "languages": [
@@ -15869,11 +15931,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vsipvP55Drqkn2",
+    "name": "Timeless TV",
+    "sources": {
+      "streams": [
+        "https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lXUNtDos62KzUk",
     "name": "Times Now World",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/U1Fu1trneBY"
+        "https://www.youtube-nocookie.com/embed/GpjUJsK_3DU"
       ]
     },
     "languages": [
@@ -16884,7 +16960,6 @@
     "sources": {
       "streams": [
         "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports/playlist.m3u8",
-        "https://unbeaten-tcl.amagi.tv/playlist.m3u8",
         "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8"
       ]
     },
@@ -17059,6 +17134,9 @@
         "https://amg00457-amg00457c1-stirr-us-8143.playouts.now.amagi.tv/playlist.m3u8",
         "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8",
         "https://usatodaynews-xumo.amagi.tv/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/KPMrZBofXqc"
       ]
     },
     "languages": [

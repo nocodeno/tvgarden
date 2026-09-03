@@ -421,20 +421,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fNzNQyxrdQA2dG",
-    "name": "Multimedios Costa Rica",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/jvBPzEmMfDo"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "L1OBT7Lnf5SKDh",
     "name": "NicoyaTV",
     "sources": {
@@ -494,6 +480,20 @@
     "sources": {
       "streams": [
         "https://rtmp.info/sanjosetv/envivo/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pJed6PGC73uDCa",
+    "name": "San Vito Television",
+    "sources": {
+      "streams": [
+        "https://stream.lamegatv.com/hls/sanvitotelevision/index.m3u8"
       ]
     },
     "languages": [
@@ -602,6 +602,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "aeI6TVNDKNvZiP",
+    "name": "TeleSUR Costa Rica",
+    "sources": {
+      "streams": [
+        "https://s1.tvdatta.com:3582/live/telesurlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "46bhWZVm1EdjmB",
     "name": "TV Cartago Digital",
     "sources": {
@@ -634,6 +648,49 @@
     "sources": {
       "streams": [
         "https://k20.usastreams.com:8081/tvsur/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sue3ShLLkmrNlc",
+    "name": "Urbano TV",
+    "sources": {
+      "streams": [
+        "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Nc2Y8BrEFeOYAw",
+    "name": "Video Tour Channel",
+    "sources": {
+      "streams": [
+        "https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8",
+        "https://k4.usastreams.com/videotour/videotour/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tTy2o9iN37Hvi8",
+    "name": "Vintage Music",
+    "sources": {
+      "streams": [
+        "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
       ]
     },
     "languages": [

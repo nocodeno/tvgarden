@@ -32,7 +32,6 @@
     "name": "4 Fun TV",
     "sources": {
       "streams": [
-        "https://stream.4fun.tv:8888/hls/4f.m3u8",
         "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
       ]
     },
@@ -120,7 +119,8 @@
     "sources": {
       "streams": [
         "https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8",
-        "https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8"
+        "https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8",
+        "https://tvsen6.aynaott.com/CiPT1VTG8bVekeAZiibd/index.m3u8"
       ]
     },
     "languages": [
@@ -136,7 +136,7 @@
       "streams": [
         "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8",
         "https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8",
-        "https://cdn-3.pishow.tv/live/6/master.m3u8"
+        "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8"
       ]
     },
     "languages": [
@@ -152,7 +152,7 @@
       "streams": [
         "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8",
         "https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8",
-        "https://cdn-2.pishow.tv/live/1613/master.m3u8"
+        "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8"
       ]
     },
     "languages": [
@@ -303,6 +303,20 @@
       "wol"
     ],
     "country": "sn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "W4BjJOWor1EINM",
+    "name": "ACE Country Radio KPVM-LD",
+    "sources": {
+      "streams": [
+        "https://2-fss-1.streamhoster.com/pl_122/206858-4412960-1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -662,7 +676,6 @@
     "sources": {
       "streams": [
         "https://mcncdndigital.com/balleballetv/index.m3u8",
-        "https://cdn-4.pishow.tv/live/987/master.m3u8",
         "https://streams.tangotv.in/BALLEBALLE/ORIGIN/index.m3u8"
       ]
     },
@@ -1363,6 +1376,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "E3Fuo7LqwAfWE9",
+    "name": "Deluxe Dance",
+    "sources": {
+      "streams": [
+        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hoEK50b8RIgSOh",
     "name": "Deluxe Music",
     "sources": {
@@ -1410,7 +1437,6 @@
     "name": "Dhoom Music",
     "sources": {
       "streams": [
-        "https://cdn-1.pishow.tv/live/1456/master.m3u8",
         "https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8"
       ]
     },
@@ -1942,6 +1968,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KorxP0jgE3cFyZ",
+    "name": "GO TV",
+    "sources": {
+      "streams": [
+        "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cqIhg7ovb7n2hP",
     "name": "Gugak TV",
     "sources": {
@@ -1997,6 +2037,20 @@
       "pap"
     ],
     "country": "aw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8vX1XPEH9jNBSM",
+    "name": "HEi Now",
+    "sources": {
+      "streams": [
+        "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
     "isGeoBlocked": false
   },
   {
@@ -2355,6 +2409,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MIcJy2C1jnLtEJ",
+    "name": "KandelaTV",
+    "sources": {
+      "streams": [
+        "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4MzSBBmB0C1tiF",
     "name": "Karibena",
     "sources": {
@@ -2498,6 +2566,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "j2PNx5Xg25mTJj",
+    "name": "KpopTV Play",
+    "sources": {
+      "streams": [
+        "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kor",
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0U8AHRskM6eU3e",
     "name": "Kronehit",
     "sources": {
@@ -2568,20 +2651,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wzR0TNYEFfuhVq",
-    "name": "La Hermandad Salsera",
-    "sources": {
-      "streams": [
-        "https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4Nl0um2MnZBZ5L",
     "name": "La Kalle",
     "sources": {
@@ -2624,17 +2693,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HAjT5lHheouJ3C",
-    "name": "La Top 102.9",
+    "nanoid": "9DogyLeIADAgPf",
+    "name": "La Que Buena Atlanta",
     "sources": {
       "streams": [
-        "https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8"
+        "https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8"
       ]
     },
     "languages": [
       "spa"
     ],
-    "country": "hn",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -2650,20 +2719,6 @@
     ],
     "country": "hn",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jkKIWp8tVeKWkO",
-    "name": "La Voz del Tropico",
-    "sources": {
-      "streams": [
-        "https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "ESeEpgafREEMIe",
@@ -3011,20 +3066,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xpVI5qvhacSMib",
-    "name": "Maimon TV Canal 3",
-    "sources": {
-      "streams": [
-        "https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RMbg1qFUrHD6uy",
     "name": "Makao TV",
     "sources": {
@@ -3093,21 +3134,6 @@
       "spa"
     ],
     "country": "pa",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2RNOyGKRiGPXuw",
-    "name": "MasMusica FM",
-    "sources": {
-      "streams": [
-        "https://movil.ejeserver.com/live/masmusica.m3u8",
-        "https://video.ejeserver.com/live/masmusica.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
     "isGeoBlocked": false
   },
   {
@@ -3221,20 +3247,6 @@
       "ara"
     ],
     "country": "jo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5gU0KM4Sn73Y6s",
-    "name": "Messatida TV",
-    "sources": {
-      "streams": [
-        "https://rtmp.streams.ovh:8081/mtv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
     "isGeoBlocked": false
   },
   {
@@ -3453,7 +3465,6 @@
     "name": "Music India",
     "sources": {
       "streams": [
-        "https://cdn-2.pishow.tv/live/226/master.m3u8",
         "https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8"
       ]
     },
@@ -4015,20 +4026,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RoX5xBQ3r0IcEF",
-    "name": "Orange Bangla TV",
-    "sources": {
-      "streams": [
-        "https://cdn-4.pishow.tv/live/1499/master.m3u8"
-      ]
-    },
-    "languages": [
-      "ben"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vyv7aN2DLRtAEV",
     "name": "Oxygen Music",
     "sources": {
@@ -4131,7 +4128,6 @@
     "name": "Peppers TV",
     "sources": {
       "streams": [
-        "https://cdn-2.pishow.tv/live/1383/master.m3u8",
         "https://mumt07.tangotv.in/zHjX9OFlPEPPERS/index.m3u8"
       ]
     },
@@ -4372,7 +4368,6 @@
     "name": "PTC Chakde",
     "sources": {
       "streams": [
-        "https://cdn-1.pishow.tv/live/449/master.m3u8",
         "https://mumt06.tangotv.in/qYyB8fXVPTCCHAKDE/index.m3u8"
       ]
     },
@@ -4388,7 +4383,6 @@
     "sources": {
       "streams": [
         "https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8",
-        "https://cdn-3.pishow.tv/live/1501/master.m3u8",
         "https://mumt04.tangotv.in/m18aqlK4PTCMUSIC/index.m3u8"
       ]
     },
@@ -4403,7 +4397,7 @@
     "name": "Public Music",
     "sources": {
       "streams": [
-        "https://cdn-3.pishow.tv/live/441/master.m3u8"
+        "https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8"
       ]
     },
     "languages": [
@@ -4889,20 +4883,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kGCggKzMvsmQYi",
-    "name": "Radio San Borja TV",
-    "sources": {
-      "streams": [
-        "https://stream.mediacorp.pe/srt/3/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Oy0RzzLMHXV3WJ",
     "name": "Radio San Cristobal 88.7 FM",
     "sources": {
@@ -5065,7 +5045,7 @@
     "name": "Raj Musix Telugu",
     "sources": {
       "streams": [
-        "https://cdn-1.pishow.tv/live/1213/master.m3u8"
+        "https://mumt07.tangotv.in/zHjX9OFlRAJMUSIXTELUGU/index.m3u8"
       ]
     },
     "languages": [
@@ -5405,6 +5385,7 @@
     "name": "Salsa Gorda Television",
     "sources": {
       "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
         "https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8"
       ]
     },
@@ -5434,7 +5415,6 @@
     "name": "Sangeet Bangla",
     "sources": {
       "streams": [
-        "https://cdn-4.pishow.tv/live/1143/master.m3u8",
         "https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8"
       ]
     },
@@ -5449,7 +5429,6 @@
     "name": "Sangeet Bhojpuri",
     "sources": {
       "streams": [
-        "https://cdn-4.pishow.tv/live/1293/master.m3u8",
         "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8"
       ]
     },
@@ -5464,7 +5443,6 @@
     "name": "Sangeet Marathi",
     "sources": {
       "streams": [
-        "https://cdn-3.pishow.tv/live/1229/master.m3u8",
         "https://mumt07.tangotv.in/zHjX9OFlSANGEETMARATHI/index.m3u8"
       ]
     },
@@ -5517,6 +5495,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "AjxmxQL6ROzUdd",
+    "name": "ShowVen TV",
+    "sources": {
+      "streams": [
+        "https://cdnbarinas.tvzamora.com/showven/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "V55Spleruc6ryB",
     "name": "Siembra TV",
     "sources": {
@@ -5564,7 +5556,8 @@
     "name": "Solo Bailalo",
     "sources": {
       "streams": [
-        "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8"
+        "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
+        "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8"
       ]
     },
     "languages": [
@@ -6501,6 +6494,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oimpG8sQBrTcUM",
+    "name": "TMA",
+    "sources": {
+      "streams": [
+        "https://hls.tmacaraibes.com/live/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "gp",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4HFk1EIyyY3Rms",
     "name": "Today Radio",
     "sources": {
@@ -7020,6 +7027,7 @@
     "name": "Turbo Mix Radio TV",
     "sources": {
       "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8",
         "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8"
       ]
     },
@@ -7027,20 +7035,6 @@
       "spa"
     ],
     "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mLgNvZ4NFF7VAQ",
-    "name": "TV Cidade",
-    "sources": {
-      "streams": [
-        "https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "cv",
     "isGeoBlocked": false
   },
   {
@@ -7170,17 +7164,45 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hJ7RP05oeqLZ6y",
+    "name": "Ultra TV 4K",
+    "sources": {
+      "streams": [
+        "https://45.190.28.50/ULTRA/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "njbWsA8ODBjdM0",
     "name": "Urbana Play 104.3 FM",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/xrpvrdNbWFU"
+        "https://www.youtube-nocookie.com/embed/TXq_KknsEBA"
       ]
     },
     "languages": [
       "spa"
     ],
     "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sue3ShLLkmrNlc",
+    "name": "Urbano TV",
+    "sources": {
+      "streams": [
+        "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -7277,8 +7299,8 @@
     "name": "Vantage Music",
     "sources": {
       "streams": [
-        "https://cdn-backup.lulzy.eu/vrock_stream/index.m3u8",
         "https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8",
+        "https://cdn-backup.lulzy.eu/vrock_stream/index.m3u8",
         "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8"
       ]
     },
@@ -7358,6 +7380,35 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Nc2Y8BrEFeOYAw",
+    "name": "Video Tour Channel",
+    "sources": {
+      "streams": [
+        "https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8",
+        "https://k4.usastreams.com/videotour/videotour/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tTy2o9iN37Hvi8",
+    "name": "Vintage Music",
+    "sources": {
+      "streams": [
+        "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
     "isGeoBlocked": false
   },
   {

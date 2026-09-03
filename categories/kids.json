@@ -17,20 +17,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fooBWNn7lAf85s",
-    "name": "4 Fun Kids",
-    "sources": {
-      "streams": [
-        "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "At9xDVwnRJnJwN",
     "name": "13 Kids",
     "sources": {
@@ -132,6 +118,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QHuUkTJnPtT3bd",
+    "name": "Atfal & Mawaheb TV",
+    "sources": {
+      "streams": [
+        "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+        "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BA4cWPIdrFeLrG",
     "name": "Baby Shark TV",
     "sources": {
@@ -169,20 +170,6 @@
       "zho"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NsRP1rTNLBH991",
-    "name": "Balapan",
-    "sources": {
-      "streams": [
-        "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kaz"
-    ],
-    "country": "kz",
     "isGeoBlocked": false
   },
   {
@@ -564,20 +551,6 @@
       "spa"
     ],
     "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ioAW5Hy7e9f7fU",
-    "name": "Chithiram",
-    "sources": {
-      "streams": [
-        "https://cdn-6.pishow.tv/live/1243/master.m3u8"
-      ]
-    },
-    "languages": [
-      "tam"
-    ],
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1473,7 +1446,8 @@
     "name": "Mama",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/79/index.m3u8"
+        "https://stream.mcquack.net/79/index.m3u8",
+        "https://flussonic.linkintel.ru/mama/index.m3u8"
       ]
     },
     "languages": [
@@ -1773,20 +1747,6 @@
     "sources": {
       "streams": [
         "https://x1colegal.com/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dlSxOcHpkY3viD",
-    "name": "NickOnline Bob Esponja",
-    "sources": {
-      "streams": [
-        "https://bob.x1colegal.com/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -2242,6 +2202,20 @@
     ],
     "country": "uk",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "LaJUiyDd3qErb2",
+    "name": "Pororo 뽀로로",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/3QCZ4TvuRVc"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "uuPEZrmKbOVuZJ",
@@ -2715,6 +2689,20 @@
       "fra"
     ],
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YCPZsdEDhEaJOB",
+    "name": "TRT Cocuk",
+    "sources": {
+      "streams": [
+        "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
     "isGeoBlocked": false
   },
   {

@@ -74,7 +74,8 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
+        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -137,6 +138,7 @@
     "name": "BTB Info",
     "sources": {
       "streams": [
+        "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
         "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8"
       ]
     },
@@ -561,9 +563,9 @@
     "name": "History Hit",
     "sources": {
       "streams": [
+        "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8",
-        "https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8",
-        "https://timeline-samsung-uk.amagi.tv/playlist.m3u8"
+        "https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8"
       ]
     },
     "languages": [
@@ -938,17 +940,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C9r0nQTewOjHW3",
-    "name": "RL PRO TV",
+    "nanoid": "gEeVOh2cSKdMiu",
+    "name": "Persiana Travel",
     "sources": {
       "streams": [
-        "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
+        "https://mardomhls.wns.live/hls/stream.m3u8",
+        "https://ptravelhls.persiana.live/hls/stream.m3u8"
       ]
     },
     "languages": [
-      "fra"
+      "fas"
     ],
-    "country": "cd",
+    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -986,7 +989,6 @@
     "name": "Safari TV",
     "sources": {
       "streams": [
-        "https://cdn-6.pishow.tv/live/1513/master.m3u8",
         "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
       ]
     },

@@ -323,12 +323,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9cbMZrwOtdSUeq",
-    "name": "Bir TV",
+    "nanoid": "Z7tHup27v1j2Td",
+    "name": "Bodrum Kent TV",
     "sources": {
       "streams": [
-        "https://edge2.taksimbilisim.com/birtv/bant1/playlist.m3u8",
-        "https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8"
+        "https://edge2.taksimbilisim.com/bodrumkenttv/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -624,7 +623,7 @@
     "name": "EKOTÜRK TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/7WzYhEvCTPU"
+        "https://www.youtube-nocookie.com/embed/jmbQFDeeBsQ"
       ]
     },
     "languages": [
@@ -779,8 +778,8 @@
     "name": "Fortuna TV",
     "sources": {
       "streams": [
-        "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
-        "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
+        "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
+        "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1881,6 +1880,9 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/TF0iIhhUhP8"
       ]
     },
     "languages": [
@@ -1952,6 +1954,20 @@
     "sources": {
       "streams": [
         "https://tv-trtavaz.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YCPZsdEDhEaJOB",
+    "name": "TRT Cocuk",
+    "sources": {
+      "streams": [
+        "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
       ]
     },
     "languages": [

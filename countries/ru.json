@@ -130,20 +130,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mAl50UnEXvw3NE",
-    "name": "Afontovo",
-    "sources": {
-      "streams": [
-        "https://stream.afontovo.ru/hd.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hCnlUCWzC85Pyo",
     "name": "AIST TV",
     "sources": {
@@ -503,9 +489,9 @@
     "name": "Channel One",
     "sources": {
       "streams": [
-        "https://45.153.24.78/1TV/index.m3u8",
         "https://178.217.49.7/1/index.m3u8",
-        "https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8"
+        "https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8",
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8"
       ]
     },
     "languages": [
@@ -977,7 +963,8 @@
     "name": "Hope Channel Russia",
     "sources": {
       "streams": [
-        "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+        "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+        "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1149,7 +1136,8 @@
     "name": "Kino TV",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/221/index.m3u8"
+        "https://stream.mcquack.net/221/index.m3u8",
+        "https://flussonic.linkintel.ru/kino-tv/index.m3u8"
       ]
     },
     "languages": [
@@ -1306,8 +1294,7 @@
     "name": "Kongress TV",
     "sources": {
       "streams": [
-        "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8",
-        "https://live-3.otcnet.ru/congresstv/index.m3u8"
+        "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8"
       ]
     },
     "languages": [
@@ -1461,7 +1448,8 @@
     "name": "Mama",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/79/index.m3u8"
+        "https://stream.mcquack.net/79/index.m3u8",
+        "https://flussonic.linkintel.ru/mama/index.m3u8"
       ]
     },
     "languages": [
@@ -2032,20 +2020,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZKYBGybJlsgcz0",
-    "name": "NTS",
-    "sources": {
-      "streams": [
-        "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "r7CIzrnkl8uDaW",
     "name": "NTV",
     "sources": {
@@ -2155,20 +2129,6 @@
     "sources": {
       "streams": [
         "https://stream.mcquack.net/491/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MN7RONR6RbtuUw",
-    "name": "Okko Prajm Sport",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/493/index.m3u8"
       ]
     },
     "languages": [
@@ -2308,6 +2268,7 @@
     "name": "Pobeda",
     "sources": {
       "streams": [
+        "https://94.155.93.182/POBEDA_HD/index.m3u8",
         "https://streaming.thestream.cyou/live/43.m3u8"
       ]
     },
@@ -3134,8 +3095,8 @@
     "sources": {
       "streams": [
         "https://stream.mcquack.net/138/index.m3u8",
-        "https://tshift-1.telecoma.tv/sts/index.m3u8",
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
+        "https://flussonic.linkintel.ru/sts/index.m3u8",
+        "https://tshift-1.telecoma.tv/sts/index.m3u8"
       ]
     },
     "languages": [
@@ -3350,6 +3311,7 @@
     "name": "TNT4",
     "sources": {
       "streams": [
+        "https://flussonic.linkintel.ru/tnt4/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8"
       ]
     },
@@ -3543,20 +3505,6 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "HLEoRKBCS06HUI",
-    "name": "Ugra-TV",
-    "sources": {
-      "streams": [
-        "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "wDy5L6UWLImGOC",
